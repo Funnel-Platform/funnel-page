@@ -13,8 +13,8 @@ export default defineNuxtPlugin((nuxtApp) => {
   if (import.meta.dev) {
     // Perform replacements for page <title> tags.
     const setDynamicTitle = () => {
-      if (typeof window !== 'undefined') {
-        let title = document.title
+      if (typeof window !== "undefined") {
+        let title = document.title;
         title = title.replace(/{SITE_DOMAIN}/g, siteDomain);
         title = title.replace(/{SITE_NAME}/g, siteName);
         useHead({
@@ -29,7 +29,7 @@ export default defineNuxtPlugin((nuxtApp) => {
 
     // `msr` stands for "Multi Site Replacements"
     // Perform replacements for page content, utilizing global $msr() function.
-    nuxtApp.provide('msr', (content) => {
+    nuxtApp.provide("msr", (content) => {
       return content
         .replace(/{SITE_DOMAIN}/g, siteDomain)
         .replace(/{SITE_NAME}/g, siteName);
