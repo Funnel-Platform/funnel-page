@@ -1,7 +1,7 @@
 <template>
   <div class="container text-center py-10">
     <h1>
-      Site domain (updated): {{ SITE_DOMAIN }}<br />
+      Site domain (deployed){{ SITE_DOMAIN }}<br />
       Site name: {{ SITE_NAME }}
     </h1>
   </div>
