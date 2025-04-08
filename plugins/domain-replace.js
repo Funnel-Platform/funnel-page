@@ -10,29 +10,27 @@ export default defineNuxtPlugin((nuxtApp) => {
   const siteDomain = config.public.siteDomain;
   const siteName = config.public.siteName;
 
-  if (import.meta.dev) {
-    // Perform replacements for page <title> tags.
-    const setDynamicTitle = () => {
-      if (typeof window !== "undefined") {
-        let title = document.title;
-        title = title.replace(/{SITE_DOMAIN}/g, siteDomain);
-        title = title.replace(/{SITE_NAME}/g, siteName);
-        useHead({
-          title,
-        });
-      }
-    };
+  // Perform replacements for page <title> tags.
+  const setDynamicTitle = () => {
+    if (typeof window !== "undefined") {
+      let title = document.title;
+      title = title.replace(/{SITE_DOMAIN}/g, siteDomain);
+      title = title.replace(/{SITE_NAME}/g, siteName);
+      useHead({
+        title,
+      });
+    }
+  };
 
-    setTimeout(() => {
-      setDynamicTitle();
-    }, 250);
+  setTimeout(() => {
+    setDynamicTitle();
+  }, 250);
 
-    // `msr` stands for "Multi Site Replacements"
-    // Perform replacements for page content, utilizing global $msr() function.
-    nuxtApp.provide("msr", (content) => {
-      return content
-        .replace(/{SITE_DOMAIN}/g, siteDomain)
-        .replace(/{SITE_NAME}/g, siteName);
-    });
-  }
+  // `msr` stands for "Multi Site Replacements"
+  // Perform replacements for page content, utilizing global $msr() function.
+  nuxtApp.provide("msr", (content) => {
+    return content
+      .replace(/{SITE_DOMAIN}/g, siteDomain)
+      .replace(/{SITE_NAME}/g, siteName);
+  });
 });
