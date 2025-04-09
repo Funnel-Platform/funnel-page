@@ -1,0 +1,33 @@
+name: Sync main to all site* branches
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync-branches:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Push to all site* branches
+        run: |
+          # Get all remote branches that start with "site"
+          git ls-remote --heads origin \
+            | awk '{print $2}' \
+            | sed 's#refs/heads/##' \
+            | grep '^site' \
+            | while read BRANCH; do
+                echo "Pushing to $BRANCH..."
+                git push origin main:$BRANCH --force
+              done
