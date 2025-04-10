@@ -5,6 +5,7 @@
       }}<br />
       Site name: {{ SITE_NAME }}
     </h1>
+    <h2>New Section on all sites</h2>
   </div>
 </template>
 
