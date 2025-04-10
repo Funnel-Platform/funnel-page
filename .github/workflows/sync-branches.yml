@@ -41,26 +41,36 @@ jobs:
               echo "✅ Rebase successful for $BRANCH"
               git push origin $BRANCH --force-with-lease
             else
-              echo "❌ Conflict during rebase of $BRANCH. Creating conflict branch & PR..."
+              echo "❌ Conflict during rebase of $BRANCH. Creating conflict branch..."
 
               git rebase --abort
               CONFLICT_BRANCH="conflict/${BRANCH}-${DATE}"
               git checkout -b "$CONFLICT_BRANCH"
 
-              # Attempt merge to capture the conflict
+              # Merge main into conflict branch
               git merge origin/main || true
 
-              # Add conflicted state and commit so PR can be created
-              git add -A
-              git commit -m "Conflict during rebase of $BRANCH with main — manual resolution required"
+              # Check if there are real changes
+              TARGET_BRANCH="$BRANCH"
+              git fetch origin "$TARGET_BRANCH"
+              git checkout "$TARGET_BRANCH"
+              git merge --no-commit --no-ff "$CONFLICT_BRANCH"
 
-              git push origin "$CONFLICT_BRANCH"
+              if git diff --quiet && git diff --cached --quiet; then
+                echo "✅ No actual changes in $CONFLICT_BRANCH. Auto-merging into $TARGET_BRANCH..."
+                git commit -m "Auto-merged clean conflict branch $CONFLICT_BRANCH into $TARGET_BRANCH"
+                git push origin "$TARGET_BRANCH"
+                echo "✅ Auto-merge complete for $TARGET_BRANCH"
+              else
+                echo "⚠️ Changes found in $CONFLICT_BRANCH. Pushing and creating PR..."
+                git checkout "$CONFLICT_BRANCH"
+                git push origin "$CONFLICT_BRANCH"
 
-              # Create pull request for manual resolution
-              gh pr create \
-                --title "Conflict: Rebase of $BRANCH with main" \
-                --body "This branch contains merge conflicts that need to be resolved manually." \
-                --head "$CONFLICT_BRANCH" \
-                --base "$BRANCH"
+                gh pr create \
+                  --title "Conflict: Rebase of $BRANCH with main" \
+                  --body "This branch contains merge conflicts that need to be resolved manually." \
+                  --head "$CONFLICT_BRANCH" \
+                  --base "$BRANCH"
+              fi
             fi
           done
