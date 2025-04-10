@@ -50,10 +50,10 @@ jobs:
               # Merge main into conflict branch
               git merge origin/main || true
 
-              # Check if there are real changes by comparing diffs
-              git diff --quiet || CHANGES=true
+              # Check if a merge commit has been created (i.e., actual changes)
+              git log -1 --pretty=%B | grep -q "Merge branch 'main'" && MERGE_COMMIT=true || MERGE_COMMIT=false
 
-              if [ "$CHANGES" != "true" ]; then
+              if [ "$MERGE_COMMIT" == "false" ]; then
                 echo "✅ No actual changes in $CONFLICT_BRANCH. Auto-merging into $BRANCH..."
                 git commit -m "Auto-merged clean conflict branch $CONFLICT_BRANCH into $BRANCH"
                 git push origin "$BRANCH"
