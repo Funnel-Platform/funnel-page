@@ -1,7 +1,7 @@
 <template>
   <div class="container text-center py-10">
     <h1>
-      Specific change on site3 - Site domain: {{ SITE_DOMAIN }}<br />
+      Site domain: {{ SITE_DOMAIN }}<br />
       Site name: {{ SITE_NAME }}
     </h1>
     <h2>New Section on all sites</h2>
