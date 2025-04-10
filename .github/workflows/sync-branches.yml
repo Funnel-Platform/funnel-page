@@ -29,7 +29,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           SITE_BRANCHES=$(git ls-remote --heads origin | awk '{print $2}' | sed 's#refs/heads/##' | grep '^site')
-          DATE=$(date +%Y%m%d)
+          DATE_STR=$(date +'%Y%m%d%H%M%S')
 
           for BRANCH in $SITE_BRANCHES; do
             echo "🔁 Attempting to rebase $BRANCH onto main..."
@@ -41,33 +41,31 @@ jobs:
               echo "✅ Rebase successful for $BRANCH"
               git push origin $BRANCH --force-with-lease
             else
-              echo "❌ Conflict during rebase of $BRANCH. Creating conflict branch..."
+              echo "❌ Conflict during rebase of $BRANCH. Creating conflict branch & PR..."
 
               git rebase --abort
-              CONFLICT_BRANCH="conflict/${BRANCH}-${DATE}"
+              CONFLICT_BRANCH="conflict/${BRANCH}-${DATE_STR}"
               git checkout -b "$CONFLICT_BRANCH"
 
-              # Merge main into conflict branch
+              # Attempt merge to capture the conflict
               git merge origin/main || true
 
-              # Check if there are any new commits in the conflict branch
-              NEW_COMMIT=$(git log --oneline origin/$BRANCH..HEAD | wc -l)
+              # Stage all resolved conflicts if needed
+              git add -A
 
-              if [ "$NEW_COMMIT" -eq 0 ]; then
-                # No new commit detected, skip pushing
-                echo "✅ No actual changes in $CONFLICT_BRANCH. Skipping PR creation."
-                git checkout "$BRANCH"
-                continue
-              else
-                # If there are new commits (changes), push and create a PR
-                echo "⚠️ Changes found in $CONFLICT_BRANCH. Pushing and creating PR..."
-                git push origin "$CONFLICT_BRANCH"
-
-                gh pr create \
-                  --title "Conflict: Rebase of $BRANCH with main" \
-                  --body "This branch contains merge conflicts that need to be resolved manually." \
-                  --head "$CONFLICT_BRANCH" \
-                  --base "$BRANCH"
+              # Commit if there are any changes
+              if ! git diff --cached --quiet; then
+                git commit -m "Conflict branch for $BRANCH"
               fi
+
+              # Push the conflict branch with a unique name
+              git push origin "$CONFLICT_BRANCH"
+
+              # Create pull request for manual resolution
+              gh pr create \
+                --title "Conflict: Rebase of $BRANCH with main" \
+                --body "This branch contains merge conflicts that need to be resolved manually." \
+                --head "$CONFLICT_BRANCH" \
+                --base "$BRANCH"
             fi
           done
