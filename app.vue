@@ -1,7 +1,8 @@
 <template>
   <div class="container text-center py-10">
     <h1>
-      Global change - Site domain: {{ SITE_DOMAIN }}<br />
+      Anada change that might break things - Site domain: {{ SITE_DOMAIN
+      }}<br />
       Site name: {{ SITE_NAME }}
     </h1>
   </div>
