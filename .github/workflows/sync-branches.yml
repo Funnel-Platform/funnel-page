@@ -46,13 +46,21 @@ jobs:
               git rebase --abort
               CONFLICT_BRANCH="conflict/${BRANCH}-${DATE}"
               git checkout -b "$CONFLICT_BRANCH"
-              git merge origin/main || true  # keep going even if merge conflicts
+
+              # Attempt merge to capture the conflict
+              git merge origin/main || true
+
+              # Add conflicted state and commit so PR can be created
+              git add -A
+              git commit -m "Conflict during rebase of $BRANCH with main — manual resolution required"
+
               git push origin "$CONFLICT_BRANCH"
 
+              # Create pull request for manual resolution
               gh pr create \
-                --base "$BRANCH" \
+                --title "Conflict: Rebase of $BRANCH with main" \
+                --body "This branch contains merge conflicts that need to be resolved manually." \
                 --head "$CONFLICT_BRANCH" \
-                --title "🚨 Conflict: Rebase $BRANCH onto main" \
-                --body "This PR was auto-generated because rebasing \`$BRANCH\` onto \`main\` resulted in a conflict. Please resolve manually, then merge to update the branch."
+                --base "$BRANCH"
             fi
           done
