@@ -46,6 +46,7 @@ jobs:
               git rebase --abort
               CONFLICT_BRANCH="conflict/${BRANCH}-${DATE}"
               git checkout -b "$CONFLICT_BRANCH"
+              git merge origin/main || true  # keep going even if merge conflicts
               git push origin "$CONFLICT_BRANCH"
 
               gh pr create \
