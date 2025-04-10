@@ -26,7 +26,7 @@ jobs:
 
       - name: Rebase site branches onto main with auto-conflict PR
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           SITE_BRANCHES=$(git ls-remote --heads origin | awk '{print $2}' | sed 's#refs/heads/##' | grep '^site')
           DATE=$(date +%Y%m%d)
