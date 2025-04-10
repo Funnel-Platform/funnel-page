@@ -50,17 +50,14 @@ jobs:
               # Merge main into conflict branch
               git merge origin/main || true
 
-              # Check if there are real changes
-              TARGET_BRANCH="$BRANCH"
-              git fetch origin "$TARGET_BRANCH"
-              git checkout "$TARGET_BRANCH"
-              git merge --no-commit --no-ff "$CONFLICT_BRANCH"
+              # Check if there are real changes by comparing diffs
+              git diff --quiet || CHANGES=true
 
-              if git diff --quiet && git diff --cached --quiet; then
-                echo "✅ No actual changes in $CONFLICT_BRANCH. Auto-merging into $TARGET_BRANCH..."
-                git commit -m "Auto-merged clean conflict branch $CONFLICT_BRANCH into $TARGET_BRANCH"
-                git push origin "$TARGET_BRANCH"
-                echo "✅ Auto-merge complete for $TARGET_BRANCH"
+              if [ "$CHANGES" != "true" ]; then
+                echo "✅ No actual changes in $CONFLICT_BRANCH. Auto-merging into $BRANCH..."
+                git commit -m "Auto-merged clean conflict branch $CONFLICT_BRANCH into $BRANCH"
+                git push origin "$BRANCH"
+                echo "✅ Auto-merge complete for $BRANCH"
               else
                 echo "⚠️ Changes found in $CONFLICT_BRANCH. Pushing and creating PR..."
                 git checkout "$CONFLICT_BRANCH"
