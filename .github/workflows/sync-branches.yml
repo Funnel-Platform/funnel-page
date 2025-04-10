@@ -50,17 +50,17 @@ jobs:
               # Merge main into conflict branch
               git merge origin/main || true
 
-              # Check if a merge commit has been created (i.e., actual changes)
-              git log -1 --pretty=%B | grep -q "Merge branch 'main'" && MERGE_COMMIT=true || MERGE_COMMIT=false
+              # Check if there are any new commits in the conflict branch
+              NEW_COMMIT=$(git log --oneline origin/$BRANCH..HEAD | wc -l)
 
-              if [ "$MERGE_COMMIT" == "false" ]; then
-                echo "✅ No actual changes in $CONFLICT_BRANCH. Auto-merging into $BRANCH..."
-                git commit -m "Auto-merged clean conflict branch $CONFLICT_BRANCH into $BRANCH"
-                git push origin "$BRANCH"
-                echo "✅ Auto-merge complete for $BRANCH"
+              if [ "$NEW_COMMIT" -eq 0 ]; then
+                # No new commit detected, skip pushing
+                echo "✅ No actual changes in $CONFLICT_BRANCH. Skipping PR creation."
+                git checkout "$BRANCH"
+                continue
               else
+                # If there are new commits (changes), push and create a PR
                 echo "⚠️ Changes found in $CONFLICT_BRANCH. Pushing and creating PR..."
-                git checkout "$CONFLICT_BRANCH"
                 git push origin "$CONFLICT_BRANCH"
 
                 gh pr create \
