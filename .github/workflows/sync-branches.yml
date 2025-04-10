@@ -1,4 +1,4 @@
-name: Sync main to all site* branches
+name: Rebase site branches onto main
 
 on:
   push:
@@ -6,28 +6,55 @@ on:
       - main
 
 jobs:
-  sync-branches:
+  rebase-sites:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+      pull-requests: write
+
     steps:
-      - name: Checkout main
+      - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # Required for full branch history
 
-      - name: Configure Git
+      - name: Set up Git
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Push to all site* branches
+      - name: Install GitHub CLI
+        uses: cli/cli-action@v2
+
+      - name: Rebase site branches onto main with auto-conflict PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Get all remote branches that start with "site"
-          git ls-remote --heads origin \
-            | awk '{print $2}' \
-            | sed 's#refs/heads/##' \
-            | grep '^site' \
-            | while read BRANCH; do
-                echo "Pushing to $BRANCH..."
-                git push origin main:$BRANCH --force
-              done
+          SITE_BRANCHES=$(git ls-remote --heads origin | awk '{print $2}' | sed 's#refs/heads/##' | grep '^site')
+          DATE=$(date +%Y%m%d)
+
+          for BRANCH in $SITE_BRANCHES; do
+            echo "🔁 Attempting to rebase $BRANCH onto main..."
+
+            git fetch origin $BRANCH
+            git checkout -B $BRANCH origin/$BRANCH
+
+            if git rebase origin/main; then
+              echo "✅ Rebase successful for $BRANCH"
+              git push origin $BRANCH --force-with-lease
+            else
+              echo "❌ Conflict during rebase of $BRANCH. Creating conflict branch & PR..."
+
+              git rebase --abort
+              CONFLICT_BRANCH="conflict/${BRANCH}-${DATE}"
+              git checkout -b "$CONFLICT_BRANCH"
+              git push origin "$CONFLICT_BRANCH"
+
+              gh pr create \
+                --base "$BRANCH" \
+                --head "$CONFLICT_BRANCH" \
+                --title "🚨 Conflict: Rebase $BRANCH onto main" \
+                --body "This PR was auto-generated because rebasing \`$BRANCH\` onto \`main\` resulted in a conflict. Please resolve manually, then merge to update the branch."
+            fi
+          done
