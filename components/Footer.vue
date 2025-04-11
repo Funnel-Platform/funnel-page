@@ -1,1 +1,1 @@
-<template>This is the footer</template>
+<template>This is the footer (updated footer)</template>
