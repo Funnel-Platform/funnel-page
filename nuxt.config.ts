@@ -8,7 +8,6 @@ export default defineNuxtConfig({
   css: ["@/assets/scss/main.scss"],
   runtimeConfig: {
     public: {
-      siteDomain: process.env.NUXT_ENV_SITE_DOMAIN || "example.com",
       siteName: process.env.NUXT_ENV_SITE_NAME || "Site Name",
     },
   },
