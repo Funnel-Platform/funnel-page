@@ -4,10 +4,8 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   ssr: true,
   nitro: {
-    preset: "cloudflare_module",
-    cloudflare: {
-      deployConfig: true,
-      nodeCompat: true
+    prerender: {
+      autoSubfolderIndex: false
     }
   },
   css: ["@/assets/scss/main.scss"],
