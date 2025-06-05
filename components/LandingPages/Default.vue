@@ -88,11 +88,11 @@
             >
               <img
                 class="w-16 mx-auto mb-2"
-                :src="`/img/home.v2/${$rt(item.icon)}.svg`"
+                :src="`/img/home.v2/${$rt(item?.icon)}.svg`"
               >
               <p
                 class="text-neutral-300"
-                v-html="$rt(item.text)"
+                v-html="$rt(item?.text)"
               />
             </div>
           </div>
@@ -122,15 +122,15 @@
             <div class="-mt-10 bg-white inline-block p-2">
               <img
                 class="w-16 mx-auto mb-2"
-                :src="`/img/home.v2/${$rt(item.icon)}.svg`"
+                :src="`/img/home.v2/${$rt(item?.icon)}.svg`"
               >
             </div>
             <div class="px-6">
               <p
                 class="text-4xl pb-0"
-                v-html="$rt(item.heading)"
+                v-html="$rt(item?.heading)"
               />
-              <p v-html="$rt(item.text)" />
+              <p v-html="$rt(item?.text)" />
             </div>
           </div>
         </div>
@@ -191,17 +191,17 @@
             <div class="-mt-10 bg-white inline-block p-2">
               <img
                 class="w-16 mx-auto mb-2"
-                :src="`/img/home.v2/${$rt(item.icon)}.svg`"
+                :src="`/img/home.v2/${$rt(item?.icon)}.svg`"
               >
             </div>
             <div class="px-6">
               <p
                 class="text-2xl font-medium"
-                v-html="$rt(item.heading)"
+                v-html="$rt(item?.heading)"
               />
               <p
                 class="pb-6"
-                v-html="$rt(item.text)"
+                v-html="$rt(item?.text)"
               />
             </div>
             <a
@@ -234,15 +234,15 @@
             >
               <img
                 class="w-16 mx-auto mb-2"
-                :src="`/img/home.v2/${$rt(item.icon)}.svg`"
+                :src="`/img/home.v2/${$rt(item?.icon)}.svg`"
               >
               <p
                 class="text-white text-lg font-medium pb-2"
-                v-html="$rt(item.heading)"
+                v-html="$rt(item?.heading)"
               />
               <p
                 class="text-neutral-300"
-                v-html="$rt(item.text)"
+                v-html="$rt(item?.text)"
               />
             </div>
           </div>

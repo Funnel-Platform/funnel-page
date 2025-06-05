@@ -30,7 +30,7 @@
   },
   "components": {
     "attention-banner": {
-      "label": "ATTENZIONE: domanda mediatica molto elevata, registrazione in avvicinamento{time}"
+      "label": "ATTENZIONE: domanda mediatica molto elevata, registrazione in avvicinamento{time}"
     },
     "logo-header": {
       "available-to-traders": "Ora disponibile in<br />{usersCountry}"
@@ -38,7 +38,7 @@
     "splash": {
       "video-id": "319904948",
       "header": "Crea il tuo <span class=\"hidden sm:inline\">{siteName}</span> Account <span class=\"hidden sm:inline\">Oggi</span>",
-      "sub-header": "E puoi raggiungere la tua <span class=\"text-yellow-300\">libertà finanziaria...</span>",
+      "sub-header": "E puoi raggiungere la tua <span class=\"text-yellow-300\">libertà finanziaria...</span>",
       "points": {
         "p-1": "Gestore account personale gratuito",
         "p-2": "Nessuna esperienza di trading richiesta",
@@ -144,7 +144,7 @@
         "2": {
           "icon": "brstep2-icon",
           "title": "Ricarica il tuo conto",
-          "text": "Conosciamo tutti il ​​detto \"i soldi fanno soldi\" - e la realtà è che purtroppo questa frase è molto vera! Come ogni attività, hai bisogno di capitale circolante per iniziare. Ti suggeriamo di depositare {currencySymbol}250 nel tuo conto."
+          "text": "Conosciamo tutti il detto \"i soldi fanno soldi\" - e la realtà è che purtroppo questa frase è molto vera! Come ogni attività, hai bisogno di capitale circolante per iniziare. Ti suggeriamo di depositare {currencySymbol}250 nel tuo conto."
         },
         "3": {
           "icon": "brstep3-icon",
@@ -189,7 +189,7 @@
       },
       "bill": {
         "by-line": "Magnate degli affari, investitore, autore, filantropo e umanitario",
-        "bio": "So per certo che Elon ha speso 3 miliardi di dollari dei suoi soldi per finanziare questo programma. Tanto di cappello a lui per questo – sono 3 miliardi di dollari dei suoi soldi per finanziare un futuro migliore per tutti e per aiutare gli altri realizzare profitti che lo aiuteranno a farlo! È vantaggioso per tutti e sono molto entusiasta di vedere dove andrà a finire"
+        "bio": "So per certo che Elon ha speso 3 miliardi di dollari dei suoi soldi per finanziare questo programma. Tanto di cappello a lui per questo - sono 3 miliardi di dollari dei suoi soldi per finanziare un futuro migliore per tutti e per aiutare gli altri realizzare profitti che lo aiuteranno a farlo! È vantaggioso per tutti e sono molto entusiasta di vedere dove andrà a finire"
       }
     },
     "lower-cta": {
@@ -231,7 +231,7 @@
           },
           {
             "icon": "stock",
-            "text": "Tecnologie di trading proprietarie progettate per darti il ​​vantaggio di cui hai bisogno."
+            "text": "Tecnologie di trading proprietarie progettate per darti il vantaggio di cui hai bisogno."
           }
         ]
       },
@@ -285,7 +285,7 @@
         "points": [
           {
             "icon": "trade",
-            "intestazione": "Decisioni",
+            "heading": "Decisioni",
             "text": "Professionisti qualificati con una reale esperienza di trading su più piattaforme."
           },
           {
@@ -295,17 +295,17 @@
           },
           {
             "icon": "annual-calendar-page",
-            "intestazione": "Prenota ora",
+            "heading": "Prenota ora",
             "text": "Registrati oggi e prenota la tua consulenza individuale in pochi minuti."
           },
           {
             "icon": "shrink",
-            "intestazione": "Direzione",
+            "heading": "Direzione",
             "text": "I nostri esperti ti indicheranno la giusta direzione e ti guideranno lungo la strada del successo."
           },
           {
             "icon": "insight",
-            "intestazione": "Supporto",
+            "heading": "Supporto",
             "text": "Il tuo account manager personale ti assisterà durante l'intero processo."
           }
         ]
@@ -333,7 +333,7 @@
         },
         "question-3": {
           "label": "Domanda 3: Investimento di capitale",
-          "p-1": "Conosciamo tutti il ​​detto <i>\"i soldi fanno soldi\"</i> - e la realtà è che questa frase è purtroppo molto vera!",
+          "p-1": "Conosciamo tutti il detto <i>\"i soldi fanno soldi\"</i> - e la realtà è che questa frase è purtroppo molto vera!",
           "p-2": "Ciò che la gente non ti dice è che, se riesci a moltiplicare i tuoi profitti in un breve periodo di tempo, un po' di denaro può trasformarsi in molto denaro molto rapidamente!",
           "p-3": "Seleziona la quantità di denaro che sei disposto a investire.",
           "placeholder": "Seleziona"
@@ -372,12 +372,12 @@
     },
     "welcome_two_step": {
       "step-1": {
-        "title": "Account in attesa... Passaggio finale...",
-        "p-1": "Fai clic su questo pulsante verde per verificare e attivare.",
+        "title": "Account in attesa... Passaggio finale...",
+        "p-1": "Fai clic su questo pulsante verde per verificare e attivare.",
         "button": "Fai clic qui per verificare ora"
       },
       "step-2": {
-        "title": "Account verificato... Informazioni importanti!!",
+        "title": "Account verificato... Informazioni importanti!!",
         "sub-title": "DEVI LEGGERE ORA."
       }
     },
@@ -388,7 +388,7 @@
       "p-1": "Purtroppo il nostro ufficio è ora chiuso, il tuo account manager personale <u>ti chiamerà la mattina</u> o al più tardi prima della chiusura del giorno lavorativo successivo.",
       "p-2": "Il tuo account rimarrà in sospeso fino a quando non sarai verificato.",
       "p-3": "<u>Gli account non verificati entro 24 ore (dal lunedì al venerdì) verranno eliminati</u> e il prossimo posizionamento disponibile verrà assegnato all'account successivo in coda.",
-      "p-4": "Gli account creati durante il fine settimana verranno verificati il ​​lunedì."
+      "p-4": "Gli account creati durante il fine settimana verranno verificati il lunedì."
     },
     "privacy": {
       "title": "Informativa sulla privacy",
