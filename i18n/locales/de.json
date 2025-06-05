@@ -1,0 +1,415 @@
+{
+  "meta": {
+    "title": "{siteName} ™ // ECHTER Beamter DOT {siteTLD} [2025] ©",
+    "description": "Registrieren Sie sich bei ECHTER Beamter DOT {siteTLD} – alle anderen Websites sind FÄLSCHUNGEN. {siteName} ist eine Handelsplattform, die KI verwendet, um Marktbewegungen vorherzusagen und daraus Kapital zu schlagen."
+  },
+  "landing-pages": {
+    "variant-a": {
+      "create-account": "Ihr gratis Konto erstellen",
+      "points": {
+        "p-1": "Kostenloser persönlicher Account-Manager",
+        "p-2": "Keine Handelserfahrung erforderlich",
+        "p-3": "Beginnen Sie in 15 Minuten",
+        "p-1-alt-1": "Persönlicher Kontomanager, lizenziert von der kanadischen Investment-Regulierungsorganisation (CIRO)",
+        "p-2-alt-1": "Kostenloser Zugang für alle kanadischen Einwohner, einfach Identität im Willkommensgespräch verifizieren",
+        "p-3-alt-1": "Verdienen Sie in weniger als 15 Minuten Geld",
+        "p-1-alt-2": "Kostenlos für alle deutschen Staatsbürger",
+        "p-2-alt-2": "Kostenloser von Elon Musk genehmigter persönlicher Account-Manager",
+        "p-3-alt-2": "Garantierte Kapitalrendite in wenigen Minuten"
+      },
+      "steps": "Schritt {step} von 2",
+      "right_column": {
+        "title-alt-1": "Intelligentes Investieren, das die Zukunft der kanadischen Arbeiterklasse sichert",
+        "sub-title-alt-1": "Mark Carney, Premierminister von Kanada",
+        "content-alt-1": "{siteName} ist eine App, die wir für ein Land der Macher entwickelt haben. Diese Initiative wird die Wohlstandskluft zwischen den Superreichen und der Arbeiterklasse Kanadas schließen, indem sie gewöhnlichen Kanadiern ermöglicht, ihr Gehalt fast über Nacht zu verdoppeln oder sogar zu verdreifachen. Wir sind stolz darauf, bekannt zu geben, dass die Bundesregierung alle Einlagen kanadischer Einwohner versichert hat, sodass Ihre Gelder sicher sind. {siteName} wird die Armut in unserem Land beseitigen und eine starke kanadische Mittelschicht wiederherstellen, in der jeder Kanadier ein Eigenheim besitzen und in den Ruhestand gehen kann, bevor er alt wird. Ich rufe alle Kanadier dazu auf, diese Initiative zu nutzen, die wir geschaffen haben, um unser großartiges Land zu vereinen.",
+        "title-alt-2": "Smarte Investitionen, das die Arbeiterklasse über Nacht zu Millionären macht",
+        "sub-title-alt-2": "Elon Musk, Gründer und CEO von {siteName}",
+        "content-alt-2": "{siteName} ist mein Lebenswerk. Ich habe die Plattform mit einem einfachen Ziel entwickelt: die Vermögenslücke zwischen den Superreichen und den Armen zu schließen. Ich bin stolz, sagen zu können, dass dies mein bisher größter Erfolg ist. Kommen Sie und überzeugen Sie sich selbst, ohne Risiko, denn ich garantiere alle Einzahlungen mit meinem eigenen Geld."
+      },
+      "alt-2": {
+        "create-account": "ACHTUNG!",
+        "points": {
+          "p-1": "Sie haben Ihre Registrierung noch nicht abgeschlossen. Ihr Profit kann ihnen nicht gutgeschrieben werden.",
+          "p-2": "Bitte füllen Sie das Formular noch einmal aus und sprechen Sie mit ihrem zertifizierten Experten.",
+          "p-3": "Ihr Profit wird für die nächsten 60 Minuten reserviert."
+        },
+        "steps": "Schritt {step} von 2"
+      }
+    }
+  },
+  "components": {
+    "attention-banner": {
+      "label": "ACHTUNG: Sehr hohe Mediennachfrage, Anmeldeschluss in {time}"
+    },
+    "logo-header": {
+      "available-to-traders": "Jetzt erhältlich in<br />{usersCountry}"
+    },
+    "splash": {
+      "video-id": "328987304",
+      "header": "Erstellen Sie Ihr <span class=\"hidden sm:inline\">{siteName}</span>-Konto <span class=\"hidden sm:inline\">heute</span>",
+      "sub-header": "Und Sie können Ihre finanzielle <span class=\"text-yellow-300\">Freiheit&nbsp;erreichen ...</span>",
+      "points": {
+        "p-1": "Kostenloser persönlicher Account-Manager",
+        "p-2": "Keine Handelserfahrung erforderlich",
+        "p-3": "Beginnen Sie in 15 Minuten"
+      },
+      "step-1": {
+        "line-1": "Begrenzte Verfügbarkeit",
+        "line-2": "Konten Verbleiben!"
+      },
+      "step-2": "Schritt 2 von 2 - Kontoaktivierung!"
+    },
+    "form-capture": {
+      "first_name": "Vorname",
+      "last_name": "Nachname",
+      "email": "Email",
+      "phone_number": "Telefonnummer",
+      "button": {
+        "step-1": "Starten Sie jetzt",
+        "step-2": "Konto aktivieren"
+      }
+    },
+    "intro-text": {
+      "header": "Beginnen Sie mit {siteName} Geld zu verdienen",
+      "body-1": "{siteName} ist ein exklusives Programm mit Zugang zu proprietärer Technologie, das unserer begrenzten Gruppe von Mitgliedern einen beispiellosen Wettbewerbsvorteil verschafft, um in aller Ruhe riesige Vermögen anzuhäufen. Es sind nur grundlegende Schreibkenntnisse erforderlich. Beginnen Sie noch heute und Sie werden zusehen können, wie das Geld Minute für Minute langsam auf Ihr Konto fließt!",
+      "body-2": "Stellen Sie sicher, dass Sie sich auf der offiziellen REAL-Website registrieren, überprüfen Sie die Website-Adresse oben, um sicherzustellen, dass sie \"{siteDomain}\" lautet. Nur dot.{siteTLD} ohne zusätzliche Wörter oder Bindestriche in der Adresse."
+    },
+    "as-seen-on": "Wie bei den",
+    "testimonials": {
+      "header": {
+        "line-1": "ECHTE REZENSIONEN UNSERER",
+        "line-2": "ANWENDER"
+      },
+      "profit": "Gewinn",
+      "testimonials": {
+        "1": {
+          "image": "default1.jpg",
+          "name": "James B",
+          "location": "Amsterdam",
+          "profit": 13853,
+          "text": "Ich bin seit gerade einmal 47 Tagen Mitgtlied der Bitcoin-Lifestyle. Aber mein Leben hat sich schon verändert! Ich habe nicht nur meine ersten 10.000 Euro gemacht, sondern auch einige der unglaublichsten Leute getroffen. Und das Dank der {siteName}!"
+        },
+        "2": {
+          "image": "default2.jpg",
+          "name": "Stacey J",
+          "location": "Frankfurt",
+          "profit": 9126,
+          "text": "Ich weiß endlich, wie es ist, einen Traum zu leben. Ich habe nicht mehr das Gefühl, dass ich von außen nach innen schaue, während die anderen den ganzen Spaß haben. Die Bitcoin-Lifestyle hat es mir ermöglicht, mich vorzeitig zurückzuziehen und den 1% Lebensstil zu leben"
+        },
+        "3": {
+          "image": "default3.jpg",
+          "name": "Anton L",
+          "location": "Paris",
+          "profit": 43300,
+          "text": "Überraschenderweise war ich mal ein Investor an der Wall Street. Und so etwas habe ich in meiner 10-jährigen Betriebszugehörigkeit noch nie gesehen. Meine Kollegen hielten mich alle für verrückt, als ich die Firma verließ, um mit der {siteName} Software Vollzeit zu gehen. 38.459 Euro Gewinn später, sind alle meine Kollegen mich am ANFLEHEN, Sie hereinzulassen"
+        },
+        "4": {
+          "image": "default4.jpg",
+          "name": "Jane M",
+          "location": "Stockholm",
+          "profit": 11463,
+          "text": "Vor zwei Wochen wurde ich entlassen. Ich dachte, mein Leben sei vorbei. Jetzt verdiene ich jeden Tag über 1.261,42 Euro. Und zum ersten Mal seit 2 Monaten ist mein Konto nicht überzogen. Danke , {siteName}!"
+        }
+      }
+    },
+    "reasons": {
+      "1": {
+        "icon": "brtarget-icon",
+        "title": "LASERGENAUE LEISTUNG",
+        "text": "Es gibt keine andere Handlesanwendung auf der Welt, die mit einer Genauigkeit von 99,4% arbeitet, die die {siteName} erreichen kann. Deshalb vertrauen unsere Mitglieder aus der ganzen Welt darauf, dass wir ihr hart verdientes Geld verdoppeln und verviefachen."
+      },
+      "2": {
+        "icon": "brtechnology-icon",
+        "title": "ÜBERLEGENE TECHNOLOGIE",
+        "text": "Die {siteName} Software wurde mit der fortschrittlichsten Programmierung entwickelt, die die Handelswelt je gesehen hat. Die Software ist den Märkten um 0,01 Sekunden voraus. Dieser 'Zeitsprung' macht die Software zur konsistentesten Handelsanwendung der Welt."
+      },
+      "3": {
+        "icon": "braward-icon",
+        "title": "PREISGEKRÖNTE HANDELSAPPLIKATION",
+        "text": "Die {siteName} App wurde mehrfach ausgezeichnet. Die letzte Auszeichnung, die wir erhalten haben, ist die Nummer 1 in der Kategorie Handelssoftware für die UK Trading Association."
+      }
+    },
+    "results-table": {
+      "button": "JETZT BEITRETEN!",
+      "header": "Was macht Quantencomputing so gut für Investitionen?",
+      "p-1": "Dies ist die weltweit erste Quantencomputermaschine; Im Gegensatz zu Ihrem Heim-PC ist dieser Computer intelligent – ​​er trifft Tausende von gleichzeitigen „Entscheidungen“ auf einmal. Dein Gehirn denkt einen Gedanken nach dem anderen, in einer Sequenz. Stellen Sie sich vor, Sie könnten Tausende von Gedanken gleichzeitig haben, jeder so klar wie der andere. Das ist Quantencomputing.",
+      "p-2": "Mit dieser Leistung hilft Ihnen unser Quantencomputer dabei, intelligentere Trades zu tätigen und mehr Geld zu verdienen, als Sie für möglich gehalten haben. Noch besser, es ist so konzipiert, dass Sie Geld verdienen und anderen helfen können, während Sie davon profitieren!",
+      "p-3": "Es findet Trades, indem es jede Nanosekunde, in der die Aktienmärkte aktiv sind, Unterschiede zwischen den Aktienkursen analysiert (und Vorhersagen trifft, selbst wenn die Märkte geschlossen sind, sodass Sie wissen, was wahrscheinlich passieren wird, wenn sie wieder öffnen). Ihr aktueller Computer (und der aller anderen) kann nicht mit der Entscheidungsgeschwindigkeit dieses neuen Systems mithalten.",
+      "p-4": "Melden Sie sich an und gehören Sie zu den wenigen Exklusiven, die diese Technologie nutzen (bevor alle anderen davon Wind bekommen!)"
+    },
+    "partners": {
+      "header": "Partner"
+    },
+    "steps": {
+      "header": "WIE'S FUNKTIONIERT",
+      "button": "KOSTENLOSES KONTO ERSTELLEN",
+      "step": "SCHRITT",
+      "steps": {
+        "1": {
+          "icon": "brstep1-icon",
+          "title": "AUF DER SEITE REGISTRIEREN",
+          "text": "Sobald Ihre Registration akzeptiert wird, werden Sie automatisch das neueste Mitglied der {siteName}. Und Sie erhalten unsere proprietäre bitcoin-Handelssoftware kostenlos."
+        },
+        "2": {
+          "icon": "brstep2-icon",
+          "title": "AUF IHR KONTO EINZAHLEN",
+          "text": "Wie jedes Unternehmen benötigen Sie für den Start ein Betriebskapital. Um mit der {siteName} zu profitieren, müssen Sie einen beliebigen Betrag von {currencySymbol}250 oder mehr investieren."
+        },
+        "3": {
+          "icon": "brstep3-icon",
+          "title": "ABSCHLIESSEN",
+          "text": "Klicken Sie auf Handel, um den präzisen und akkuraten Freihandel mit unserem preisgekrönten Algorithmus zu genießen. Sie können den Handel auch manuell verwalten, wenn Sie es vorziehen, auf eigene Faust zu handeln."
+        }
+      }
+    },
+    "faqs": {
+      "header": "HÄUFIG GESTELLTE FRAGEN",
+      "faqs": {
+        "1": {
+          "title": "Welche Art von Ergebnissen kann ich erwarten?",
+          "text": "{siteName} Mitglieder machen in der Regel {currencySymbol}450 täglich Gewinn."
+        },
+        "2": {
+          "title": "Wie viele Stunden muss ich täglich arbeiten?",
+          "text": "Unsere Mitglieder arbeiten durchschnittlich 20 Minuten pro Tag oder weniger. Da die Software den Handel abwickelt, ist der Aufwand minimal."
+        },
+        "3": {
+          "title": "Was ist der maximale Betrag, den ich verdienen kann?",
+          "text": "Die {siteName} kennt keine Grenzen. Einige Mitglieder verdienten ihre erste Million innerhalb von nur 61 Tagen."
+        },
+        "4": {
+          "title": "Wie viel kostet die Software?",
+          "text": "Mitglieder von der {siteName} erhalten kostenlos eine Kopie unserer proprietären Software. Um ein Mitglied zu werden, füllen Sie einfach das Formular auf dieser Seite aus."
+        },
+        "5": {
+          "title": "Ist es MLM oder Affiliate Marketing ähnlich?",
+          "text": "Es ist nicht wie MLM, Teilnehmer-Marketing oder ähnliches. Die Software gewinnt seine Trades mit einer Genauigkeit von 99,4%."
+        },
+        "6": {
+          "title": "Gibt es Gebühren?",
+          "text": "Es gibt keine versteckten Gebühren. Keine Maklergebühren oder Provisionen. Ihr gesamtes Geld gehört zu 100% Ihnen und Sie können es jederzeit ohne Verzögerung abheben."
+        }
+      }
+    },
+    "advisors": {
+      "jeff": {
+        "by-line": "Technologieunternehmer, Investor und Philanthrop",
+        "bio": "Quantencomputing ist die Zukunft. Ich übertreibe nicht, wenn ich sage, dass es alles verändern wird. Dies sind die frühen Tage des Quantencomputings; nicht viele Leute wissen davon, was bedeutet, dass nur sehr wenige es verwenden. Die wenigen, die es sind, treffen unglaublich weise (und profitable) Entscheidungen."
+      },
+      "bill": {
+        "by-line": "Geschäftsmagnat, Investor, Autor, Philanthrop und Menschenfreund",
+        "bio": "Ich weiß genau, dass Elon 3 Milliarden Dollar seines eigenen Geldes ausgegeben hat, um dieses Programm zu finanzieren. Hut ab dafür – das sind 3 Milliarden Dollar seines eigenen Geldes, um eine bessere Zukunft für alle zu finanzieren und anderen zu helfen, Gewinne zu erzielen, die ihm dabei helfen! Es ist eine Win-Win-Situation und ich bin sehr gespannt, wohin es führt."
+      }
+    },
+    "lower-cta": {
+      "button": "Starten Sie jetzt"
+    },
+    "footer-links": {
+      "home": "Startseite",
+      "privacy-policy": "Datenschutz-Bestimmungen",
+      "cookie-policy": "Cookie-Richtlinie",
+      "gdpr": "Datenschutz der DSGVO"
+    }
+  },
+  "pages": {
+    "homepage": {
+      "button": "Legen Sie noch heute los",
+      "splash": {
+        "heading": "Profitables Trading beginnt mit Wissen",
+        "list": [
+          "Personal Account Manager und Mentor",
+          "Zugriff auf proprietäre Technologie",
+          "Keine Erfahrung erforderlich"
+        ]
+      },
+      "knowledge": {
+        "heading": "Eine Investition in Wissen bringt die besten Zinsen",
+        "p-1": "Erhalten Sie mit unserem Eins-zu-Eins-Mentoring-Programm Zugang zu wahren Krypto-Meistern. Investieren Sie nur 250 £ in Ihr Handelskonto und erhalten Sie Ihren eigenen erfahrenen persönlichen Kundenbetreuer."
+      },
+      "track-record": {
+        "heading": "Nachgewiesene Erfolgsbilanz",
+        "p-1": "Seit die erste Kryptowährung vor 11 Jahren geschaffen wurde, sind wir an der Spitze.",
+        "points": [
+          {
+            "icon": "shield-1",
+            "text": "Qualifizierte Fachleute mit echter Handelserfahrung auf mehreren Plattformen."
+          },
+          {
+            "icon": "crypto",
+            "text": "Seien Sie versichert mit hochmodernen Sicherheitssystemen, die weltweit eingesetzt werden."
+          },
+          {
+            "icon": "stock",
+            "text": "Proprietäre Trading-Technologien, die Ihnen den Vorteil verschaffen, den Sie brauchen."
+          }
+        ]
+      },
+      "global-footprint": {
+        "heading": "Globaler Fußabdruck",
+        "points": [
+          {
+            "icon": "chat-group",
+            "heading": "10+",
+            "text": "Mehrere Sprachen unterstützt"
+          },
+          {
+            "icon": "globe",
+            "heading": "25+",
+            "text": "Verfügbar in mehr als 25 Ländern"
+          },
+          {
+            "icon": "transaction",
+            "heading": "500+",
+            "text": "Über 500 Millionen Euro gehandelt"
+          },
+          {
+            "icon": "bitcoin",
+            "heading": "100+",
+            "text": "Hunderte Währungen integriert"
+          }
+        ]
+      },
+      "reinvent": {
+        "heading": "Das Rad nicht neu erfinden, nur neu ausrichten",
+        "p-1": "Wir glauben, dass man das Rad nicht neu erfinden muss, um erfolgreich zu sein. Was man tun muss, ist handeln! Bewerben Sie sich jetzt und lernen Sie von den Meistern."
+      },
+      "truth-never-lies": {
+        "heading": "Die Wahrheit lügt nie",
+        "p-1": "\"Bildung ist nicht der Schlüssel zum Erfolg. Erfahrung, Weisheit und Wissen sind die Schlüssel zum Erfolg\"",
+        "points": [
+          {
+            "icon": "knowledge",
+            "heading": "Schulungsmaterial",
+            "text": "Hochwertige, nützliche Anleitungen und Videos"
+          },
+          {
+            "icon": "professional",
+            "heading": "1 zu 1 Mentoring",
+            "text": "Erfahrene Fachkräfte"
+          }
+        ]
+      },
+      "time-waits": {
+        "heading": "Die Zeit wartet auf niemanden",
+        "points": [
+          {
+            "icon": "trade",
+            "heading": "Entscheidungen",
+            "text": "Qualifizierte Fachleute mit echter Handelserfahrung auf mehreren Plattformen."
+          },
+          {
+            "icon": "gantt-chart",
+            "heading": "Zeitwert",
+            "text": "Starten Sie jetzt und sehen Sie, wie Ihre Rendite wächst. Zeit ist Geld, verschwenden Sie es nicht."
+          },
+          {
+            "icon": "annual-calendar-page",
+            "heading": "Jetzt buchen",
+            "text": "Registrieren Sie sich noch heute und buchen Sie Ihre persönliche Beratung innerhalb von Minuten."
+          },
+          {
+            "icon": "shrink",
+            "Überschrift": "Richtung",
+            "text": "Unsere Experten weisen Ihnen die richtige Richtung und begleiten Sie auf dem Weg zum Erfolg."
+          },
+          {
+            "icon": "insight",
+            "heading": "Unterstützung",
+            "text": "Ihr persönlicher Kundenbetreuer wird Sie während des gesamten Prozesses unterstützen."
+          }
+        ]
+      }
+    },
+    "questions": {
+      "title": "Kontobestätigung ausstehend...",
+      "intro": {
+        "p-1": "Wichtige Informationen!!",
+        "p-2": "Sie müssen die folgenden 3 kurzen Fragen beantworten, damit wir ihren <u>persönlichen Account-Manager</u> zuweisen können, der am besten zu ihrem Profil passt."
+      },
+      "form": {
+        "question-1": {
+          "label": "Frage 1: Geschlecht",
+          "placeholder": "Bitte auswählen",
+          "genders": {
+            "male": "Männlich",
+            "female": "Weiblich",
+            "prefer-not-to-say": "Mache lieber keine Angabe"
+          }
+        },
+        "question-2": {
+          "label": "Frage 2: Altersgruppe",
+          "placeholder": "Bitte auswählen"
+        },
+        "question-3": {
+          "label": "Frage 3: Investitionskapital",
+          "p-1": "Wir alle kennen das Sprichwort <i>\"Man braucht Geld, um Geld zu machen\"</i> - und die Realität ist, dass dieser Satz leider sehr wahr ist!",
+          "p-2": "Was die Leute Ihnen nicht sagen: Wenn Sie in der Lage sind, Ihre Gewinne in kurzer Zeit zu vervielfachen, kann aus wenig Geld sehr schnell viel Geld werden!",
+          "p-3": "Wählen Sie den Geldbetrag aus, den Sie investieren möchten.",
+          "placeholder": "Bitte auswählen"
+        },
+        "button": "Fortsetzen"
+      }
+    },
+    "welcome_auto_redirect": {
+      "title": "Bitte warten Sie, während wir Sie in Ihr Konto einloggen..."
+    },
+    "welcome": {
+      "title": "Konto ausstehend... Letzter Schritt...",
+      "intro": {
+        "p-1": "Dies ist der wichtigste LETZTE SCHRITT bei der Einrichtung Ihres Kontos.",
+        "highlight": "Seien Sie daher hier sehr aufmerksam",
+        "p-2": ",da Sie",
+        "p-3": "sicherstellen müssen, dass Ihr System korrekt eingerichtet ist."
+      },
+      "phone-call": {
+        "heading": "Telefonanruf (Verifikation und Einrichtung)",
+        "p-1": "In diesem Programm (wie Sie bereits gesehen haben) nehmen wir die Sicherheit sehr ernst. Daher überprüfen wir, ob Sie eine echte Person sind. Einer unserer Account Manager wird Sie innerhalb der nächsten 30 Minuten anrufen. (Mo-Fr)",
+        "p-2": "Wenn Sie nicht erreichbar sind, beantworten Sie den Anruf und vereinbaren Sie einen Termin für einen günstigeren Zeitpunkt."
+      },
+      "self-activation": {
+        "heading": "Selbstaktivierung und wie es funktioniert",
+        "p-1": "Auf der nächsten Seite werden Sie zu unserem sorgfältig ausgewählten Partner weitergeleitet, um ihr Konto durch Einzahlung Ihres kleinen Startkapitals <span class=\"font-bold\">zu aktivieren</span>.",
+        "p-2": "Das Geld, das Sie einzahlen, ist <span class=\"font-bold\">ihr Geld</span> und Sie müssen nicht alles auf einmal verwenden. Sie können mit kleinen Beträgen beginnen, um zu sehen, wie das System funktioniert. Und vergessen Sie nicht, dass Sie ihr Kapital jederzeit wieder abheben können.",
+        "p-3": "Wenn Sie nicht sicher sind, wie die Selbstaktivierung ihres Kontos funktioniert, klicken Sie einfach auf <span class=\"font-bold\">Zum Konto gehen</span> und warten Sie dann auf einen unserer Account Manager ,der Sie innerhalb der nächsten 30 Minuten anruft. (Mo-Fr)"
+      },
+      "go-to-account": "Zum Konto gehen",
+      "recommended-broker": {
+        "heading": "Ihr empfohlener Broker",
+        "p-1": "Unser Team hat dieses Handelskonto sorgfältig für Sie ausgewählt. Wenn Sie Probleme beim Anzeigen der Seite haben, können Sie auf klicken",
+        "p-2": "und die Handelsanwendung wird in einem neuen Fenster geöffnet."
+      }
+    },
+    "welcome_two_step": {
+      "step-1": {
+        "title": "Konto ausstehend... Letzter&nbsp;Schritt...",
+        "p-1": "Klicken Sie auf diese grüne Schaltfläche, um zu bestätigen und zu aktivieren.",
+        "button": "Klicken Sie hier, um es jetzt zu bestätigen"
+      },
+      "step-2": {
+        "title": "Konto ausstehend... Wichtige Informationen!!",
+        "sub-title": "WICHTIG! BITTE LESEN:"
+      }
+    },
+    "welcome_received": {
+      "title": "Konto ausstehend... Wichtige Informationen!!",
+      "sub-title": "WICHTIG! BITTE LESEN:",
+      "heading": "Überprüfung und Einrichtung von Telefonanrufen",
+      "p-1": "Leider ist unser Büro derzeit geschlossen, Ihr Persönlicher Account-Manager wird Sie <u>morgens</u> oder spätestens vor Geschäftsschluss des nächsten Werktages anrufen.",
+      "p-2": "Ihr Konto bleibt ausstehend, bis Sie verifiziert wurden.",
+      "p-3": "<u>Konten, die nicht innerhalb von 24 Stunden (Montag bis Freitag) bestätigt werden, werden gelöscht</u> und die nächste verfügbare Platzierung wird dem nächsten Konto in der Warteschlange zugewiesen.",
+      "p-4": "Am Wochenende erstellte Konten werden montags überprüft."
+    },
+    "privacy": {
+      "title": "Datenschutz-Bestimmungen",
+      "content": "<p>Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der {siteName}. Eine Nutzung der Internetseiten der {siteName} ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich; Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist eine Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.</p><p>Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der Anschrift, E-Mail Anschrift oder Telefonnummer einer betroffenen Person wird stets im Einklang mit der Datenschutz-Grundverordnung und in Übereinstimmung mit den für die {siteName} geltenden landesspezifischen Datenschutzbestimmungen gehalten. Mittels dieser Datenschutzerklärung möchte unser Unternehmen die Öffentlichkeit über Art, Umfang und Zweck der von uns erhobenen, genutzten und verarbeiteten personenbezogenen Daten informieren. Ferner werden betroffene Personen mittels dieser Datenschutzerklärung informiert , über die ihnen zustehenden Rechte.</p><p>{siteName} hat als für die Verarbeitung Verantwortlicher zahlreiche technische und organisatorische Maßnahmen umgesetzt, um einen möglichst lückenlosen Schutz der über diese Internetseite verarbeiteten personenbezogenen Daten sicherzustellen. Allerdings können internetbasierte Datenübertragungen grundsätzlich Sicherheitslücken aufweisen, sodass ein absoluter Schutz nicht gewährleistet werden kann. Aus diesem Grund steht es jeder betroffenen Person frei, personenbezogene Daten auch auf alternativen Wegen, z.B. per Telefon.</p><h4 class=\"text-2xl\">1. Definitionen</h4><p>Die Datenschutzerklärung der {siteName} beruht auf den Begrifflichkeiten, die durch den Europäischen Richtlinien- und Verordnungsgeber beim Erlass der Datenschutz-Grundverordnung (DSGVO) verwendet wurden. Unsere Datenschutzerklärung soll sowohl für die Öffentlichkeit als auch für unsere Kunden und Geschäftspartner lesbar und verständlich sein. Um dies zu gewährleisten, möchten wir zunächst die verwendeten Begrifflichkeiten erläutern.</p><p>In dieser Datenschutzerklärung verwenden wir unter anderem die folgenden Begriffe: </p><ul class=\"pl-8 \"><li><h4 class=\"text-lg\">a) Personenbezogene Daten</h4><p>Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (\"betroffene Person\") beziehen. . Als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen der physischen, physiologischen, genetische, geistige, wirtschaftliche, kulturelle oder soziale Identität dieser natürlichen Person.</p><h4 class=\"text-lg\">b) Betroffene Person</h4><p>Betroffene Person ist jede identifizierte oder identifizierbare natürliche Person Person, deren personenbezogene Daten von dem für die Verarbeitung Verantwortlichen verarbeitet werden.</p><h4 class=\"text-lg\">c) Verarbeitung</h4><p>Verarbeitung ist jeder Vorgang oder jede Vorgangsreihe, die auf personenbezogenen Daten oder auf Sätzen personenbezogener Daten erfolgt, auch mit automatisierten Mitteln, wie zum Beispiel Erhebung, Erfassung, Organisation, Strukturierung, Speicherung, Anpassung oder Veränderung, Abfrage, Abfrage, Nutzung, Offenlegung durch Übermittlung, Verbreitung oder sonstige Bereitstellung , Ausrichtung oder Kombination, Einschränkung, Löschung oder Vernichtung. </p><h4 class=\"text-lg\">d) Einschränkung der Verarbeitung</h4><p>Einschränkung der Verarbeitung ist die Markierung gespeicherter personenbezogener Daten mit dem Ziel, ihre künftige Verarbeitung einzuschränken.</p><h4 class=\"text-lg\">e) Profiling</h4><p> Profiling ist jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere, um Aspekte bezüglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit, persönliche Vorlieben dieser natürlichen Person zu analysieren oder vorherzusagen , Interessen, Zuverlässigkeit, Verhalten, Standort oder Bewegungen.</p><h4 class=\"text-lg\">f) Pseudonymisierung</h4><p>Pseudonymisierung ist die Verarbeitung personenbezogener Daten in der Weise, dass die Personenbezogene Daten können ohne die Verwendung zusätzlicher Informationen nicht mehr einer bestimmten betroffenen Person zugeordnet werden, sofern diese zusätzlichen Informationen getrennt aufbewahrt werden und technische und organisatorische Maßnahmen getroffen werden, die sicherstellen, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugeordnet werdenPerson.</p><h4 class=\"text-lg\">g) Verantwortlicher oder für die Verarbeitung Verantwortlicher </h4><p>Verantwortlicher oder für die Verarbeitung Verantwortlicher ist die natürliche oder juristische Person, Behörde , Agentur oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet; sind die Zwecke und Mittel dieser Verarbeitung durch das Unionsrecht oder das Recht der Mitgliedstaaten vorgegeben, so können der Verantwortliche beziehungsweise die bestimmten Kriterien seiner Benennung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten vorgesehen werden.</p><h4 class=\"text-lg \">h) Auftragsverarbeiter</h4><p>Auftragsverarbeiter ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.</p><h4 class=\"text- lg\">i) Empfänger</h4><p>Empfänger ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabhängig davon, ob es sich bei ihr um einen Dritten handelt oder nicht. Behörden, die im Rahmen eines bestimmten Ermittlungsverfahrens nach dem Unionsrecht oder dem Recht der Mitgliedstaaten möglicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empfänger; die Verarbeitung dieser Daten durch diese Behörden erfolgt in Übereinstimmung mit den geltenden Datenschutzbestimmungen gemäß den Zwecken der Verarbeitung.</p><h4 class=\"text-lg\">j) Dritte</h4 ><p>Dritter ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle außer der betroffenen Person, dem Verantwortlichen, dem Auftragsverarbeiter und den Personen, die unter der unmittelbaren Verantwortung des Verantwortlichen oder des Auftragsverarbeiters befugt sind, personenbezogene Daten zu verarbeiten.</p><h4 class=\"text-l\">k) Einwilligung</h4><p>Die Einwilligung der betroffenen Person ist jede freiwillige, konkrete, informierte und eindeutige Angabe des Willens der betroffenen Person, mit der sie oder sie erklärt sich durch eine Erklärung oder durch eine eindeutige bestätigende Handlung mit der Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden.</p></li></ul><h4 class=\"text-2xl\"> 2. Name und Anschrift des Verantwortlichen</h4><p>Der Verantwortliche im Sinne der Datenschutz-Grundverordnung (DSGVO), sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer datenschutzrechtlicher Bestimmungen ist: </p><p>{siteName}</p><p>Website: {siteDomain}</p>"
+    },
+    "cookie": {
+      "title": "Cookie beleid",
+      "content": "<p>De internetpagina's van de {siteName} gebruiken cookies. Cookies zijn tekstbestanden die via een internetbrowser in een computersysteem worden opgeslagen.</p><p>Veel internetsites en servers gebruiken cookies. Veel cookies bevatten een zogenaamde cookie-ID. Een cookie-ID is een unieke identificatie van de cookie. Het bestaat uit een tekenreeks waarmee internetpagina's en servers kunnen worden toegewezen aan de specifieke internetbrowser waarin de cookie is opgeslagen. Hierdoor kunnen bezochte internetsites en servers de individuele browser van de betrokkene onderscheiden van andere internetbrowsers die andere cookies bevatten. Een specifieke internetbrowser kan worden herkend en geïdentificeerd met behulp van de unieke cookie-ID.</p><p>Door het gebruik van cookies kan de {siteName} de gebruikers van deze website gebruiksvriendelijkere diensten bieden die niet mogelijk zouden zijn zonder de cookie-instelling.</p><p>Door middel van een cookie kunnen de informatie en aanbiedingen op onze website worden geoptimaliseerd met de gebruiker in gedachten. Cookies stellen ons, zoals eerder vermeld, in staat om onze websitegebruikers te herkennen. Het doel van deze herkenning is om het voor gebruikers gemakkelijker te maken om onze website te gebruiken. De websitegebruiker die cookies gebruikt, b.v. hoeft niet bij elk bezoek aan de website toegangsgegevens in te voeren, omdat deze door de website worden overgenomen en de cookie dus op het computersysteem van de gebruiker wordt opgeslagen. Een ander voorbeeld is de cookie van een winkelwagentje in een onlineshop. De online winkel onthoudt de artikelen die een klant via een cookie in het virtuele winkelwagentje heeft geplaatst.</p><p>De betrokkene kan te allen tijde het plaatsen van cookies via onze website voorkomen door middel van een overeenkomstige instelling van de gebruikte internetbrowser, en kan zo het plaatsen van cookies permanent weigeren. Bovendien kunnen reeds ingestelde cookies te allen tijde via een internetbrowser of andere softwareprogramma's worden verwijderd. Dit is mogelijk in alle populaire internetbrowsers. Als de betrokkene de instelling van cookies in de gebruikte internetbrowser deactiveert, zijn mogelijk niet alle functies van onze website volledig bruikbaar.</p>"
+    },
+    "gdpr": {
+      "title": "GDPR",
+      "content": "<h4 class=\"text-2xl\">Erhebung allgemeiner Daten und Informationen</h4><p>Die Internetseite der {siteName} erfasst mit jedem Aufruf der Website durch eine betroffene Person oder ein automatisiertes System eine Reihe von allgemeinen Daten und Informationen Webseite. Diese allgemeinen Daten und Informationen werden in den Server-Logfiles gespeichert. Erhoben werden können (1) die verwendeten Browsertypen und -versionen, (2) das verwendete Betriebssystem des zugreifenden Systems, (3) die Webseite, von der ein zugreifendes System auf unsere Internetseite gelangt (sog. Referrer), (4) die untergeordneten -Websites, (5) Datum und Uhrzeit des Zugriffs auf die Internetseite, (6) eine Internetprotokoll-Adresse (IP-Adresse), (7) den Internetdienstanbieter des zugreifenden Systems und (8) sonstige ähnliche Daten und Informationen, die im Falle von Angriffen auf unsere informationstechnischen Systeme genutzt werden können.</p><p>Bei der Nutzung dieser allgemeinen Daten und Informationen zieht die {siteName} keine Rückschlüsse auf die betroffene Person. Diese Informationen werden vielmehr benötigt, um (1) die Inhalte unserer Internetseite korrekt auszuliefern, (2) die Inhalte unserer Internetseite sowie die Werbung für diese zu optimieren, (3) die dauerhafte Funktionsfähigkeit unserer informationstechnologischen Systeme und der Technik unserer Internetseite zu gewährleisten und (4) um Strafverfolgungsbehörden im Falle eines Cyberangriffes die zur Strafverfolgung notwendigen Informationen bereitzustellen. Die {siteName} wertet daher anonym erhobene Daten und Informationen statistisch aus, mit dem Ziel, den Datenschutz und die Datensicherheit unseres Unternehmens zu erhöhen und ein optimales Schutzniveau für die von uns verarbeiteten personenbezogenen Daten zu gewährleisten. Die anonymen Daten der Server-Logfiles werden getrennt von allen durch eine betroffene Person angegebenen personenbezogenen Daten gespeichert.</p><h4 class=\"text-2xl\">Registrierung auf unserer Website</h4><p>Die Daten Die betroffene Person hat die Möglichkeit, sich auf der Internetseite des für die Verarbeitung Verantwortlichen unter Angabe personenbezogener Daten zu registrieren. Welche personenbezogenen Daten dabei an den für die Verarbeitung Verantwortlichen übermittelt werden, ergibt sich aus der jeweiligen Eingabemaske für die Anmeldung. Die von der betroffenen Person eingegebenen personenbezogenen Daten werden ausschließlich für den internen Gebrauch des Verantwortlichen und für eigene Zwecke erhoben und gespeichert. Der Verantwortliche kann die Übermittlung an einen oder mehrere Auftragsverarbeiter (z. B. einen Paketdienst) verlangen, die personenbezogene Daten auch für einen internen Zweck verwenden, der dem Verantwortlichen zuzurechnen ist.</p><p>Durch die Registrierung auf der Website des Verantwortlichen wird die IP-Adresse - vom Internet-Service-Provider (ISP) vergeben und von der betroffenen Person genutzt - werden zudem Datum und Uhrzeit der Registrierung gespeichert. Die Speicherung dieser Daten erfolgt vor dem Hintergrund, dass nur so ein Missbrauch unserer Daten verhindert werden kann und ggf. um die Aufklärung begangener Straftaten zu ermöglichen. Insofern ist die Speicherung dieser Daten zur Absicherung des Verantwortlichen erforderlich. Diese Daten werden nicht an Dritte weitergegeben, es sei denn, es besteht eine gesetzliche Verpflichtung zur Datenweitergabe oder die Weitergabe dient der Strafverfolgung.</p><p>Die Registrierung der betroffenen Person mit der freiwilligen Angabe personenbezogener Daten, soll es dem Verantwortlichen ermöglichen, der betroffenen Person Inhalte oder Dienste anzubieten, die aufgrund der Natur der Sache nur registrierten Nutzern angeboten werden dürfen. Registrierten Personen steht es frei, die bei der Registrierung angegebenen personenbezogenen Daten jederzeit zu ändern oder vollständig aus dem Datenbestand des Verantwortlichen löschen zu lassen.</p><p>Der Verantwortliche gibt jederzeit Auskunft über jede betroffene Person erfragen, welche personenbezogenen Daten über die betroffene Person gespeichert sind. Darüber hinaus berichtigt oder löscht der Verantwortliche personenbezogene Daten auf Wunsch oder Hinweis der betroffenen Person, soweit dem keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Alle Mitarbeiter des für die Verarbeitung Verantwortlichen stehen der betroffenen Person diesbezüglich als Ansprechpartner zur Verfügung.</p><p>Die Internetseite der {siteName} enthält Angaben, die eine schnelle elektronische Kontaktaufnahme zu unserem Unternehmen sowie eine unmittelbare Kommunikation ermöglichen bei uns, was ebenfalls eine allgemeine Adresse der sogenannten elektronischen Post (E-Mail-Adresse) umfasst. Nimmt eine betroffene Person per E-Mail oder über ein Kontaktformular Kontakt mit dem für die Verarbeitung Verantwortlichen auf, werden die von der betroffenen Person übermittelten personenbezogenen Daten automatisch gespeichert. Solche auf freiwilliger Basis von einer betroffenen Person an den für die Verarbeitung Verantwortlichen übermittelten personenbezogenen Daten werden für Zwecke der Bearbeitung oder der Kontaktaufnahme zur betroffenen Person gespeichert. Es erfolgt keine Weitergabe dieser personenbezogenen Daten an Dritte.</p><h4 class=\"text-2xl\">Routine Löschung und Sperrung personenbezogener Daten</h4><p>Der Verantwortliche verarbeitet und speichert personenbezogene Daten der betroffenen Person nur für den Zeitraum, der zur Erreichung des Speicherungszwecks erforderlich ist oder soweit dies durch den Europäischen Richtlinien- und Verordnungsgeber oder einen anderen Gesetzgeber in Gesetzen oder Verordnungen, denen die Verantwortlicher unterliegt.</p><p>Entfällt der Speicherungszweck oder läuft eine vom Europäischen Richtlinien- und Verordnungsgeber oder einem anderen zuständigen Gesetzgeber vorgeschriebene Speicherfrist ab, werden die personenbezogenen Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht. </p><h4 class=\"text-2xl\">Rechte der betroffenen Person</h4><ul class=\"pl-8\"><li><h4 class=\"text-lg\">a) Bestätigungsrecht</h4><p>Jede betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, von dem Verantwortlichen eine Bestätigung darüber zu verlangen, ob sie betreffende personenbezogene Daten verarbeitet werden. Möchte eine betroffene Person dieses Bestätigungsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.</p></li><li><h4 class=\"text-lg \">b) Auskunftsrecht</h4><p>Jede betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, jederzeit von dem Verantwortlichen unentgeltliche Auskunft über die zu seiner Person gespeicherten personenbezogenen Daten und eine Kopie dieser Auskunft zu erhalten . Darüber hinaus gewähren die europäischen Richtlinien und Verordnungen der betroffenen Person Zugang zu folgenden Informationen: </p><ul class=\"pl-8 pb-6\"><li>die Zwecke der Verarbeitung;</li><li>die betroffenen Kategorien personenbezogener Daten;</li><li>die Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt wurden oder noch offengelegt werden, insbesondere bei Empfängern in Drittländern oder bei internationalen Organisationen;</li><li >sofern möglich die geplante Dauer, für die die personenbezogenen Daten gespeichert werden, oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer;</li><li>das Bestehen eines Rechts auf Berichtigung oder Löschung personenbezogener Daten gegenüber dem Verantwortlichen oder Einschränkung der Verarbeitung der personenbezogenen Daten der betroffenen Person oder Widerspruch gegen diese Verarbeitung;</li><li>das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;</li><li>wenn die Es werden keine personenbezogenen Daten bei der betroffenen Person erhoben, keine verfügbaren Informationen über deren Herkunft;</li><li>die ex automatisierte Entscheidungsfindung einschließlich Profiling gemäß Art. 22 Abs. 1 und 4 DSGVO und zumindest in diesen Fällen aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Folgen einer solchen Verarbeitung für die betroffene Person.</li></ul><p>Darüber hinaus steht der betroffenen Person ein Auskunftsrecht darüber zu, ob personenbezogene Daten an ein Drittland oder an eine internationale Organisation übermittelt werden. In diesem Fall hat die betroffene Person das Recht, über die geeigneten Garantien im Zusammenhang mit der Übermittlung unterrichtet zu werden.</p><p>Wenn eine betroffene Person von diesem Auskunftsrecht Gebrauch machen möchte, kann sie , sich jederzeit an einen Mitarbeiter des Verantwortlichen zu wenden.</p></li><li><h4 class=\"text-lg\">c) Recht auf Berichtigung</h4><p>Jede betroffene Person muss das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, von dem Verantwortlichen unverzüglich die Berichtigung sie betreffender unrichtiger personenbezogener Daten zu verlangen. Unter Berücksichtigung der Zwecke der Verarbeitung hat die betroffene Person das Recht auf Vervollständigung unvollständiger personenbezogener Daten, auch mittels einer ergänzenden Erklärung.</p><p>Möchte eine betroffene Person dieses Berichtigungsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.</p></li> <li><h4 class=\"text-lg\">d) Recht auf Löschung (Recht auf Vergessenwerden)</h4><p>Jede betroffene Person hat das von der Der Europäische Gesetzgeber hat von dem Verantwortlichen zu verlangen, dass die sie betreffenden personenbezogenen Daten unverzüglich gelöscht werden, und der Verantwortliche ist verpflichtet, die personenbezogenen Daten unverzüglich zu löschen, sofern einer der folgenden Gründe zutrifft, sofern die Verarbeitung nicht erforderlich:</p><ul class=\"pl-8 pb-6\"><li>Die personenbezogenen Daten sind für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig.</li><li>Die betroffene Person widerruft die Einwilligung, auf die sich die Verarbeitung gem. Art. 6 Abs. 1 lit. a DSGVO oder Art. 9 Abs. 2 lit. a DSGVO stützte, und sofern nichts anderes vorliegt Rechtsgrundlage für die Verarbeitung.</li><li>Die betroffene Person legt gem. Art. 21 Abs. 1 DSGVO Widerspruch gegen die Verarbeitung ein und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder die betroffene Person legt gem Artikel 21 Absatz 2 DSGVO.</li><li>Die personenbezogenen Daten wurden unrechtmäßig verarbeitet.</li><li>Die Löschung der personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem der Verantwortliche unterliegt.</li><li>Die personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft erhoben gemäß Art. 8 Abs. 1 DSGVO.</li></ul><p>Wenn einer der oben genannten Gründe zutrifft und eine betroffene Person die Löschung von personenbezogenen Daten, die bei der {siteName} gespeichert sind, veranlassen möchte, er kann sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter von {siteName} wird veranlassen, dass dem Löschverlangen unverzüglich nachgekommen wird.</p><p>Hat der Verantwortliche personenbezogene Daten öffentlich gemacht und ist er gemäß Artikel 17 Absatz 1 zur Löschung der personenbezogenen Daten verpflichtet, ist der Verantwortliche trifft unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, einschließlich technischer Maßnahmen, um andere für die Verarbeitung Verantwortliche, die die personenbezogenen Daten verarbeiten, darüber zu informieren, dass die betroffene Person von diesen für die Verarbeitung Verantwortlichen die Löschung aller Links oder Kopien oder Replikationen von diese personenbezogenen Daten, soweit die Verarbeitung nicht erforderlich ist. Der Mitarbeiter der {siteName} wird im Einzelfall das Notwendige veranlassen.</p></li><li><h4 class=\"text-lg\">e) Recht auf Einschränkung der Verarbeitung</h4> <p>Jede betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, von dem Verantwortlichen die Einschränkung der Verarbeitung zu verlangen, wenn eine der folgenden Voraussetzungen gegeben ist:</p><ul class=\"pl-8 pb-6\"><li>Die Richtigkeit der personenbezogenen Daten wird von der betroffenen Person bestritten, und zwar für eine Dauer, die es dem Verantwortlichen ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen.</li><li>Die Verarbeitung ist unrechtmäßig und die betroffene Person lehnt die Löschung der personenbezogenen Daten ab Daten und verlangt stattdessen Einschränkung der Nutzung.</li><li>Der Verantwortliche benötigt die personenbezogenen Daten für die Zwecke der Verarbeitung nicht länger, die betroffene Person benötigt sie jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. </li><li>Die betroffene Person hat gemäß Art. 21 Abs. 1 DSGVO Widerspruch gegen die Verarbeitung eingelegt, bis die Prüfung der Berechtigung Die Angaben des Verantwortlichen haben Vorrang vor denen der betroffenen Person.</li></ul><p>Wenn eine der oben genannten Voraussetzungen gegeben ist und eine betroffene Person die Einschränkung von personenbezogenen Daten, die bei der { siteName} kann er sich jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der {siteName} wird die Einschränkung der Verarbeitung veranlassen.</p></li><li><h4 class=\"text-lg\">f) Recht auf Datenübertragbarkeit</h4><p >Jede betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, die sie betreffenden personenbezogenen Daten, die einem Verantwortlichen bereitgestellt wurden, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Er hat das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch den Verantwortlichen, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern die Verarbeitung auf einer Einwilligung gemäß Artikel 6 Absatz 1 Buchstabe a des DSGVO oder Art. 9 Abs. 2 lit. a DSGVO oder auf einem Vertrag gem. Art. 6 Abs. 1 lit. b DSGVO und die Verarbeitung erfolgt automatisiert, sofern die Verarbeitung ist nicht für die Wahrnehmung einer Aufgabe erforderlich, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde.</p><p>Außerdem bei der Ausübung seines Rechts auf Datenübertragbarkeit gemäß Art Art. 20 Abs. 1 DSGVO hat die betroffene Person das Recht, zu erwirken, dass personenbezogene Daten direkt von einem Verantwortlichen einem anderen übermittelt werden, soweit dies technisch machbar ist und die Rechte und Freiheiten anderer nicht beeinträchtigt werden.</p><p>Um das Recht auf Datenübertragbarkeit geltend zu machen, kann die betroffene Person sich jederzeit an einen Mitarbeiter von {siteName} wenden.</p></li><li><h4 class=\"text-lg\">g) Widerspruchsrecht</h4><p>Jede betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, aus Gründen, die sich aus seiner besonderen Situation ergeben, jederzeit gegen die ihn betreffende Verarbeitung personenbezogener Daten, die auf Artikel 1 Buchstabe e oder f beruht, Widerspruch einzulegen 6(1) DSGVO. Dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling.</p><p>Die {siteName} verarbeitet die personenbezogenen Daten im Falle des Widerspruchs nicht mehr, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die den Interessen, Rechten und Freiheiten der betroffenen Person oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.</p><p>Verarbeitet die {siteName} personenbezogene Daten, um Direktwerbung zu betreiben, hat die betroffene Person das Recht, jederzeit Widerspruch gegen die Verarbeitung sie betreffender personenbezogener Daten zum Zwecke derartiger Werbung einzulegen. Dies gilt für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht. Widerspricht die betroffene Person gegenüber der {siteName} der Verarbeitung für Zwecke der Direktwerbung, so wird die {siteName} die personenbezogenen Daten nicht mehr für diese Zwecke verarbeiten.</p><p>Darüber hinaus hat die betroffene Person das Recht, auf aus Gründen, die sich aus ihrer besonderen Situation ergeben, Widerspruch gegen die Verarbeitung sie betreffender personenbezogener Daten durch die {siteName} zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen Zwecken gem. Art. 89 Abs. 1 DSGVO einzulegen, es sei denn, die Verarbeitung ist zur Wahrnehmung einer im öffentlichen Interesse liegenden Aufgabe erforderlich.</p><p>Zur Ausübung des Rechts auf Widerspruch kann sich die betroffene Person direkt an einen Mitarbeiter der {siteName} wenden. Darüber hinaus steht es der betroffenen Person frei, im Zusammenhang mit der Nutzung von Diensten der Informationsgesellschaft und ungeachtet der Richtlinie 2002/58/EG von ihrem Widerspruchsrecht mittels automatisierter Verfahren unter Verwendung technischer Spezifikationen Gebrauch zu machen.</p></li> <li><h4 class=\"text-lg\">h) Automatisierte Entscheidungsfindung im Einzelfall einschließlich Profiling </h4><p>Jede betroffene Person hat das vom Europäischen Gesetzgeber gewährte Recht, einer eine ausschließlich auf einer automatisierten Verarbeitung - einschließlich Profiling - beruhende Entscheidung, die ihr gegenüber rechtliche Wirkung entfaltet oder sie in ähnlicher Weise erheblich beeinträchtigt, soweit die Entscheidung (1) nicht für den Abschluss oder die Erfüllung eines Vertrags zwischen die betroffene Person und ein für die Verarbeitung Verantwortlicher ist oder (2) nicht aufgrund von Rechtsvorschriften der Union oder der Mitgliedstaaten, denen der Verantwortliche unterliegt, berechtigt ist und das außerdem angemessene Maßnahmen zur Wahrung der Rechte und Freiheiten sowie der berechtigten Interessen der betroffenen Person enthält, oder (3) beruht nicht auf ausdrücklichen Angaben der betroffenen Person onsent.</p><p>Wenn die Entscheidung (1) für den Abschluss oder die Erfüllung eines Vertrags zwischen der betroffenen Person und einem Verantwortlichen erforderlich ist oder (2) auf der ausdrücklichen Zustimmung der betroffenen Person beruht, die {siteName} trifft angemessene Maßnahmen, um die Rechte und Freiheiten sowie die berechtigten Interessen der betroffenen Person zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person seitens des Verantwortlichen, auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung gehört.</p><p>Möchte die betroffene Person Rechte mit Bezug auf automatisierte Entscheidungen im Einzelfall geltend machen, kann sie sich hierzu jederzeit an einen Mitarbeiter der {siteName} wenden.</p></li><li> <h4 class=\"text-lg\">i) Recht auf Widerruf einer datenschutzrechtlichen Einwilligung</h4><p>Jede betroffene Person hat das vom Europäischen Gesetzgeber gewährte Recht, ihre Einwilligung zur Verarbeitung ihrer bzw jederzeit ihre personenbezogenen Daten.</p><p>Möchte die betroffene Person ihr Recht auf Widerruf einer Einwilligung ausüben, kann sie jederzeit wenden Sie sich an einen Mitarbeiter von {siteName}.</p></li></ul><h4 class=\"text-2xl\">Rechtsgrundlage für die Verarbeitung</h4><p>Kunst. 6(1) lit. a DSGVO dient als Rechtsgrundlage für Verarbeitungsvorgänge, bei denen wir eine Einwilligung für einen bestimmten Verarbeitungszweck einholen. Ist die Verarbeitung personenbezogener Daten zur Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, erforderlich, wie dies beispielsweise bei Verarbeitungsvorgängen zur Lieferung von Waren oder zur Erbringung einer sonstigen Dienstleistung der Fall ist, erfolgt die Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO. Gleiches gilt für solche Verarbeitungsvorgänge die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind, etwa in Fällen von Anfragen zur unseren Produkten oder Leistungen. Unterliegt unser Unternehmen einer rechtlichen Verpflichtung durch welche eine Verarbeitung von personenbezogenen Daten erforderlich wird, wie beispielsweise zur Erfüllung steuerlicher Pflichten, so basiert die Verarbeitung auf Art. 6(1) lit. c DSGVO.In seltenen Fällen kann eine Verarbeitung personenbezogener Daten erforderlich werden, um lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person zu schützen. Dies wäre beispielsweise der Fall, wenn ein Besucher in unserem Betrieb verletzt wird und sein Name, sein Alter, seine Krankenkassendaten oder andere lebenswichtige Informationen an einen Arzt, ein Krankenhaus oder sonstige Dritte weitergegeben werden müssten. Dann würde die Verarbeitung auf Art. 6(1) lit. d DSGVO. Schließlich könnten Verarbeitungsvorgänge auf Art. 6 Abs. 1 lit. f DSGVO. Auf dieser Rechtsgrundlage basieren Verarbeitungsvorgänge, die von keiner der vorgenannten Rechtsgrundlagen erfasst werden, wenn die Verarbeitung zur Wahrung berechtigter Interessen unseres Unternehmens oder eines Dritten erforderlich ist und das erstgenannte Interesse nicht überwiegen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern. Solche Verarbeitungsvorgänge sind insbesondere deshalb zulässig, weil sie durch den Europäischen Richtlinien- und Verordnungsgeber besonders erwähnt wurden. Er war der Ansicht, dass ein berechtigtes Interesse vermutet werden könnte, wenn die betroffene Person ein Kunde des Verantwortlichen ist (Erwägungsgrund 47 Satz 2 DSGVO).</p><h4 class=\"text-2xl\">Berechtigte Interessen des Verantwortlichen oder von einem Dritten </h4><p>Wenn die Verarbeitung personenbezogener Daten auf Grundlage von Artikel 6 Absatz 1 lit. f DSGVO besteht unser berechtigtes Interesse darin, unser Geschäft zum Wohle aller unserer Mitarbeiter und Aktionäre auszuführen.</p><h4 class=\"text-2xl\">Zeitraum, für den die personenbezogenen Daten gespeichert werden gespeichert</h4><p>Kriterien zur Bestimmung der Speicherdauer der personenbezogenen Daten ist die jeweilige gesetzliche Aufbewahrungsfrist. Nach Ablauf der Frist werden die entsprechenden Daten routinemäßig gelöscht, sofern sie nicht mehr zur Vertragserfüllung oder Vertragsanbahnung erforderlich sind.</p><h4 class=\"text-2xl\"> Bereitstellung personenbezogener Daten als gesetzliche oder vertragliche Anforderung; Voraussetzung für den Vertragsabschluss; Verpflichtung der betroffenen Person, die personenbezogenen Daten bereitzustellen; mögliche Folgen der Nichtbereitstellung dieser Daten</h4><p>Wir stellen klar, dass die Bereitstellung personenbezogener Daten teilweise gesetzlich vorgeschrieben ist (z.B. steuerliche Vorschriften) oder sich auch aus vertraglichen Regelungen (z.B. Angaben zum Vertragspartner) ergeben kann. Mitunter kann es für einen Vertragsabschluss erforderlich sein, dass die betroffene Person uns personenbezogene Daten zur Verfügung stellt, die in der Folge durch uns verarbeitet werden müssen. Die betroffene Person ist beispielsweise verpflichtet uns personenbezogene Daten bereitzustellen, wenn unser Unternehmen mit ihr einen Vertrag abschließt. Die Nichtbereitstellung der personenbezogenen Daten hätte zur Folge, dass der Vertrag mit der betroffenen Person nicht geschlossen werden könnte. Vor einer Bereitstellung personenbezogener Daten durch die betroffene Person muss sich die betroffene Person an einen Mitarbeiter wenden. Der Mitarbeiter klärt die betroffene Person auf, ob die Bereitstellung der personenbezogenen Daten gesetzlich oder vertraglich vorgeschrieben oder für den Vertragsschluss erforderlich ist, ob eine Verpflichtung zur Bereitstellung der personenbezogenen Daten besteht und welche Folgen die Nichtbereitstellung der personenbezogenen Daten hat Daten.</p><h4 class=\"text-2xl\">Bestehen einer automatisierten Entscheidungsfindung</h4><p>Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.</p>"
+    }
+  }
+}

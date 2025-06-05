@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "title": "{siteName} - Official Website 2025",
+    "description": "This is the Official & REAL Bitcoin Digital.com Website. Proprietary trading technology gives our limited group of members an unprecedented competitive advantage. Other similar bitcoin websites are Fake!"
+  },
+  "landing-pages": {
+    "variant-a": {
+      "create-account": "",
+      "points": {
+        "p-1": "",
+        "p-2": "",
+        "p-3": ""
+      },
+      "steps": "{step}"
+    }
+  },
+  "components": {
+    "attention-banner": {
+      "label": "{time}"
+    },
+    "logo-header": {
+      "available-to-traders": ""
+    },
+    "splash": {
+      "video-id": "",
+      "header": "",
+      "sub-header": "<span class=\"text-yellow-300\"></span>",
+      "step-1": {
+        "line-1": "",
+        "line-2": ""
+      },
+      "step-2": ""
+    },
+    "form-capture": {
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "phone_number": "",
+      "button": {
+        "step-1": "",
+        "step-2": ""
+      }
+    },
+    "intro-text": {
+      "header": "",
+      "body-1": "{siteName}",
+      "body-2": ""
+    },
+    "as-seen-on": "",
+    "testimonials": {
+      "header": {
+        "line-1": "",
+        "line-2": ""
+      },
+      "profit": "",
+      "testimonials": {
+        "1": {
+          "image": "default1.jpg",
+          "name": "James B",
+          "location": "Amsterdam",
+          "profit": 13853,
+          "text": ""
+        },
+        "2": {
+          "image": "default2.jpg",
+          "name": "Stacey J",
+          "location": "Frankfurt",
+          "profit": 9126,
+          "text": ""
+        },
+        "3": {
+          "image": "default3.jpg",
+          "name": "Anton L",
+          "location": "Paris",
+          "profit": 43300,
+          "text": ""
+        },
+        "4": {
+          "image": "default4.jpg",
+          "name": "Jane M",
+          "location": "Stockholm",
+          "profit": 11463,
+          "text": ""
+        }
+      }
+    },
+    "reasons": {
+      "1": {
+        "icon": "brtarget-icon",
+        "title": "",
+        "text": ""
+      },
+      "2": {
+        "icon": "brtechnology-icon",
+        "title": "",
+        "text": ""
+      },
+      "3": {
+        "icon": "braward-icon",
+        "title": "",
+        "text": ""
+      }
+    },
+    "results-table": {
+      "button": "",
+      "header": "",
+      "table": {
+        "headers": {
+          "name": "",
+          "profit": "",
+          "trade-time": "",
+          "cryptocurrency": "",
+          "result": ""
+        }
+      }
+    },
+    "steps": {
+      "header": "",
+      "button": "",
+      "step": "",
+      "steps": {
+        "1": {
+          "icon": "brstep1-icon",
+          "title": "",
+          "text": ""
+        },
+        "2": {
+          "icon": "brstep2-icon",
+          "title": "",
+          "text": ""
+        },
+        "3": {
+          "icon": "brstep3-icon",
+          "title": "",
+          "text": ""
+        }
+      }
+    },
+    "faqs": {
+      "header": "",
+      "faqs": {
+        "1": {
+          "title": "",
+          "text": ""
+        },
+        "2": {
+          "title": "",
+          "text": ""
+        },
+        "3": {
+          "title": "",
+          "text": ""
+        },
+        "4": {
+          "title": "",
+          "text": ""
+        },
+        "5": {
+          "title": "",
+          "text": ""
+        },
+        "6": {
+          "title": "",
+          "text": ""
+        }
+      }
+    },
+    "lower-cta": {
+      "button": ""
+    },
+    "footer-links": {
+      "home": "",
+      "privacy-policy": "",
+      "cookie-policy": "",
+      "gdpr": ""
+    }
+  },
+  "pages": {
+    "welcome": {
+      "title": "{siteName}",
+      "intro": {
+        "p-1": "",
+        "highlight": "",
+        "p-2": "",
+        "p-3": ""
+      },
+      "phone-call": {
+        "heading": "",
+        "p-1": "",
+        "p-2": ""
+      },
+      "self-activation": {
+        "heading": "",
+        "p-1": "",
+        "p-2": "",
+        "p-3": "",
+        "p-4": ""
+      },
+      "go-to-account": ""
+    }
+  }
+}

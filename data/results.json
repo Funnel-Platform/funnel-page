@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Brennon",
+    "profit": 868,
+    "cryptocurrency": "BTC/ETH"
+  },
+  {
+    "name": "Braylon",
+    "profit": 910,
+    "cryptocurrency": "BTC/ETH"
+  },
+  {
+    "name": "Rozlynn",
+    "profit": 264,
+    "cryptocurrency": "BTC/ETH"
+  },
+  {
+    "name": "Bray",
+    "profit": 933,
+    "cryptocurrency": "ETH/LTC"
+  },
+  {
+    "name": "Brian",
+    "profit": 101,
+    "cryptocurrency": "LTC/EOS"
+  },
+  {
+    "name": "Aby",
+    "profit": 390,
+    "cryptocurrency": "ETH/LTC"
+  },
+  {
+    "name": "Brendan",
+    "profit": 518,
+    "cryptocurrency": "EOS/ETH"
+  },
+  {
+    "name": "Nadene",
+    "profit": 305,
+    "cryptocurrency": "ETH/LTC"
+  },
+  {
+    "name": "Ruthie",
+    "profit": 108,
+    "cryptocurrency": "LTC/EOS"
+  },
+  {
+    "name": "Brinley",
+    "profit": 51,
+    "cryptocurrency": "EOS/ETH"
+  }
+]

@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "title": "{siteName} ™ // ECHTE officiële DOT {siteTLD} [2025] ©",
+    "description": "Registreer u op de ECHTE officiële DOT {siteTLD} - alle andere websites zijn NEP. {siteName} is een handelsplatform dat AI gebruikt om marktbewegingen te voorspellen en hierop in te spelen."
+  },
+  "landing-pages": {
+    "variant-a": {
+      "create-account": "Maak uw gratis account aan",
+      "points": {
+        "p-1": "Gratis persoonlijke accountmanager",
+        "p-2": "Geen handelservaring nodig",
+        "p-3": "Aan de slag in 15 minuten",
+        "p-1-alt-1": "Persoonlijke accountmanager met licentie van de Canadese Investeringsreguleringsorganisatie (CIRO)",
+        "p-2-alt-1": "Gratis toegang voor alle Canadese inwoners, verifieer eenvoudig uw identiteit tijdens het welkomstgesprek",
+        "p-3-alt-1": "Begin binnen 15 minuten met verdienen",
+        "p-1-alt-2": "Gratis voor alle Duitse staatsburgers",
+        "p-2-alt-2": "Gratis persoonlijke accountmanager goedgekeurd door Elon Musk",
+        "p-3-alt-2": "Gegarandeerd rendement op investering binnen enkele minuten"
+      },
+      "steps": "Stap {step} van 2",
+      "right_column": {
+        "title-alt-1": "Slim investeren dat de toekomst van de Canadese arbeidersklasse veiligstelt",
+        "sub-title-alt-1": "Mark Carney, Premier van Canada",
+        "content-alt-1": "{siteName} is een app die we hebben gebouwd voor een land van bouwers. Dit initiatief zal de kloof tussen de superrijken van Canada en de arbeidersklasse dichten door gewone Canadezen in staat te stellen hun salaris te verdubbelen en in sommige gevallen zelfs te verdrievoudigen, bijna van de ene op de andere dag. We zijn er trots op te kunnen melden dat de federale overheid alle stortingen van Canadese inwoners heeft verzekerd, wat betekent dat je geld veilig is. {siteName} zal armoede in ons hele land uitroeien en een sterke Canadese middenklasse terugbrengen, waarin elke Canadees een huis kan bezitten en met pensioen kan gaan voordat hij of zij oud wordt. Ik moedig alle Canadezen aan om gebruik te maken van dit initiatief dat we hebben gecreëerd om deze geweldige natie te verenigen.",
+        "title-alt-2": "Slimme investeringen die de arbeidersklasse van de ene op de andere dag miljonair maken",
+        "sub-title-alt-2": "Elon Musk, oprichter en CEO van {siteName}",
+        "content-alt-2": "{siteName} is mijn levenswerk. Ik heb dit platform gecreëerd met een eenvoudig doel: de kloof tussen de superrijken en de armen te dichten. Ik ben er trots op te zeggen dat dit mijn grootste succes tot nu toe is. Kom zelf kijken, zonder risico, want ik garandeer alle stortingen met mijn eigen geld."
+      }
+    }
+  },
+  "components": {
+    "attention-banner": {
+      "label": "Waarschuwing: Wegens extreme drukte,sluiten wij de registratie per {time}"
+    },
+    "logo-header": {
+      "available-to-traders": "Nu verkrijgbaar in<br />{usersCountry}"
+    },
+    "splash": {
+      "video-id": "319904948",
+      "header": "Maak uw <span class=\"hidden sm:inline\">{siteName}</span>-account <span class=\"hidden sm:inline\">Vandaag</span>",
+      "sub-header": "En u kunt uw <span class=\"text-yellow-300\">financiële vrijheid bereiken...</span>",
+      "points": {
+        "p-1": "Gratis persoonlijke accountmanager",
+        "p-2": "Geen handelservaring nodig",
+        "p-3": "Aan de slag in 15 minuten"
+      },
+      "step-1": {
+        "line-1": "Gelimiteerde Beschikbaarheid",
+        "line-2": "Rekeningen Over!"
+      },
+      "step-2": "Stap 2 van 2 - Accountactivering!"
+    },
+    "form-capture": {
+      "first_name": "Voornaam",
+      "last_name": "Achternaam",
+      "email": "Email adres",
+      "phone_number": "Telefoon Nummer",
+      "button": {
+        "step-1": "BEGIN VANDAAG",
+        "step-2": "Ontgrendel nu je account"
+      }
+    },
+    "intro-text": {
+      "header": "Begin met geld verdienen met {siteName}",
+      "body-1": "{siteName} is een exclusief programma met toegang tot gepatenteerde technologie, waardoor onze beperkte groep leden een ongekend concurrentievoordeel heeft om stilletjes enorme fortuinen te vergaren. Alleen elementaire typevaardigheid is vereist. Begin vandaag en u zult minuut na minuut het geld langzaam naar uw rekening kunnen zien stromen!",
+      "body-2": "Zorg ervoor dat u zich registreert op de ECHTE officiële website, controleer het websiteadres bovenaan om er zeker van te zijn dat het \"{siteDomain}\" is. Alleen de dot.{siteTLD} zonder extra woorden of koppeltekens in het adres."
+    },
+    "as-seen-on": "Zoals te zien op",
+    "testimonials": {
+      "header": {
+        "line-1": "ECHTE RECENTIES VAN ONZE",
+        "line-2": "KLANTEN"
+      },
+      "profit": "Winst",
+      "testimonials": {
+        "1": {
+          "image": "default1.jpg",
+          "name": "James B",
+          "location": "Amsterdam",
+          "profit": 13853,
+          "text": "Eindelijk weet ik wat het is om rijk te zijn. Ik hoef niet meer naar anderen te kijken en denken \"Wow dat wil ik ook\". Dankzij de {siteName} ben ik nu al met pensioen kunnen gaan en de 1% levensstijl leven."
+        },
+        "2": {
+          "image": "default2.jpg",
+          "name": "Stacey J",
+          "location": "Frankfurt",
+          "profit": 9126,
+          "text": "Ik ben pas 47 dagen lid van {siteName}, maar mijn leven is al drastisch veranderd! Ik heb niet alleen mijn eerste"
+        },
+        "3": {
+          "image": "default3.jpg",
+          "name": "Anton L",
+          "location": "Paris",
+          "profit": 43300,
+          "text": "Verwonderlijk heb ik al eerder op de beurs gewerkt, maar na 10 jaar heb ik nog nooit eerder een kans gezien als deze. Mijn collega's verklaarden mij voor gek dat ik die baan opgaf om full-time met de {siteName} aan de slag te kunnen... {currencySymbol}38,459 in winst later, SMEKEN mijn oude collega's om hen ook toe te laten tot de {siteName}"
+        },
+        "4": {
+          "image": "default4.jpg",
+          "name": "Jane M",
+          "location": "Stockholm",
+          "profit": 11463,
+          "text": "Twee weken geleden werd ik ontslagen. Met weinig andere opties over dacht ik dat mijn leven voorbij was. Nu verdien ik meer dan {currencySymbol}1,261.42 elke dag opnieuw. En voor het eerst in 2 maanden komt mijn bankrekening niet in het rood. Dank je, {siteName}"
+        }
+      }
+    },
+    "reasons": {
+      "1": {
+        "icon": "brtarget-icon",
+        "title": "LASER-PRECIEZE PRESTATIES",
+        "text": "Er is geen enkele andere trading app in de wereld die een precieze heeft van 99,4%. Dat is waarom onze leden van over heel de wereld ons toevertrouwen met hun hardverdiende geld."
+      },
+      "2": {
+        "icon": "brtechnology-icon",
+        "title": "SUPERIEURE TECHNOLOGIE",
+        "text": "{siteName} is gemaakt met de meest geavanceerde technieken die de bitcoin trading wereld ooit heeft gezien. De software staat wint met 0,01s van de markt en als je iets van trading weet dan snap je dat dit een groot verschil is."
+      },
+      "3": {
+        "icon": "braward-icon",
+        "title": "PRIJSWINNENDE TRADING APP",
+        "text": "{siteName} heeft een aantal awards gewonnen. De meest recente award is komt uit de United Kingdom waar we verkozen zijn tot #1 app door de UK Trading Association."
+      }
+    },
+    "results-table": {
+      "button": "SCHRIJF NU IN!",
+      "header": "Wat maakt Quantum Computing zo goed om te beleggen?",
+      "p-1": "Dit is 's werelds eerste kwantumcomputer; in tegenstelling tot uw thuis-pc is deze computer slim - hij neemt duizenden gelijktijdige 'beslissingen' tegelijk. Je brein denkt één gedachte tegelijk, in een reeks. Stel je voor dat je duizenden gedachten tegelijk zou kunnen hebben, de een even helder als de ander. Dat is kwantumcomputing.",
+      "p-2": "Met behulp van die kracht helpt onze kwantumcomputer u slimmere transacties te doen en meer geld te verdienen dan u voor mogelijk had gehouden. Sterker nog, het is zo ontworpen dat u geld kunt verdienen en anderen kunt helpen terwijl u winst maakt!",
+      "p-3": "Het vindt transacties door elke nanoseconde dat de aandelenmarkten live zijn, verschillen tussen aandelenkoersen te analyseren (en doet voorspellingen, zelfs wanneer de markten gesloten zijn, zodat u weet wat er waarschijnlijk zal gebeuren als ze weer opengaan). Uw huidige computer (en die van alle anderen) kan de beslissingssnelheid van dit nieuwe systeem niet evenaren.",
+      "p-4": "Meld u aan en wees een van de weinigen die deze technologie gebruiken (voordat iedereen er lucht van krijgt!)"
+    },
+    "partners": {
+      "header": "Partners"
+    },
+    "steps": {
+      "header": "HOE HET WERKT",
+      "button": "OPEN GRATIS ACCOUNT",
+      "step": "STAP",
+      "steps": {
+        "1": {
+          "icon": "brstep1-icon",
+          "title": "VUL HET REGISTRATIE",
+          "text": "Als je registratie succesvol is, word je automatisch een nieuw lid van de {siteName}. Dit betekent dat je gratis geholpen zult worden bij je eerste stappen in deze wereld."
+        },
+        "2": {
+          "icon": "brstep2-icon",
+          "title": "MAAK JE EERSTE STORTING",
+          "text": "Zoals met alles heb je startkapitaal nodig om te beginnen. Om winst te maken met {siteName} moet je een eerste storting doen van"
+        },
+        "3": {
+          "icon": "brstep3-icon",
+          "title": "START MET WINST MAKEN",
+          "text": "Je krijgt gratis begeleiding van een senior account manager die je weg wijs maakt met het systeem. Je zult zien dat je dezelfde dag nog winst gaat maken door zijn advies op te volgen."
+        }
+      }
+    },
+    "faqs": {
+      "header": "VEELGESTELDE VRAGEN",
+      "faqs": {
+        "1": {
+          "title": "Wat voor resultaten kan ik verwachten?",
+          "text": "{siteName} leden verdienen gemiddeld {currencySymbol}500 per dag"
+        },
+        "2": {
+          "title": "Hoeveel tijd per dag moet ik werken?",
+          "text": "Onze leden werken ongeveer 20 minuten per dag aan {siteName}. Het systeem is zo opgezet dat er veel geautomatiseerd is waardoor werktijd minimaal is."
+        },
+        "3": {
+          "title": "Wat is het maximale dat ik kan verdienen?",
+          "text": "Er zit geen limiet aan hoeveel je kan verdienen. Er zijn zelfs leden die hun eerste miljoen binnen 61 dagen hebben verdiend."
+        },
+        "4": {
+          "title": "Hoeveel kost de software?",
+          "text": "Leden van {siteName} mogen gratis gebruik maken van het systeem door zich aan te melden op deze pagina. Uiteraard moet er wel een eerste storting worden gedaan."
+        },
+        "5": {
+          "title": "Is dit zoals MLM of affiliate marketing?",
+          "text": "Dit is niet zoals MLM, affiliate marketing of soortgelijke zaken. Dit systeem werkt op basis van een algoritme met 99,4%% precisie."
+        },
+        "6": {
+          "title": "Zijn er kosten aan verbonden?",
+          "text": "Er zijn geen verborgen kosten. Geen extra commissies of broker fees. Al jouw geld is 100an jou en dit kan je op elk ogenblik terug laten boeken naar jouw bankrekening."
+        }
+      }
+    },
+    "advisors": {
+      "jeff": {
+        "by-line": "Technologie-ondernemer, investeerder en filantroop",
+        "bio": "Quantumcomputing heeft de toekomst. Ik overdrijf niet als ik zeg dat het alles zal veranderen. Dit zijn de begindagen van quantum computing; niet veel mensen weten ervan, wat betekent dat maar heel weinig mensen het gebruiken. De weinigen die dat wel zijn, nemen ongelooflijk wijze (en winstgevende) beslissingen."
+      },
+      "bill": {
+        "by-line": "Zakenmagnaat, investeerder, auteur, filantroop en humanitair",
+        "bio": "Ik weet zeker dat Elon {currencySymbol} 3 miljard van zijn eigen geld heeft uitgegeven om dit programma te financieren. Petje af daarvoor - dat is {currencySymbol} 3 miljard van zijn eigen geld om een ​​betere toekomst voor iedereen te financieren, en om anderen te helpen winst te maken die hem daarbij zal helpen! Het is een win-winsituatie en ik ben erg benieuwd waar het naartoe gaat."
+      }
+    },
+    "lower-cta": {
+      "button": "BEGIN VANDAAG"
+    },
+    "footer-links": {
+      "home": "Home",
+      "privacy-policy": "Privacybeleid",
+      "cookie-policy": "Cookie beleid",
+      "gdpr": "GDPR"
+    }
+  },
+  "pages": {
+    "homepage": {
+      "button": "Ga vandaag nog aan de slag",
+      "splash": {
+        "heading": "Winstgevende handel begint met kennis",
+        "list": [
+          "Persoonlijke accountmanager en mentor",
+          "Toegang tot gepatenteerde technologie",
+          "Geen ervaring vereist"
+        ]
+      },
+      "knowledge": {
+        "heading": "Een investering in kennis levert de beste rente op",
+        "p-1": "Krijg toegang tot echte cryptomeesters met ons één-op-één mentorprogramma. Investeer slechts £250 in uw handelsaccount en ontvang uw eigen ervaren persoonlijke accountmanager."
+      },
+      "track-record": {
+        "heading": "Bewezen staat van dienst",
+        "p-1": "Sinds de eerste cryptocurrency 11 jaar geleden werd gecreëerd, lopen we voorop.",
+        "points": [
+          {
+            "icon": "shield-1",
+            "text": "Gekwalificeerde professionals met echte handelservaring op meerdere platforms."
+          },
+          {
+            "icon": "crypto",
+            "text": "Wees gerust met state-of-the-art beveiligingssystemen die wereldwijd worden ingezet."
+          },
+          {
+            "icon": "stock",
+            "text": "Eigen handelstechnologieën ontworpen om u het voordeel te geven dat u nodig heeft."
+          }
+        ]
+      },
+      "global-footprint": {
+        "heading": "Wereldwijde voetafdruk",
+        "points": [
+          {
+            "icon": "chat-group",
+            "heading": "10+",
+            "text": "Meerdere talen ondersteund"
+          },
+          {
+            "icon": "globe",
+            "heading": "25+",
+            "text": "Beschikbaar in meer dan 25 landen"
+          },
+          {
+            "icon": "transaction",
+            "heading": "500+",
+            "text": "Meer dan 500 miljoen euro verhandeld"
+          },
+          {
+            "icon": "bitcoin",
+            "heading": "100+",
+            "text": "Honderden valuta's geïntegreerd"
+          }
+        ]
+      },
+      "reinvent": {
+        "heading": "Vind het wiel niet opnieuw uit, maar lijn het opnieuw uit",
+        "p-1": "Wij geloven dat je het wiel niet opnieuw hoeft uit te vinden om succesvol te zijn. Wat je wel moet doen is actie ondernemen! Pas jezelf nu toe en leer van de meesters."
+      },
+      "truth-never-lies": {
+        "heading": "De waarheid liegt nooit",
+        "p-1": "\"Onderwijs is niet de sleutel tot succes. Ervaring, wijsheid en kennis zijn de sleutels tot succes\"",
+        "points": [
+          {
+            "icon": "knowledge",
+            "heading": "Trainingsmateriaal",
+            "text": "Handige handleidingen en video's van hoge kwaliteit"
+          },
+          {
+            "icon": "professional",
+            "heading": "1 op 1 begeleiding",
+            "text": "Ervaren gekwalificeerde professionals"
+          }
+        ]
+      },
+      "time-waits": {
+        "heading": "De tijd wacht op niemand",
+        "points": [
+          {
+            "icon": "trade",
+            "heading": "Beslissingen",
+            "text": "Gekwalificeerde professionals met echte handelservaring op meerdere platforms."
+          },
+          {
+            "icon": "gantt-chart",
+            "heading": "Tijdwaarde",
+            "text": "Start nu en zie uw rendement groeien. Tijd is geld, verspil het niet."
+          },
+          {
+            "icon": "annual-calendar-page",
+            "heading": "Nu boeken",
+            "text": "Meld u vandaag nog aan en boek binnen enkele minuten uw één-op-één consult."
+          },
+          {
+            "icon": "shrink",
+            "heading": "Richting",
+            "text": "Onze experts wijzen u in de juiste richting en begeleiden u op het pad van succes."
+          },
+          {
+            "icon": "insight",
+            "heading": "Ondersteuning",
+            "text": "Uw persoonlijke accountmanager begeleidt u tijdens het hele proces."
+          }
+        ]
+      }
+    },
+    "questions": {
+      "title": "Account in afwachting van verificatie...",
+      "intro": {
+        "p-1": "Informatie importeren!!",
+        "p-2": "U moet de volgende 3 korte vragen indienen, zodat wij de <u>Persoonlijke accountmanager</u> kunnen aanwijzen die het beste bij uw profiel past."
+      },
+      "form": {
+        "question-1": {
+          "label": "Vraag 1: Geslacht",
+          "placeholder": "Selecteer alstublieft",
+          "genders": {
+            "male": "Mannelijk",
+            "female": "Vrouw",
+            "prefer-not-to-say": "Zeg ik liever niet"
+          }
+        },
+        "question-2": {
+          "label": "Vraag 2: Leeftijdsgroep",
+          "placeholder": "Selecteer alstublieft"
+        },
+        "question-3": {
+          "label": "Vraag 3: Investeringskapitaal",
+          "p-1": "We kennen allemaal het gezegde <i>\"geld maakt geld\"</i> - en de realiteit is dat deze zin helaas erg waar is!",
+          "p-2": "Wat mensen je niet vertellen, is dat als je in staat bent om je winsten in korte tijd te vermenigvuldigen, een klein beetje geld heel snel in veel geld kan veranderen!",
+          "p-3": "Selecteer het bedrag dat u bereid bent te investeren.",
+          "placeholder": "Selecteer alstublieft"
+        },
+        "button": "Doorgaan"
+      }
+    },
+    "welcome_auto_redirect": {
+      "title": "Even geduld a.u.b. terwijl we u aanmelden bij uw account..."
+    },
+    "welcome": {
+      "title": "Account in behandeling... Laatste stap...",
+      "intro": {
+        "p-1": "Dit is de belangrijkste LAATSTE STAP om uw account in te stellen,",
+        "highlight": "let hier goed op",
+        "p-2": "want je moet ervoor zorgen",
+        "p-3": "dat je systeem correct is ingesteld."
+      },
+      "phone-call": {
+        "heading": "Verificatie en instelling van telefoongesprekken",
+        "p-1": "In dit programma (zoals u hebt gezien) nemen we beveiliging zeer serieus en om te verifiëren dat u een echt persoon bent en om uw account te valideren, belt een van onze startup specialisten u binnen de komende 30 minuten. (Ma-vr)",
+        "p-2": "Als u niet beschikbaar bent, beantwoordt u de oproep en plant u een afspraak voor een beter tijdstip."
+      },
+      "self-activation": {
+        "heading": "Zelfactivering en hoe het werkt",
+        "p-1": "Op de volgende pagina wordt u doorgestuurd naar onze zorgvuldig geselecteerde partner om uw account <span class=\"font-bold\">Activeren</span> door uw kleine startkapitaal te storten.",
+        "p-2": "Het geld dat u stort, is <span class=\"font-bold\">uw geld</span> en u hoeft het niet allemaal tegelijk te gebruiken, u kunt beginnen met kleine bedragen om te zien hoe het systeem werkt en onthoud, u kunt op elk gewenst moment uw kapitaal opnemen.",
+        "p-3": "Als u niet zeker weet hoe u uw account <span class=\"font-bold\">zelf kunt activeren</span> gaat u naar uw account hieronder en wacht u tot een van onze startspecialisten u binnen de volgende 30 minuten belt. (Ma-vr)"
+      },
+      "go-to-account": "Ga Naar Account",
+      "recommended-broker": {
+        "heading": "Uw aanbevolen makelaar",
+        "p-1": "Ons team heeft deze handelsrekening zorgvuldig voor u geselecteerd. Als u problemen ondervindt bij het bekijken van de pagina, kunt u klikken op",
+        "p-2": "en de handelsapplicatie wordt geopend in een nieuw venster."
+      }
+    },
+    "welcome_two_step": {
+      "step-1": {
+        "title": "Account in behandeling... Laatste&nbsp;stap...",
+        "p-1": "Klik op deze groene knop om te verifiëren en te activeren.",
+        "button": "Klik hier om nu te verifiëren"
+      },
+      "step-2": {
+        "title": "Account in behandeling... Belangrijke informatie!!",
+        "sub-title": "U MOET dit nu lezen."
+      }
+    },
+    "welcome_received": {
+      "title": "Account in behandeling... Belangrijke informatie!!",
+      "sub-title": "U MOET dit nu lezen.",
+      "heading": "Telefoongesprekverificatie en -configuratie",
+      "p-1": "Helaas is ons kantoor nu gesloten, uw Persoonlijke accountmanager <u>belt u 's ochtends</u> of uiterlijk voor het einde van de volgende werkdag.",
+      "p-2": "Uw account blijft in behandeling totdat u bent geverifieerd. ",
+      "p-3": "<u>Accounts die niet binnen 24 uur (maandag - vrijdag) zijn geverifieerd, worden verwijderd</u> en de volgende beschikbare plaatsing wordt toegewezen aan het volgende account in de wachtrij.",
+      "p-4": "Accounts die in het weekend zijn aangemaakt, worden op maandag geverifieerd."
+    },
+    "privacy": {
+      "title": "Privacybeleid",
+      "content": "<p>We zijn zeer verheugd dat u interesse heeft getoond in onze onderneming. Gegevensbescherming heeft een bijzonder hoge prioriteit voor het beheer van de {siteName}. Het gebruik van de internetpagina's van de {siteName} is mogelijk zonder enige aanduiding van persoonlijke gegevens; als een betrokkene echter gebruik wil maken van speciale bedrijfsdiensten via onze website, kan de verwerking van persoonsgegevens noodzakelijk worden. Als de verwerking van persoonsgegevens noodzakelijk is en er geen wettelijke basis is voor een dergelijke verwerking, verkrijgen we over het algemeen toestemming van de betrokkene.</p><p>De verwerking van persoonsgegevens, zoals naam, adres, e-mail adres of telefoonnummer van een betrokkene moet altijd in overeenstemming zijn met de Algemene Verordening Gegevensbescherming (AVG) en in overeenstemming met de landspecifieke gegevensbeschermingsvoorschriften die van toepassing zijn op {siteName}. Door middel van deze gegevensbeschermingsverklaring wil onze onderneming het grote publiek informeren over de aard, de omvang en het doel van de persoonsgegevens die wij verzamelen, gebruiken en verwerken.Bovendien worden betrokkenen geïnformeerd door middel van deze gegevensbeschermingsverklaring , van de rechten waarop zij recht hebben.</p><p>Als verwerkingsverantwoordelijke heeft {siteName} talrijke technische en organisatorische maatregelen genomen om de meest volledige bescherming van persoonsgegevens die via deze website worden verwerkt, te waarborgen. Gegevensoverdracht via internet kan in principe beveiligingslacunes vertonen, zodat absolute bescherming mogelijk niet wordt gegarandeerd. Om deze reden staat het elke betrokkene vrij om persoonlijke gegevens aan ons over te dragen via alternatieve middelen, b.v. telefonisch.</p><h4 class=\"text-2xl\">1. Definities</h4><p>De gegevensbeschermingsverklaring van de {siteName} is gebaseerd op de termen die door de Europese wetgever worden gebruikt voor de goedkeuring van de Algemene Verordening Gegevensbescherming (AVG). Onze verklaring inzake gegevensbescherming moet leesbaar en begrijpelijk zijn voor het grote publiek, maar ook voor onze klanten en zakenpartners. Om dit te garanderen, willen we eerst de gebruikte terminologie uitleggen.</p><p>In deze verklaring inzake gegevensbescherming gebruiken we onder meer de volgende termen: </p><ul class=\"pl-8 \"><li><h4 class=\"text-lg\">a) Persoonsgegevens</h4><p>Persoonlijke gegevens betekent alle informatie met betrekking tot een geïdentificeerde of identificeerbare natuurlijke persoon (\"betrokkene\") . Een identificeerbare natuurlijke persoon is iemand die direct of indirect kan worden geïdentificeerd, met name door te verwijzen naar een identificator zoals een naam, een identificatienummer, locatiegegevens, een online identificator of naar een of meer factoren die specifiek zijn voor de fysieke, fysiologische, genetische, mentale, economische, culturele of sociale identiteit van die natuurlijke persoon.</p><h4 class=\"text-lg\">b) Betrokkene</h4><p>Betrokkene is een geïdentificeerde of identificeerbare natuurlijke persoon persoon wiens persoonsgegevens worden verwerkt door de verantwoordelijke voor de verwerking.</p><h4 class=\"text-lg\">c) Verwerking</h4><p>Verwerking is elke bewerking of reeks bewerkingen die wordt uitgevoerd op persoonsgegevens of op verzamelingen van persoonsgegevens, al dan niet met geautomatiseerde middelen, zoals verzameling, vastlegging, organisatie, structurering, opslag, aanpassing of wijziging, opvraging, raadpleging, gebruik, openbaarmaking door verzending, verspreiding of anderszins ter beschikking stellen , uitlijning of combinatie, beperking, uitwissing of vernietiging. </p><h4 class=\"text-lg\">d) Beperking van verwerking</h4><p>Beperking van de verwerking is het markeren van opgeslagen persoonlijke gegevens met als doel de verwerking ervan in de toekomst te beperken.</p><h4 class=\"text-lg\">e) Profilering</h4><p> Profilering betekent elke vorm van geautomatiseerde verwerking van persoonsgegevens bestaande uit het gebruik van persoonsgegevens om bepaalde persoonlijke aspecten met betrekking tot een natuurlijke persoon te evalueren, met name om aspecten met betrekking tot de prestaties van die natuurlijke persoon op het werk, economische situatie, gezondheid, persoonlijke voorkeuren te analyseren of te voorspellen , interesses, betrouwbaarheid, gedrag, locatie of verplaatsingen.</p><h4 class=\"text-lg\">f) Pseudonimisering</h4><p>Pseudonimisering is de verwerking van persoonsgegevens op een zodanige manier dat de persoonsgegevens kunnen niet langer worden toegeschreven aan een specifieke betrokkene zonder het gebruik van aanvullende informatie, op voorwaarde dat dergelijke aanvullende informatie afzonderlijk wordt bewaard en onderworpen is aan technische en organisatorische maatregelen om ervoor te zorgen dat de persoonsgegevens niet worden toegeschreven aan een geïdentificeerde of identificeerbare natuurlijkepersoon.</p><h4 class=\"text-lg\">g) Verwerkingsverantwoordelijke of voor de verwerking verantwoordelijke </h4><p>Verwerkingsverantwoordelijke of voor de verwerking verantwoordelijke is de natuurlijke of rechtspersoon, overheidsinstantie , instantie of andere instantie die, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt; wanneer het doel en de middelen van een dergelijke verwerking worden bepaald door de wetgeving van de Unie of de lidstaat, kan de verwerkingsverantwoordelijke of de specifieke criteria voor de benoeming ervan worden bepaald door de wetgeving van de Unie of de lidstaat.</p><h4 class=\"text-lg \">h) Verwerker</h4><p>Verwerker is een natuurlijke of rechtspersoon, overheidsinstantie, instantie of andere instantie die persoonsgegevens verwerkt namens de verwerkingsverantwoordelijke.</p><h4 class=\"text- lg\">i) Ontvanger</h4><p>Ontvanger is een natuurlijke of rechtspersoon, overheidsinstantie, instantie of een andere instantie aan wie de persoonsgegevens worden bekendgemaakt, ongeacht of dit een derde partij is of niet. Overheidsinstanties die persoonsgegevens kunnen ontvangen in het kader van een bepaald onderzoek overeenkomstig het recht van de Unie of de lidstaten, worden echter niet als ontvangers beschouwd; de verwerking van die gegevens door die overheidsinstanties moet in overeenstemming zijn met de toepasselijke regels voor gegevensbescherming volgens de doeleinden van de verwerking.</p><h4 class=\"text-lg\">j) Derde partij</h4 ><p>Derde partij is een natuurlijke of rechtspersoon, overheidsinstantie, instantie of lichaam anders dan de betrokkene, verantwoordelijke, verwerker en personen die, onder direct gezag van de verantwoordelijke of verwerker, gemachtigd zijn om persoonsgegevens te verwerken.</p><h4 class=\"text-l\">k) Toestemming</h4><p>Toestemming van de betrokkene is elke vrije, specifieke, geïnformeerde en ondubbelzinnige indicatie van de wensen van de betrokkene waarmee hij of zij, door een verklaring of door een duidelijke bevestigende handeling, instemt met de verwerking van persoonsgegevens die op hem of haar betrekking hebben.</p></li></ul><h4 class=\"text-2xl\"> 2. Naam en adres van de verwerkingsverantwoordelijke</h4><p>Verwerkingsverantwoordelijke voor de doeleinden van de Algemene Verordening Gegevensbescherming (AVG), andere gegevensbeschermingswetten die van toepassing zijn in de lidstaten van de Europese Unie en andere bepalingen met betrekking tot gegevensbescherming is: </p><p>{siteName}</p><p>Website: {siteDomain}</p>"
+    },
+    "cookie": {
+      "title": "Cookie beleid",
+      "content": "<p>De internetpagina's van de {siteName} gebruiken cookies. Cookies zijn tekstbestanden die via een internetbrowser in een computersysteem worden opgeslagen.</p><p>Veel internetsites en servers gebruiken cookies. Veel cookies bevatten een zogenaamde cookie-ID. Een cookie-ID is een unieke identificatie van de cookie. Het bestaat uit een tekenreeks waarmee internetpagina's en servers kunnen worden toegewezen aan de specifieke internetbrowser waarin de cookie is opgeslagen. Hierdoor kunnen bezochte internetsites en servers de individuele browser van de betrokkene onderscheiden van andere internetbrowsers die andere cookies bevatten. Een specifieke internetbrowser kan worden herkend en geïdentificeerd met behulp van de unieke cookie-ID.</p><p>Door het gebruik van cookies kan de {siteName} de gebruikers van deze website gebruiksvriendelijkere diensten bieden die niet mogelijk zouden zijn zonder de cookie-instelling.</p><p>Door middel van een cookie kunnen de informatie en aanbiedingen op onze website worden geoptimaliseerd met de gebruiker in gedachten. Cookies stellen ons, zoals eerder vermeld, in staat om onze websitegebruikers te herkennen. Het doel van deze herkenning is om het voor gebruikers gemakkelijker te maken om onze website te gebruiken. De websitegebruiker die cookies gebruikt, b.v. hoeft niet bij elk bezoek aan de website toegangsgegevens in te voeren, omdat deze door de website worden overgenomen en de cookie dus op het computersysteem van de gebruiker wordt opgeslagen. Een ander voorbeeld is de cookie van een winkelwagentje in een onlineshop. De online winkel onthoudt de artikelen die een klant via een cookie in het virtuele winkelwagentje heeft geplaatst.</p><p>De betrokkene kan te allen tijde het plaatsen van cookies via onze website voorkomen door middel van een overeenkomstige instelling van de gebruikte internetbrowser, en kan zo het plaatsen van cookies permanent weigeren. Bovendien kunnen reeds ingestelde cookies te allen tijde via een internetbrowser of andere softwareprogramma's worden verwijderd. Dit is mogelijk in alle populaire internetbrowsers. Als de betrokkene de instelling van cookies in de gebruikte internetbrowser deactiveert, zijn mogelijk niet alle functies van onze website volledig bruikbaar.</p>"
+    },
+    "gdpr": {
+      "title": "GDPR",
+      "content": "<h4 class=\"text-2xl\">Verzameling van algemene gegevens en informatie</h4><p>De website van de {siteName} verzamelt een reeks algemene gegevens en informatie wanneer een betrokkene of geautomatiseerd systeem de website. Deze algemene gegevens en informatie worden opgeslagen in de serverlogbestanden. Verzameld kunnen zijn (1) de browsertypes en -versies die worden gebruikt, (2) het besturingssysteem dat wordt gebruikt door het toegangssysteem, (3) de website van waaruit een toegangssysteem onze website bereikt (zogenaamde verwijzers), (4) de sub -websites, (5) de datum en tijd van toegang tot de internetsite, (6) een internetprotocoladres (IP-adres), (7) de internetserviceprovider van het toegangssysteem, en (8) alle andere soortgelijke gegevens en informatie die kan worden gebruikt bij aanvallen op onze informatietechnologiesystemen.</p><p>Bij het gebruik van deze algemene gegevens en informatie trekt de {siteName} geen conclusies over de betrokkene. Deze informatie is eerder nodig om (1) de inhoud van onze website correct weer te geven, (2) de inhoud van onze website en de advertenties te optimaliseren, (3) de levensvatbaarheid van onze informatietechnologiesystemen en websitetechnologie op lange termijn te waarborgen en (4) rechtshandhavingsinstanties de informatie verstrekken die nodig is voor strafrechtelijke vervolging in geval van een cyberaanval. Daarom analyseert {siteName} anoniem verzamelde gegevens en informatie statistisch, met als doel de gegevensbescherming en gegevensbeveiliging van onze onderneming te vergroten en een optimaal niveau van bescherming te garanderen voor de persoonsgegevens die we verwerken. De anonieme gegevens van de serverlogbestanden worden gescheiden opgeslagen van alle persoonlijke gegevens die door een betrokkene worden verstrekt.</p><h4 class=\"text-2xl\">Registratie op onze website</h4><p>De gegevens onderwerp heeft de mogelijkheid om zich te registreren op de website van de verwerkingsverantwoordelijke met vermelding van persoonsgegevens. Welke persoonlijke gegevens aan de controller worden doorgegeven, wordt bepaald door het respectieve invoermasker dat voor de registratie wordt gebruikt. De door de betrokkene ingevoerde persoonsgegevens worden uitsluitend voor intern gebruik door de verwerkingsverantwoordelijke en voor zijn eigen doeleinden verzameld en opgeslagen. De verwerkingsverantwoordelijke kan verzoeken om overdracht aan een of meer verwerkers (bijvoorbeeld een pakketdienst) die persoonsgegevens ook gebruikt voor een intern doel dat kan worden toegeschreven aan de verwerkingsverantwoordelijke.</p><p>Door te registreren op de website van de verwerkingsverantwoordelijke, kan het IP-adres -toegewezen door de internetserviceprovider (ISP) en gebruikt door de betrokkene - datum en tijd van de registratie worden ook opgeslagen. De opslag van deze gegevens vindt plaats tegen de achtergrond dat dit de enige manier is om misbruik van onze diensten, en, indien nodig, om opsporing van gepleegde strafbare feiten mogelijk te maken. Voor zover de opslag van deze gegevens noodzakelijk is om de verwerkingsverantwoordelijke te beveiligen. Deze gegevens worden niet doorgegeven aan derden, tenzij er een wettelijke verplichting bestaat tot het doorgeven van de gegevens, of indien de doorgifte het doel heeft van strafrechtelijke vervolging.</p><p>De registratie van de betrokkene, met de vrijwillige aanduiding van persoonsgegevens, is bedoeld om de verwerkingsverantwoordelijke in staat te stellen de betrokkene inhoud of diensten aan te bieden die vanwege de aard van de zaak alleen aan geregistreerde gebruikers mogen worden aangeboden. Het staat geregistreerde personen vrij om de tijdens de registratie opgegeven persoonsgegevens op elk moment te wijzigen of volledig te laten verwijderen uit de gegevensvoorraad van de verantwoordelijke.</p><p>De verantwoordelijke voor de verwerking zal te allen tijde informatie verstrekken over verzoek aan elke betrokkene welke persoonsgegevens over de betrokkene zijn opgeslagen. Bovendien zal de verwerkingsverantwoordelijke op verzoek of aanwijzing van de betrokkene persoonsgegevens corrigeren of wissen, voor zover er geen wettelijke bewaarverplichtingen zijn. Alle medewerkers van de verwerkingsverantwoordelijke staan in dit verband ter beschikking van de betrokkene als contactpersoon.</p><p>De website van de {siteName} bevat informatie die een snel elektronisch contact met onze onderneming mogelijk maakt, evenals directe communicatie bij ons, die ook een algemeen adres van de zogenaamde elektronische post (e-mailadres) bevat. Als een betrokkene per e-mail of via een contactformulier contact opneemt met de verantwoordelijke voor de verwerking, worden de door de betrokkene doorgegeven persoonsgegevens automatisch opgeslagen. Dergelijke persoonsgegevens die op vrijwillige basis door een betrokkene aan de verwerkingsverantwoordelijke worden doorgegeven, worden opgeslagen met het oog op de verwerking of het contact opnemen met de betrokkene. Er vindt geen overdracht van deze persoonlijke gegevens aan derden plaats.</p><h4 class=\"text-2xl\">Routine wissen en blokkeren van persoonlijke gegevens</h4><p>De verantwoordelijke voor de verwerking zal de persoonsgegevens van de betrokkene alleen verwerken en opslaan voor de periode die nodig is om het doel van de opslag te bereiken, of voor zover dit wordt toegestaan door de Europese wetgever of andere wetgevers in wet- of regelgeving waaraan de verwerkingsverantwoordelijke is onderworpen aan.</p><p>Als het opslagdoel niet van toepassing is, of als een door de Europese wetgever of een andere bevoegde wetgever voorgeschreven opslagtermijn verstrijkt, worden de persoonsgegevens routinematig geblokkeerd of gewist in overeenstemming met de wettelijke vereisten. </p><h4 class=\"text-2xl\">Rechten van de betrokkene</h4><ul class=\"pl-8\"><li><h4 class=\"text-lg\">a) Recht op bevestiging</h4><p>Elke betrokkene heeft het door de Europese wetgever verleende recht om van de voor de verwerking verantwoordelijke de bevestiging te krijgen of er al dan niet persoonlijke gegevens over hem of haar worden verwerkt. Als een betrokkene gebruik wil maken van dit recht op bevestiging, kan hij of zij te allen tijde contact opnemen met een medewerker van de verantwoordelijke voor de verwerking.</p></li><li><h4 class=\"text-lg \">b) Recht op toegang</h4><p>Elke betrokkene heeft het door de Europese wetgever verleende recht om van de verwerkingsverantwoordelijke te allen tijde gratis informatie over zijn of haar opgeslagen persoonsgegevens en een kopie van deze informatie te verkrijgen . Bovendien verlenen de Europese richtlijnen en verordeningen de betrokkene toegang tot de volgende informatie: </p><ul class=\"pl-8 pb-6\"><li>de doeleinden van de verwerking;</li><li>de betrokken categorieën persoonsgegevens;</li><li>de ontvangers of categorieën ontvangers aan wie de persoonsgegevens zijn of zullen worden bekendgemaakt, met name ontvangers in derde landen of internationale organisaties;</li><li >waar mogelijk, de beoogde periode gedurende welke de persoonsgegevens zullen worden opgeslagen, of, indien niet mogelijk, de criteria die worden gebruikt om die periode te bepalen;</li><li>het bestaa van het recht om de verwerkingsverantwoordelijke te verzoeken om rectificatie of verwijdering van persoonsgegevens gegevens, of beperking van de verwerking van persoonsgegevens betreffende de betrokkene, of om bezwaar te maken tegen een dergelijke verwerking;</li><li>het bestaan van het recht om een klacht in te dienen bij een toezichthoudende autoriteit;</li><li>waar de persoonlijke gegevens worden niet verzameld van de betrokkene, alle beschikbare informatie over hun bron;</li><li>de ex is van geautomatiseerde besluitvorming, inclusief profilering, bedoeld in artikel 22, leden 1 en 4, van de AVG en, althans in die gevallen, zinvolle informatie over de betrokken logica, evenals de betekenis en beoogde gevolgen van dergelijke verwerking voor de betrokkene.</li></ul><p>Bovendien heeft de betrokkene het recht om informatie te verkrijgen over de vraag of persoonsgegevens worden doorgegeven aan een derde land of aan een internationale organisatie. Indien dit het geval is, heeft de betrokkene het recht om geïnformeerd te worden over de passende waarborgen met betrekking tot de doorgifte.</p><p>Als een betrokkene gebruik wil maken van dit recht op toegang, kan hij of zij , kunt u op elk moment contact opnemen met een medewerker van de verwerkingsverantwoordelijke.</p></li><li><h4 class=\"text-lg\">c) Recht op rectificatie</h4><p>Elke betrokkene zal het door de Europese wetgever verleende recht hebben om van de voor de verwerking verantwoordelijke onverwijld de rectificatie van hem of haar betreffende onjuiste persoonsgegevens te verkrijgen. Rekening houdend met de doeleinden van de verwerking, heeft de betrokkene het recht om onvolledige persoonsgegevens te laten aanvullen, onder meer door het verstrekken van een aanvullende verklaring.</p><p>Als een betrokkene gebruik wil maken van dit recht op rectificatie, kan hij of zij te allen tijde contact opnemen met een medewerker van de verwerkingsverantwoordelijke.</p></li> <li><h4 class=\"text-lg\">d) Recht op wissen (Recht om te worden vergeten)</h4><p>Elke betrokkene heeft het recht verleend door de de Europese wetgever om van de voor de verwerking verantwoordelijke het wissen van hem of haar betreffende persoonsgegevens zonder onnodige vertraging te verkrijgen, en de voor de verwerking verantwoordelijke is verplicht om persoonsgegevens onverwijld te wissen wanneer een van de volgende gronden van toepassing is, zolang de verwerking niet is noodzakelijk:</p><ul class=\"pl-8 pb-6\"><li>De persoonlijke gegevens zijn niet langer nodig in verband met de doeleinden waarvoor ze zijn verzameld of anderszins zijn verwerkt.</li><li>De betrokkene trekt de toestemming in waarop de verwerking is gebaseerd overeenkomstig punt (a) van artikel 6, lid 1, van de AVG, of punt (a) van artikel 9, lid 2, van de AVG, en wanneer er geen andere rechtsgrond voor de verwerking.</li><li>De betrokkene maakt bezwaar tegen de verwerking op grond van artikel 21, lid 1, van de AVG en er zijn geen dwingende legitieme gronden voor de verwerking, of de betrokkene maakt bezwaar tegen de verwerking op grond van Artikel 21(2) van de AVG.</li><li>De persoonsgegevens zijn onrechtmatig verwerkt.</li><li>De persoonsgegevens moeten worden gewist om te voldoen aan een wettelijke verplichting in het recht van de Unie of de lidstaten waaraan de verwerkingsverantwoordelijke is onderworpen.</li><li>De persoonsgegevens zijn verzameld in verband met het aanbod van diensten van de informatiemaatschappij waarnaar wordt verwezen in artikel 8, lid 1, van de AVG.</li></ul><p>Als een van de bovengenoemde redenen van toepassing is en een betrokkene de verwijdering van persoonlijke gegevens die door de {siteName} zijn opgeslagen, wil verzoeken, hij of zij kan te allen tijde contact opnemen met een medewerker van de verwerkingsverantwoordelijke. Een medewerker van {siteName} zorgt er onverwijld voor dat aan het verzoek tot wissen onmiddellijk wordt voldaan.</p><p>Indien de verwerkingsverantwoordelijke persoonsgegevens openbaar heeft gemaakt en op grond van artikel 17, lid 1, verplicht is de persoonsgegevens te wissen, is de verwerkingsverantwoordelijke neemt, rekening houdend met de beschikbare technologie en de uitvoeringskosten, redelijke maatregelen, waaronder technische maatregelen, om andere verwerkingsverantwoordelijken die de persoonsgegevens verwerken, te informeren dat de betrokkene door dergelijke verwerkingsverantwoordelijken heeft verzocht om alle links naar, of kopieën of replicaties van, die persoonsgegevens, voor zover verwerking niet vereist is. Een medewerker van de{siteName} zal in individuele gevallen de nodige maatregelen treffen.</p></li><li><h4 class=\"text-lg\">e) Recht op beperking van de verwerking</h4> <p>Elke betrokkene heeft het door de Europese wetgever verleende recht om van de verwerkingsverantwoordelijke beperking van de verwerking te verkrijgen wanneer een van de volgende situaties van toepassing is:</p><ul class=\"pl-8 pb-6\"><li>De juistheid van de persoonsgegevens wordt door de betrokkene betwist, gedurende een periode die de verwerkingsverantwoordelijke in staat stelt de juistheid van de persoonsgegevens te verifiëren.</li><li>De verwerking is onwettig en de betrokkene verzet zich tegen het wissen van de persoonsgegevens gegevens en verzoekt in plaats daarvan beperking van het gebruik ervan.</li><li>De verwerkingsverantwoordelijke heeft de persoonsgegevens niet langer nodig voor de doeleinden van de verwerking, maar ze zijn vereist door de betrokkene voor het instellen, uitoefenen of verdedigen van rechtsvorderingen. </li><li>De betrokkene heeft bezwaar gemaakt tegen de verwerking op grond van artikel 21, lid 1, van de AVG in afwachting van de verificatie of de legitieme gr de verantwoordelijkheid van de verwerkingsverantwoordelijke prevaleert boven die van de betrokkene.</li></ul><p>Als aan een van de bovengenoemde voorwaarden is voldaan en een betrokkene de beperking van de verwerking van persoonsgegevens die door de { siteName}, kan hij of zij op elk moment contact opnemen met een medewerker van de controller. De medewerker van de {siteName} regelt de beperking van de verwerking.</p></li><li><h4 class=\"text-lg\">f) Recht op gegevensoverdraagbaarheid</h4><p >Elke betrokkene heeft het door de Europese wetgever verleende recht om de hem betreffende persoonsgegevens die aan een verwerkingsverantwoordelijke zijn verstrekt, in een gestructureerd, algemeen gebruikt en machineleesbaar formaat te ontvangen. Hij of zij heeft het recht om die gegevens door te geven aan een andere verwerkingsverantwoordelijke zonder gehinderd te worden door de verwerkingsverantwoordelijke aan wie de persoonsgegevens zijn verstrekt, zolang de verwerking gebaseerd is op toestemming overeenkomstig artikel 6, lid 1, onder a), van de AVG of punt (a) van artikel 9, lid 2, van de AVG, of op een contract op grond van punt (b) van artikel 6, lid 1, van de AVG, en de verwerking wordt uitgevoerd met geautomatiseerde middelen, zolang de verwerking is niet noodzakelijk voor de uitvoering van een taak die wordt uitgevoerd in het algemeen belang of bij de uitoefening van het openbaar gezag dat aan de verantwoordelijke voor de verwerking is verleend.</p><p>Bovendien bij de uitoefening van zijn of haar recht op gegevensoverdraagbaarheid op grond van artikel 20, lid 1, van de AVG, heeft de betrokkene het recht om persoonsgegevens rechtstreeks van de ene controller naar de andere te laten verzenden, indien technisch mogelijk en wanneer dit geen nadelige invloed heeft op de rechten en vrijheden van anderen.</p> p>Om het recht op gegevensoverdraagbaarheid te doen gelden, kan de betrokkene: neem op elk moment contact op met een medewerker van de {siteName}.</p></li><li><h4 class=\"text-lg\">g) Recht van bezwaar</h4><p>Elke betrokkene heeft het door de Europese wetgever verleende recht om te allen tijde bezwaar te maken tegen de verwerking van hem betreffende persoonsgegevens om redenen die verband houden met zijn of haar specifieke situatie, op grond van artikel, onder e) of (f), 6(1) van de AVG. Dit geldt ook voor profilering op basis van deze bepalingen.</p><p>De {siteName} zal de persoonsgegevens in geval van bezwaar niet langer verwerken, tenzij we dwingende gerechtvaardigde gronden voor de verwerking kunnen aantonen die prevaleren boven de belangen, rechten en vrijheden van de betrokkene, of voor het instellen, uitoefenen of verdedigen van juridische claims.</p><p>Als {siteName} persoonsgegevens verwerkt voor direct marketingdoeleinden, heeft de betrokkene het recht om te allen tijde bezwaar te maken tegen de verwerking van hem of haar betreffende persoonsgegevens voor dergelijke marketing. Dit geldt voor profilering voor zover deze verband houdt met dergelijke direct marketing. Als de betrokkene bezwaar maakt tegen de {siteName} tegen de verwerking voor direct marketingdoeleinden, zal de {siteName} de persoonsgegevens niet langer voor deze doeleinden verwerken.</p><p>Bovendien heeft de betrokkene het recht om op redenen die verband houden met zijn of haar specifieke situatie, bezwaar te maken tegen de verwerking van hem of haar betreffende persoonsgegevens door de {siteName} voor wetenschappelijke of historische onderzoeksdoeleinden, of voor statistische doeleinden op grond van artikel 89, lid 1, van de AVG, tenzij de verwerking is noodzakelijk voor de uitvoering van een taak die wordt uitgevoerd om redenen van algemeen belang.</p><p>Om het recht op bezwaar uit te oefenen, kan de betrokkene contact opnemen met een medewerker van de {siteName}. Bovendien is het de betrokkene vrij in het kader van het gebruik van diensten van de informatiemaatschappij, en niettegenstaande Richtlijn 2002/58/EG, om zijn of haar recht van bezwaar te gebruiken met geautomatiseerde middelen met behulp van technische specificaties.</p></li> <li><h4 class=\"text-lg\">h) Geautomatiseerde individuele besluitvorming, inclusief profilering </h4><p>Elke betrokkene heeft het door de Europese wetgever verleende recht om niet te worden onderworpen aan een beslissing uitsluitend gebaseerd op geautomatiseerde verwerking, met inbegrip van profilering, die rechtsgevolgen voor hem of haar heeft, of hem of haar op vergelijkbare wijze in aanzienlijke mate treft, zolang de beslissing (1) niet noodzakelijk is voor het aangaan of de uitvoering van een contract tussen de betrokkene en een voor de verwerking verantwoordelijke, of (2) niet gemachtigd is krachtens het recht van de Unie of de lidstaten waaraan de voor de verwerking verantwoordelijke onderworpen is en waarin ook passende maatregelen zijn vastgesteld om de rechten en vrijheden en legitieme belangen van de betrokkene te beschermen, of (3) is niet gebaseerd op de expliciete c . van de betrokkene onsent.</p><p>Als de beslissing (1) noodzakelijk is voor het aangaan of de uitvoering van een contract tussen de betrokkene en een gegevensbeheerder, of (2) deze is gebaseerd op de uitdrukkelijke toestemming van de betrokkene, de {siteName} zal passende maatregelen nemen om de rechten en vrijheden en legitieme belangen van de betrokkene te beschermen, in ieder geval het recht op menselijke tussenkomst van de verantwoordelijke voor de verwerking, om zijn of haar standpunt kenbaar te maken en de beslissing aan te vechten.</p><p>Als de betrokkene de rechten met betrekking tot geautomatiseerde individuele besluitvorming wil uitoefenen, kan hij of zij op elk moment contact opnemen met een medewerker van de {siteName}.</p></li><li> <h4 class=\"text-lg\">i) Recht om toestemming voor gegevensbescherming in te trekken</h4><p>Elke betrokkene heeft het door de Europese wetgever verleende recht om zijn of haar toestemming voor de verwerking van zijn of haar persoonlijke gegevens op elk moment.</p><p>Als de betrokkene gebruik wil maken van het recht om de toestemming in te trekken, kan hij of zij op elk moment, contact opnemen met een medewerker van de {siteName}.</p></li></ul><h4 class=\"text-2xl\">Rechtsgrondslag voor de verwerking</h4><p>Art. 6(1) verlicht. a AVG dient als rechtsgrondslag voor verwerkingen waarvoor wij toestemming verkrijgen voor een specifiek verwerkingsdoel. Indien de verwerking van persoonsgegevens noodzakelijk is voor de uitvoering van een overeenkomst waarbij de betrokkene partij is, zoals bijvoorbeeld het geval is wanneer verwerkingen noodzakelijk zijn voor de levering van goederen of om een andere dienst te verlenen, is de verwerking op basis van artikel 6, lid 1, lit. b AVG. Hetzelfde geldt voor dergelijke verwerkingen die nodig zijn voor het uitvoeren van precontractuele maatregelen, bijvoorbeeld in het geval van vragen over onze producten of diensten. Is ons bedrijf onderworpen aan een wettelijke verplichting waardoor verwerking van persoonsgegevens vereist is, zoals voor het voldoen aan fiscale verplichtingen, dan is de verwerking gebaseerd op art. 6(1) verlicht. c AVG. In zeldzame gevallen kan de verwerking van persoonsgegevens noodzakelijk zijn om de vitale belangen van de betrokkene of van een andere natuurlijke persoon te beschermen. Dit zou bijvoorbeeld het geval zijn als een bezoeker in ons bedrijf gewond zou raken en zijn naam, leeftijd, ziektekostenverzekeringsgegevens of andere vitale informatie zou moeten worden doorgegeven aan een arts, ziekenhuis of andere derde partij. Dan zou de verwerking gebaseerd zijn op art. 6(1) verlicht. d AVG. Ten slotte zouden verwerkingen kunnen worden gebaseerd op artikel 6, lid 1, lit. f AVG. Deze rechtsgrond wordt gebruikt voor verwerkingen die niet onder een van de bovengenoemde rechtsgronden vallen, als de verwerking noodzakelijk is voor de behartiging van de legitieme belangen van ons bedrijf of een derde partij, behalve wanneer dergelijke belangen zwaarder wegen dan de belangen of fundamentele rechten en vrijheden van de betrokkene die bescherming van persoonsgegevens vereisen. Dergelijke verwerkingen zijn met name toegestaan omdat ze specifiek zijn genoemd door de Europese wetgever. Hij was van mening dat een legitiem belang kan worden aangenomen als de betrokkene een klant is van de verwerkingsverantwoordelijke (overweging 47 zin 2 AVG).</p><h4 class=\"text-2xl\">De legitieme belangen die door de verwerkingsverantwoordelijke worden nagestreefd of door een derde partij </h4><p>Waar de verwerking van persoonsgegevens is gebaseerd op artikel 6, lid 1, lit. f AVG ons legitieme belang is om ons bedrijf uit te voeren ten gunste van het welzijn van al onze medewerkers en de aandeelhouders.</p><h4 class=\"text-2xl\">Periode waarvoor de persoonlijke gegevens worden bewaard opgeslagen</h4><p>De criteria die worden gebruikt om de bewaartermijn van persoonlijke gegevens te bepalen, zijn de respectieve wettelijke bewaartermijnen. Na het verstrijken van die periode worden de betreffende gegevens routinematig verwijderd, zolang deze niet langer nodig zijn voor de uitvoering van het contract of het aangaan van een contract.</p><h4 class=\"text-2xl\"> Verstrekking van persoonsgegevens als wettelijke of contractuele verplichting; Vereiste die nodig is om een contract aan te gaan; Verplichting van de betrokkene om de persoonsgegevens te verstrekken; mogelijke gevolgen van het niet verstrekken van dergelijke gegevens</h4><p>We verduidelijken dat het verstrekken van persoonsgegevens deels wettelijk verplicht is (bijv. fiscale voorschriften) of ook kan voortvloeien uit contractuele bepalingen (bijv. informatie over de contractpartner). Soms kan het nodig zijn om een contract af te sluiten dat de betrokkene ons persoonsgegevens verstrekt, die vervolgens door ons moeten worden verwerkt. De betrokkene is bijvoorbeeld verplicht om ons persoonlijke gegevens te verstrekken wanneer ons bedrijf een contract met hem of haar sluit. Het niet verstrekken van de persoonsgegevens zou tot gevolg hebben dat de overeenkomst met de betrokkene niet kan worden gesloten. Voordat persoonsgegevens door de betrokkene worden verstrekt, moet de betrokkene contact opnemen met een medewerker. De werknemer verduidelijkt aan de betrokkene of het verstrekken van de persoonsgegevens wettelijk of contractueel vereist is of noodzakelijk is voor het sluiten van het contract, of er een verplichting bestaat om de persoonsgegevens te verstrekken en wat de gevolgen zijn van het niet verstrekken van de persoonsgegevens data.</p><h4 class=\"text-2xl\">Bestaan van geautomatiseerde besluitvorming</h4><p>Als verantwoordelijk bedrijf gebruiken we geen automatische besluitvorming of profilering.</p>"
+    }
+  }
+}

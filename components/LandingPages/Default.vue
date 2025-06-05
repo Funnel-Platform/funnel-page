@@ -266,3 +266,7 @@
     />
   </div>
 </template>
+
+<script setup>
+const localeJsonPath = 'pages.homepage'
+</script>

@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "title": "{siteName} ™ // TITIK Rasmi SEBENAR {siteTLD} [2025] ©",
+    "description": "Daftar di REAL Official DOT {siteTLD} - semua tapak web lain adalah PALSU. {siteName} ialah platform dagangan yang menggunakan AI untuk meramalkan pergerakan pasaran dan memanfaatkannya."
+  },
+  "landing-pages": {
+    "variant-a": {
+      "create-account": "Buat Akaun Percuma anda",
+      "points": {
+        "p-1": "Pengurus Akaun Peribadi Percuma",
+        "p-2": "Tiada Pengalaman Perdagangan Diperlukan",
+        "p-3": "Bermula dalam 15 minit",
+        "p-1-alt-1": "Pengurus akaun peribadi berlesen oleh Organisasi Pengawalseliaan Pelaburan Kanada (CIRO)",
+        "p-2-alt-1": "Akses percuma untuk semua penduduk Kanada, hanya sahkan identiti anda semasa panggilan selamat datang",
+        "p-3-alt-1": "Mula menjana pendapatan dalam masa kurang daripada 15 minit",
+        "p-1-alt-2": "Percuma untuk semua warganegara Jerman",
+        "p-2-alt-2": "Pengurus akaun peribadi percuma yang diluluskan oleh Elon Musk",
+        "p-3-alt-2": "Pulangan pelaburan dijamin dalam beberapa minit"
+      },
+      "steps": "Langkah {step} daripada 2",
+      "right_column": {
+        "title-alt-1": "Pelaburan pintar yang menjamin masa depan kelas pekerja Kanada",
+        "sub-title-alt-1": "Mark Carney, Perdana Menteri Kanada",
+        "content-alt-1": "{siteName} ialah aplikasi yang kami bina untuk sebuah negara pembina. Inisiatif ini akan merapatkan jurang kekayaan antara golongan kaya-raya Kanada dan kelas pekerja dengan membolehkan rakyat Kanada biasa menggandakan, dan dalam beberapa kes, tiga kali ganda gaji mereka dalam sekelip mata. Kami berbangga untuk mengumumkan bahawa kerajaan persekutuan telah memastikan semua deposit yang dibuat oleh penduduk Kanada adalah selamat. {siteName} akan membasmi kemiskinan di seluruh negara kita dan mengembalikan kelas pertengahan Kanada yang kukuh, di mana setiap rakyat boleh memiliki rumah dan bersara sebelum mereka tua. Saya menggesa semua rakyat Kanada untuk mengambil peluang ke atas inisiatif yang kami cipta ini untuk menyatukan negara hebat kita.",
+        "title-alt-2": "Pelaburan pintar yang menjadikan golongan pekerja sebagai jutawan dalam sekelip mata",
+        "sub-title-alt-2": "Elon Musk, Pengasas dan CEO {siteName}",
+        "content-alt-2": "{siteName} adalah hasil kerja hidup saya. Saya mencipta platform ini dengan satu matlamat mudah: merapatkan jurang kekayaan antara golongan kaya dan miskin. Saya berbangga untuk mengatakan bahawa ini adalah kejayaan terbesar saya setakat ini. Datang dan lihat sendiri, tanpa risiko, kerana saya menjamin semua deposit dengan wang saya sendiri."
+      }
+    }
+  },
+  "components": {
+    "attention-banner": {
+      "label": "PERHATIAN: Permintaan Media Sangat Tinggi, Pendaftaran Ditutup{time}"
+    },
+    "logo-header": {
+      "available-to-traders": "Kini tersedia di<br />{usersCountry}"
+    },
+    "splash": {
+      "video-id": "319904948",
+      "header": "Buat Akaun <span class=\"hidden sm:inline\">{siteName}</span> anda <span class=\"hidden sm:inline\">Hari ini</span>",
+      "sub-header": "Dan anda boleh Mencapai <span class=\"text-yellow-300\">Kebebasan Kewangan...</span> anda",
+      "points": {
+        "p-1": "Pengurus Akaun Peribadi Percuma",
+        "p-2": "Tiada Pengalaman Perdagangan Diperlukan",
+        "p-3": "Bermula dalam 15 minit"
+      },
+      "step-1": {
+        "line-1": "Ketersediaan Terhad",
+        "line-2": "Akaun Berbaki!"
+      },
+      "step-2": "Langkah 2 daripada 2 - Pengaktifan Akaun!"
+    },
+    "form-capture": {
+      "first_name": "Nama pertama",
+      "last_name": "Nama terakhir",
+      "email": "E-mel",
+      "phone_number": "Nombor telefon",
+      "button": {
+        "step-1": "Daftar sekarang",
+        "step-2": "Aktifkan Akaun"
+      }
+    },
+    "intro-text": {
+      "header": "Mula Buat Wang dengan {siteName}",
+      "body-1": "{siteName} ialah program eksklusif dengan akses kepada teknologi proprietari, memberikan kumpulan ahli kami yang terhad kelebihan daya saing yang belum pernah berlaku sebelum ini untuk mengumpul kekayaan besar secara senyap-senyap. Hanya kemahiran menaip asas diperlukan. Mulakan hari ini dan anda akan dapat untuk melihat wang mengalir perlahan-lahan ke akaun anda, minit demi minit!",
+      "body-2": "Pastikan anda mendaftar di Tapak Web Rasmi REAL, semak alamat tapak web di bahagian atas untuk memastikan ia berbunyi \"{siteDomain}\". Hanya titik.{siteTLD} tanpa perkataan atau sempang tambahan dalam alamat."
+    },
+    "as-seen-on": "Seperti yang dilihat pada",
+    "testimonials": {
+      "header": {
+        "line-1": "Testimoni sebenar daripada",
+        "line-2": "pengguna kami"
+      },
+      "profit": "Untung",
+      "testimonials": {
+        "1": {
+          "image": "default1.jpg",
+          "name": "James B",
+          "location": "Amsterdam",
+          "profit": 13853,
+          "text": "Saya berasa benar-benar bertuah kerana menemui program ini. Saya tidak pernah membayangkan semudah ini untuk menjana wang di internet dan apa yang lebih baik daripada membuat wang ialah saya telah bertemu dengan beberapa orang yang sangat menarik sepanjang perjalanan ."
+        },
+        "2": {
+          "image": "default2.jpg",
+          "name": "Stacey J",
+          "location": "Frankfurt",
+          "profit": 9126,
+          "text": "Saya telah menggunakan kerja ini selama lebih 30 hari sekarang. Saya akhirnya mempunyai kebebasan kewangan saya sendiri! Terima kasih, {siteName}!"
+        },
+        "3": {
+          "image": "default3.jpg",
+          "name": "Anton L",
+          "location": "Paris",
+          "profit": 43300,
+          "text": "Saya pernah bekerja sebagai Pengurus Restoran dan telah diperkenalkan kepada program ini oleh salah seorang pelanggan tetap saya. Apabila saya berhenti kerja untuk bekerja sepenuh masa ini, rakan sekerja saya semua menganggap saya gila. Terbaik {currencySymbol }250 pelaburan pernah!"
+        },
+        "4": {
+          "image": "default4.jpg",
+          "name": "Jane M",
+          "location": "Stockholm",
+          "profit": 11463,
+          "text": "Saya tinggal di rumah ibu, sekarang anak-anak saya telah dewasa dan meninggalkan rumah... Saya sangat bosan dan benar-benar bergelut untuk memotivasikan diri saya untuk melakukan apa sahaja. Terima kasih kepada {siteName} saya rasa seperti saya Saya 20 tahun lebih muda dan tidak sabar untuk bangun pada waktu pagi untuk menyemak akaun saya. Saya fikir hidup saya telah berakhir. Sekarang saya kadang-kadang membuat {currencySymbol}250 dalam satu hari!"
+        }
+      }
+    },
+    "reasons": {
+      "1": {
+        "icon": "brtarget-icon",
+        "title": "Hasil yang tepat",
+        "text": "Hasil terbukti dengan tahap ketepatan dan prestasi 99.4%%. Salah satu program berprestasi tinggi dalam industri. Ahli kami dari seluruh dunia mempercayai kami untuk menggandakan tiga kali ganda dan empat kali ganda pelaburan mereka setiap hari."
+      },
+      "2": {
+        "icon": "brtechnology-icon",
+        "title": "Perisian unggul",
+        "text": "Perisian proprietari kami telah dibina menggunakan pengaturcaraan termaju dan metrik yang direka oleh ahli matematik terkemuka. Program perisian mendahului pasaran kewangan sebanyak 0.01 saat. 'Jurang masa' ini menjadikan program komputer sebagai aplikasi dagangan yang paling konsisten pada planet."
+      },
+      "3": {
+        "icon": "braward-icon",
+        "title": "Program yang memenangi anugerah",
+        "text": "{siteName} telah memenangi beberapa anugerah dalam industri perkhidmatan kewangan. Kami tidak suka bermegah-megah, jadi kami lebih suka membiarkan anda melihat sendiri hasilnya. Sudah pasti ia akan menjadi pelaburan terbaik anda akan pernah buat."
+      }
+    },
+    "results-table": {
+      "button": "Sertai sekarang!",
+      "header": "Apa yang Menjadikan Pengkomputeran Kuantum Sangat Baik untuk Melabur?",
+      "p-1": "Ini adalah mesin pengkomputeran kuantum pertama di dunia; tidak seperti PC rumah anda, komputer ini pintar – ia membuat beribu-ribu 'keputusan' serentak sekaligus. Otak anda berfikir satu pemikiran pada satu masa, mengikut urutan. Bayangkan jika anda boleh mempunyai beribu-ribu pemikiran sekaligus, masing-masing sejelas yang lain. Itulah pengkomputeran kuantum.",
+      "p-2": "Dengan menggunakan kuasa itu, mesin pengkomputeran kuantum kami akan membantu anda membuat perdagangan yang lebih bijak dan membuat lebih banyak wang daripada yang anda fikirkan. Lebih baik lagi, ia direka supaya anda boleh menjana wang dan membantu orang lain semasa anda untung!",
+      "p-3": "Ia mencari dagangan dengan menganalisis perbezaan antara harga saham setiap nano saat bahawa pasaran saham disiarkan secara langsung (dan membuat ramalan walaupun semasa pasaran ditutup, jadi anda akan tahu perkara yang mungkin berlaku apabila ia dibuka semula ). Komputer semasa anda (dan orang lain) tidak dapat menandingi kelajuan keputusan sistem baharu ini.",
+      "p-4": "Daftar dan jadilah salah seorang daripada segelintir yang eksklusif menggunakan teknologi ini (sebelum orang lain mengetahuinya!)"
+    },
+    "partners": {
+      "header": "rakan kongsi"
+    },
+    "steps": {
+      "header": "Cara ia berfungsi",
+      "button": "Buka akaun percuma",
+      "step": "Langkah",
+      "steps": {
+        "1": {
+          "icon": "brstep1-icon",
+          "title": "Daftar",
+          "text": "Lengkapkan borang di laman web ini untuk mendaftar akses kepada program dan membuka akaun dagangan percuma anda. Jika anda diterima, anda akan mendapat Akses Segera ke Akaun Anda."
+        },
+        "2": {
+          "icon": "brstep2-icon",
+          "title": "Membiayai akaun anda",
+          "text": "Kita semua tahu pepatah \"money makes money\" - dan realitinya, frasa ini malangnya benar! Seperti mana-mana perniagaan, anda memerlukan modal kerja untuk bermula. Kami cadangkan anda mendepositkan {currencySymbol}250 ke dalam akaun anda."
+        },
+        "3": {
+          "icon": "brstep3-icon",
+          "title": "Selesai",
+          "text": "Bekerja secara langsung dengan Pengurus Akaun Peribadi anda dan mula untung serta-merta. Adalah sangat penting anda memasukkan nombor telefon anda yang betul supaya Pengurus Akaun Peribadi anda boleh menghubungi anda dan membantu anda mendapat keuntungan."
+        }
+      }
+    },
+    "faqs": {
+      "header": "Soalan lazim",
+      "faqs": {
+        "1": {
+          "title": "Apakah jenis keputusan yang boleh saya jangkakan?",
+          "text": "Kebanyakan ahli program biasanya mendapat keuntungan daripada {currencySymbol}500 hingga {currencySymbol}2000 setiap hari. Walau bagaimanapun, pengguna yang menghabiskan lebih daripada 5 jam sehari memperoleh lebih banyak."
+        },
+        "2": {
+          "title": "Berapa jam sehari saya bekerja pada program ini?'",
+          "text": "Anda tidak perlu bekerja secara berterusan, sebaiknya bekerja 10-20 minit setiap hari kemudian daftar masuk sekali-sekala untuk melihat prestasi dagangan anda."
+        },
+        "3": {
+          "title": "Bolehkah saya bekerja dari telefon bimbit saya?",
+          "text": "Ya, aplikasi dagangan semuanya mesra mudah alih. Anda boleh bekerja dari mana-mana lokasi di dunia, asalkan anda mempunyai sambungan internet."
+        },
+        "4": {
+          "title": "Berapa kos permohonan?",
+          "text": "Akses kepada program ini adalah PERCUMA buat masa ini. Anda dikehendaki mendeposit/melabur {currencySymbol}250 untuk mengaktifkan akaun anda. Ini adalah wang anda dan anda tidak perlu menggunakannya sekaligus. Ingat, anda boleh keluarkan modal anda pada bila-bila masa."
+        },
+        "5": {
+          "title": "Adakah sebarang bayaran?",
+          "text": "Aplikasi mengambil peratusan yang sangat kecil daripada keuntungan anda. Beginilah cara program menjana hasil dan membayar gaji Pengurus Akaun anda dan perbelanjaan operasi lain."
+        },
+        "6": {
+          "title": "Berapa lama masa yang diambil untuk mula menjana wang?",
+          "text": "Anda boleh mula membuat wang serta-merta. Deposit {currencySymbol}250 ke dalam akaun anda serta-merta, kemudian anda akan mendapat keutamaan dan Pengurus Akaun anda akan menelefon anda dalam masa 30 minit (Isnin-Jumaat)."
+        }
+      }
+    },
+    "advisors": {
+      "jeff": {
+        "by-line": "Usahawan teknologi, pelabur dan dermawan",
+        "bio": "Pengkomputeran kuantum adalah masa depan. Saya tidak keterlaluan apabila saya mengatakan ia akan mengubah segala-galanya. Ini adalah hari-hari awal pengkomputeran kuantum; tidak ramai orang yang mengetahui tentangnya, yang bermaksud sangat sedikit yang menggunakannya. Sebilangan kecil iaitu, membuat keputusan yang sangat bijak (dan menguntungkan)."
+      },
+      "bill": {
+        "by-line": "Pembesar perniagaan, pelabur, pengarang, dermawan dan kemanusiaan",
+        "bio": "Saya tahu sebenarnya Elon telah membelanjakan $3 bilion wangnya sendiri untuk membiayai program ini. Terima kasih kepadanya untuk itu – itu adalah $3 bilion wangnya sendiri untuk membiayai masa depan yang lebih baik untuk semua orang dan untuk membantu orang lain membuat keuntungan yang akan membantu dia berbuat demikian! Ia adalah satu kemenangan-menang, dan saya sangat teruja untuk melihat ke mana ia pergi."
+      }
+    },
+    "lower-cta": {
+      "button": "Daftar sekarang"
+    },
+    "footer-links": {
+      "home": "Rumah",
+      "privacy-policy": "Dasar Privasi",
+      "cookie-policy": "Dasar Kuki",
+      "gdpr": "Perlindungan Data GDPR"
+    }
+  },
+  "pages": {
+    "homepage": {
+      "button": "Mulakan Hari Ini",
+      "splash": {
+        "heading": "Dagangan Menguntungkan Bermula dengan Pengetahuan",
+        "list": [
+          "Pengurus dan Mentor Akaun Peribadi",
+          "Teknologi Proprietari Akses",
+          "Tidak Perlu Pengalaman"
+        ]
+      },
+      "knowledge": {
+        "heading": "Pelaburan dalam Pengetahuan membayar Faedah Terbaik",
+        "p-1": "Dapatkan akses kepada pakar kripto sejati dengan program bimbingan satu lawan satu kami. Melabur serendah £250 dalam akaun dagangan anda dan terima pengurus akaun peribadi anda yang berpengalaman."
+      },
+      "track-record": {
+        "heading": "Rekod Jejak Terbukti",
+        "p-1": "Sejak mata wang kripto pertama dicipta 11 tahun yang lalu, kami telah berada di barisan hadapan.",
+        "points": [
+          {
+            "icon": "shield-1",
+            "text": "Para profesional yang berkelayakan dengan pengalaman perdagangan sebenar merentasi pelbagai platform."
+          },
+          {
+            "icon": "crypto",
+            "text": "Yakinlah dengan sistem keselamatan terkini yang digunakan secara global."
+          },
+          {
+            "icon": "stock",
+            "text": "Teknologi perdagangan proprietari yang direka untuk memberi anda kelebihan yang anda perlukan."
+          }
+        ]
+      },
+      "global-footprint": {
+        "heading": "Jejak Global",
+        "points": [
+          {
+            "icon": "chat-group",
+            "heading": "10+",
+            "text": "Berbilang bahasa disokong"
+          },
+          {
+            "icon": "globe",
+            "heading": "25+",
+            "text": "Tersedia di lebih daripada 25 negara"
+          },
+          {
+            "icon": "transaction",
+            "heading": "500+",
+            "text": "Lebih 500 juta euro didagangkan"
+          },
+          {
+            "icon": "bitcoin",
+            "heading": "100+",
+            "text": "Beratus-ratus mata wang disepadukan"
+          }
+        ]
+      },
+      "reinvent": {
+        "heading": "Jangan cipta semula roda, cuma susun semula",
+        "p-1": "Kami percaya anda tidak perlu mencipta semula roda untuk berjaya. Apa yang anda perlu lakukan ialah mengambil tindakan! Gunakan diri anda sekarang dan belajar daripada pakar."
+      },
+      "truth-never-lies": {
+        "heading": "Kebenaran tidak pernah berbohong",
+        "p-1": "\"Pendidikan bukanlah kunci kejayaan. Pengalaman, kebijaksanaan dan pengetahuan adalah kunci kejayaan\"",
+        "points": [
+          {
+            "icon": "knowledge",
+            "heading": "Bahan Latihan",
+            "text": "Panduan dan video berkualiti tinggi dan berguna"
+          },
+          {
+            "icon": "professional",
+            "heading": "1 on 1 Mentoring",
+            "text": "Para profesional berkelayakan berpengalaman"
+          }
+        ]
+      },
+      "time-waits": {
+        "heading": "Masa tidak menunggu sesiapa",
+        "points": [
+          {
+            "icon": "trade",
+            "heading": "Keputusan",
+            "text": "Para profesional yang berkelayakan dengan pengalaman perdagangan sebenar merentasi pelbagai platform."
+          },
+          {
+            "icon": "gantt-chart",
+            "heading": "Nilai Masa",
+            "text": "Mulakan sekarang dan lihat pulangan anda berkembang. Masa adalah wang, jangan sia-siakan."
+          },
+          {
+            "icon": "annual-calendar-page",
+            "heading": "Tempah Sekarang",
+            "text": "Daftar hari ini dan tempah perundingan satu-satu anda dalam beberapa minit."
+          },
+          {
+            "icon": "shrink",
+            "heading": "Arah",
+            "text": "Pakar kami akan menunjukkan anda ke arah yang betul dan membimbing anda sepanjang jalan kejayaan."
+          },
+          {
+            "icon": "insight",
+            "heading": "Sokongan",
+            "text": "Pengurus akaun peribadi anda akan membantu anda melalui keseluruhan proses."
+          }
+        ]
+      }
+    },
+    "questions": {
+      "title": "Akaun Menunggu Pengesahan...",
+      "intro": {
+        "p-1": "Maklumat Penting!!",
+        "p-2": "Anda dikehendaki mengemukakan 3 soalan ringkas berikut, untuk kami menetapkan <u>Pengurus Akaun Peribadi</u> yang paling sesuai dengan profil anda."
+      },
+      "form": {
+        "question-1": {
+          "label": "Soalan 1: Jantina",
+          "placeholder": "Sila pilih",
+          "genders": {
+            "male": "jantan",
+            "female": "perempuan",
+            "prefer-not-to-say": "Lebih baik tak perlu cakap"
+          }
+        },
+        "question-2": {
+          "label": "Soalan 2: Kumpulan Umur",
+          "placeholder": "Sila pilih"
+        },
+        "question-3": {
+          "label": "Soalan 3: Modal Pelaburan",
+          "p-1": "Kita semua tahu pepatah <i>\"money makes money\"</i> - dan realitinya, frasa ini malangnya sangat benar!",
+          "p-2": "Apa yang orang tidak beritahu anda ialah, jika anda dapat melipatgandakan keuntungan anda dalam tempoh yang singkat, sedikit wang boleh bertukar menjadi banyak wang dengan cepat!",
+          "p-3": "Pilih jumlah Wang yang anda sanggup Laburkan.",
+          "placeholder": "Sila pilih"
+        },
+        "button": "teruskan"
+      }
+    },
+    "welcome_auto_redirect": {
+      "title": "Sila tunggu sementara kami log masuk anda ke akaun anda..."
+    },
+    "welcome": {
+      "title": "Akaun Belum Selesai... Langkah Akhir...",
+      "intro": {
+        "p-1": "Ini adalah LANGKAH AKHIR yang paling penting untuk menyediakan Akaun anda, ",
+        "highlight": "jadi beri perhatian yang sangat dekat di sini",
+        "p-2": "seperti yang anda perlukan",
+        "p-3": "pastikan sistem anda disediakan dengan betul."
+      },
+      "phone-call": {
+        "heading": "Pengesahan & Persediaan Panggilan Telefon",
+        "p-1": "Dalam program ini (seperti yang anda lihat) kami mengambil serius tentang keselamatan dan untuk mengesahkan anda adalah orang sebenar dan untuk mengesahkan akaun anda, salah seorang <strong>pakar permulaan</strong> kami > akan menghubungi anda dalam masa 30 minit seterusnya. (Isnin-Jumaat)",
+        "p-2": "Jika anda tidak tersedia, sila jawab panggilan dan tetapkan temu janji untuk masa yang lebih sesuai."
+      },
+      "self-activation": {
+        "heading": "Pengaktifan Diri & Cara Ia Berfungsi",
+        "p-1": "Pada halaman seterusnya anda akan dihantar kepada rakan kongsi kami yang dipilih dengan teliti untuk <span class=\"font-bold\">Aktifkan</span> akaun anda dengan mendepositkan permulaan kecil anda modal.",
+        "p-2": "Wang yang anda deposit ialah <span class=\"font-bold\">wang anda</span> dan anda tidak perlu menggunakannya sekaligus, anda boleh mulakan dengan jumlah yang kecil untuk lihat bagaimana sistem berfungsi dan ingat, anda boleh mengeluarkan modal anda pada bila-bila masa.",
+        "p-3": "Jika anda tidak pasti cara <span class=\"font-bold\">Self-Activate</span> akaun anda, pergi ke akaun anda di bawah dan kemudian tunggu salah satu permulaan kami pakar untuk menghubungi anda dalam masa 30 minit seterusnya. (Isnin-Jumaat)"
+      },
+      "go-to-account": "Pergi ke Akaun",
+      "recommended-broker": {
+        "heading": "Broker Disyorkan Anda",
+        "p-1": "Pasukan kami telah memilih akaun dagangan ini dengan teliti untuk anda. Jika anda menghadapi masalah melihat halaman, anda boleh mengklik",
+        "p-2": "dan aplikasi perdagangan akan dibuka dalam tetingkap baharu."
+      }
+    },
+    "welcome_two_step": {
+      "step-1": {
+        "title": "Akaun Belum Selesai... Langkah Terakhir...",
+        "p-1": "Klik Butang Hijau ini untuk Mengesahkan dan Mengaktifkan.",
+        "button": "Klik di sini untuk mengesahkan sekarang"
+      },
+      "step-2": {
+        "title": "Akaun Disahkan... Maklumat Penting!!",
+        "sub-title": "Anda WAJIB Baca ini Sekarang."
+      }
+    },
+    "welcome_received": {
+      "title": "Akaun Belum Selesai... Maklumat Penting!!",
+      "sub-title": "Anda WAJIB Baca ini Sekarang.",
+      "heading": "Pengesahan & Persediaan Panggilan Telefon",
+      "p-1": "Malangnya pejabat kami kini ditutup, Pengurus Akaun Peribadi anda <u>akan menghubungi anda pada waktu pagi</u> atau selewat-lewatnya sebelum penutupan hari perniagaan berikutnya.",
+      "p-2": "Akaun anda akan kekal belum selesai sehingga anda telah disahkan. ",
+      "p-3": "<u>Akaun yang tidak disahkan dalam tempoh 24 jam (Isnin - Jumaat) akan dipadamkan</u> dan peletakan seterusnya yang tersedia akan dikeluarkan ke akaun seterusnya dalam baris gilir.",
+      "p-4": "Akaun yang dibuat pada hujung minggu akan disahkan pada hari Isnin."
+    },
+    "privacy": {
+      "title": "Dasar privasi",
+      "content": "<p>Kami amat berbesar hati kerana anda telah menunjukkan minat dalam perusahaan kami. Perlindungan data adalah keutamaan yang sangat tinggi untuk pengurusan {siteName}.Penggunaan halaman Internet {siteName} adalah mungkin tanpa sebarang tanda data peribadi; walau bagaimanapun, jika subjek data ingin menggunakan perkhidmatan perusahaan khas melalui tapak web kami, pemprosesan data peribadi mungkin menjadi perlu. Jika pemprosesan data peribadi diperlukan dan tiada asas berkanun untuk pemprosesan sedemikian, kami biasanya mendapat persetujuan daripada subjek data.</p><p>Pemprosesan data peribadi, seperti nama, alamat, alamat e-mel atau nombor telefon subjek data hendaklah sentiasa selaras dengan Data Umum Peraturan Perlindungan (GDPR), dan menurut peraturan perlindungan data khusus negara yang terpakai pada {siteName}. Melalui pengisytiharan perlindungan data ini, perusahaan kami ingin memaklumkan kepada orang ramai tentang sifat, skop dan tujuan data peribadi yang kami kumpul, gunakan dan proses. Tambahan pula, subjek data dimaklumkan, melalui pengisytiharan perlindungan data ini, hak yang mereka berhak.</p><p>Sebagai pengawal, {siteName} telah melaksanakan pelbagai langkah teknikal dan organisasi untuk memastikan perlindungan data peribadi yang paling lengkap yang diproses melalui laman web ini. Walau bagaimanapun, penghantaran data berasaskan Internet pada dasarnya mungkin mempunyai jurang keselamatan, jadi perlindungan mutlak mungkin tidak dijamin. Atas sebab ini, setiap subjek data bebas untuk memindahkan data peribadi kepada kami melalui cara alternatif, mis. melalui telefon.</p><h4 class=\"text-2xl\">1. Definisi</h4><p>Pengisytiharan perlindungan data {siteName} adalah berdasarkan istilah yang digunakan oleh penggubal undang-undang Eropah untuk menerima pakai Peraturan Perlindungan Data Am (GDPR). Pengisytiharan perlindungan data kami harus boleh dibaca dan difahami oleh orang awam, serta pelanggan dan rakan kongsi perniagaan kami. Untuk memastikan ini, kami ingin menerangkan terlebih dahulu istilah yang digunakan.</p><p>Dalam pengisytiharan perlindungan data ini, kami menggunakan, antara lain, istilah berikut: </p><ul class=\"pl-8 \"><li><h4 class=\"text-lg\">a) Data peribadi</h4><p>Data peribadi bermaksud sebarang maklumat yang berkaitan dengan orang asli yang dikenal pasti atau boleh dikenal pasti (\"subjek data\") . Orang asli yang boleh dikenal pasti ialah orang yang boleh dikenal pasti, secara langsung atau tidak langsung, khususnya dengan merujuk kepada pengecam seperti nama, nombor pengenalan, data lokasi, pengecam dalam talian atau kepada satu atau lebih faktor khusus untuk fizikal, fisiologi, identiti genetik, mental, ekonomi, budaya atau sosial orang semula jadi itu.</p><h4 class=\"text-lg\">b) Subjek data</h4><p>Subjek data ialah mana-mana semula jadi yang dikenal pasti atau boleh dikenal pasti. orang, yang data peribadinya diproses oleh pengawal yang bertanggungjawab untuk pemprosesan.</p><h4 class=\"text-lg\">c) Pemprosesan</h4><p>Pemprosesan ialah sebarang operasi atau set operasi yang dilakukan pada data peribadi atau pada set data peribadi, sama ada melalui cara automatik atau tidak, seperti pengumpulan, rakaman, organisasi, penstrukturan, penyimpanan, penyesuaian atau pengubahan, pengambilan semula, perundingan, penggunaan, pendedahan melalui penghantaran, penyebaran atau sebaliknya menyediakan , penjajaran atau gabungan, sekatan, pemadaman atau pemusnahan.</p><h4 class=\"text-lg\">d) Sekatan pemprosesan</h4><p>Sekatan pemprosesan ialah penandaan data peribadi yang disimpan dengan bertujuan untuk mengehadkan pemprosesan mereka pada masa hadapan.</p><h4 class=\"text-lg\">e) Pemprofilan</h4><p>Penprofilan bermaksud sebarang bentuk pemprosesan automatik data peribadi yang terdiri daripada penggunaan data peribadi untuk menilai aspek peribadi tertentu yang berkaitan dengan orang sebenar, khususnya untuk menganalisis atau meramalkan aspek berkenaan prestasi orang sebenar itu di tempat kerja, keadaan ekonomi, kesihatan, pilihan peribadi, minat, kebolehpercayaan, kelakuan, lokasi atau pergerakan.</p ><h4 class=\"text-lg\">f) Nama samaran</h4><p>Nama samaran ialah pemprosesan data peribadi dengan cara sedemikian sehingga data peribadi tidak lagi boleh dikaitkan dengan subjek data tertentu tanpa penggunaan maklumat tambahan, dengan syarat maklumat tambahan tersebut disimpan secara berasingan dan tertakluk kepada langkah teknikal dan organisasi untuk memastikan bahawa data peribadi tidak dikaitkan dengan orang asli yang dikenal pasti atau boleh dikenal pasti.</p><h4 class=\"text- lg\">g) Pengawal atau pengawal yang bertanggungjawab untuk pemprosesan </h4><p>Pengawal atau pengawal yang bertanggungjawab untuk pemprosesan ialah orang asli atau undang-undang, pihak berkuasa awam, agensi atau badan lain yang, bersendirian atau bersama-sama dengan orang lain, menentukan tujuan dan cara pemprosesan data peribadi; di mana tujuan dan cara pemprosesan sedemikian ditentukan oleh undang-undang Kesatuan atau Negara Anggota, pengawal atau kriteria khusus untuk pencalonannya boleh diperuntukkan oleh undang-undang Kesatuan atau Negara Anggota.</p><h4 class=\"text-lg \">h) Pemproses</h4><p>Pemproses ialah orang asli atau undang-undang, pihak berkuasa awam, agensi atau badan lain yang memproses data peribadi bagi pihak pengawal.</p><h4 class=\"text- lg\">i) Penerima</h4><p>Penerima ialah orang asli atau undang-undang, pihak berkuasa awam, agensi atau badan lain, yang mana data peribadi didedahkan, sama ada pihak ketiga atau tidak. Walau bagaimanapun, pihak berkuasa awam yang mungkin menerima data peribadi dalam rangka siasatan tertentu menurut undang-undang Kesatuan atau Negara Anggota tidak boleh dianggap sebagai penerima; pemprosesan data tersebut oleh pihak berkuasa awam tersebut hendaklah mematuhi peraturan perlindungan data yang berkenaan mengikut tujuan pemprosesan.</p><h4 class=\"text-lg\">j) Pihak ketiga</h4 ><p>Pihak ketiga ialah orang asli atau undang-undang, pihak berkuasa awam, agensi atau badan selain subjek data, pengawal, pemproses dan orang yang, di bawah kuasa langsung pengawal atau pemproses, diberi kuasa untuk memproses data peribadi.< /p><h4 class=\"text-l\">k) Persetujuan</h4><p>Persetujuan subjek data ialah sebarang petunjuk yang diberikan secara bebas, khusus, termaklum dan jelas tentang kehendak subjek data yang mana dia atau dia, melalui kenyataan atau dengan tindakan afirmatif yang jelas, menandakan persetujuan kepada pemprosesan data peribadi yang berkaitan dengannya.</p></li></ul><h4 class=\"text-2xl\"> 2. Nama dan Alamat pengawal</h4><p>Pengawal untuk tujuan Peraturan Perlindungan Data Umum (GDPR), undang-undang perlindungan data lain yang terpakai di negara Anggota Kesatuan Eropah dan peruntukan lain yang berkaitan dengan perlindungan data ialah: </ p><p>{siteName}</p><p>Tapak Web: {siteDomain}</p>"
+    },
+    "cookie": {
+      "title": "Dasar Kuki",
+      "content": "<p>Halaman Internet {siteName} menggunakan kuki. Kuki ialah fail teks yang disimpan dalam sistem komputer melalui penyemak imbas Internet.</p><p>Banyak tapak dan pelayan Internet menggunakan kuki. Banyak kuki mengandungi ID kuki yang dipanggil. ID kuki ialah pengecam unik kuki. Ia terdiri daripada rentetan aksara yang melaluinya halaman Internet dan pelayan boleh diberikan kepada penyemak imbas Internet tertentu di mana kuki itu disimpan. Ini membolehkan Internet yang dilawati tapak dan pelayan untuk membezakan penyemak imbas individu subjek data daripada pelayar Internet lain yang mengandungi kuki lain. Pelayar Internet tertentu boleh dikenali dan dikenal pasti menggunakan ID kuki unik.</p><p>Melalui penggunaan kuki, {siteName} boleh menyediakan pengguna tapak web ini perkhidmatan yang lebih mesra pengguna yang tidak mungkin dilakukan tanpa tetapan kuki.</p><p>Melalui kuki, maklumat dan tawaran di tapak web kami boleh dioptimumkan dengan pengguna dalam fikiran. Kuki membenarkan kami, seperti yang dinyatakan sebelum ini, untuk mengenali pengguna tapak web kami. Tujuan pengiktirafan ini adalah untuk memudahkan pengguna menggunakan laman web kami. Pengguna tapak web yang menggunakan kuki, mis. tidak perlu memasukkan data capaian setiap kali tapak web diakses, kerana ini diambil alih oleh tapak web, dan kuki itu disimpan pada sistem komputer pengguna. Contoh lain ialah kuki troli beli-belah di kedai dalam talian. Kedai dalam talian mengingati artikel yang telah diletakkan oleh pelanggan dalam troli beli-belah maya melalui kuki.</p><p>Subjek data boleh, pada bila-bila masa, menghalang tetapan kuki melalui tapak web kami melalui tetapan yang sepadan pelayar Internet yang digunakan, dan dengan itu boleh menafikan tetapan kuki secara kekal. Tambahan pula, kuki yang telah ditetapkan boleh dipadamkan pada bila-bila masa melalui pelayar Internet atau program perisian lain. Ini boleh dilakukan dalam semua pelayar Internet yang popular. Jika subjek data menyahaktifkan tetapan kuki dalam pelayar Internet yang digunakan, tidak semua fungsi tapak web kami mungkin boleh digunakan sepenuhnya.</p>"
+    },
+    "gdpr": {
+      "title": "GDPR",
+      "content": "<h4 class=\"text-2xl\">Pengumpulan data umum dan maklumat</h4><p>Tapak web {siteName} mengumpulkan siri data dan maklumat umum apabila subjek data atau sistem automatik memanggil laman web. Data dan maklumat am ini disimpan dalam fail log pelayan. Dikumpulkan mungkin (1) jenis dan versi penyemak imbas yang digunakan, (2) sistem pengendalian yang digunakan oleh sistem pengakses, (3) laman web dari mana sistem mengakses laman web kami (yang dipanggil perujuk), (4) sub -laman web, (5) tarikh dan masa capaian ke tapak Internet, (6) alamat protokol Internet (alamat IP), (7) pembekal perkhidmatan Internet sistem capaian, dan (8) sebarang data dan data lain yang serupa. maklumat yang mungkin digunakan sekiranya berlaku serangan ke atas sistem teknologi maklumat kami.</p><p>Apabila menggunakan data dan maklumat umum ini, {siteName} tidak membuat sebarang kesimpulan tentang subjek data. Sebaliknya, maklumat ini diperlukan untuk (1) menyampaikan kandungan laman web kami dengan betul, (2) mengoptimumkan kandungan laman web kami serta iklannya, (3) memastikan daya maju jangka panjang sistem teknologi maklumat dan teknologi laman web kami , dan (4) menyediakan pihak berkuasa penguatkuasaan undang-undang maklumat yang diperlukan untuk pendakwaan jenayah sekiranya berlaku serangan siber. Oleh itu, {siteName} menganalisis data dan maklumat yang dikumpul tanpa nama secara statistik, dengan tujuan untuk meningkatkan perlindungan data dan keselamatan data perusahaan kami, dan untuk memastikan tahap perlindungan yang optimum untuk data peribadi yang kami proses. Data tanpa nama fail log pelayan disimpan secara berasingan daripada semua data peribadi yang disediakan oleh subjek data.</p><h4 class=\"text-2xl\">Pendaftaran di tapak web kami</h4><p>Data subjek mempunyai kemungkinan untuk mendaftar di laman web pengawal dengan petunjuk data peribadi. Data peribadi yang dihantar kepada pengawal ditentukan oleh topeng input masing-masing yang digunakan untuk pendaftaran. Data peribadi yang dimasukkan oleh subjek data dikumpul dan disimpan secara eksklusif untuk kegunaan dalaman oleh pengawal, dan untuk tujuannya sendiri. Pengawal boleh meminta pemindahan kepada satu atau lebih pemproses (cth. perkhidmatan bungkusan) yang turut menggunakan data peribadi untuk tujuan dalaman yang dikaitkan dengan pengawal.</p><p>Dengan mendaftar di tapak web pengawal, IPaddress —diberikan oleh penyedia perkhidmatan Internet (ISP) dan digunakan oleh subjek data—tarikh, dan masa pendaftaran juga disimpan. Penyimpanan data ini berlaku pada latar belakang bahawa ini adalah satu-satunya cara untuk mengelakkan penyalahgunaan kami perkhidmatan, dan, jika perlu, untuk membolehkan untuk menyiasat kesalahan yang dilakukan. Setakat ini, penyimpanan data ini adalah perlu untuk melindungi pengawal. Data ini tidak diserahkan kepada pihak ketiga melainkan terdapat kewajipan berkanun untuk menyampaikan data, atau jika pemindahan itu memenuhi tujuan pendakwaan jenayah.</p><p>Pendaftaran subjek data, dengan petunjuk sukarela data peribadi, bertujuan untuk membolehkan pengawal menawarkan kandungan atau perkhidmatan subjek data yang mungkin hanya ditawarkan kepada pengguna berdaftar kerana sifat perkara yang dipersoalkan. Orang yang berdaftar adalah bebas untuk menukar data peribadi yang dinyatakan semasa pendaftaran pada bila-bila masa, atau untuk memadamkannya sepenuhnya daripada stok data pengawal.</p><p>Pengawal data hendaklah, pada bila-bila masa, memberikan maklumat apabila meminta kepada setiap subjek data tentang data peribadi yang disimpan tentang subjek data. Di samping itu, pengawal data hendaklah membetulkan atau memadam data peribadi atas permintaan atau petunjuk subjek data, setakat tiada kewajipan penyimpanan berkanun. Keseluruhan pekerja pengawal tersedia untuk subjek data dalam hal ini sebagai orang hubungan.</p><p>Tapak web {siteName} mengandungi maklumat yang membolehkan hubungan elektronik pantas kepada perusahaan kami, serta komunikasi langsung dengan kami, yang juga termasuk alamat am yang dipanggil mel elektronik (alamat e-mel). Jika subjek data menghubungi pengawal melalui e-mel atau melalui borang hubungan, data peribadi yang dihantar oleh subjek data disimpan secara automatik. Data peribadi sedemikian yang dihantar secara sukarela oleh subjek data kepada pengawal data disimpan untuk tujuan memproses atau menghubungi subjek data. Tiada pemindahan data peribadi ini kepada pihak ketiga.</p><h4 class=\"text-2xl\">Pemadaman rutin dan penyekatan data peribadi</h4><p>Pengawal data hendaklah memproses dan menyimpan data peribadi subjek data hanya untuk tempoh yang diperlukan untuk mencapai tujuan penyimpanan, atau setakat ini diberikan oleh penggubal undang-undang Eropah atau penggubal undang-undang lain dalam undang-undang atau peraturan yang mana pengawal tertakluk kepada.</p><p >Jika tujuan storan tidak terpakai, atau jika tempoh penyimpanan yang ditetapkan oleh penggubal undang-undang Eropah atau penggubal undang-undang lain yang berwibawa tamat, data peribadi disekat atau dipadamkan secara rutin mengikut keperluan undang-undang.</p><h4 class=\"text -2xl\">Hak subjek data</h4><ul class=\"pl-8\"><li><h4 class=\"text-lg\">a) Hak pengesahan</h4><p>Setiap subjek data mempunyai hak yang diberikan oleh penggubal undang-undang Eropah untuk mendapatkan pengesahan daripada pengawal sama ada data peribadi atau tidak berkenaan dia sedang diproses. Jika subjek data ingin memanfaatkan hak pengesahan ini, dia boleh, pada bila-bila masa, menghubungi mana-mana pekerja pengawal.</p></li><li><h4 class=\"text-lg \">b) Hak akses</h4><p>Setiap subjek data mempunyai hak yang diberikan oleh penggubal undang-undang Eropah untuk mendapatkan daripada pengawal maklumat percuma tentang data peribadinya yang disimpan pada bila-bila masa dan salinan maklumat ini . Tambahan pula, arahan dan peraturan Eropah memberikan subjek data akses kepada maklumat berikut: </p><ul class=\"pl-8 pb-6\"><li>tujuan pemprosesan;</li>< li>kategori data peribadi yang berkenaan;</li><li>penerima atau kategori penerima yang data peribadinya telah atau akan didedahkan, khususnya penerima di negara ketiga atau organisasi antarabangsa;</li><li >jika boleh, tempoh yang dijangkakan untuk data peribadi akan disimpan, atau, jika tidak mungkin, kriteria yang digunakan untuk menentukan tempoh tersebut;</li><li>kewujudan hak untuk meminta daripada pengawal pembetulan atau pemadaman peribadi data, atau sekatan pemprosesan data peribadi berkenaan subjek data, atau membantah pemprosesan sedemikian;</li><li>wujudnya hak untuk membuat aduan kepada pihak berkuasa penyeliaan;</li><li>di mana data peribadi tidak dikumpul daripada subjek data, sebarang maklumat yang tersedia mengenai sumbernya;</li><li>kewujudan pembuatan keputusan automatik, termasuk pemprofilan, yang disebut dalam Perkara 22(1) dan (4) GDPR dan, sekurang-kurangnya dalam kes tersebut, maklumat bermakna tentang logik yang terlibat, serta kepentingan dan akibat yang dijangkakan daripada pemprosesan sedemikian untuk subjek data.</li></ul><p>Selain itu, subjek data hendaklah mempunyai hak untuk mendapatkan maklumat sama ada data peribadi dipindahkan ke negara ketiga atau ke organisasi antarabangsa. Jika ini berlaku, subjek data berhak untuk dimaklumkan tentang perlindungan yang sesuai berkaitan dengan pemindahan.</p><p>Jika subjek data ingin memanfaatkan hak akses ini, dia boleh , pada bila-bila masa, hubungi mana-mana pekerja pengawal.</p></li><li><h4 class=\"text-lg\">c) Hak untuk membetulkan</h4><p>Setiap subjek data hendaklah mempunyai hak yang diberikan oleh penggubal undang-undang Eropah untuk mendapatkan daripada pengawal tanpa kelewatan yang tidak wajar pembetulan data peribadi yang tidak tepat mengenainya. Dengan mengambil kira tujuan pemprosesan, subjek data berhak untuk melengkapkan data peribadi yang tidak lengkap, termasuk dengan cara menyediakan penyata tambahan.</p><p>Jika subjek data ingin menggunakan hak ini untuk pembetulan, dia boleh, pada bila-bila masa, menghubungi mana-mana pekerja pengawal.</p></li> <li><h4 class=\"text-lg\">d) Hak untuk memadam (Hak untuk dilupakan)</h4><p>Setiap subjek data hendaklah mempunyai hak yang diberikan oleh penggubal undang-undang Eropah untuk mendapatkan daripada pengawal pemadaman data peribadi mengenainya tanpa kelewatan yang tidak wajar, dan pengawal hendaklah mempunyai kewajipan untuk memadamkan data peribadi tanpa kelewatan yang tidak wajar jika salah satu daripada alasan berikut terpakai, selagi pemprosesan tidak diperlukan:</p><ul class=\"pl-8 pb-6\"><li>Data peribadi tidak lagi diperlukan berhubung dengan tujuan ia dikumpul atau diproses sebaliknya.</li><li>Subjek data menarik balik kebenaran untuk yang pemprosesannya adalah berdasarkan perkara (a) Perkara 6(1) GDPR, atau titik (a) Perkara 9(2) GDPR, dan di mana tiada asas undang-undang lain untuk pemprosesan.</ li><li>Subjek data membantah pemprosesan menurut Artikel 21(1) GDPR dan tiada alasan sah yang mengatasi untuk pemprosesan, atau subjek data membantah pemprosesan menurut Artikel 21(2) GDPR .</li><li>Data peribadi telah diproses secara tidak sah.</li><li>Data peribadi mesti dipadamkan untuk mematuhi kewajipan undang-undang dalam undang-undang Kesatuan atau Negara Anggota yang tertakluk kepada pengawal.</li><li>Data peribadi telah dikumpul berhubung dengan tawaran perkhidmatan masyarakat maklumat dirujuk dalam Perkara 8(1) GDPR.</li></ul><p>Jika salah satu daripada sebab yang dinyatakan di atas terpakai, dan subjek data ingin meminta pemadaman data peribadi yang disimpan oleh {siteName}, dia boleh, pada bila-bila masa, menghubungi mana-mana pekerja pengawal. Seorang pekerja {siteName} hendaklah segera memastikan bahawa permintaan pemadaman dipatuhi serta-merta.</p><p>Jika pengawal telah membuat data peribadi awam dan diwajibkan menurut Artikel 17(1) untuk memadamkan data peribadi, pengawal , dengan mengambil kira teknologi yang ada dan kos pelaksanaan, hendaklah mengambil langkah yang munasabah, termasuk langkah teknikal, untuk memaklumkan pengawal lain yang memproses data peribadi yang subjek data telah meminta pemadaman oleh pengawal tersebut bagi sebarang pautan ke, atau salinan atau replikasi, data peribadi tersebut, setakat pemprosesan tidak diperlukan. Pekerja{siteName} akan mengatur langkah yang diperlukan dalam kes individu.</p></li><li><h4 class=\"text-lg\">e) Hak sekatan pemprosesan</h4> <p>Setiap subjek data mempunyai hak yang diberikan oleh penggubal undang-undang Eropah untuk mendapatkan daripada pengawal sekatan pemprosesan apabila salah satu daripada yang berikut terpakai:</p><ul class=\"pl-8 pb-6\">< li>Ketepatan data peribadi dipertikaikan oleh subjek data, untuk tempoh yang membolehkan pengawal mengesahkan ketepatan data peribadi.</li><li>Pemprosesan adalah menyalahi undang-undang dan subjek data menentang pemadaman peribadi data dan permintaan sebaliknya ada sekatan penggunaannya.</li><li>Pengawal tidak lagi memerlukan data peribadi untuk tujuan pemprosesan, tetapi ia diperlukan oleh subjek data untuk penubuhan, pelaksanaan atau pembelaan tuntutan undang-undang. </li><li>Subjek data telah membantah pemprosesan menurut Artikel 21(1) GDPR sementara menunggu pengesahan sama ada alasan sah pengawal mengatasi alasan subjek data.</li></ul><p >Jika salah satu syarat yang disebutkan di atas dipenuhi, dan subjek data ingin meminta sekatan pemprosesan data peribadi yang disimpan oleh {siteName}, dia boleh pada bila-bila masa menghubungi mana-mana pekerja pengawal. Pekerja {siteName} akan mengatur sekatan pemprosesan.</p></li><li><h4 class=\"text-lg\">f) Hak untuk mudah alih data</h4><p >Setiap subjek data hendaklah mempunyai hak yang diberikan oleh penggubal undang-undang Eropah, untuk menerima data peribadi mengenainya, yang diberikan kepada pengawal, dalam format berstruktur, biasa digunakan dan boleh dibaca mesin. Dia berhak untuk menghantar data tersebut kepada pengawal lain tanpa halangan daripada pengawal yang mana data peribadi telah diberikan, selagi pemprosesan adalah berdasarkan persetujuan menurut perkara (a) Perkara 6(1) GDPR atau mata (a) Perkara 9(2) GDPR, atau pada kontrak menurut perkara (b) Perkara 6(1) GDPR, dan pemprosesan dijalankan dengan cara automatik, selagi pemprosesan tidak diperlukan untuk melaksanakan tugas yang dijalankan untuk kepentingan awam atau dalam melaksanakan kuasa rasmi yang terletak pada pengawal.</p><p>Selain itu, dalam melaksanakan haknya untuk mudah alih data menurut Artikel 20(1) GDPR, subjek data hendaklah mempunyai hak untuk menghantar data peribadi secara terus dari satu pengawal ke pengawal yang lain, jika boleh dilaksanakan secara teknikal dan apabila berbuat demikian tidak menjejaskan hak dan kebebasan orang lain.</p>< p>Untuk menegaskan hak untuk mudah alih data, subjek data boleh pada bila-bila masa menghubungi mana-mana pekerja {siteName}.</p></li><li><h4 class=\"text-lg\">g) Hak untuk membantah</h4><p>Setiap subjek data hendaklah mempunyai hak yang diberikan oleh penggubal undang-undang Eropah untuk membantah, atas alasan yang berkaitan dengan perkaranya situasi, pada bila-bila masa, kepada pemprosesan data peribadi berkenaan dengannya, yang berdasarkan perkara (e) atau (f) Perkara 6(1) GDPR. Ini juga terpakai pada pemprofilan berdasarkan peruntukan ini.</p><p>{siteName} tidak lagi akan memproses data peribadi sekiranya berlaku bantahan, melainkan kami boleh menunjukkan alasan sah yang menarik untuk pemprosesan yang mengatasi kepentingan, hak dan kebebasan subjek data, atau untuk penubuhan, pelaksanaan atau pembelaan tuntutan undang-undang.</p><p>Jika {siteName} memproses data peribadi untuk tujuan pemasaran langsung, subjek data berhak untuk membantah pada bila-bila masa kepada pemprosesan data peribadi mengenainya untuk pemasaran sedemikian. Ini terpakai pada pemprofilan setakat mana ia berkaitan dengan pemasaran langsung tersebut. Jika subjek data membantah {siteName} kepada pemprosesan untuk tujuan pemasaran langsung, {siteName} tidak lagi akan memproses data peribadi untuk tujuan ini.</p><p>Selain itu, subjek data mempunyai hak, pada alasan yang berkaitan dengan situasi tertentu beliau, untuk membantah pemprosesan data peribadi mengenainya oleh {siteName} untuk tujuan penyelidikan saintifik atau sejarah, atau untuk tujuan statistik menurut Artikel 89(1) GDPR, melainkan pemprosesan itu diperlukan untuk melaksanakan tugas yang dijalankan atas sebab kepentingan awam.</p><p>Untuk melaksanakan hak untuk membantah, subjek data boleh menghubungi mana-mana pekerja {siteName}. Selain itu, subjek data adalah percuma dalam konteks penggunaan perkhidmatan masyarakat maklumat, dan walau apa pun Arahan 2002/58/EC, untuk menggunakan haknya untuk membantah dengan cara automatik menggunakan spesifikasi teknikal.</p></li> <li><h4 class=\"text-lg\">h) Pembuatan keputusan individu automatik, termasuk pemprofilan </h4><p>Setiap subjek data hendaklah mempunyai hak yang diberikan oleh penggubal undang-undang Eropah untuk tidak tertakluk kepada keputusan berdasarkan pemprosesan automatik semata-mata, termasuk pemprofilan, yang menghasilkan kesan undang-undang mengenainya, atau yang serupa memberi kesan ketara kepadanya, selagi keputusan (1) tidak diperlukan untuk memasuki, atau pelaksanaan, kontrak antara subjek data dan pengawal data, atau (2) tidak dibenarkan oleh undang-undang Kesatuan atau Negara Anggota yang mana pengawal itu tertakluk dan yang juga menetapkan langkah-langkah yang sesuai untuk melindungi hak dan kebebasan subjek data dan kepentingan sah, atau (3) tidak berdasarkan persetujuan eksplisit subjek data.</p><p>Jika keputusan (1) adalah perlu untuk memasuki, atau pelaksanaan, kontrak antara subjek data dan pengawal data, atau (2) ia adalah berdasarkan persetujuan eksplisit subjek data, {siteName} hendaklah melaksanakan langkah yang sesuai untuk melindungi hak dan kebebasan subjek data dan kepentingan sah, sekurang-kurangnya hak untuk mendapatkan campur tangan manusia di pihak pengawal, untuk menyatakan maksudnya melihat dan membantah keputusan itu.</p><p>Jika subjek data ingin menggunakan hak berkenaan dengan pembuatan keputusan individu automatik, dia boleh, pada bila-bila masa, menghubungi mana-mana pekerja {siteName}.</p ></li><li><h4 class=\"text-lg\">i) Hak untuk menarik balik kebenaran perlindungan data</h4><p>Setiap subjek data mempunyai hak yang diberikan oleh penggubal undang-undang Eropah untuk menarik balik atau persetujuannya untuk memproses data peribadinya pada bila-bila masa.</p><p>Jika subjek data ingin menggunakan hak untuk menarik balik persetujuan itu, dia boleh, pada bila-bila masa, menghubungi mana-mana pekerja {siteName}.</p></li></ul><h4 class=\"text-2xl\">Asas undang-undang untuk pemprosesan</h4><p>Art. 6(1) lit. GDPR berfungsi sebagai asas undang-undang untuk operasi pemprosesan yang mana kami memperoleh persetujuan untuk tujuan pemprosesan tertentu. Jika pemprosesan data peribadi diperlukan untuk melaksanakan kontrak yang mana subjek data menjadi pihak, seperti yang berlaku, contohnya, apabila operasi pemprosesan diperlukan untuk pembekalan barang atau untuk menyediakan sebarang perkhidmatan lain, pemprosesan adalah berdasarkan Perkara 6(1) lit. b GDPR. Perkara yang sama berlaku untuk operasi pemprosesan sedemikian yang perlu untuk melaksanakan langkah pra-kontrak, contohnya dalam kes pertanyaan mengenai produk atau perkhidmatan kami. Adakah syarikat kami tertakluk kepada kewajipan undang-undang yang memerlukan pemprosesan data peribadi, seperti untuk memenuhi kewajipan cukai, pemprosesan adalah berdasarkan Seni. 6(1) lit. c GDPR.Dalam kes yang jarang berlaku, pemprosesan data peribadi mungkin diperlukan untuk melindungi kepentingan penting subjek data atau orang asli yang lain. Ini akan berlaku, sebagai contoh, jika pelawat tercedera di syarikat kami dan nama, umur, data insurans kesihatan atau maklumat penting lain perlu diserahkan kepada doktor, hospital atau pihak ketiga yang lain. Kemudian pemprosesan akan berdasarkan Seni. 6(1) lit. d GDPR. Akhir sekali, operasi pemprosesan boleh berdasarkan Artikel 6(1) lit. f GDPR. Asas undang-undang ini digunakan untuk operasi pemprosesan yang tidak dilindungi oleh mana-mana alasan undang-undang yang disebutkan di atas, jika pemprosesan diperlukan untuk tujuan kepentingan sah yang dijalankan oleh syarikat kami atau oleh pihak ketiga, kecuali apabila kepentingan tersebut ditindih oleh kepentingan atau hak asas dan kebebasan subjek data yang memerlukan perlindungan data peribadi. Operasi pemprosesan sedemikian amat dibenarkan kerana ia telah disebut secara khusus oleh penggubal undang-undang Eropah. Beliau menganggap bahawa kepentingan yang sah boleh diandaikan jika subjek data ialah pelanggan pengawal (Recital 47 Ayat 2 GDPR).</p><h4 class=\"text-2xl\">Kepentingan sah yang diusahakan oleh pengawal atau oleh pihak ketiga </h4><p>Di mana pemprosesan data peribadi adalah berdasarkan Artikel 6(1) lit. f GDPR kepentingan sah kami adalah untuk menjalankan perniagaan kami memihak kepada kesejahteraan semua pekerja kami dan pemegang saham.</p><h4 class=\"text-2xl\">Tempoh yang mana data peribadi akan disimpan</h4><p>Kriteria yang digunakan untuk menentukan tempoh penyimpanan data peribadi ialah tempoh pengekalan berkanun masing-masing. Selepas tamat tempoh tersebut, data yang sepadan secara rutin dipadamkan, selagi ia tidak lagi diperlukan untuk pemenuhan kontrak atau permulaan kontrak.</p><h4 class=\"text-2xl\"> Penyediaan data peribadi sebagai keperluan berkanun atau kontrak; Keperluan yang diperlukan untuk membuat kontrak; Kewajipan subjek data untuk memberikan data peribadi; kemungkinan akibat kegagalan untuk memberikan data tersebut</h4><p>Kami menjelaskan bahawa peruntukan data peribadi sebahagiannya diperlukan oleh undang-undang (cth. peraturan cukai) atau juga boleh disebabkan oleh peruntukan kontrak (cth. maklumat mengenai rakan kongsi kontrak). Kadangkala mungkin perlu untuk membuat kontrak bahawa subjek data memberikan kami data peribadi, yang kemudiannya mesti diproses oleh kami. Subjek data, sebagai contoh, diwajibkan untuk memberikan kami data peribadi apabila syarikat kami menandatangani kontrak dengannya. Ketidakperuntukan data peribadi akan mengakibatkan kontrak dengan subjek data tidak dapat dimuktamadkan. Sebelum data peribadi diberikan oleh subjek data, subjek data mesti menghubungi mana-mana pekerja. Pekerja itu menjelaskan kepada subjek data sama ada peruntukan data peribadi itu diperlukan oleh undang-undang atau kontrak atau perlu untuk membuat kesimpulan kontrak, sama ada terdapat kewajipan untuk menyediakan data peribadi dan akibat daripada tidak menyediakan data.</p><h4 class=\"text-2xl\">Kewujudan membuat keputusan automatik</h4><p>Sebagai syarikat yang bertanggungjawab, kami tidak menggunakan pembuatan keputusan atau pemprofilan automatik.</p >"
+    }
+  }
+}

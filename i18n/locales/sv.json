@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "title": "{siteName} ™ // RIKTIGT officiell DOT {siteTLD} [2025] ©",
+    "description": "Registrera dig på RIKTIGT officiell DOT {siteTLD} - alla andra webbplatser är FAKE. {siteName} är en handelsplattform som använder AI för att förutsäga marknadsrörelser och dra nytta av dem."
+  },
+  "landing-pages": {
+    "variant-a": {
+      "create-account": "Skapa ditt gratiskonto",
+      "points": {
+        "p-1": "Gratis Personal Account Managern",
+        "p-2": "Ingen handelserfarenhet behövs",
+        "p-3": "Kom igång på 15 minuter",
+        "p-1-alt-1": "Personlig kontoadministratör licensierad av den kanadensiska investeringsregleringsorganisationen (CIRO)",
+        "p-2-alt-1": "Gratis tillgång för alla kanadensiska invånare, bekräfta bara din identitet under välkomstsamtalet",
+        "p-3-alt-1": "Börja tjäna pengar på mindre än 15 minuter",
+        "p-1-alt-2": "Gratis för alla tyska medborgare",
+        "p-2-alt-2": "Gratis personlig kontoansvarig godkänd av Elon Musk",
+        "p-3-alt-2": "Garanterad avkastning på investering inom några minuter"
+      },
+      "steps": "Steg {step} av 2",
+      "right_column": {
+        "title-alt-1": "Smart investering som säkrar framtiden för Kanadas arbetarklass",
+        "sub-title-alt-1": "Mark Carney, Kanadas premiärminister",
+        "content-alt-1": "{siteName} är en app vi har skapat för ett land av byggare. Detta initiativ kommer att minska välståndsklyftan mellan Kanadas superrika och arbetarklassen genom att låta vanliga kanadensare fördubbla, och i vissa fall tredubbla, sina löner nästan över en natt. Vi är stolta över att meddela att den federala regeringen har försäkrat alla insättningar som görs av kanadensiska invånare, vilket innebär att dina pengar är säkra. {siteName} kommer att utrota fattigdomen i hela vårt land och återställa en stark kanadensisk medelklass där varje kanadensare kan äga ett hem och gå i pension innan de blir gamla. Jag uppmanar alla kanadensare att dra nytta av detta initiativ som vi har skapat för att ena vår stora nation.",
+        "title-alt-2": "Smarta investeringar som gör arbetarklassen till miljonärer över en natt",
+        "sub-title-alt-2": "Elon Musk, grundare och VD för {siteName}",
+        "content-alt-2": "{siteName} är mitt livsverk. Jag skapade denna plattform med ett enkelt mål: att minska förmögenhetsklyftan mellan de superrika och de fattiga. Jag är stolt över att säga att detta är min största framgång hittills. Kom och se själv, riskfritt, eftersom jag garanterar alla insättningar med mina egna pengar."
+      }
+    }
+  },
+  "components": {
+    "attention-banner": {
+      "label": "VARNING: Mycket hög mediefråga, registrering avslutas om {time}"
+    },
+    "logo-header": {
+      "available-to-traders": "Nu tillgänglig i<br />{usersCountry}"
+    },
+    "splash": {
+      "video-id": "319904948",
+      "header": "Skapa ditt <span class=\"hidden sm:inline\">{siteName}</span>-konto <span class=\"hidden sm:inline\">Idag</span>",
+      "sub-header": "Na unaweza kufikia <span class=\"text-yellow-300\">Uhuru wako wa Kifedha...</span>",
+      "points": {
+        "p-1": "Gratis Personal Account Manager",
+        "p-2": "Ingen handelserfarenhet behövs",
+        "p-3": "Kom igång på 15 minuter"
+      },
+      "step-1": {
+        "line-1": "Begränsad Tillgänglighet",
+        "line-2": "Konton Kvar!"
+      },
+      "step-2": "Steg 2 av 2 - Kontoaktivering!"
+    },
+    "form-capture": {
+      "first_name": "Förnamn",
+      "last_name": "Efternamn",
+      "email": "E-post",
+      "phone_number": "Telefonnummer",
+      "button": {
+        "step-1": "BÖRJA IDAG",
+        "step-2": "Aktivera konto"
+      }
+    },
+    "intro-text": {
+      "header": "Börja tjäna pengar med {siteName}",
+      "body-1": "{siteName} är ett exklusivt program med tillgång till proprietär teknologi, vilket ger vår begränsade grupp medlemmar en oöverträffad konkurrensfördel för att i det tysta samla ihop enorma förmögenheter. Endast grundläggande skrivfärdigheter behövs. Börja idag och du kommer att kunna se pengarna sakta strömma in på ditt konto, minut efter minut!",
+      "body-2": "Se till att du registrerar dig på den RIKTIGA officiella webbplatsen, kontrollera webbadressen högst upp för att se till att det står \"{siteDomain}\". Endast dot.{siteTLD} utan ytterligare ord eller bindestreck i adressen."
+    },
+    "as-seen-on": "Som sedd på",
+    "testimonials": {
+      "header": {
+        "line-1": "RIKTIGA VITTNESMÅL FRÅN VÅRA",
+        "line-2": "ANVÄNDARE"
+      },
+      "profit": "Vinst",
+      "testimonials": {
+        "1": {
+          "image": "default1.jpg",
+          "name": "James B",
+          "location": "Amsterdam",
+          "profit": 13853,
+          "text": "Jag vet äntligen hur det känns att leva ett drömliv. Jag behöver inte längre känna att jag sitter på andra sidan där gräset inte är så grönt medan alla andra har roligt. {siteName} har gjort att jag kan sluta jobba i förtid och leva en elitlivsstil."
+        },
+        "2": {
+          "image": "default2.jpg",
+          "name": "Stacey J",
+          "location": "Frankfurt",
+          "profit": 9126,
+          "text": "Jag har varit medlemm i {siteName} i bara 47 dagar, men på den korta tiden har mitt liv förändrats totalt! Inte bara har jag tjänat mina första {currencySymbol}10K, dessutom har jag träffat några av de mest fantastiska människor jag någonsin träffat. Tack {siteName}."
+        },
+        "3": {
+          "image": "default3.jpg",
+          "name": "Anton L",
+          "location": "Paris",
+          "profit": 43300,
+          "text": "ag var faktiskt tidigare en investerare på Stockholmsbörsen, och jag har aldrig sett något liknande under mina 10 år i branschen. Mina kollegor tänkte alla att jag var galen när jag slutade på firman för att investera med {siteName}-mjukvaran på heltid. {currencySymbol}250 i vinst senare så BER mina gamla kollegor mig nu om att få komma in i värmen."
+        },
+        "4": {
+          "image": "default4.jpg",
+          "name": "Jane M",
+          "location": "Stockholm",
+          "profit": 11463,
+          "text": "För två veckor sedan fick jag sparken. Utan andra alternativ tänkte jag att mitt liv var över. Nu tjänar jag över {currencySymbol}1,261.42 Varje dag. Och för första gången på 2 månader är mitt konto inte överdraget. Tack, {siteName}!"
+        }
+      }
+    },
+    "reasons": {
+      "1": {
+        "icon": "brtarget-icon",
+        "title": "LASERTRÄFFSÄKRA RESULTAT",
+        "text": "Det finns ingen annan tradingapp i världen som presterar med en träffsäkerhet på 99.4%, vilket {siteName} kan skryta om att den lyckas uppnå. Detta är varför alla våra medlemmar vet att de kan lita på oss när de vill fördubbla, tredubbla eller fyrdubbla sina hårt intjänade pengar."
+      },
+      "2": {
+        "icon": "brtechnology-icon",
+        "title": "ÖVERLÄGSEN TEKNOLOGI",
+        "text": "{siteName}-mjukvaran har skapats med hjälp av den mest avancerade programmeringen som tradingvärlden någonsin varit med om. Mjukvaran ligger före marknaden med 0.01 sekunder. Och om du vet något om trading så vet du att detta är en enorm fördel. Detta ”tidshopp” gör mjukvaran till den mest konsekventa tradingappen på planeten."
+      },
+      "3": {
+        "icon": "braward-icon",
+        "title": "PRISBELÖNT TRADINGAPP",
+        "text": "{siteName} har vunnit många priser. Det senaste priset vi hade äran att ta emot var #1 i kategorin tradingmjukvara från Svensk Handel."
+      }
+    },
+    "results-table": {
+      "button": "ÄNN NU!",
+      "header": "Vad gör Quantum Computing så bra för investeringar?",
+      "p-1": "Detta är världens första kvantdatormaskin; till skillnad från din hemdator är den här datorn smart – den fattar tusentals samtidiga \"beslut\" på en gång. Din hjärna tänker en tanke i taget, i en sekvens. Tänk om du kunde ha tusentals tankar på en gång, var och en lika tydlig som den andra. Det är kvantberäkning.",
+      "p-2": "Med den kraften kommer vår kvantdator att hjälpa dig att göra smartare affärer och tjäna mer pengar än du trodde var möjligt. Ännu bättre, det är designat så att du kan tjäna pengar och hjälpa andra medan du tjänar!",
+      "p-3": "Den hittar affärer genom att analysera skillnader mellan aktiekurser varje nano-sekund som aktiemarknaderna är live (och gör förutsägelser även när marknaderna är stängda, så att du vet vad som sannolikt kommer att hända när de öppnar igen). Din nuvarande dator (och alla andras) kan inte matcha beslutshastigheterna för detta nya system.",
+      "p-4": "Registrera dig och bli en av få exklusiva som använder den här tekniken (innan alla andra får nys om det!)"
+    },
+    "partners": {
+      "header": "Partners"
+    },
+    "steps": {
+      "header": "HUR DET FUNGERAR",
+      "button": "ÖPPEN GRATIS KONTO",
+      "step": "STEG",
+      "steps": {
+        "1": {
+          "icon": "brstep1-icon",
+          "title": "REGISTRERA PÅ WEBBPLATSEN",
+          "text": "När din registrering har accepterats blir du automatiskt {siteName} nyaste medlem. Detta innebär att du kan hämta din patentskyddade tradingmjukvara för Bitcoin helt gratis."
+        },
+        "2": {
+          "icon": "brstep2-icon",
+          "title": "SÄTT IN PENGAR PÅ DITT KONTO",
+          "text": "Som alla företag behöver du kapital för att komma igång. Så för att börja dra in pengar med hjälp av Bitcoin Millionaires-mjukvaran måste du investera"
+        },
+        "3": {
+          "icon": "brstep3-icon",
+          "title": "BÖRJA TJÄNA PENGAR",
+          "text": "Klicka på auto-trade för att få exakt och korrekt trading på autopilot som drivs av vår prisbelönta algoritm. Du kan också ställa in manuell trading om du föredrar att köpa och sälja på egen hand."
+        }
+      }
+    },
+    "faqs": {
+      "header": "VANLIGA FRÅGOR",
+      "faqs": {
+        "1": {
+          "title": "Vad för slags resultat kan jag förvänta mig?",
+          "text": "{siteName} medlemmar tjänar vanligtvis ett minimum av {currencySymbol}500 dagligen"
+        },
+        "2": {
+          "title": "Hur många timmar om dagen måste jag jobba?",
+          "text": "Våra medlemmar arbetar i snitt 20 minuter eller mindre om dagen. Eftersom mjukvaran sköter all trading är det\"jobb\" du behöver göra så avskalat som möjligt."
+        },
+        "3": {
+          "title": "Hur mycket kan jag som mest tjäna?",
+          "text": "Dina intäkter är obegränsade med {siteName}. Vissa medlemmar tjänar sin första miljon på bara 61 dagar."
+        },
+        "4": {
+          "title": "Hur mycket kostar mjukvaran?",
+          "text": "Medlemmar i {siteName} får en kopia av vår patentskyddade mjukvara helt utan kostnad. Allt du behöver göra för att bli medlem är att fylla i formuläret på denna sida."
+        },
+        "5": {
+          "title": "Är detta som MLM eller partnermarknadsföring?",
+          "text": "Detta är inte som MLM, partnermarknadsföring eller något annat på marknaden. Mjukvaran drivs av en innovativ algoritm som vinner trades med 99.4%% träffsäkerhet."
+        },
+        "6": {
+          "title": "Finns det några avgifter?",
+          "text": "Det finns inga dolda avgifter. Inga mäklaravgifter eller provisionsavgifter. Allt det du tjänar är 1000itt och du kan ta ut dina pengar när du vill utan fördröjning."
+        }
+      }
+    },
+    "advisors": {
+      "jeff": {
+        "by-line": "PartnTechnology entreprenör, investerare och filantroper",
+        "bio": "Kvantberäkning är framtiden. Jag överdriver inte när jag säger att det kommer att förändra allt. Detta är kvantberäkningens tidiga dagar; inte många känner till det, vilket betyder att väldigt få använder det. De få som är, fattar otroligt kloka (och lönsamma) beslut."
+      },
+      "bill": {
+        "by-line": "Affärsmagnat, investerare, författare, filantrop och humanitär",
+        "bio": "Jag vet att Elon har spenderat 3 miljarder {currencySymbol} av sina egna pengar för att finansiera detta program. Hatten av för honom för det – det är 3 miljarder {currencySymbol} av hans egna pengar för att finansiera en bättre framtid för alla, och för att hjälpa andra göra vinster som hjälper honom att göra det! Det är en win-win, och jag är väldigt spänd på att se vart det leder."
+      }
+    },
+    "lower-cta": {
+      "button": "BÖRJA IDAG"
+    },
+    "footer-links": {
+      "home": "Hemsida",
+      "privacy-policy": "Integritetspolicy",
+      "cookie-policy": "Cookie Policy",
+      "gdpr": "GDPR Dataskydd"
+    }
+  },
+  "pages": {
+    "homepage": {
+      "button": "Kom igång idag",
+      "splash": {
+        "heading": "Lönsam handel börjar med kunskap",
+        "list": [
+          "Personlig kontoansvarig och mentor",
+          "Få tillgång till proprietär teknologi",
+          "Ingen erfarenhet behövs"
+        ]
+      },
+      "knowledge": {
+        "heading": "En investering i kunskap ger bäst ränta",
+        "p-1": "Få tillgång till riktiga kryptomästare med vårt en-till-en mentorprogram. Investera så lite som £250 på ditt handelskonto och få din egen erfarna personliga kontoförvaltare."
+      },
+      "track-record": {
+        "heading": "Bevisad meritlista",
+        "p-1": "Sedan den första kryptovalutan skapades för 11 år sedan har vi legat i framkant.",
+        "points": [
+          {
+            "icon": "shield-1",
+            "text": "Kvalificerade proffs med verklig handelserfarenhet över flera plattformar."
+          },
+          {
+            "icon": "crypto",
+            "text": "Var säker med toppmoderna säkerhetssystem distribuerade globalt."
+          },
+          {
+            "icon": "stock",
+            "text": "Proprietära handelsteknologier utformade för att ge dig den fördel du behöver."
+          }
+        ]
+      },
+      "global-footprint": {
+        "heading": "Globalt fotavtryck",
+        "points": [
+          {
+            "icon": "chat-group",
+            "heading": "10+",
+            "text": "Flera språk stöds"
+          },
+          {
+            "icon": "globe",
+            "heading": "25+",
+            "text": "Tillgänglig i mer än 25 länder"
+          },
+          {
+            "icon": "transaction",
+            "heading": "500+",
+            "text": "Över 500 miljoner euro omsatt"
+          },
+          {
+            "icon": "bitcoin",
+            "heading": "100+",
+            "text": "Hundratals valutor integrerade"
+          }
+        ]
+      },
+      "reinvent": {
+        "heading": "Uppfinn inte hjulet på nytt, bara justera om det",
+        "p-1": "Vi tror att du inte behöver uppfinna hjulet på nytt för att bli framgångsrik. Vad du behöver göra är att vidta åtgärder! Applicera dig själv nu och lär av mästarna."
+      },
+      "truth-never-lies": {
+        "heading": "Sanningen ljuger aldrig",
+        "p-1": "\"Utbildning är inte nyckeln till framgång. Erfarenhet, visdom och kunskap är nycklarna till framgång\"",
+        "points": [
+          {
+            "icon": "knowledge",
+            "heading": "Utbildningsmaterial",
+            "text": "Hög kvalitet, användbara guider och videor"
+          },
+          {
+            "icon": "professional",
+            "heading": "1 på 1 mentorskap",
+            "text": "Erfarna kvalificerade yrkesmän"
+          }
+        ]
+      },
+      "time-waits": {
+        "heading": "Tiden väntar på ingen",
+        "points": [
+          {
+            "icon": "trade",
+            "heading": "Beslut",
+            "text": "Kvalificerade proffs med verklig handelserfarenhet över flera plattformar."
+          },
+          {
+            "icon": "gantt-chart",
+            "heading": "Tidsvärde",
+            "text": "Börja nu och se din avkastning växa. Tid är pengar, slösa inte bort det."
+          },
+          {
+            "icon": "annual-calendar-page",
+            "heading": "Boka nu",
+            "text": "Registrera dig idag och boka din en-till-en-konsultation inom några minuter."
+          },
+          {
+            "icon": "shrink",
+            "heading": "Riktning",
+            "text": "Våra experter kommer att peka dig i rätt riktning och guida dig längs framgångens väg."
+          },
+          {
+            "icon": "insight",
+            "heading": "Support",
+            "text": "Din personliga kontoansvarig kommer att hjälpa dig genom hela processen."
+          }
+        ]
+      }
+    },
+    "questions": {
+      "title": "Kontot väntar på verifiering...",
+      "intro": {
+        "p-1": "Importera information!!",
+        "p-2": "Du måste skicka in följande tre korta frågor för att vi ska kunna tilldela den <u>Personal Account Manager</u> som bäst passar din profil."
+      },
+      "form": {
+        "question-1": {
+          "label": "Fråga 1: Kön",
+          "placeholder": "Vänligen välj",
+          "genders": {
+            "male": "Manlig",
+            "female": "Kvinna",
+            "prefer-not-to-say": "Föredrar att inte säga"
+          }
+        },
+        "question-2": {
+          "label": "Fråga 2: Åldersgrupp",
+          "placeholder": "Vänligen välj"
+        },
+        "question-3": {
+          "label": "Fråga 3: Investeringskapital",
+          "p-1": "Vi känner alla till talesättet <i>\"pengar tjänar pengar\"</i> - och verkligheten är att den här frasen tyvärr är mycket sann!",
+          "p-2": "Vad folk inte säger till dig är att om du kan multiplicera din vinst under en kort tidsperiod, kan lite pengar förvandlas till mycket pengar mycket snabbt!ey\"</i> - och Verkligheten är, den här frasen är tyvärr väldigt sann!",
+          "p-3": "Välj hur mycket pengar du är villig att investera.",
+          "placeholder": "Vänligen välj"
+        },
+        "button": "Fortsätta"
+      }
+    },
+    "welcome_auto_redirect": {
+      "title": "Vänta medan vi loggar in dig på ditt konto..."
+    },
+    "welcome": {
+      "title": "Konto väntar... Sista steget...",
+      "intro": {
+        "p-1": "Detta är det viktigaste SISTA STEGET för att konfigurera ditt konto,",
+        "highlight": "var mycket uppmärksam här",
+        "p-2": "eftersom du",
+        "p-3": "måste se till att ditt system är korrekt inställt."
+      },
+      "phone-call": {
+        "heading": "Verifiering och installation av telefonsamtal",
+        "p-1": "I detta program (som du har sett) tar vi säkerheten mycket på allvar och för att verifiera att du är en riktig person och för att validera ditt konto kommer en av våra start-specialister att ringa dig inom de kommande 30 minuterna. (Mån-fre)",
+        "p-2": "Om du inte är tillgänglig, svara på samtalet och schemalägg en tid för en mer bekväm tid."
+      },
+      "self-activation": {
+        "heading": "Självaktivering och hur det fungerar",
+        "p-1": "På nästa sida kommer du att skickas till vår noggrant utvalda partner för att <span class=\"font-bold\">Aktivera</span> ditt konto genom att sätta in ditt lilla startkapital.",
+        "p-2": "Pengarna du sätter in <span class=\"font-bold\">är dina</span> pengar och du behöver inte använda allt på en gång, du kan börja med små belopp för att se hur systemet fungerar och komma ihåg, du kan ta ut ditt kapital när som helst.",
+        "p-3": "Om du inte är säker på hur du <span class=\"font-bold\">själv aktiverar</span> ditt konto, gå till ditt konto nedan och vänta sedan på att en av våra uppstartsspecialister kommer att ringa dig inom de kommande 30 minuterna. (Mån-fre)"
+      },
+      "go-to-account": "Gå till konto",
+      "recommended-broker": {
+        "heading": "Din rekommenderade mäklare",
+        "p-1": "Vårt team har noggrant valt detta handelskonto åt dig. Om du har problem med att se sidan kan du klicka",
+        "p-2": "och handelsapplikationen öppnas i ett nytt fönster."
+      }
+    },
+    "welcome_two_step": {
+      "step-1": {
+        "title": "Konto väntar... Sista&nbsp;steget...",
+        "p-1": "Klicka på den här gröna knappen för att verifiera och aktivera.",
+        "button": "Klicka här för att verifiera nu"
+      },
+      "step-2": {
+        "title": "Konto väntar... Viktig information!!",
+        "sub-title": "Du MÅSTE läsa detta nu."
+      }
+    },
+    "welcome_received": {
+      "title": "Konto väntar... Viktig information!!",
+      "sub-title": "Du MÅSTE läsa detta nu.",
+      "heading": "Telefonsamtalsverifiering och konfiguration",
+      "p-1": "Tyvärr är vårt kontor nu stängt, din personliga kontoansvarige <u>kommer att ringa dig på morgonen</u> eller senast före utgången av nästa arbetsdag.",
+      "p-2": "Ditt konto förblir vilande tills du har verifierats. ",
+      "p-3": "<u>Konton som inte har verifierats inom 24 timmar (måndag - fredag) kommer att raderas</u> och nästa tillgängliga placering kommer att skickas till nästa konto i kön.",
+      "p-4": "Konton som skapats på helgen kommer att verifieras på måndagar."
+    },
+    "privacy": {
+      "title": "Integritetspolicy",
+      "content": "<p> Vi är mycket glada över att du har visat intresse för vårt företag. Dataskydd har en särskilt hög prioritet för hanteringen av {siteName}. Användningen av webbplatserna på {siteName} är möjlig utan någon uppgift om personuppgifter. Men om den registrerade vill använda särskilda företagstjänster via vår webbplats kan behandling av personuppgifter bli nödvändig. Om behandling av personuppgifter är nödvändig och det inte finns någon lagstadgad grund för sådan behandling, får vi i allmänhet samtycke från den registrerade. </p> <p> Behandlingen av personuppgifter, såsom namn, adress, e-post adress eller telefonnummer till den registrerade ska alltid överensstämma med den allmänna dataskyddsförordningen (GDPR) och i enlighet med de landsspecifika dataskyddsföreskrifter som gäller för {siteName}. Med hjälp av denna dataskyddsförklaring vill vårt företag informera allmänheten om arten, omfattningen och syftet med de personuppgifter vi samlar in, använder och behandlar. Dessutom informeras de registrerade med hjälp av denna dataskyddsförklaring , om de rättigheter de har rätt till. </p> <p> Som registeransvarig har {siteName} vidtagit många tekniska och organisatoriska åtgärder för att säkerställa det mest fullständiga skyddet av personuppgifter som behandlas via denna webbplats. Internetbaserade dataöverföringar kan dock i princip ha säkerhetsluckor, så absolut skydd kan inte garanteras. Av denna anledning är varje registrerad fri att överföra personuppgifter till oss via alternativa medel, t.ex. via telefon. </p> <h4 class=\"text-2xl\"> 1. Definitioner </h4> <p> Dataskyddsdeklarationen för {siteName} baseras på de termer som används av den europeiska lagstiftaren för antagandet av den allmänna dataskyddsförordningen (GDPR). Vår dataskyddsförklaring bör vara läsbar och begriplig för allmänheten, såväl som våra kunder och affärspartners. För att säkerställa detta vill vi först förklara den terminologi som används. </p> <p> I denna dataskyddsförklaring använder vi bland annat följande termer: </p> <ul class=\"pl-8\"> <li> <h4 class =\" text-lg\"> a) Personuppgifter </h4> <p> Med personuppgifter avses all information som rör en identifierad eller identifierbar fysisk person (\"registrerad\") . En identifierbar fysisk person är en som kan identifieras, direkt eller indirekt, särskilt med hänvisning till en identifierare som ett namn, ett identifieringsnummer, platsdata, en online -identifierare eller till en eller flera faktorer som är specifika för det fysiska, fysiologiska, den fysiska personens genetiska, mentala, ekonomiska, kulturella eller sociala identitet. </p> <h4 class=\"text-lg\"> b) Den registrerade </h4> <p> Den registrerade är en identifierad eller identifierbar naturlig person, vars personuppgifter behandlas av den personuppgiftsansvarige som är ansvarig för behandlingen. </p> <h4 class=\"text-lg\"> c) Bearbetning </h4> <p> Bearbetning är varje operation eller uppsättning operationer som utförs på personuppgifter eller på uppsättningar av personuppgifter, oavsett om det är automatiskt, t.ex. insamling, inspelning, organisation, strukturering, lagring, anpassning eller ändring, hämtning, konsultation, användning, avslöjande genom överföring, spridning eller på annat sätt göra tillgänglig , anpassning eller kombination, begränsning, radering eller förstörelse. </p> <h4 class=\"text-lg\"> d) Begränsning av behandlingen </h4><p> Begränsning av behandlingen är märkning av lagrade personuppgifter i syfte att begränsa deras behandling i framtiden. </p> <h4 class=\"text-lg\"> e) Profilering </h4> <p> Med profilering avses varje form av automatisk behandling av personuppgifter som består av användning av personuppgifter för att utvärdera vissa personliga aspekter som rör en fysisk person, särskilt för att analysera eller förutsäga aspekter rörande den fysiska personens prestation på jobbet, ekonomisk situation, hälsa, personliga preferenser , intressen, tillförlitlighet, beteende, plats eller rörelser. </p> <h4 class=\"text-lg\"> f) Pseudonymisering </h4> <p> Pseudonymisering är behandling av personuppgifter på ett sådant sätt att personuppgifter kan inte längre hänföras till en specifik registrerad utan användning av ytterligare information, förutsatt att sådan ytterligare information förvaras separat och är föremål för tekniska och organisatoriska åtgärder för att säkerställa att personuppgifterna inte tillskrivs en identifierad eller identifierbar naturperson. </p> <h4 class=\"text-lg\"> g) Personuppgiftsansvarig eller registeransvarig som ansvarar för behandlingen </h4> <p> Ansvarig eller registeransvarig som är ansvarig för behandlingen är den fysiska eller juridiska personen, offentlig myndighet , byrå eller annat organ som ensam eller tillsammans med andra bestämmer ändamålen och medlen för behandlingen av personuppgifter; om ändamålen och medlen för sådan behandling bestäms av unionsrätten eller medlemsstatens lagstiftning, kan den registeransvarige eller de särskilda kriterierna för dess nominering föreskrivas i unionslagstiftningen eller medlemsstaternas lagstiftning. </p> <h4 class=\"text-lg\"> h) Behandlare </h4> <p> Behandlare är en fysisk eller juridisk person, offentlig myndighet, byrå eller annat organ som behandlar personuppgifter för den registeransvariges räkning. </p> <h4 class=\"text-lg\"> i) Mottagare </h4> <p> Mottagare är en fysisk eller juridisk person, offentlig myndighet, myndighet eller ett annat organ, till vilket personuppgifterna lämnas ut, oavsett om det är en tredje part eller inte. Offentliga myndigheter som kan ta emot personuppgifter inom ramen för en viss undersökning i enlighet med unionslagstiftningen eller medlemsstaternas lagstiftning ska dock inte betraktas som mottagare. dessa offentliga myndigheters behandling av dessa uppgifter ska överensstämma med tillämpliga dataskyddsregler i enlighet med behandlingens syften. </p> <h4 class=\"text-lg\"> j) Tredje part </h4 > <p> Tredje part är en fysisk eller juridisk person, offentlig myndighet, myndighet eller organ som inte är den registrerade, registeransvarig, personuppgiftsbiträde och personer som, under den direkta myndigheten för den personuppgiftsansvarige eller behandlaren, har tillstånd att behandla personuppgifter. </p> <h4 class=\"text-l\"> k) Samtycke </h4> <p> Den registrerades samtycke är en fritt given, specifik, informerad och entydig indikation på den registrerades önskemål som han eller han eller hon hon, genom ett uttalande eller en tydlig bekräftande åtgärd, innebär att du godkänner behandlingen av personuppgifter som rör honom eller henne. </p> </li> </ul> <h4 class=\"text-2xl\"> 2. Den personuppgiftsansvariges namn och adress </h4> <p> Den personuppgiftsansvarige i den allmänna dataskyddsförordningen (GDPR), andra dataskyddslagar som är tillämpliga i EU: s medlemsstater och andra bestämmelser som rör dataskydd är: </p> <p> {siteName} </p> <p> Webbplats: {siteDomain} </p>"
+    },
+    "cookie": {
+      "title": "Cookiepolicy",
+      "content": "<p> Internetsidorna på {siteName} använder cookies. Cookies är text -filer som lagras i ett datorsystem via en webbläsare. </p> <p> Många webbplatser och servrar använder cookies. Många cookies innehåller så kallat cookie-ID. Ett cookie -ID är en unik identifierare för cookien. Den består av en teckensträng genom vilken internetsidor och servrar kan tilldelas den specifika webbläsare där cookien lagrades. Detta gör att besökta webbplatser och servrar kan skilja den enskilda webbläsaren hos den registrerade från andra webbläsare som innehåller andra cookies. En specifik webbläsare kan identifieras och identifieras med det unika cookie-id. </p> <p> Genom att använda cookies kan {siteName} ge användarna på denna webbplats mer användarvänliga tjänster som inte skulle vara möjliga utan cookie -inställning. </p> <p> Med hjälp av en cookie kan informationen och erbjudandena på vår webbplats optimeras med användaren i åtanke. Cookies tillåter oss, som tidigare nämnts, att känna igen våra webbplatsanvändare. Syftet med detta erkännande är att göra det lättare för användare att använda vår webbplats. Webbplatsanvändaren som använder cookies, t.ex. behöver inte ange åtkomstdata varje gång webbplatsen öppnas, eftersom denna övertas av webbplatsen och cookien lagras därmed på användarens datorsystem. Ett annat exempel är cookien i en kundvagn i en webbutik. Onlinebutiken kommer ihåg artiklarna som en kund har placerat i den virtuella kundvagnen via en cookie. </p> <p> Den registrerade kan när som helst förhindra att cookies ställs in via vår webbplats med hjälp av en motsvarande inställning av webbläsaren som används och kan därför permanent neka inställningen av cookies. Dessutom kan redan inställda cookies raderas när som helst via en webbläsare eller andra program. Detta är möjligt i alla populära webbläsare. Om den registrerade inaktiverar inställningen av cookies i den webbläsare som används, kanske inte alla funktioner på vår webbplats är helt användbara. </p>"
+    },
+    "gdpr": {
+      "title": "GDPR",
+      "content": "<h4 class=\"text-2xl\"> Insamling av allmän data och information </h4> <p> Webbplatsen för {siteName} samlar en serie allmänna data och information när en registrerad eller ett automatiserat system ringer upp hemsida. Denna allmänna data och information lagras i serverloggfilerna. Insamlade kan vara (1) webbläsartyper och versioner som används, (2) operativsystemet som används av systemet, (3) webbplatsen från vilken ett åtkomstsystem når vår webbplats (så kallade referenser), (4) sub -webbplatser, (5) datum och tid för åtkomst till webbplatsen, (6) en internetprotokolladress (IP -adress), (7) Internetleverantören för åtkomstsystemet och (8) andra liknande data och information som kan användas vid attacker mot våra informationstekniska system. </p> <p> När du använder dessa allmänna data och information drar {siteName} inga slutsatser om den registrerade. Denna information behövs snarare för att (1) leverera innehållet på vår webbplats korrekt, (2) optimera innehållet på vår webbplats såväl som dess annons, (3) säkerställa långsiktigheten av våra informationsteknologisystem och webbplatsteknik , och (4) förse de brottsbekämpande myndigheterna med den information som är nödvändig för straffrättsligt åtal i händelse av en cyberattack. Därför analyserar {siteName} anonymt insamlad data och information statistiskt, i syfte att öka dataskyddet och datasäkerheten för vårt företag, och för att säkerställa en optimal skyddsnivå för de personuppgifter vi behandlar. Anonyma data för serverloggfilerna lagras separat från alla personuppgifter som tillhandahålls av en registrerad. </p> <h4 class=\"text-2xl\"> Registrering på vår webbplats </h4> <p> Data personen har möjlighet att registrera sig på den registeransvariges webbplats med angivelse av personuppgifter. Vilka personuppgifter som överförs till den registeransvarige bestäms av respektive ingångsmask som används för registreringen. De personuppgifter som anges av den registrerade samlas in och lagras uteslutande för internt bruk av den registeransvarige och för hans egna ändamål. Den registeransvarige kan begära överföring till en eller flera processorer (t.ex. en pakettjänst) som också använder personuppgifter för ett internt ändamål som kan tillskrivas den registeransvarige. </p> <p> Genom att registrera dig på den registeransvariges webbplats, IP -adressen —Tilldelas av Internetleverantören (ISP) och används av den registrerade — datum och tid för registrering lagras också. Lagringen av dessa data sker mot bakgrund av att detta är det enda sättet att förhindra missbruk av våra tjänster och, om det behövs, för att göra det möjligt att utreda begångna brott. Dessa uppgifter överförs inte till tredje part om det inte finns en lagstadgad skyldighet att vidarebefordra uppgifterna, eller om överföringen tjänar målet för straffrättsligt åtal. </p> <p> Registreringen av den registrerade, med frivillig indikation av personuppgifter, är avsett att göra det möjligt för den registeransvarige att erbjuda den registrerade innehållet eller tjänsterna som endast kan erbjudas registrerade användare på grund av sakens art. Registrerade personer kan när som helst ändra de personuppgifter som anges under registreringen eller få dem helt raderade från den registeransvariges datalager. </p> <p> Den registeransvarige ska när som helst lämna information om begäran till varje registrerad om vilka personuppgifter som lagras om den registrerade. Dessutom ska den registeransvarige korrigera eller radera personuppgifter på begäran eller indikation av den registrerade, i den mån det inte finns några lagstadgade lagringsskyldigheter. Hela den personuppgiftsansvariges medarbetare är tillgänglig för den registrerade i detta avseende som kontaktpersoner. </p> <p> Webbplatsen för {siteName} innehåller information som möjliggör en snabb elektronisk kontakt till vårt företag, samt direktkommunikation hos oss, som också innehåller en allmän adress för den så kallade elektroniska posten (e-postadress). Om en registrerad kontaktar den personuppgiftsansvarige via e-post eller via ett kontaktformulär, lagras personuppgifterna som överförs av den registrerade automatiskt. Sådana personuppgifter som frivilligt överförs av den registrerade till den personuppgiftsansvarige lagras i syfte att behandla eller kontakta den registrerade. Det sker ingen överföring av dessa personuppgifter till tredje part. </p> <h4 class=\"text-2xl\"> Rutinradering och blockering av personuppgifter </h4><p> Den personuppgiftsansvarige ska behandla och lagra den registrerades personuppgifter endast under den tid som är nödvändig för att uppnå ändamålet med lagring, eller så långt som detta beviljas av den europeiska lagstiftaren eller andra lagstiftare i lagar eller förordningar som registeransvarig är föremål för. </p> <p> Om lagringssyftet inte är tillämpligt, eller om en lagringstid som föreskrivs av den europeiska lagstiftaren eller annan behörig lagstiftare löper ut, blockeras eller raderas personuppgifterna i enlighet med lagkrav. </p> <h4 class=\"text-2xl\"> Den registrerades rättigheter </h4> <ul class=\"pl-8\"> <li> <h4 class=\"text-lg\"> a) Rätt till bekräftelse </h4> <p> Varje registrerad ska ha rätt av den europeiska lagstiftaren att få från den registeransvarige bekräftelsen om huruvida personuppgifter som rör honom eller henne behandlas eller inte. Om en registrerad vill utnyttja denna bekräftelse kan han eller hon när som helst kontakta någon av personens ansvariga. </p> </li> <li> <h4 class=\"text-lg\"> b) Rätt till åtkomst </h4> <p> Varje registrerad ska ha rätt som den europeiska lagstiftaren beviljar att från den registeransvarige få gratis information om sina personuppgifter som lagras när som helst och en kopia av denna information . Dessutom ger de europeiska direktiven och förordningarna den registrerade tillgång till följande information: </p> <ul class=\"pl-8 pb-6\"> <li> behandlingens syften; </li> <li> berörda kategorier av personuppgifter; </li> <li> mottagare eller kategorier av mottagare till vilka personuppgifterna har eller kommer att avslöjas, särskilt mottagare i tredjeländer eller internationella organisationer, </li> <li > där det är möjligt, den planerade perioden för vilken personuppgifterna kommer att lagras, eller, om inte möjligt, de kriterier som används för att bestämma den perioden, </li> <li> förekomsten av rätten att begära av den registeransvarige rättelse eller radering av personuppgifter uppgifter eller begränsning av behandling av personuppgifter som rör den registrerade, eller att invända mot sådan behandling, </li> <li> förekomsten av rätten att lämna in ett klagomål till tillsynsmyndigheten; </li> <li> där personuppgifter samlas inte in från den registrerade, all tillgänglig information om deras källa; </li> <li> ex automatiskt beslutsfattande, inklusive profilering, som avses i artikel 22.1 och 22.4 i GDPR och, åtminstone i dessa fall, meningsfull information om den inblandade logiken, liksom betydelsen och förväntade konsekvenser av sådana behandling för den registrerade. </li> </ul> <p> Vidare ska den registrerade ha rätt att få information om huruvida personuppgifter överförs till ett tredjeland eller till en internationell organisation. Om så är fallet ska den registrerade ha rätt att bli informerad om lämpliga skyddsåtgärder för överföringen. </p> <p> Om en registrerad vill utnyttja denna rätt till tillgång kan han eller hon , när som helst, kontakta någon anställd hos kontrollören. </p> </li> <li> <h4 class=\"text-lg\"> c) Rätt till rättelse </h4> <p> Varje registrerad ska ha rätten att bevilja den europeiska lagstiftaren att utan onödigt dröjsmål få rättelse av felaktiga personuppgifter om honom eller henne från den personuppgiftsansvarige. Med beaktande av syftena med behandlingen ska den registrerade ha rätt att få ofullständiga personuppgifter ifyllda, inklusive genom att tillhandahålla ett tilläggsmeddelande. </p> <p> Om en registrerad vill utöva denna rätt till rättelse kan han eller hon när som helst kontakta en anställd hos kontrollören. </p> </li> <li> <h4 class=\"text-lg\"> d) Rätt till radering (Rätt att glömmas bort) </h4> <p> Varje registrerad ska ha den rätt som beviljas av Den europeiska lagstiftaren får från den registeransvarige radering av personuppgifter som rör honom eller henne utan onödigt dröjsmål, och den registeransvarige har skyldigheten att radera personuppgifter utan onödigt dröjsmål om en av följande grunder gäller, så länge behandlingen inte sker nödvändigt: </p> <ul class=\"pl-8 pb-6\"> <li> Personuppgifterna är inte längre nödvändiga i förhållande till de syften för vilka de samlades in eller på annat sätt behandlades. </li> <li> Den registrerade drar tillbaka det samtycke som behandlingen baseras på enligt artikel 6.1 ai GDPR eller artikel 9.2 ai GDPR, och där det inte finns någon annan rättslig grund för behandlingen. </li> <li> Den registrerade invänder mot behandlingen enligt artikel 21.1 i GDPR och det finns inga övervägande legitima skäl för behandlingen, eller den registrerade motsätter sig behandlingen enligt Artikel 21.2 i GDPR. </li> <li> Personuppgifterna har behandlats olagligt. </li><li> Personuppgifterna måste raderas för att följa en juridisk skyldighet i unionsrätten eller medlemsstaternas lagstiftning som den registeransvarige omfattas av. </li> <li> Personuppgifterna har samlats in i samband med erbjudandet av informationssamhällets tjänster som avses i artikel 8.1 i GDPR. </li> </ul> <p> Om en av de ovan nämnda orsakerna gäller och en registrerad vill begära radering av personuppgifter som lagras av {siteName}, han eller hon kan när som helst kontakta någon anställd hos den registeransvarige. En anställd på {siteName} ska omedelbart se till att begäran om radering följs omedelbart. </p> <p> Om den personuppgiftsansvarige har offentliggjort personuppgifter och är skyldig att i enlighet med artikel 17.1 radera personuppgifterna, ska kontrollören , med hänsyn till tillgänglig teknik och kostnaderna för implementering, ska vidta rimliga åtgärder, inklusive tekniska åtgärder, för att informera andra registeransvariga som behandlar personuppgifterna om att den registrerade har begärt radering av sådana registeransvariga om länkar till eller kopiering eller replikering av, dessa personuppgifter, i den mån behandling inte krävs. Anställda på {siteName} kommer att ordna nödvändiga åtgärder i enskilda fall. </p> </li> <li> <h4 class=\"text-lg\"> e) Rätt till begränsning av behandlingen </h4> <p> Varje registrerad ska ha den rätt som beviljas av den europeiska lagstiftaren att från den registeransvarige få begränsning av behandlingen när något av följande gäller: </p> <ul class=\"pl-8 pb-6\"> <li> Personuppgifternas riktighet bestrids av den aktuella personen under en period som gör det möjligt för den personuppgiftsansvarige att verifiera personuppgifternas riktighet. </li> <li> Behandlingen är olaglig och den registrerade motsätter sig radering av personuppgifterna data och begär istället begränsning av deras användning istället. </li> <li> Den registeransvarige behöver inte längre personuppgifterna för behandlingens ändamål, men de krävs av den registrerade för att fastställa, utöva eller försvara rättsliga anspråk. </li> <li> Den registrerade har invänt mot behandling enligt artikel 21.1 i GDPR i avvaktan på att verifiera om den legitima gr den registeransvariges pengar åsidosätter den registrerades. </li> </ul> <p> Om något av ovannämnda villkor är uppfyllt och en registrerad vill begära begränsning av behandlingen av personuppgifter som lagras av { siteName} kan han eller hon när som helst kontakta någon anställd hos den personuppgiftsansvarige. Anställd på {siteName} ordnar begränsningen av behandlingen. </p> </li> <li> <h4 class=\"text-lg\"> f) Rätt till dataportabilitet </h4> <p > Varje registrerad ska ha rätt att beviljas av den europeiska lagstiftaren att få personuppgifter som han eller hon lämnat till en registeransvarig i ett strukturerat, vanligt använt och maskinläsbart format. Han eller hon ska ha rätt att överföra dessa uppgifter till en annan registeransvarig utan hinder från den personuppgiftsansvarige till vilken personuppgifterna har lämnats, så länge behandlingen är baserad på samtycke enligt artikel 6.1 a ai GDPR eller artikel 9.2 ai GDPR, eller på ett kontrakt enligt artikel 6.1 bi GDPR, och behandlingen utförs automatiskt så länge som behandlingen är inte nödvändig för att utföra en uppgift som utförs i allmänhetens intresse eller vid utövandet av den officiella myndighet som tillkommer den registeransvarige. </p> <p> Vidare för att utöva sin rätt till dataportabilitet enligt artikel 20 (1) i GDPR, ska den registrerade ha rätt att få personuppgifter överförda direkt från en registeransvarig till en annan, om det är tekniskt möjligt och när detta inte påverkar andras rättigheter och friheter. </p> <p> För att hävda rätten till dataportabilitet kan den registrerade när som helst kontakta någon medarbetare på {siteName}. </p> </li> <li> <h4 class=\"text-lg\"> g) Rätt att invända </h4> <p> Varje registrerad ska ha rätt att beviljas av den europeiska lagstiftaren att, av skäl som rör hans eller hennes särskilda situation, när som helst motsätta sig behandling av personuppgifter som rör honom eller henne, som bygger på artikel e eller f 6 (1) i GDPR. Detta gäller även profilering baserad på dessa bestämmelser. </p> <p> {siteName} ska inte längre behandla personuppgifterna om invändningen sker, såvida vi inte kan visa tvingande legitima skäl för behandlingen som åsidosätter intressen, rättigheter och den registrerades friheter eller för att fastställa, utöva eller försvara rättsliga anspråk. </p><p> Om {siteName} behandlar personuppgifter för direktmarknadsföringsändamål, ska den registrerade när som helst ha rätt att invända mot behandling av personuppgifter som rör honom eller henne för sådan marknadsföring. Detta gäller profilering i den utsträckning det är relaterat till sådan direktmarknadsföring. Om den registrerade motsätter sig {siteName} mot behandlingen för direktmarknadsföringsändamål kommer {siteName} inte längre att behandla personuppgifterna för dessa ändamål. </p> <p> Dessutom har den registrerade rätten att skäl som rör hans eller hennes speciella situation, att invända mot behandling av personuppgifter som rör honom eller henne av {siteName} för vetenskapliga eller historiska forskningsändamål eller för statistiska ändamål enligt artikel 89.1 i GDPR, såvida inte behandlingen sker nödvändig för att utföra en uppgift som utförs av skäl av allmänt intresse. </p> <p> För att utöva rätten att invända kan den registrerade kontakta alla anställda på {siteName}. Dessutom är den registrerade fri i samband med användning av informationssamhällets tjänster, och trots direktiv 2002/58/EG, att använda sin rätt att göra invändningar automatiskt med hjälp av tekniska specifikationer. </p> </li> <li> <h4 class=\"text-lg\"> h) Automatiserat individuellt beslutsfattande, inklusive profilering </h4> <p> Varje registrerad ska ha den rätt som beviljas av den europeiska lagstiftaren att inte bli föremål för en beslut som enbart bygger på automatisk behandling, inklusive profilering, som ger rättsverkningar som rör honom eller henne, eller på liknande sätt påverkar honom eller henne, så länge beslutet (1) inte är nödvändigt för att ingå eller fullgöra ett avtal mellan den registrerade och en registeransvarig, eller (2) inte är auktoriserad enligt unionslagstiftning eller medlemsstatens lagstiftning som den registeransvarige omfattas av och som också fastställer lämpliga åtgärder för att skydda den registrerades rättigheter och friheter och legitima intressen, eller (3) är inte baserat på den registrerades uttryckliga c onsent. </p> <p> Om beslutet (1) är nödvändigt för att ingå eller utföra ett avtal mellan den registrerade och en registeransvarig, eller (2) det är baserat på den registrerades uttryckliga samtycke, {siteName} ska vidta lämpliga åtgärder för att skydda den registrerades rättigheter och friheter och legitima intressen, åtminstone rätten att få mänskligt ingripande från den registeransvariges sida, för att uttrycka sin synvinkel och bestrida beslutet. </p> <p> Om den registrerade vill utöva rättigheterna för automatiserat individuellt beslutsfattande kan han eller hon när som helst kontakta en anställd på {siteName}. </p> </li> <li> <h4 class=\"text-lg\"> i) Rätt att återkalla dataskyddsgodkännande </h4> <p> Varje registrerad ska ha rätten att bevilja den europeiska lagstiftaren att återkalla sitt samtycke till behandling av hans eller hennes hennes personuppgifter när som helst. </p> <p> Om den registrerade vill utnyttja rätten att återkalla samtycket kan han eller hon när som helst kontakta någon anställd på {siteName}. </p> </li> </ul> <h4 class=\"text-2xl\"> Rättslig grund för behandlingen </h4><p> Art. 6 (1) tänd. en GDPR fungerar som den rättsliga grunden för bearbetningsoperationer för vilka vi får samtycke för ett specifikt behandlingsändamål. Om behandlingen av personuppgifter är nödvändig för genomförandet av ett kontrakt som den registrerade är part i, såsom är fallet, till exempel när behandling är nödvändig för leverans av varor eller för att tillhandahålla någon annan tjänst, är behandlingen baserat på artikel 6.1 lit. b GDPR. Detsamma gäller sådana bearbetningsoperationer som är nödvändiga för att genomföra åtgärder före avtal, till exempel vid förfrågningar om våra produkter eller tjänster. Är vårt företag underkastat en juridisk skyldighet genom vilken behandling av personuppgifter krävs, till exempel för fullgörande av skatteplikt, är behandlingen baserad på art. 6 (1) tänd. c GDPR. I sällsynta fall kan behandling av personuppgifter vara nödvändig för att skydda den registrerades eller en annan fysisk persons vitala intressen. Detta skulle till exempel vara fallet om en besökare skadades i vårt företag och hans namn, ålder, sjukförsäkringsdata eller annan viktig information måste överlämnas till en läkare, sjukhus eller annan tredje part. Därefter skulle behandlingen baseras på art. 6 (1) tänd. d GDPR. Slutligen kan bearbetning baseras på artikel 6.1 lit. f GDPR. Denna rättsliga grund används för bearbetning som inte omfattas av någon av de ovannämnda rättsliga grunderna, om behandlingen är nödvändig för de legitima intressen som vårt företag eller en tredje part eftersträvar, förutom där sådana intressen åsidosätts av intressena eller grundläggande rättigheter och friheter för den registrerade som kräver skydd av personuppgifter. Sådana bearbetningar är särskilt tillåtna eftersom de specifikt har nämnts av den europeiska lagstiftaren. Han ansåg att ett legitimt intresse kunde antas om den registrerade är en kund hos den registeransvarige (skäl 47 mening 2 GDPR). </p> <h4 class=\"text-2xl\"> De legitima intressen som den registeransvarige eftersträvar. eller av en tredje part </h4> <p> När behandlingen av personuppgifter är baserad på artikel 6.1 lit. f GDPR vårt legitima intresse är att bedriva vår verksamhet till förmån för alla våra anställdas och aktieägarnas välbefinnande. </p> <h4 class=\"text-2xl\"> Period för vilken personuppgifterna kommer att vara lagrad </h4> <p> Kriterierna som används för att bestämma lagringsperioden för personuppgifter är respektive lagstadgad lagringsperiod. Efter utgången av den perioden raderas motsvarande data rutinmässigt, så länge det inte längre är nödvändigt för att kontraktet ska fullgöras eller ett kontrakt inleds. </p> <h4 class=\"text-2xl\"> Tillhandahållande av personuppgifter som lagstadgade eller avtalsenliga krav; Krav som krävs för att ingå ett kontrakt; Skyldighet för den registrerade att tillhandahålla personuppgifterna; möjliga konsekvenser av underlåtenhet att tillhandahålla sådan data </h4><p> Vi förtydligar att tillhandahållande av personuppgifter delvis krävs enligt lag (t.ex. skatteregler) eller också kan bero på avtalsbestämmelser (t.ex. information om avtalspartnern). Ibland kan det vara nödvändigt att ingå ett avtal om att den registrerade förser oss med personuppgifter som sedan måste behandlas av oss. Den registrerade är till exempel skyldig att förse oss med personuppgifter när vårt företag tecknar avtal med honom eller henne. Om personuppgifterna inte tillhandahålls skulle det leda till att avtalet med den registrerade inte kunde ingås. Innan personuppgifter lämnas av den registrerade måste den registrerade kontakta alla anställda. Den anställde klargör för den registrerade om tillhandahållande av personuppgifter krävs enligt lag eller kontrakt eller är nödvändigt för att ingå avtalet, om det finns en skyldighet att lämna personuppgifterna och konsekvenserna av att personuppgifterna inte tillhandahålls data. </p> <h4 class=\"text-2xl\"> Förekomst av automatiserat beslutsfattande </h4> <p> Som ansvarigt företag använder vi inte automatiskt beslutsfattande eller profilering. </p>"
+    }
+  }
+}

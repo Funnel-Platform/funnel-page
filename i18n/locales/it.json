@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "title": "{siteName} ™ // VERO DOT ufficiale {siteTLD} [2025] ©",
+    "description": "Registrati sul VERO DOT ufficiale {siteTLD} - tutti gli altri siti Web sono FALSI. {siteName} è una piattaforma di trading che utilizza l'intelligenza artificiale per prevedere i movimenti del mercato e trarne vantaggio."
+  },
+  "landing-pages": {
+    "variant-a": {
+      "create-account": "Crea il tuo account gratuito",
+      "points": {
+        "p-1": "Gestore account personale gratuito",
+        "p-2": "Nessuna esperienza di trading richiesta",
+        "p-3": "Inizia tra 15 minuti",
+        "p-1-alt-1": "Gestore di conto personale con licenza dell'Organizzazione canadese di regolamentazione degli investimenti (CIRO)",
+        "p-2-alt-1": "Accesso gratuito per tutti i residenti canadesi, basta verificare la tua identità durante la chiamata di benvenuto",
+        "p-3-alt-1": "Inizia a guadagnare in meno di 15 minuti",
+        "p-1-alt-2": "Gratuito per tutti i cittadini tedeschi",
+        "p-2-alt-2": "Gestore di account personale gratuito approvato da Elon Musk",
+        "p-3-alt-2": "Rendimento garantito sugli investimenti in pochi minuti"
+      },
+      "steps": "Passo {step} di 2",
+      "right_column": {
+        "title-alt-1": "Investimenti intelligenti che garantiscono il futuro della classe lavoratrice canadese",
+        "sub-title-alt-1": "Mark Carney, Primo Ministro del Canada",
+        "content-alt-1": "{siteName} è un'app che abbiamo creato per un paese di costruttori. Questa iniziativa colmerà il divario di ricchezza tra i super ricchi del Canada e la classe lavoratrice, permettendo ai cittadini canadesi di raddoppiare, e in alcuni casi triplicare, i loro stipendi quasi da un giorno all'altro. Siamo orgogliosi di annunciare che il governo federale ha assicurato tutti i depositi effettuati dai residenti canadesi, il che significa che i tuoi fondi sono al sicuro. {siteName} eliminerà la povertà nel nostro paese e ripristinerà una forte classe media canadese, dove ogni cittadino potrà possedere una casa e andare in pensione prima di invecchiare. Invito tutti i canadesi a sfruttare questa iniziativa che abbiamo creato per unire questa grande nazione.",
+        "title-alt-2": "Investimenti intelligenti che trasformano la classe operaia in milionari da un giorno all'altro",
+        "sub-title-alt-2": "Elon Musk, fondatore e CEO di {siteName}",
+        "content-alt-2": "{siteName} è il lavoro della mia vita. Ho creato questa piattaforma con un obiettivo semplice: colmare il divario di ricchezza tra i super-ricchi e i poveri. Sono orgoglioso di dire che questo è il mio più grande successo finora. Vieni a vedere di persona, senza rischi, perché garantisco tutti i depositi con i miei soldi."
+      }
+    }
+  },
+  "components": {
+    "attention-banner": {
+      "label": "ATTENZIONE: domanda mediatica molto elevata, registrazione in avvicinamento{time}"
+    },
+    "logo-header": {
+      "available-to-traders": "Ora disponibile in<br />{usersCountry}"
+    },
+    "splash": {
+      "video-id": "319904948",
+      "header": "Crea il tuo <span class=\"hidden sm:inline\">{siteName}</span> Account <span class=\"hidden sm:inline\">Oggi</span>",
+      "sub-header": "E puoi raggiungere la tua <span class=\"text-yellow-300\">libertà finanziaria...</span>",
+      "points": {
+        "p-1": "Gestore account personale gratuito",
+        "p-2": "Nessuna esperienza di trading richiesta",
+        "p-3": "Inizia tra 15 minuti"
+      },
+      "step-1": {
+        "line-1": "Disponibilità limitata",
+        "line-2": "Account rimanenti!"
+      },
+      "step-2": "Passaggio 2 di 2 - Attivazione account!"
+    },
+    "form-capture": {
+      "first_name": "Nome di battesimo",
+      "last_name": "Cognome",
+      "email": "E-mail",
+      "phone_number": "Numero di telefono",
+      "button": {
+        "step-1": "Iscriviti ora",
+        "step-2": "Attiva account"
+      }
+    },
+    "intro-text": {
+      "header": "Inizia a guadagnare con {siteName}",
+      "body-1": "{siteName} è un programma esclusivo con accesso a tecnologia proprietaria, che offre al nostro gruppo ristretto di membri un vantaggio competitivo senza precedenti per accumulare tranquillamente enormi fortune. Sono necessarie solo abilità di battitura di base. Inizia oggi e sarai in grado per vedere il denaro scorrere lentamente sul tuo conto, minuto dopo minuto!",
+      "body-2": "Assicurati di registrarti sul sito web ufficiale REAL, controlla l'indirizzo del sito web in alto per assicurarti che sia \"{siteDomain}\". Solo il punto.{siteTLD} senza parole o trattini aggiuntivi nell'indirizzo»"
+    },
+    "as-seen-on": "Come visto",
+    "testimonials": {
+      "header": {
+        "line-1": "Testimonianze reali da",
+        "line-2": "i nostri utenti"
+      },
+      "profit": "Profitto",
+      "testimonials": {
+        "1": {
+          "image": "default1.jpg",
+          "name": "James B",
+          "location": "Amsterdam",
+          "profit": 13853,
+          "text": "Mi sento davvero fortunato ad aver trovato questo programma. Non avrei mai immaginato che sarebbe stato così facile fare soldi su Internet e ciò che è stato ancora meglio che fare soldi è che ho incontrato persone davvero interessanti lungo la strada ."
+        },
+        "2": {
+          "image": "default2.jpg",
+          "name": "Stacey J",
+          "location": "Frankfurt",
+          "profit": 9126,
+          "text": "Ci sto lavorando da poco più di 30 giorni. Finalmente ho la mia libertà finanziaria! Grazie, {siteName}!"
+        },
+        "3": {
+          "image": "default3.jpg",
+          "name": "Anton L",
+          "location": "Paris",
+          "profit": 43300,
+          "text": "Lavoravo come direttore di ristorante e sono stato introdotto a questo programma da uno dei miei clienti abituali. Quando ho lasciato il mio lavoro per lavorare a tempo pieno, tutti i miei colleghi pensavano che fossi pazzo. Best {currencySymbol }250 investimento mai!"
+        },
+        "4": {
+          "image": "default4.jpg",
+          "name": "Jane M",
+          "location": "Stockholm",
+          "profit": 11463,
+          "text": "Ero madre casalinga, ora i miei figli sono cresciuti e hanno lasciato la casa... ero così annoiata e faticavo davvero a motivarmi a fare qualsiasi cosa. Grazie a {siteName} mi sento come se \"Sono 20 anni più giovane e non vedo l'ora di svegliarmi la mattina per controllare il mio conto. Pensavo che la mia vita fosse finita. Ora a volte guadagno {currencySymbol}250 in un giorno!"
+        }
+      }
+    },
+    "reasons": {
+      "1": {
+        "icon": "brtarget-icon",
+        "title": "Risultati accurati",
+        "text": "Risultati comprovati con un livello di accuratezza e prestazioni del 99,4%%. Uno dei programmi con le migliori prestazioni del settore. I nostri membri di tutto il mondo si affidano a noi per raddoppiare, triplicare e quadruplicare i loro investimenti ogni giorno."
+      },
+      "2": {
+        "icon": "brtechnology-icon",
+        "title": "Software superiore",
+        "text": "Il nostro software proprietario è stato creato utilizzando una programmazione avanzata e metriche progettate dai migliori matematici. Il programma software è in anticipo rispetto ai mercati finanziari di 0,01 secondi. Questo 'intervallo di tempo' rende il programma per computer l'applicazione di trading più coerente sul mercato pianeta."
+      },
+      "3": {
+        "icon": "braward-icon",
+        "title": "Programma premiato",
+        "text": "{siteName} ha vinto numerosi premi nel settore dei servizi finanziari. Non ci piace vantarci, quindi preferiremo farti vedere i risultati di persona. Sarà senza dubbio il miglior investimento farò mai."
+      }
+    },
+    "results-table": {
+      "button": "Iscriviti ora!",
+      "header": "Cosa rende il Quantum Computing così buono per gli investimenti?",
+      "p-1": "Questa è la prima macchina informatica quantistica al mondo; a differenza del tuo PC di casa, questo computer è intelligente: prende migliaia di 'decisioni' simultanee contemporaneamente. Il tuo cervello pensa un pensiero alla volta, in sequenza. Immagina di poter avere migliaia di pensieri contemporaneamente, ognuno chiaro quanto l'altro. Questo è il calcolo quantistico.",
+      "p-2": "Usando quel potere, la nostra macchina informatica quantistica ti aiuterà a fare scambi più intelligenti e a fare più soldi di quanto pensavi possibile. Ancora meglio, è progettata in modo che tu possa fare soldi e aiutare gli altri mentre guadagni!",
+      "p-3": "Trova gli scambi analizzando i differenziali tra i prezzi delle azioni ogni nanosecondo in cui i mercati azionari sono attivi (e fa previsioni anche quando i mercati sono chiusi, quindi saprai cosa è probabile che accada quando riapriranno ). Il tuo computer attuale (e quello di tutti gli altri) non può eguagliare la velocità decisionale di questo nuovo sistema.",
+      "p-4": "Registrati e diventa uno dei pochi esclusivi a utilizzare questa tecnologia (prima che tutti gli altri se ne accorgano!)"
+    },
+    "partners": {
+      "header": "Partner"
+    },
+    "steps": {
+      "header": "Come funziona",
+      "button": "Apri un conto gratuito",
+      "step": "passo",
+      "steps": {
+        "1": {
+          "icon": "brstep1-icon",
+          "title": "Registrati",
+          "text": "Compila il modulo su questo sito web per registrarti per accedere al programma e aprire il tuo conto di trading gratuito. Se sarai accettato, otterrai l'accesso istantaneo al tuo conto."
+        },
+        "2": {
+          "icon": "brstep2-icon",
+          "title": "Ricarica il tuo conto",
+          "text": "Conosciamo tutti il ​​detto \"i soldi fanno soldi\" - e la realtà è che purtroppo questa frase è molto vera! Come ogni attività, hai bisogno di capitale circolante per iniziare. Ti suggeriamo di depositare {currencySymbol}250 nel tuo conto."
+        },
+        "3": {
+          "icon": "brstep3-icon",
+          "title": "Fine",
+          "text": "Lavora direttamente con il tuo account manager personale e inizia subito a guadagnare. È molto importante che tu inserisca il tuo numero di telefono corretto in modo che il tuo account manager personale possa raggiungerti e aiutarti a guadagnare."
+        }
+      }
+    },
+    "faqs": {
+      "header": "Domande frequenti",
+      "faqs": {
+        "1": {
+          "title": "Che tipo di risultati posso aspettarmi?",
+          "text": "La maggior parte dei membri del programma in genere guadagna da {currencySymbol} a {currencySymbol} 2000 al giorno. Tuttavia, gli utenti che trascorrono più di 5 ore al giorno guadagnano molto di più."
+        },
+        "2": {
+          "title": "Quante ore al giorno lavoro al programma?",
+          "text": "Non sei obbligato a lavorare costantemente, è meglio lavorare 10-20 minuti al giorno, quindi controlla ogni tanto per vedere come stanno andando le tue operazioni."
+        },
+        "3": {
+          "title": "Posso lavorare dal mio cellulare?",
+          "text": "Sì, le applicazioni di trading sono tutte ottimizzate per i dispositivi mobili. Puoi lavorare da qualsiasi parte del mondo, purché tu disponga di una connessione Internet."
+        },
+        "4": {
+          "title": "Quanto costa l'applicazione?",
+          "text": "L'accesso al programma è attualmente GRATUITO. Devi depositare/investire {currencySymbol}250 per attivare il tuo account. Questi sono i tuoi soldi e non devi usarli tutti in una volta. Ricorda che puoi ritirare il proprio capitale in qualsiasi momento."
+        },
+        "5": {
+          "title": "Ci sono commissioni?",
+          "text": "L'applicazione prende una percentuale molto piccola dei tuoi profitti. Questo è il modo in cui il programma genera entrate e paga lo stipendio del tuo Account Manager e altre spese operative."
+        },
+        "6": {
+          "title": "Quanto tempo ci vuole per iniziare a fare soldi?",
+          "text": "Puoi iniziare a guadagnare subito. Deposita subito {currencySymbol} 250 sul tuo conto, poi avrai la priorità e il tuo account manager ti chiamerà entro 30 minuti (lun-ven)."
+        }
+      }
+    },
+    "advisors": {
+      "jeff": {
+        "by-line": "Imprenditore tecnologico, investitore e filantropo",
+        "bio": "L'informatica quantistica è il futuro. Non esagero quando dico che cambierà tutto. Questi sono i primi giorni dell'informatica quantistica; non molte persone lo conoscono, il che significa che pochissimi lo usano. I pochi cioè, stanno prendendo decisioni incredibilmente sagge (e proficue)."
+      },
+      "bill": {
+        "by-line": "Magnate degli affari, investitore, autore, filantropo e umanitario",
+        "bio": "So per certo che Elon ha speso 3 miliardi di dollari dei suoi soldi per finanziare questo programma. Tanto di cappello a lui per questo – sono 3 miliardi di dollari dei suoi soldi per finanziare un futuro migliore per tutti e per aiutare gli altri realizzare profitti che lo aiuteranno a farlo! È vantaggioso per tutti e sono molto entusiasta di vedere dove andrà a finire"
+      }
+    },
+    "lower-cta": {
+      "button": "Registrati ora"
+    },
+    "footer-links": {
+      "home": "Casa",
+      "privacy-policy": "Informativa sulla privacy",
+      "cookie-policy": "Politica sui cookie",
+      "gdpr": "Protezione dati GDPR"
+    }
+  },
+  "pages": {
+    "homepage": {
+      "button": "Inizia oggi stesso",
+      "splash": {
+        "heading": "Il trading redditizio inizia con la conoscenza",
+        "list": [
+          "Account Manager personale e mentore",
+          "Accesso alla tecnologia proprietaria",
+          "Nessuna esperienza necessaria"
+        ]
+      },
+      "knowledge": {
+        "heading": "Un investimento nella conoscenza paga il miglior interesse",
+        "p-1": "Ottieni l'accesso a veri maestri delle criptovalute con il nostro programma di tutoraggio individuale. Investi solo £ 250 nel tuo conto di trading e ricevi il tuo account manager personale esperto."
+      },
+      "track-record": {
+        "heading": "Comprovata esperienza",
+        "p-1": "Da quando è stata creata la prima criptovaluta 11 anni fa, siamo stati in prima linea.",
+        "points": [
+          {
+            "icon": "shield-1",
+            "text": "Professionisti qualificati con una reale esperienza di trading su più piattaforme."
+          },
+          {
+            "icon": "crypto",
+            "text": "Siate certi con sistemi di sicurezza all'avanguardia distribuiti a livello globale."
+          },
+          {
+            "icon": "stock",
+            "text": "Tecnologie di trading proprietarie progettate per darti il ​​vantaggio di cui hai bisogno."
+          }
+        ]
+      },
+      "global-footprint": {
+        "intestazione": "Impronta globale",
+        "points": [
+          {
+            "icon": "chat-group",
+            "heading": "10+",
+            "text": "Più lingue supportate"
+          },
+          {
+            "icon": "globe",
+            "heading": "25+",
+            "text": "Disponibile in più di 25 paesi"
+          },
+          {
+            "icon": "transaction",
+            "heading": "500+",
+            "text": "Oltre 500 milioni di euro scambiati"
+          },
+          {
+            "icon": "bitcoin",
+            "heading": "100+",
+            "text": "Centinaia di valute integrate"
+          }
+        ]
+      },
+      "reinvent": {
+        "heading": "Non reinventare la ruota, basta riallinearla",
+        "p-1": "Crediamo che non sia necessario reinventare la ruota per avere successo. Quello che devi fare è agire! Applicati ora e impara dai maestri."
+      },
+      "truth-never-lies": {
+        "heading": "La verità non mente mai",
+        "p-1": "\"L'istruzione non è la chiave del successo. Esperienza, saggezza e conoscenza sono le chiavi del successo\"",
+        "points": [
+          {
+            "icon": "knowledge",
+            "heading": "Materiale didattico",
+            "text": "Guide e video utili e di alta qualità"
+          },
+          {
+            "icon": "professional",
+            "heading": "Tutoraggio 1 a 1",
+            "text": "Professionisti qualificati con esperienza"
+          }
+        ]
+      },
+      "time-waits": {
+        "heading": "Il tempo non aspetta nessuno",
+        "points": [
+          {
+            "icon": "trade",
+            "intestazione": "Decisioni",
+            "text": "Professionisti qualificati con una reale esperienza di trading su più piattaforme."
+          },
+          {
+            "icon": "gantt-chart",
+            "heading": "Valore temporale",
+            "text": "Inizia ora e vedrai crescere i tuoi guadagni. Il tempo è denaro, non sprecarlo."
+          },
+          {
+            "icon": "annual-calendar-page",
+            "intestazione": "Prenota ora",
+            "text": "Registrati oggi e prenota la tua consulenza individuale in pochi minuti."
+          },
+          {
+            "icon": "shrink",
+            "intestazione": "Direzione",
+            "text": "I nostri esperti ti indicheranno la giusta direzione e ti guideranno lungo la strada del successo."
+          },
+          {
+            "icon": "insight",
+            "intestazione": "Supporto",
+            "text": "Il tuo account manager personale ti assisterà durante l'intero processo."
+          }
+        ]
+      }
+    },
+    "questions": {
+      "title": "Account in attesa di verifica...",
+      "intro": {
+        "p-1": "Informazioni importanti!!",
+        "p-2": "Ti viene richiesto di inviare le seguenti 3 brevi domande, in modo da permetterci di assegnare il <u>Personal Account Manager</u> che meglio si adatta al tuo profilo."
+      },
+      "form": {
+        "question-1": {
+          "label": "Domanda 1: Genere",
+          "placeholder": "Seleziona",
+          "genders": {
+            "male": "Maschio",
+            "female": "Femmina",
+            "prefer-not-to-say": "Preferisco non dirlo"
+          }
+        },
+        "question-2": {
+          "label": "Domanda 2: Fascia d'età",
+          "placeholder": "Seleziona"
+        },
+        "question-3": {
+          "label": "Domanda 3: Investimento di capitale",
+          "p-1": "Conosciamo tutti il ​​detto <i>\"i soldi fanno soldi\"</i> - e la realtà è che questa frase è purtroppo molto vera!",
+          "p-2": "Ciò che la gente non ti dice è che, se riesci a moltiplicare i tuoi profitti in un breve periodo di tempo, un po' di denaro può trasformarsi in molto denaro molto rapidamente!",
+          "p-3": "Seleziona la quantità di denaro che sei disposto a investire.",
+          "placeholder": "Seleziona"
+        },
+        "button": "Continua"
+      }
+    },
+    "welcome_auto_redirect": {
+      "title": "Attendi mentre accediamo al tuo account..."
+    },
+    "welcome": {
+      "title": "Account in sospeso... Fase finale...",
+      "intro": {
+        "p-1": "Questo è il PASSO FINALE più importante per configurare il tuo account, ",
+        "highlight": "quindi presta molta attenzione qui",
+        "p-2": "come è necessario",
+        "p-3": "assicurati che il tuo sistema sia configurato correttamente."
+      },
+      "phone-call": {
+        "heading": "Verifica e configurazione della telefonata",
+        "p-1": "In questo programma (come hai visto) prendiamo molto sul serio la sicurezza e per verificare che tu sia una persona reale e per convalidare il tuo account, uno dei nostri <strong>esperti di start up</strong > ti chiamerà entro i prossimi 30 minuti (lun-ven).",
+        "p-2": "Se non sei disponibile, rispondi alla chiamata e fissa un appuntamento per un orario più conveniente."
+      },
+      "self-activation": {
+        "heading": "Autoattivazione e come funziona",
+        "p-1": "Nella pagina successiva verrai inviato al nostro partner accuratamente selezionato per <span class=\"font-bold\">Attivare</span> il tuo account depositando la tua piccola start-up capitale.",
+        "p-2": "I soldi che depositi sono <span class=\"font-bold\">i tuoi soldi</span> e non devi usarli tutti in una volta, puoi iniziare con piccoli importi per guarda come funziona il sistema e ricorda, puoi ritirare il tuo capitale in qualsiasi momento.",
+        "p-3": "Se non sei sicuro di come <span class=\"font-bold\">auto-attivare</span> il tuo account, vai al tuo account qui sotto e attendi uno dei nostri tentativi di avvio specialisti per chiamarti entro i prossimi 30 minuti. (lun-ven)"
+      },
+      "go-to-account": "Vai all'account",
+      "recommended-broker": {
+        "heading": "Il tuo broker consigliato",
+        "p-1": "Il nostro team ha accuratamente selezionato questo conto di trading per te. Se hai problemi a visualizzare la pagina, puoi cliccare",
+        "p-2": "e l'applicazione di trading si aprirà in una nuova finestra."
+      }
+    },
+    "welcome_two_step": {
+      "step-1": {
+        "title": "Account in attesa... Passaggio finale...",
+        "p-1": "Fai clic su questo pulsante verde per verificare e attivare.",
+        "button": "Fai clic qui per verificare ora"
+      },
+      "step-2": {
+        "title": "Account verificato... Informazioni importanti!!",
+        "sub-title": "DEVI LEGGERE ORA."
+      }
+    },
+    "welcome_received": {
+      "title": "Account in sospeso... Informazioni importanti!!",
+      "sub-title": "DEVI leggerlo ora.",
+      "heading": "Verifica e configurazione della telefonata",
+      "p-1": "Purtroppo il nostro ufficio è ora chiuso, il tuo account manager personale <u>ti chiamerà la mattina</u> o al più tardi prima della chiusura del giorno lavorativo successivo.",
+      "p-2": "Il tuo account rimarrà in sospeso fino a quando non sarai verificato.",
+      "p-3": "<u>Gli account non verificati entro 24 ore (dal lunedì al venerdì) verranno eliminati</u> e il prossimo posizionamento disponibile verrà assegnato all'account successivo in coda.",
+      "p-4": "Gli account creati durante il fine settimana verranno verificati il ​​lunedì."
+    },
+    "privacy": {
+      "title": "Informativa sulla privacy",
+      "content": "<p>Siamo molto lieti che tu abbia mostrato interesse per la nostra impresa. La protezione dei dati è una priorità particolarmente alta per la gestione di {siteName}. L'utilizzo delle pagine Internet di {siteName} è possibile senza alcuna indicazione di dati personali; tuttavia, se un soggetto interessato desidera utilizzare servizi aziendali speciali tramite il nostro sito Web, potrebbe rendersi necessario il trattamento dei dati personali.Se il trattamento dei dati personali è necessario e non vi è alcuna base legale per tale trattamento, generalmente otteniamo il consenso dall'interessato.</p><p>Il trattamento dei dati personali, come il nome, l'indirizzo, l'indirizzo e-mail o il numero di telefono di un interessato deve essere sempre in linea con i Dati generali Regolamento sulla protezione dei dati (GDPR) e in conformità con le normative nazionali sulla protezione dei dati applicabili a {siteName}. Mediante questa dichiarazione sulla protezione dei dati, la nostra azienda desidera informare il pubblico in generale sulla natura, l'ambito e lo scopo di t I dati personali che raccogliamo, utilizziamo ed elaboriamo. Inoltre, gli interessati sono informati, mediante questa dichiarazione sulla protezione dei dati, dei diritti a cui hanno diritto.</p><p>In qualità di titolare del trattamento, {siteName} ha implementato numerose misure tecniche e organizzative per garantire la più completa protezione dei dati personali trattati attraverso questo sito web. Tuttavia, le trasmissioni di dati basate su Internet possono in linea di principio presentare lacune di sicurezza, pertanto la protezione assoluta potrebbe non essere garantita. Per questo motivo, ogni interessato è libero di trasferirci dati personali tramite mezzi alternativi, ad es. per telefono.</p><h4 class=\"text-2xl\">1. Definizioni</h4><p>La dichiarazione sulla protezione dei dati di {siteName} si basa sui termini utilizzati dal legislatore europeo per l'adozione del Regolamento generale sulla protezione dei dati (GDPR). La nostra dichiarazione sulla protezione dei dati dovrebbe essere leggibile e comprensibile per il pubblico in generale, nonché per i nostri clienti e partner commerciali. Per garantire ciò, vorremmo innanzitutto spiegare la terminologia utilizzata.</p><p>In questa dichiarazione sulla protezione dei dati, utilizziamo, tra l'altro, i seguenti termini: </p><ul class=\"pl-8 \"><li><h4 class=\"text-lg\">a) Dati personali</h4><p>Per dato personale si intende qualsiasi informazione relativa a una persona fisica identificata o identificabile (\"interessato\") . Una persona fisica identificabile è una persona che può essere identificata, direttamente o indirettamente, in particolare facendo riferimento a un identificatore come un nome, un numero di identificazione, dati relativi all'ubicazione, un identificatore online o a uno o più fattori specifici della condizione fisica, fisiologica, identità genetica, mentale, economica, culturale o sociale di tale persona fisica.</p><h4 class=\"text-lg\">b) Interessato</h4><p>L'interessato è qualsiasi persona fisica identificata o identificabile persona, i cui dati personali sono trattati dal responsabile del trattamento.</p><h4 class=\"text-lg\">c) Trattamento</h4><p>Il trattamento è qualsiasi operazione o complesso di operazioni che è eseguito su dati personali o su insiemi di dati personali, anche con mezzi automatizzati, quali raccolta, registrazione, organizzazione, strutturazione, conservazione, adattamento o alterazione, estrazione, consultazione, utilizzo, comunicazione mediante trasmissione, diffusione o altrimenti messa a disposizione , allineamento o combinazione, restrizione, cancellazione o distruzione. </p><h4 class=\"text-lg\">d) Limitazione del trattamento</h4><p>La limitazione del trattamento è la marcatura dei dati personali memorizzati con l'obiettivo di limitarne il trattamento in futuro.< /p><h4 class=\"text-lg\">e) Profilazione</h4><p>Per profilazione si intende qualsiasi forma di trattamento automatizzato di dati personali consistente nell'utilizzo di dati personali per valutare determinati aspetti personali relativi a un persona fisica, in particolare per analizzare o prevedere aspetti riguardanti le prestazioni lavorative, la situazione economica, la salute, le preferenze personali, gli interessi, l'affidabilità, il comportamento, l'ubicazione o gli spostamenti di tale persona fisica.</p><h4 class=\"text-lg\">f) Pseudonimizzazione</h4><p>La pseudonimizzazione è il trattamento dei dati personali in modo tale che i dati personali non possano più essere attribuiti a un interessato specifico senza l'uso di informazioni aggiuntive, a condizione che tali informazioni aggiuntive siano tenuti separatamente ed è soggetto a misure tecniche e organizzative per garantire che i dati personali a non sono attribuiti a una persona fisica identificata o identificabile.</p><h4 class=\"text-lg\">g) Titolare o responsabile del trattamento </h4><p>Titolare o responsabile del trattamento è la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali; laddove le finalità e i mezzi di tale trattamento siano determinati dal diritto dell'Unione o degli Stati membri, il responsabile del trattamento o i criteri specifici per la sua nomina possono essere previsti dal diritto dell'Unione o degli Stati membri.</p><h4 class=\"text-lg \">h) Responsabile</h4><p>Il responsabile è una persona fisica o giuridica, autorità pubblica, agenzia o altro organismo che tratta dati personali per conto del responsabile del trattamento.</p><h4 class=\"text- lg\">i) Destinatario</h4><p>Destinatario è una persona fisica o giuridica, autorità pubblica, agenzia o altro organismo, a cui vengono comunicati i dati personali, che si tratti o meno di terzi. Tuttavia, le autorità pubbliche che possono ricevere dati personali nell'ambito di una particolare indagine conformemente al diritto dell'Unione o degli Stati membri non sono considerate destinatari; il trattamento di tali dati da parte di tali autorità pubbliche deve essere conforme alle norme sulla protezione dei dati applicabili in base alle finalità del trattamento.</p><h4 class=\"text-lg\">j) Terze parti</h4 ><p>Terza parte è una persona fisica o giuridica, autorità pubblica, agenzia o organismo diverso dall'interessato, titolare del trattamento, incaricato del trattamento e persone che, sotto l'autorità diretta del titolare del trattamento o dell'incaricato del trattamento, sono autorizzate a trattare dati personali.< /p><h4 class=\"text-l\">k) Consenso</h4><p>Il consenso dell'interessato è qualsiasi manifestazione di volontà libera, specifica, informata e inequivocabile dell'interessato con la quale egli o lei, con una dichiarazione o con una chiara azione affermativa, esprime il consenso al trattamento dei dati personali che lo riguardano.</p></li></ul><h4 class=\"text-2xl\"> 2. Nome e indirizzo del responsabile del trattamento</h4><p>Il responsabile del trattamento ai fini del Regolamento generale sulla protezione dei dati (GDPR), di altre leggi sulla protezione dei dati applicabili negli stati membri dell'Unione Europea e di altre disposizioni relative alla protezione dei dati è: </ p><p>{siteName}</p><p>Sito web: {siteDomain}</p>"
+    },
+    "cookie": {
+      "title": "Informativa sui cookie",
+      "content": "<p>Le pagine Internet di {siteName} utilizzano i cookie. I cookie sono file di testo che vengono memorizzati in un sistema informatico tramite un browser Internet.</p><p>Molti siti e server Internet utilizzano i cookie. Molti I cookie contengono un cosiddetto ID cookie.Un ID cookie è un identificatore univoco del cookie.Consiste in una stringa di caratteri attraverso la quale è possibile assegnare pagine Internet e server allo specifico browser Internet in cui è stato memorizzato il cookie.Ciò consente Internet visitato siti e server per differenziare il singolo browser dell'interessato da altri browser Internet che contengono altri cookie.Uno specifico browser Internet può essere riconosciuto e identificato utilizzando l'ID cookie univoco.</p><p>Attraverso l'uso dei cookie, il {siteName} può fornire agli utenti di questo sito Web servizi più user-friendly che non sarebbero possibili senza l'impostazione dei cookie.</p><p>Per mezzo di un cookie, le informazioni e le offerte sul nostro sito Web possono essere ottimizzate con l'utente in mente.I cookie consentono noi, come accennato in precedenza, per riconoscere gli utenti del nostro sito web. Lo scopo di questo riconoscimento è quello di facilitare agli utenti l'utilizzo del nostro sito web. L'utente del sito Web che utilizza i cookie, ad es. non deve inserire i dati di accesso ogni volta che si accede al sito Web, poiché questo viene rilevato dal sito Web e il cookie viene quindi memorizzato sul sistema informatico dell'utente. Un altro esempio è il cookie di un carrello della spesa in un negozio online. Il negozio online ricorda gli articoli che un cliente ha inserito nel carrello virtuale tramite un cookie.</p><p>L'interessato può, in qualsiasi momento, impedire l'impostazione dei cookie attraverso il nostro sito Web mediante un'impostazione corrispondente del browser Internet utilizzato e può quindi negare in modo permanente l'impostazione dei cookie. Inoltre, i cookie già impostati possono essere cancellati in qualsiasi momento tramite un browser Internet o altri programmi software. Questo è possibile in tutti i browser Internet più diffusi. Se l'interessato disattiva l'impostazione dei cookie nel browser Internet utilizzato, non tutte le funzioni del nostro sito Web potrebbero essere completamente utilizzabili.</p>"
+    },
+    "gdpr": {
+      "title": "GDPR",
+      "content": "<h4 class=\"text-2xl\">Raccolta di dati e informazioni generali</h4><p>Il sito Web di {siteName} raccoglie una serie di dati e informazioni generali quando un soggetto dei dati o un sistema automatizzato richiama il sito web. Questi dati e informazioni generali sono memorizzati nei file di registro del server. Possono essere raccolti (1) i tipi e le versioni del browser utilizzato, (2) il sistema operativo utilizzato dal sistema di accesso, (3) il sito Web da cui un sistema di accesso raggiunge il nostro sito Web (i cosiddetti referrer), (4) il sub -siti web, (5) la data e l'ora di accesso al sito Internet, (6) un indirizzo di protocollo Internet (indirizzo IP), (7) il provider di servizi Internet del sistema di accesso e (8) qualsiasi altro dato simile e informazioni che potrebbero essere utilizzate in caso di attacchi ai nostri sistemi informatici.</p><p>Quando si utilizzano questi dati e informazioni generali, {siteName} non trae conclusioni sull'interessato. Piuttosto, queste informazioni sono necessarie per (1) fornire correttamente il contenuto del nostro sito Web, (2) ottimizzare il contenuto del nostro sito Web e la sua pubblicità, (3) garantire la fattibilità a lungo termine dei nostri sistemi informatici e della tecnologia del sito Web e (4) fornire alle autorità di contrasto le informazioni necessarie per l'azione penale in caso di attacco informatico. Pertanto, {siteName} analizza statisticamente dati e informazioni raccolti in modo anonimo, allo scopo di aumentare la protezione e la sicurezza dei dati della nostra azienda e garantire un livello ottimale di protezione dei dati personali elaborati. I dati anonimi dei file di registro del server vengono archiviati separatamente da tutti i dati personali forniti da un interessato.</p><h4 class=\"text-2xl\">Registrazione sul nostro sito web</h4><p>I dati l'interessato ha la possibilità di registrarsi sul sito del titolare del trattamento con l'indicazione dei propri dati personali. Quali dati personali vengono trasmessi al controllore è determinato dalla rispettiva maschera di input utilizzata per la registrazione. I dati personali inseriti dall'interessato sono raccolti e conservati esclusivamente per uso interno da parte del titolare del trattamento e per le proprie finalità. Il titolare del trattamento può richiedere il trasferimento a uno o più responsabili del trattamento (ad es. un servizio pacchi) che utilizza anche i dati personali per uno scopo interno attribuibile al titolare del trattamento.</p><p>Registrandosi sul sito web del titolare del trattamento, l'indirizzo IP —assegnati dal provider di servizi Internet (ISP) e utilizzati dall'interessato—vengono memorizzati anche la data e l'ora della registrazione. servizi e, se necessario, per consentire l'accertamento di reati commessi. Nella misura in cui, la conservazione di questi dati è necessaria per proteggere il responsabile del trattamento. Questi dati non vengono trasmessi a terzi a meno che non vi sia un obbligo legale di trasmettere i dati, o se il trasferimento serve allo scopo di un procedimento penale.</p><p>La registrazione dell'interessato, con l'indicazione volontaria dei dati personali, ha lo scopo di consentire al titolare del trattamento di offrire all'interessato contenuti o servizi che potrebbero essere offerti solo agli utenti registrati a causa della natura della questione in questione. Le persone registrate sono libere di modificare i dati personali specificati durante la registrazione in qualsiasi momento o di farli cancellare completamente dal data stock del titolare del trattamento.</p><p>Il titolare del trattamento deve, in qualsiasi momento, fornire informazioni su richiedere a ciascun interessato in merito a quali dati personali sono memorizzati sull'interessato. Inoltre, il titolare del trattamento correggerà o cancellerà i dati personali su richiesta o indicazione dell'interessato, a meno che non sussistano obblighi di conservazione previsti dalla legge. La totalità dei dipendenti del titolare del trattamento è a disposizione dell'interessato in questo senso come persone di contatto.</p><p>Il sito Web di {siteName} contiene informazioni che consentono un rapido contatto elettronico con la nostra azienda, nonché una comunicazione diretta con noi, che comprende anche un indirizzo generale della cosiddetta posta elettronica (indirizzo di posta elettronica). Se un interessato contatta il responsabile del trattamento via e-mail o tramite un modulo di contatto, i dati personali trasmessi dall'interessato vengono automaticamente archiviati. Tali dati personali trasmessi su base volontaria dall'interessato al titolare del trattamento sono conservati ai fini dell'elaborazione o per contattare l'interessato. Non vi è alcun trasferimento di questi dati personali a terzi.</p><h4 class=\"text-2xl\">Cancellazione e blocco periodici dei dati personali</h4><p>Il titolare del trattamento elabora e memorizza i dati personali dell'interessato solo per il periodo necessario al raggiungimento della finalità di conservazione, o nella misura in cui ciò sia concesso dal legislatore europeo o da altri legislatori in leggi o regolamenti cui è soggetto il titolare del trattamento.</p><p >Se lo scopo di archiviazione non è applicabile o se scade un periodo di conservazione prescritto dal legislatore europeo o da un altro legislatore competente, i dati personali vengono regolarmente bloccati o cancellati in conformità con i requisiti legali.</p><h4 class=\"text -2xl\">Diritti dell'interessato</h4><ul class=\"pl-8\"><li><h4 class=\"text-lg\">a) Diritto di conferma</h4> <p>Ogni interessato ha il diritto concesso dal legislatore europeo di ottenere dal titolare del trattamento la conferma che sia o meno in corso un trattamento di dati personali che lo riguardano. Se un interessato desidera avvalersi di questo diritto di conferma, può, in qualsiasi momento, contattare qualsiasi dipendente del responsabile del trattamento.</p></li><li><h4 class=\"text-lg\">b) Diritto di accesso</h4><p>Ogni interessato ha il diritto riconosciuto dal legislatore europeo di ottenere dal titolare informazioni gratuite sui suoi dati personali memorizzati in qualsiasi momento e una copia di questa informativa. Inoltre, le direttive e i regolamenti europei garantiscono all'interessato l'accesso alle seguenti informazioni: </p><ul class=\"pl-8 pb-6\"><li>le finalità del trattamento;</li>< li>le categorie di dati personali interessate;</li><li>i destinatari o le categorie di destinatari a cui i dati personali sono stati o saranno comunicati, in particolare i destinatari di paesi terzi o organizzazioni internazionali;</li><li >ove possibile, il periodo di conservazione dei dati personali previsto oppure, se non è possibile, i criteri utilizzati per determinare tale periodo;</li><li>l'esistenza del diritto di chiedere al titolare la rettifica o la cancellazione dei dati personali dati, o la limitazione del trattamento dei dati personali che lo riguardano, o di opporsi a tale trattamento;</li><li>l'esistenza del diritto di proporre reclamo a un'autorità di controllo;</li><li>ove il i dati personali non sono raccolti presso l'interessato, nessuna informazione disponibile sulla loro fonte;</li><li>l'ex esistenza di un processo decisionale automatizzato, compresa la profilazione, di cui all'articolo 22, paragrafi 1 e 4, del GDPR e, almeno in tali casi, informazioni significative sulla logica coinvolta, nonché sul significato e sulle conseguenze previste di tale trattamento per l'interessato.</li></ul><p>Inoltre, l'interessato ha il diritto di ottenere l'informazione in merito al trasferimento di dati personali verso un paese terzo o un'organizzazione internazionale. In tal caso, l'interessato ha il diritto di essere informato delle garanzie adeguate relative al trasferimento.</p><p>Se l'interessato desidera avvalersi di tale diritto di accesso, può , in qualsiasi momento, contattare qualsiasi dipendente del titolare del trattamento.</p></li><li><h4 class=\"text-lg\">c) Diritto di rettifica</h4><p>Ogni interessato deve ha il diritto concesso dal legislatore europeo di ottenere dal titolare del trattamento senza ingiustificato ritardo la rettifica dei dati personali inesatti che lo riguardano. Tenendo conto delle finalità del trattamento, l'interessato ha il diritto di ottenere l'integrazione dei dati personali incompleti, anche fornendo una dichiarazione integrativa.</p><p>Se un interessato desidera esercitare questo diritto di rettifica, può, in qualsiasi momento, contattare qualsiasi dipendente del responsabile del trattamento.</p></li> <li><h4 class=\"text-lg\">d) Diritto alla cancellazione (Diritto all'oblio)</h4><p>Ciascun interessato ha il diritto concesso dall'interessato Il legislatore europeo deve ottenere dal titolare del trattamento la cancellazione dei dati personali che lo riguardano senza ingiustificato ritardo, e il titolare del trattamento ha l'obbligo di cancellare senza ingiustificato ritardo i dati personali qualora sussista uno dei seguenti motivi, purché il trattamento non sia necessario:</p><ul class=\"pl-8 pb-6\"><li>I dati personali non sono più necessari rispetto alle finalità per le quali sono stati raccolti o altrimenti trattati.</li>< li>L'interessato revoca il consenso su cui si basa il trattamento ai sensi dell'art. 6, par. 1, lett. a), del GDPR, o dell'art. base giuridica del trattamento.</li><li>L'interessato si oppone al trattamento ai sensi dell'articolo 21, paragrafo 1, del GDPR e non sussiste alcun motivo legittimo prevalente per procedere al trattamento, oppure l'interessato si oppone al trattamento ai sensi dell'art. Articolo 21, paragrafo 2, del GDPR.</li><li>I dati personali sono stati trattati illecitamente.</li><li>Il pers. i dati personali devono essere cancellati per adempiere un obbligo legale previsto dal diritto dell'Unione o dello Stato membro cui è soggetto il responsabile del trattamento.</li><li>I dati personali sono stati raccolti in relazione all'offerta di servizi della società dell'informazione di cui all'articolo 8(1) del GDPR.</li></ul><p>Se si applica uno dei suddetti motivi e l'interessato desidera richiedere la cancellazione dei dati personali memorizzati da {siteName}, può , in qualsiasi momento, contattare qualsiasi dipendente del responsabile del trattamento. Un dipendente di {siteName} deve prontamente garantire che la richiesta di cancellazione sia rispettata immediatamente.</p><p>Se il responsabile del trattamento ha reso pubblici i dati personali ed è obbligato ai sensi dell'articolo 17, paragrafo 1, a cancellare i dati personali, il responsabile del trattamento , tenendo conto della tecnologia disponibile e del costo di attuazione, adotta misure ragionevoli, comprese misure tecniche, per informare gli altri titolari del trattamento dei dati personali che l'interessato ha richiesto la cancellazione da parte di tali titolari di qualsiasi collegamento, copia o replica di, tali dati personali, nella misura in cui il trattamento non è necessario. Un dipendente di {siteName} organizzerà le misure necessarie nei singoli casi.</p></li><li><h4 class=\"text-lg\">e) Diritto di limitazione del trattamento</h4> <p>Ogni interessato ha il diritto concesso dal legislatore europeo di ottenere dal titolare del trattamento la limitazione del trattamento ove ricorra una delle seguenti condizioni:</p><ul class=\"pl-8 pb-6\">< li>L'esattezza dei dati personali è contestata dall'interessato, per un periodo che consenta al titolare di verificare l'esattezza dei dati personali.</li><li>Il trattamento è illecito e l'interessato si oppone alla cancellazione dei dati personali dati e richiede invece la limitazione del loro utilizzo.</li><li>Il responsabile del trattamento non ha più bisogno dei dati personali ai fini del trattamento, ma sono richiesti dall'interessato per l'accertamento, l'esercizio o la difesa di un diritto in sede giudiziaria. </li><li>L'interessato si è opposto al trattamento ex art. 21, comma 1, GDPR in attesa della verifica sulla legittimità I poteri del responsabile del trattamento prevalgono su quelli dell'interessato.</li></ul><p>Se ricorre una delle condizioni di cui sopra e l'interessato desidera richiedere la limitazione del trattamento dei dati personali conservati dal { siteName}, lui o lei può in qualsiasi momento contattare qualsiasi dipendente del responsabile del trattamento. Il dipendente di {siteName} organizzerà la limitazione del trattamento.</p></li><li><h4 class=\"text-lg\">f) Diritto alla portabilità dei dati</h4><p >Ogni interessato ha il diritto, riconosciuto dal legislatore europeo, di ricevere i dati personali che lo riguardano, che sono stati forniti a un responsabile del trattamento, in un formato strutturato, di uso comune e leggibile da dispositivo automatico. Ha il diritto di trasmettere tali dati a un altro titolare del trattamento senza impedimenti da parte del titolare del trattamento cui li ha forniti, purché il trattamento sia basato sul consenso ai sensi dell'articolo 6, paragrafo 1, lettera a), del del GDPR o dell'articolo 9, paragrafo 2, lettera a), del GDPR, o su un contratto ai sensi dell'articolo 6, paragrafo 1, lettera b), del GDPR, e il trattamento è effettuato con mezzi automatizzati, a condizione che il trattamento non è necessario per l'esecuzione di un compito svolto nel pubblico interesse o nell'esercizio di pubblici poteri di cui è investito il titolare del trattamento.</p><p>Inoltre, nell'esercizio del suo diritto alla portabilità dei dati ai sensi dell'art. 20(1) del GDPR, l'interessato ha il diritto di far trasmettere i propri dati personali direttamente da un titolare del trattamento all'altro, ove tecnicamente fattibile e quando ciò non pregiudichi i diritti e le libertà altrui.</p>< p>Per far valere il diritto alla portabilità dei dati, l'interessato può in qualsiasi momento contattare qualsiasi dipendente di {siteName}.</p></li><li><h4 class=\"text-lg\">g) Diritto di opposizione</h4><p>Ogni interessato ha il diritto concesso dal legislatore europeo di opporsi, per motivi relativi alla sua situazione particolare, in qualsiasi momento, al trattamento dei dati personali che lo riguardano, che si basa sulla lettera e) o f) dell'articolo 6(1) del GDPR. Ciò vale anche per la profilazione basata su queste disposizioni.</p><p> {siteName} non elaborerà più i dati personali in caso di opposizione, a meno che non possiamo dimostrare validi motivi legittimi per il trattamento che prevalgono sugli interessi, i diritti e le libertà dell'interessato, o per l'istituzione, l'esercizio o difesa di rivendicazioni legali.</p><p>Se {siteName} elabora i dati personali per scopi di marketing diretto, l'interessato ha il diritto di opporsi in qualsiasi momento al trattamento dei dati personali che lo riguardano per tale marketing. Ciò si applica alla profilazione nella misura in cui è correlata a tale marketing diretto. Se l'interessato si oppone a {siteName} al trattamento per finalità di marketing diretto, {siteName} non elaborerà più i dati personali per tali scopi.</p><p>Inoltre, l'interessato ha il diritto, su motivi relativi alla sua situazione particolare, di opporsi al trattamento di dati personali che lo riguardano da parte di {siteName} a fini di ricerca scientifica o storica o a fini statistici ai sensi dell'articolo 89, paragrafo 1, del GDPR, a meno che il trattamento non sia necessario per l'esecuzione di un compito svolto per motivi di interesse pubblico.</p><p>Per esercitare il diritto di opposizione, l'interessato può contattare qualsiasi dipendente di {siteName}. Inoltre, l'interessato è libero nel contesto dell'uso dei servizi della società dell'informazione e nonostante la direttiva 2002/58/CE, di esercitare il proprio diritto di opporsi con mezzi automatizzati utilizzando specifiche tecniche.</p></li> <li><h4 class=\"text-lg\">h) Processo decisionale individuale automatizzato, compresa la profilazione </h4><p>Ogni interessato ha il diritto concesso dal legislatore europeo di non essere soggetto a un decisione basata esclusivamente sul trattamento automatizzato, compresa la profilazione, che produca effetti giuridici nei suoi confronti, o che incida in modo analogo su di lui o su di lei, purché la decisione (1) non sia necessaria per stipulare o eseguire un contratto tra l'interessato e il titolare del trattamento, o (2) non è autorizzato dal diritto dell'Unione o dello Stato membro cui è soggetto il titolare del trattamento e che prevede altresì misure adeguate a tutela dei diritti, delle libertà e dei legittimi interessi dell'interessato, o (3) non si basa sull'esplicita c onsent.</p><p>Se la decisione (1) è necessaria per stipulare o eseguire un contratto tra l'interessato e un responsabile del trattamento dei dati, o (2) è basata sul consenso esplicito dell'interessato, {siteName} deve attuare misure adeguate per salvaguardare i diritti, le libertà e gli interessi legittimi dell'interessato, almeno il diritto di ottenere l'intervento umano da parte del responsabile del trattamento, di esprimere il proprio punto di vista e contestare la decisione.</ p><p>Se l'interessato desidera esercitare i diritti relativi al processo decisionale individuale automatizzato, può, in qualsiasi momento, contattare qualsiasi dipendente di {siteName}.</p></li><li> <h4 class=\"text-lg\">i) Diritto di revocare il consenso alla protezione dei dati</h4><p>Ogni interessato ha il diritto concesso dal legislatore europeo di revocare il proprio consenso al trattamento dei propri o i suoi dati personali in qualsiasi momento.</p><p>Se l'interessato desidera esercitare il diritto di revocare il consenso, può, in qualsiasi momento, contattare qualsiasi dipendente di {siteName}.</p></li></ul><h4 class=\"text-2xl\">Base giuridica del trattamento</h4><p>Art. 6(1) lett. a GDPR funge da base giuridica per le operazioni di elaborazione per le quali otteniamo il consenso per uno scopo di elaborazione specifico. Se il trattamento dei dati personali è necessario per l'esecuzione di un contratto di cui l'interessato è parte, come nel caso, ad esempio, quando le operazioni di trattamento sono necessarie per la fornitura di beni o per fornire qualsiasi altro servizio, il trattamento è in base all'articolo 6, paragrafo 1, lett. b GDPR. Lo stesso vale per le operazioni di elaborazione necessarie per l'esecuzione di misure precontrattuali, ad esempio nel caso di richieste relative ai nostri prodotti o servizi. La nostra azienda è soggetta a un obbligo legale che impone il trattamento dei dati personali, ad esempio per l'adempimento di obblighi fiscali, il trattamento si basa sull'art. 6(1) lett. c GDPR. In rari casi, il trattamento dei dati personali può essere necessario per proteggere gli interessi vitali dell'interessato o di un'altra persona fisica. Questo sarebbe il caso, ad esempio, se un visitatore fosse ferito nella nostra azienda e il suo nome, età, dati dell'assicurazione sanitaria o altre informazioni vitali dovessero essere trasmessi a un medico, ospedale o altra terza parte. Allora il trattamento si baserebbe sull'art. 6(1) lett. d GDPR. Infine, le operazioni di trattamento potrebbero basarsi sull'articolo 6, paragrafo 1, lett. f GDPR. Questa base giuridica viene utilizzata per le operazioni di trattamento che non sono coperte da nessuno dei suddetti motivi legali, se il trattamento è necessario ai fini degli interessi legittimi perseguiti dalla nostra azienda o da una terza parte, a meno che tali interessi non prevalgano sugli interessi o diritti e libertà fondamentali dell'interessato che richiedono la protezione dei dati personali. Tali operazioni di trattamento sono particolarmente consentite perché sono state specificatamente menzionate dal legislatore europeo. Ha ritenuto che si possa presumere un interesse legittimo se l'interessato è un cliente del responsabile del trattamento (considerando 47 frase 2 GDPR).</p><h4 class=\"text-2xl\">Gli interessi legittimi perseguiti dal responsabile del trattamento o da terzi </h4><p>Se il trattamento dei dati personali è basato sull'articolo 6, paragrafo 1, lett. f GDPR il nostro legittimo interesse è svolgere la nostra attività a favore del benessere di tutti i nostri dipendenti e azionisti.</p><h4 class=\"text-2xl\">Periodo per il quale i dati personali saranno memorizzati</h4><p>Il criterio utilizzato per determinare il periodo di conservazione dei dati personali è il rispettivo periodo di conservazione previsto dalla legge. Dopo la scadenza di tale periodo, i dati corrispondenti vengono regolarmente cancellati, a condizione che non siano più necessari per l'adempimento del contratto o l'avvio di un contratto.</p><h4 class=\"text-2xl\"> Conferimento dei dati personali come obbligo di legge o contrattuale; Requisito necessario per stipulare un contratto; Obbligo dell'interessato di fornire i dati personali; possibili conseguenze del mancato conferimento di tali dati</h4><p>Precisiamo che il conferimento dei dati personali è in parte richiesto dalla legge (ad es. normative fiscali) o può anche derivare da disposizioni contrattuali (ad es. informazioni sul partner contrattuale). A volte può essere necessario concludere un contratto che l'interessato ci fornisca dati personali, che devono essere successivamente elaborati da noi. L'interessato è, ad esempio, obbligato a fornirci dati personali quando la nostra azienda firma un contratto con lui o lei. Il mancato conferimento dei dati personali avrebbe come conseguenza l'impossibilità di concludere il contratto con l'interessato. Prima che i dati personali siano forniti dall'interessato, l'interessato deve contattare qualsiasi dipendente. Il dipendente chiarisce all'interessato se il conferimento dei dati personali è richiesto dalla legge o dal contratto o è necessario per la conclusione del contratto, se sussiste l'obbligo di fornire i dati personali e le conseguenze del mancato conferimento dei dati personali data.</p><h4 class=\"text-2xl\">Esistenza di un processo decisionale automatizzato</h4><p>In qualità di azienda responsabile, non utilizziamo il processo decisionale automatico o la profilazione.</p>"
+    }
+  }
+}

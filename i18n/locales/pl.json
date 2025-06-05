@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "title": "{siteName} ™ // PRAWDZIWY oficjalny DOT {siteTLD} [2025] ©",
+    "description": "Zarejestruj się na PRAWDZIWYM oficjalnym DOT {siteTLD} – wszystkie inne strony są FAŁSZYWE. {siteName} to platforma handlowa wykorzystująca sztuczną inteligencję do przewidywania ruchów rynkowych i wykorzystywania ich."
+  },
+  "landing-pages": {
+    "variant-a": {
+      "create-account": "Stwórz swoje darmowe konto",
+      "points": {
+        "p-1": "Bezpłatny menedżer konta osobistego",
+        "p-2": "Nie jest wymagane doświadczenie handlowe",
+        "p-3": "Rozpocznij w 15 minut",
+        "p-1-alt-1": "Osobisty menedżer konta licencjonowany przez Kanadyjską Organizację Regulacyjną ds. Inwestycji (CIRO)",
+        "p-2-alt-1": "Darmowy dostęp dla wszystkich mieszkańców Kanady, wystarczy zweryfikować swoją tożsamość podczas rozmowy powitalnej",
+        "p-3-alt-1": "Zacznij zarabiać w mniej niż 15 minut",
+        "p-1-alt-2": "Darmowe dla wszystkich obywateli Niemiec",
+        "p-2-alt-2": "Darmowy osobisty menedżer konta zatwierdzony przez Elona Muska",
+        "p-3-alt-2": "Gwarantowany zwrot z inwestycji w ciągu kilku minut"
+      },
+      "steps": "Krok {step} z 2",
+      "right_column": {
+        "title-alt-1": "Inteligentne inwestowanie zabezpieczające przyszłość kanadyjskiej klasy pracującej",
+        "sub-title-alt-1": "Mark Carney, Premier Kanady",
+        "content-alt-1": "{siteName} to aplikacja, którą stworzyliśmy dla kraju budowniczych. Ta inicjatywa zmniejszy przepaść majątkową między najbogatszymi a klasą pracującą w Kanadzie, umożliwiając zwykłym Kanadyjczykom podwojenie, a w niektórych przypadkach potrojenie ich wynagrodzenia niemal z dnia na dzień. Z dumą ogłaszamy, że rząd federalny ubezpieczył wszystkie depozyty dokonywane przez mieszkańców Kanady, co oznacza, że Twoje środki są bezpieczne. {siteName} wyeliminuje ubóstwo w naszym kraju i przywróci silną kanadyjską klasę średnią, w której każdy Kanadyjczyk może posiadać dom i przejść na emeryturę przed starością. Zachęcam wszystkich Kanadyjczyków do skorzystania z tej inicjatywy, którą stworzyliśmy, aby zjednoczyć nasz wspaniały naród.",
+        "title-alt-2": "Inteligentne inwestycje, które czynią klasę pracującą milionerami z dnia na dzień",
+        "sub-title-alt-2": "Elon Musk, założyciel i CEO {siteName}",
+        "content-alt-2": "{siteName} to dzieło mojego życia. Stworzyłem tę platformę z prostym celem: zmniejszyć przepaść majątkową między najbogatszymi a biednymi. Jestem dumny, że mogę powiedzieć, że to mój największy sukces do tej pory. Przyjdź i przekonaj się sam, bez ryzyka, ponieważ gwarantuję wszystkie depozyty moimi własnymi pieniędzmi."
+      }
+    }
+  },
+  "components": {
+    "attention-banner": {
+      "label": "UWAGA: Bardzo duże zapotrzebowanie na media, zakończenie zapisów{time}"
+    },
+    "logo-header": {
+      "available-to-traders": "Teraz dostępne w<br />{usersCountry}"
+    },
+    "splash": {
+      "video-id": "319904948",
+      "header": "Utwórz swoje konto <span class=\"hidden sm:inline\">{siteName}</span> <span class=\"hidden sm:inline\">już dziś</span>",
+      "sub-header": "I możesz osiągnąć <span class=\"text-yellow-300\">swobodę finansową...</span>",
+      "points": {
+        "p-1": "Bezpłatny menedżer konta osobistego",
+        "p-2": "Nie jest wymagane doświadczenie handlowe",
+        "p-3": "Rozpocznij w 15 minut"
+      },
+      "step-1": {
+        "line-1": "Ograniczona dostępność",
+        "line-2": "Pozostałe konta!"
+      },
+      "step-2": "Krok 2 z 2 - Aktywacja konta!"
+    },
+    "form-capture": {
+      "first_name": "Imię",
+      "last_name": "Nazwisko",
+      "email": "E-mail",
+      "phone_number": "Numer telefonu",
+      "button": {
+        "step-1": "Zarejestruj się teraz",
+        "step-2": "Aktywuj konto"
+      }
+    },
+    "intro-text": {
+      "header": "Zacznij zarabiać z {siteName}",
+      "body-1": "{siteName} to ekskluzywny program z dostępem do zastrzeżonej technologii, zapewniający naszej ograniczonej grupie członków niespotykaną dotąd przewagę konkurencyjną, umożliwiającą ciche gromadzenie ogromnych fortun. Potrzebne są tylko podstawowe umiejętności pisania na klawiaturze. Zacznij już dziś, a będziesz mógł aby oglądać, jak pieniądze powoli wpływają na Twoje konto, minuta po minucie!",
+      "body-2": "Upewnij się, że rejestrujesz się na PRAWDZIWEJ oficjalnej stronie internetowej, sprawdź adres strony u góry, aby upewnić się, że brzmi \"{siteDomain}\". Tylko kropka.{siteTLD} bez dodatkowych słów i łączników w adresie."
+    },
+    "as-seen-on": "Jak widać na",
+    "testimonials": {
+      "header": {
+        "line-1": "Prawdziwe referencje od",
+        "line-2": "nasi użytkownicy"
+      },
+      "profit": "Zysk",
+      "testimonials": {
+        "1": {
+          "image": "default1.jpg",
+          "name": "James B",
+          "location": "Amsterdam",
+          "profit": 13853,
+          "text": "Czuję się naprawdę szczęśliwy, że znalazłem ten program. Nigdy nie wyobrażałem sobie, że zarabianie pieniędzy w Internecie będzie tak łatwe, a jeszcze lepsze od zarabiania pieniędzy było to, że spotkałem po drodze naprawdę interesujących ludzi ."
+        },
+        "2": {
+          "image": "default2.jpg",
+          "name": "Stacey J",
+          "location": "Frankfurt",
+          "profit": 9126,
+          "text": "Pracuję nad tym już od nieco ponad 30 dni. W końcu mam własną wolność finansową! Dzięki, {siteName}!"
+        },
+        "3": {
+          "image": "default3.jpg",
+          "name": "Anton L",
+          "location": "Paris",
+          "profit": 43300,
+          "text": "Pracowałem jako menadżer restauracji i zostałem wprowadzony do tego programu przez jednego z moich stałych klientów. Kiedy rzuciłem pracę, aby pracować na pełny etat, wszyscy moi koledzy myśleli, że zwariowałem. Best {currencySymbol }250 inwestycji w historii!"
+        },
+        "4": {
+          "image": "default4.jpg",
+          "name": "Jane M",
+          "location": "Stockholm",
+          "profit": 11463,
+          "text": "I was stay at home mother, now my kids have grown up and left the house... I've was so bored and really struggling to motivate myself to do anything. Thanks to {siteName} I feel like I'm 20 years younger and can't wait to wake up in the morning to check my account. I thought my life was over. Now I'm making sometimes {currencySymbol}250 in one day!"
+        }
+      }
+    },
+    "reasons": {
+      "1": {
+        "icon": "brtarget-icon",
+        "title": "Dokładne wyniki",
+        "text": "Udowodnione wyniki z poziomem dokładności i wydajności na poziomie 99,4%%. Jeden z najskuteczniejszych programów w branży. Nasi członkowie z całego świata ufają nam, że codziennie podwoimy, a nawet czterokrotnie zwiększymy ich inwestycje."
+      },
+      "2": {
+        "icon": "brtechnology-icon",
+        "title": "Doskonałe oprogramowanie",
+        "text": "Nasze autorskie oprogramowanie zostało zbudowane przy użyciu zaawansowanego programowania i metryk zaprojektowanych przez czołowych matematyków. Oprogramowanie wyprzedza rynki finansowe o 0,01 sekundy. Ta \"luka czasowa\" sprawia, że ​​program komputerowy jest najbardziej spójną aplikacją handlową na rynku planeta."
+      },
+      "3": {
+        "icon": "braward-icon",
+        "title": "Nagradzany program",
+        "text": "{siteName} zdobyła szereg nagród w branży usług finansowych. Nie lubimy się przechwalać, więc wyniki pokażemy Wam sami. Będzie to bez wątpienia najlepsza inwestycja, jaką dokonacie kiedykolwiek zrobię."
+      }
+    },
+    "results-table": {
+      "button": "Dołącz teraz!",
+      "header": "Co sprawia, że ​​obliczenia kwantowe tak dobrze nadają się do inwestowania?",
+      "p-1": "To pierwsza na świecie maszyna do obliczeń kwantowych; w przeciwieństwie do domowego komputera, ten komputer jest inteligentny – podejmuje tysiące jednoczesnych \"decyzji\" na raz. Twój mózg myśli jedna myśl na raz, w sekwencji. Wyobraź sobie, że możesz mieć tysiące myśli na raz, każda równie jasna jak druga. To jest przetwarzanie kwantowe.",
+      "p-2": "Wykorzystując tę ​​moc, nasza maszyna do obliczeń kwantowych pomoże Ci dokonywać mądrzejszych transakcji i zarabiać więcej pieniędzy, niż myślałeś, że to możliwe. Co więcej, została zaprojektowana tak, abyś mógł zarabiać pieniądze i pomagać innym, jednocześnie zyskując!",
+      "p-3": "Wyszukuje transakcje, analizując różnice między cenami akcji co nanosekundę, gdy rynki akcji są aktywne (i dokonuje prognoz nawet wtedy, gdy rynki są zamknięte, dzięki czemu wiesz, co prawdopodobnie się stanie po ich ponownym otwarciu ). Twój obecny komputer (i wszystkich innych) nie jest w stanie dorównać szybkości podejmowania decyzji temu nowemu systemowi.",
+      "p-4": "Zarejestruj się i bądź jednym z niewielu ekskluzywnych użytkowników tej technologii (zanim wszyscy inni się o tym dowiedzą!)"
+    },
+    "partners": {
+      "header": "Wzmacniacz"
+    },
+    "steps": {
+      "header": "Jak to działa",
+      "button": "Otwórz darmowe konto",
+      "step": "krok",
+      "steps": {
+        "1": {
+          "icon": "brstep1-icon",
+          "title": "Rejestr",
+          "text": "Wypełnij formularz na tej stronie, aby zarejestrować się w celu uzyskania dostępu do programu i otworzyć bezpłatne konto handlowe. Jeśli zostaniesz zaakceptowany, otrzymasz natychmiastowy dostęp do swojego konta."
+        },
+        "2": {
+          "icon": "brstep2-icon",
+          "title": "Zasil swoje konto",
+          "text": "Wszyscy znamy powiedzenie \"pieniądze robią pieniądz\" - i rzeczywistość jest taka, że ​​to zdanie jest niestety bardzo prawdziwe! Jak każda firma, na początek potrzebujesz kapitału obrotowego. Sugerujemy wpłatę {currencySymbol}250 na Twoje konto."
+        },
+        "3": {
+          "icon": "brstep3-icon",
+          "title": "Zakończ",
+          "text": "Współpracuj bezpośrednio ze swoim Menedżerem konta osobistego i natychmiast zacznij czerpać zyski. Bardzo ważne jest, abyś podał poprawny numer telefonu, aby Twój Menedżer konta osobistego mógł się z Tobą skontaktować i pomóc Ci zarobić."
+        }
+      }
+    },
+    "faqs": {
+      "header": "Często Zadawane Pytania",
+      "faqs": {
+        "1": {
+          "title": "Jakich rezultatów mogę się spodziewać?",
+          "text": "Większość członków programu zazwyczaj zarabia od {currencySymbol}500 do {currencySymbol}2000 dziennie. Jednak użytkownicy, którzy spędzają więcej niż 5 godzin dziennie, zarabiają znacznie więcej."
+        },
+        "2": {
+          "title": "Ile godzin dziennie pracuję nad programem?",
+          "text": "Nie musisz stale pracować, najlepiej pracować 10-20 minut dziennie, a następnie zaglądać od czasu do czasu, aby zobaczyć, jak radzą sobie Twoje transakcje."
+        },
+        "3": {
+          "title": "Czy mogę pracować na telefonie komórkowym?",
+          "text": "Tak, wszystkie aplikacje handlowe są przyjazne dla urządzeń mobilnych. Możesz pracować z dowolnego miejsca na świecie, o ile masz połączenie z Internetem."
+        },
+        "4": {
+          "title": "Ile kosztuje aplikacja?",
+          "text": "Dostęp do programu jest obecnie BEZPŁATNY. Aby aktywować konto, musisz wpłacić/zainwestować {currencySymbol}250. To Twoje pieniądze i nie musisz ich wszystkich wykorzystać na raz. Pamiętaj, że możesz wycofać swój kapitał w dowolnym momencie."
+        },
+        "5": {
+          "title": "Czy są jakieś opłaty?",
+          "text": "Aplikacja pobiera bardzo niewielki procent Twoich zysków. W ten sposób program generuje przychody i pokrywa wynagrodzenie Twojego Account Managera oraz inne koszty operacyjne."
+        },
+        "6": {
+          "title": "Jak długo trzeba czekać, aby zacząć zarabiać?",
+          "text": "Możesz zacząć zarabiać pieniądze natychmiast. Wpłać od razu {currencySymbol}250 na swoje konto, wtedy otrzymasz pierwszeństwo, a Twój Menedżer konta zadzwoni do Ciebie w ciągu 30 minut (od poniedziałku do piątku)."
+        }
+      }
+    },
+    "advisors": {
+      "jeff": {
+        "by-line": "Przedsiębiorca technologiczny, inwestor i filantrop",
+        "bio": "Obliczenia kwantowe to przyszłość. Nie przesadzę, gdy powiem, że to wszystko zmieni. To są początki obliczeń kwantowych; niewiele osób o tym wie, co oznacza, że ​​bardzo niewielu z nich korzysta. Nieliczni to znaczy podejmują niezwykle mądre (i opłacalne) decyzje"
+      },
+      "bill": {
+        "by-line": "Magnat biznesu, inwestor, autor, filantrop i humanitarysta",
+        "bio": "Wiem na pewno, że Elon wydał 3 miliardy dolarów z własnych pieniędzy na sfinansowanie tego programu. Czapki z głów przed nim – to 3 miliardy dolarów z jego własnych pieniędzy na sfinansowanie lepszej przyszłości dla wszystkich i pomoc innym generuj zyski, które mu w tym pomogą! To korzystna dla obu stron i jestem bardzo podekscytowany możliwością zobaczenia, dokąd to doprowadzi"
+      }
+    },
+    "lower-cta": {
+      "button": "Zarejestruj się teraz"
+    },
+    "footer-links": {
+      "home": "Home",
+      "privacy-policy": "Polityka prywatności",
+      "cookie-policy": "Polityka Cookie",
+      "gdpr": "Ochrona danych RODO"
+    }
+  },
+  "pages": {
+    "homepage": {
+      "button": "Zacznij dziś",
+      "splash": {
+        "heading": "Zyskowny handel zaczyna się od wiedzy",
+        "list": [
+          "Menedżer konta osobistego i mentor",
+          "Uzyskaj dostęp do zastrzeżonej technologii",
+          "Nie potrzeba żadnego doświadczenia"
+        ]
+      },
+      "knowledge": {
+        "heading": "Inwestycja w wiedzę opłaca się najlepiej",
+        "p-1": "Uzyskaj dostęp do prawdziwych mistrzów kryptowalut dzięki naszemu indywidualnemu programowi mentorskiemu. Zainwestuj zaledwie 250 GBP na swoje konto handlowe i zyskaj własnego doświadczonego menedżera konta osobistego."
+      },
+      "track-record": {
+        "heading": "Udowodnione osiągnięcia",
+        "p-1": "Odkąd 11 lat temu powstała pierwsza kryptowaluta, jesteśmy w czołówce.",
+        "points": [
+          {
+            "icon": "shield-1",
+            "text": "Wykwalifikowani specjaliści z prawdziwym doświadczeniem w handlu na wielu platformach."
+          },
+          {
+            "icon": "crypto",
+            "text": "Bądź spokojny dzięki najnowocześniejszym systemom bezpieczeństwa wdrożonym na całym świecie."
+          },
+          {
+            "icon": "stock",
+            "text": "Zastrzeżone technologie handlowe zaprojektowane, aby zapewnić Ci przewagę, której potrzebujesz."
+          }
+        ]
+      },
+      "global-footprint": {
+        "heading": "Globalny ślad",
+        "points": [
+          {
+            "icon": "chat-group",
+            "heading": "10+",
+            "text": "Obsługiwanych jest wiele języków"
+          },
+          {
+            "icon": "globe",
+            "heading": "25+",
+            "text": "Dostępne w ponad 25 krajach"
+          },
+          {
+            "icon": "transaction",
+            "heading": "500+",
+            "text": "Obrócono ponad 500 milionów euro"
+          },
+          {
+            "icon": "bitcoin",
+            "heading": "100+",
+            "text": "Zintegrowane setki walut"
+          }
+        ]
+      },
+      "reinvent": {
+        "heading": "Nie wymyślaj koła na nowo, po prostu je wyreguluj",
+        "p-1": "Wierzymy, że nie trzeba wymyślać koła na nowo, aby odnieść sukces. Jedyne, co musisz zrobić, to podjąć działania! Zastosuj się już teraz i ucz się od mistrzów."
+      },
+      "truth-never-lies": {
+        "heading": "Prawda nigdy nie kłamie",
+        "p-1": "\"Edukacja nie jest kluczem do sukcesu. Doświadczenie, mądrość i wiedza są kluczem do sukcesu\"",
+        "points": [
+          {
+            "icon": "knowledge",
+            "heading": "Materiał treningowy",
+            "text": "Wysokiej jakości, przydatne przewodniki i filmy"
+          },
+          {
+            "icon": "professional",
+            "heading": "Mentoring 1 na 1",
+            "text": "Doświadczeni wykwalifikowani specjaliści"
+          }
+        ]
+      },
+      "time-waits": {
+        "heading": "Czas na nikogo nie czeka",
+        "points": [
+          {
+            "icon": "trade",
+            "heading": "Decyzje",
+            "text": "Wykwalifikowani specjaliści z prawdziwym doświadczeniem w handlu na wielu platformach."
+          },
+          {
+            "icon": "gantt-chart",
+            "heading": "Wartość czasu",
+            "text": "Zacznij już teraz i zobacz, jak Twoje zyski rosną. Czas to pieniądz, nie marnuj go."
+          },
+          {
+            "icon": "annual-calendar-page",
+            "heading": "Rezerwuj teraz",
+            "text": "Zarejestruj się już dziś i zarezerwuj indywidualną konsultację w ciągu kilku minut."
+          },
+          {
+            "icon": "shrink",
+            "heading": "Kierunek",
+            "text": "Nasi eksperci wskażą Ci właściwy kierunek i poprowadzą Cię drogą sukcesu."
+          },
+          {
+            "icon": "insight",
+            "heading": "Wsparcie",
+            "text": "Twój osobisty menedżer konta pomoże Ci w całym procesie."
+          }
+        ]
+      }
+    },
+    "questions": {
+      "title": "Konto oczekujące na weryfikację...",
+      "intro": {
+        "p-1": "Ważna informacja!!",
+        "p-2": "Musisz przesłać następujące 3 krótkie pytania, abyśmy mogli przypisać <u>Menedżera konta osobistego</u>, który najlepiej pasuje do Twojego profilu."
+      },
+      "form": {
+        "question-1": {
+          "label": "Pytanie 1: Płeć",
+          "placeholder": "Proszę wybrać",
+          "genders": {
+            "male": "Mężczyzna",
+            "female": "Kobieta",
+            "prefer-not-to-say": "Wolę nie mówić"
+          }
+        },
+        "question-2": {
+          "label": "Pytanie 2: Grupa wiekowa",
+          "placeholder": "Proszę wybrać"
+        },
+        "question-3": {
+          "label": "Pytanie 3: Kapitał inwestycyjny",
+          "p-1": "Wszyscy znamy powiedzenie <i>„pieniądze robią pieniądze”</i> - i rzeczywistość jest taka, że ​​to zdanie jest niestety bardzo prawdziwe!",
+"p-2": "Ludzie ci nie mówią, że jeśli jesteś w stanie pomnożyć swoje zyski w krótkim czasie, niewielka ilość pieniędzy może bardzo szybko zamienić się w dużo pieniędzy!",
+"p-3": "Wybierz kwotę pieniędzy, jaką chcesz zainwestować.",
+"placeholder": "Proszę wybrać"
+        },
+        "button": "Kontynuować"
+      }
+    },
+    "welcome_auto_redirect": {
+      "title": "Poczekaj, aż zalogujemy Cię na Twoje konto..."
+    },
+    "welcome": {
+      "title": "Konto oczekujące... Ostatni krok...",
+      "intro": {
+        "p-1": "To najważniejszy KOŃCOWY KROK zakładania Konta, ",
+        "highlight": "więc zwróć tutaj szczególną uwagę",
+        "p-2": "jak trzeba",
+        "p-3": "upewnij się, że system jest poprawnie skonfigurowany."
+      },
+      "phone-call": {
+        "heading": "Weryfikacja i konfiguracja rozmowy telefonicznej",
+        "p-1": "W tym programie (jak widziałeś) bardzo poważnie podchodzimy do bezpieczeństwa i aby zweryfikować, czy jesteś prawdziwą osobą i zweryfikować Twoje konto, jeden z naszych <strong>specjalistów ds. start-upów</strong> zadzwoni do Ciebie w ciągu następne 30 minut. (poniedziałek-piątek).",
+        "p-2": "Jeśli nie jesteś dostępny, odbierz telefon i umów się na dogodniejszy dla Ciebie termin."
+      },
+      "self-activation": {
+        "heading": "Samoaktywacja i jak to działa",
+        "p-1": "Na następnej stronie zostaniesz wysłany do naszego starannie wybranego partnera w celu <span class=\"font-bold\">aktywacji</span> swojego konta poprzez wpłatę swojego małego start-upu kapitał.",
+"p-2": "Pieniądze, które wpłacasz, to <span class=\"font-bold\">Twoje pieniądze</span> i nie musisz ich wszystkich wykorzystać na raz, możesz zacząć od małych kwot zobacz jak działa system i pamiętaj, że w każdej chwili możesz wypłacić swój kapitał.",
+"p-3": "Jeśli nie masz pewności, jak <span class=\"font-bold\">samodzielnie aktywować</span> swoje konto, przejdź do swojego konta poniżej i poczekaj na jedno z naszych uruchomień specjaliści, którzy zadzwonią do Ciebie w ciągu najbliższych 30 minut. (poniedziałek-piątek)"
+      },
+      "go-to-account": "Przejdź do konta",
+      "recommended-broker": {
+        "heading": "Twój polecany broker",
+        "p-1": "Nasz zespół starannie wybrał dla Ciebie to konto handlowe. Jeśli masz problemy z przeglądaniem strony, możesz kliknąć",
+"p-2": "a aplikacja handlowa otworzy się w nowym oknie."
+      }
+    },
+    "welcome_two_step": {
+      "step-1": {
+        "title": "Konto oczekujące... Ostatni krok...",
+        "p-1": "Kliknij ten zielony przycisk, aby zweryfikować i aktywować.",
+        "button": "Kliknij tutaj, aby zweryfikować teraz"
+      },
+      "step-2": {
+        "title": "Konto zweryfikowane... Ważna informacja!!",
+        "sub-title": "MUSISZ to przeczytać teraz."
+      }
+    },
+    "welcome_received": {
+      "title": "Konto oczekujące... Ważna informacja!!",
+"sub-title": "MUSISZ to teraz przeczytać.",
+"heading": "Weryfikacja i konfiguracja rozmowy telefonicznej",
+"p-1": "Niestety nasze biuro jest teraz zamknięte, Twój Menedżer konta osobistego <u>zadzwoni do Ciebie rano</u> lub najpóźniej przed zamknięciem następnego dnia roboczego.",
+"p-2": "Twoje konto pozostanie oczekujące, dopóki nie zostaniesz zweryfikowany. ",
+"p-3": "<u>Konta niezweryfikowane w ciągu 24 godzin (poniedziałek - piątek) zostaną usunięte</u>, a kolejne dostępne miejsce zostanie przydzielone następnemu rachunkowi w kolejce.",
+"p-4": "Konta założone w weekend będą weryfikowane w poniedziałki."
+    },
+    "privacy": {
+      "title": "Polityka prywatności",
+      "content": "<p>Jesteśmy bardzo szczęśliwi, że okazali Państwo zainteresowanie naszym przedsięwzięciem. Ochrona danych ma szczególnie wysoki priorytet w zarządzaniu {siteName}. Korzystanie ze stron internetowych {siteName} jest możliwe bez podawania danych osobowych; jeżeli jednak osoba, której dane dotyczą, chce skorzystać ze specjalnych usług dla przedsiębiorstw za pośrednictwem naszej strony internetowej, przetwarzanie danych osobowych może okazać się konieczne. Jeżeli przetwarzanie danych osobowych jest konieczne i nie ma podstaw ustawowych do takiego przetwarzania, co do zasady pozyskujemy zgodę osoby, której dane dotyczą.</p><p>Przetwarzanie danych osobowych, takich jak imię i nazwisko, adres, e-mail adres lub numer telefonu osoby, której dane dotyczą, musi być zawsze zgodny z ogólnym rozporządzeniem o ochronie danych (RODO) oraz zgodnie z przepisami dotyczącymi ochrony danych obowiązującymi w danym kraju, mającymi zastosowanie do {siteName}. Za pomocą niniejszego oświadczenia o ochronie danych nasze przedsiębiorstwo pragnie poinformować opinię publiczną o charakterze, zakresie i celu danych osobowych, które gromadzimy, wykorzystujemy i przetwarzamy. Ponadto niniejsze oświadczenie o ochronie danych informuje osoby, których dane dotyczą , przysługujących im praw.</p><p>Jako administrator, {siteName} wdrożyło liczne środki techniczne i organizacyjne, aby zapewnić jak najpełniejszą ochronę danych osobowych przetwarzanych za pośrednictwem tej witryny. Jednakże internetowe transmisje danych mogą zasadniczo wykazywać luki w zabezpieczeniach, dlatego też całkowita ochrona może nie być zagwarantowana. Z tego powodu każda osoba, której dane dotyczą, może przekazać nam dane osobowe alternatywnymi sposobami, np. za pośrednictwem poczty elektronicznej. telefonicznie.</p><h4 class=\"text-2xl\">1. Definicje</h4><p>Oświadczenie o ochronie danych witryny {siteName} opiera się na terminach stosowanych przez europejskiego ustawodawcę przy przyjęciu ogólnego rozporządzenia o ochronie danych (RODO). Nasze oświadczenie o ochronie danych powinno być czytelne i zrozumiałe dla ogółu społeczeństwa, a także naszych klientów i partnerów biznesowych. Aby to zapewnić, chcielibyśmy najpierw wyjaśnić stosowaną terminologię.</p><p>W niniejszym oświadczeniu o ochronie danych używamy między innymi następujących terminów: </p><ul class=\"pl-8 \"><li><h4 class=\"text-lg\">a) Dane osobowe</h4><p>Dane osobowe oznaczają wszelkie informacje dotyczące zidentyfikowanej lub możliwej do zidentyfikowania osoby fizycznej („osoby, której dane dotyczą”) . Możliwa do zidentyfikowania osoba fizyczna to osoba, którą można bezpośrednio lub pośrednio zidentyfikować, w szczególności na podstawie identyfikatora takiego jak imię i nazwisko, numer identyfikacyjny, dane o lokalizacji, identyfikator internetowy lub jeden bądź kilka szczególnych czynników określających jej fizyczną, fizjologiczną, tożsamość genetyczna, psychiczna, ekonomiczna, kulturowa lub społeczna tej osoby fizycznej.</p><h4 class=\"text-lg\">b) Podmiot danych</h4><p>Podmiotem danych jest każda zidentyfikowana lub możliwa do zidentyfikowania osoba fizyczna osoba, której dane osobowe przetwarza administrator odpowiedzialny za przetwarzanie.</p><h4 class=\"text-lg\">c) Przetwarzanie</h4><p>Przetwarzanie to każda operacja lub zestaw operacji, które odbywa się na danych osobowych lub zestawach danych osobowych w sposób zautomatyzowany lub niezautomatyzowany, taki jak gromadzenie, utrwalanie, organizowanie, porządkowanie, przechowywanie, adaptacja lub modyfikacja, odzyskiwanie, przeglądanie, wykorzystywanie, ujawnianie poprzez transmisję, rozpowszechnianie lub udostępnianie w inny sposób , zestawienie lub połączenie, ograniczenie, usunięcie lub zniszczenie.</p><h4 class=\"text-lg\">d) Ograniczenie przetwarzania</h4><p>Ograniczenie przetwarzania polega na oznaczeniu przechowywanych danych osobowych celu ograniczenia ich przetwarzania w przyszłości.</p><h4 class=\"text-lg\">e) Profilowanie</h4><p>Profilowanie oznacza dowolną formę zautomatyzowanego przetwarzania danych osobowych polegającą na wykorzystywaniu danych osobowych w celu oceny niektórych czynników osobowych osoby fizycznej, w szczególności analizy lub przewidywania aspektów dotyczących efektów pracy tej osoby fizycznej, jej sytuacji ekonomicznej, zdrowia, osobistych preferencji, zainteresowań, wiarygodności, zachowania, lokalizacji lub przemieszczania się.</p ><h4 class=\"text-lg\">f) Pseudonimizacja</h4><p>Pseudonimizacja to przetwarzanie danych osobowych w taki sposób, że danych osobowych nie można już przyporządkować konkretnej osobie, której dane dotyczą, bez wykorzystania dodatkowych informacji, pod warunkiem, że takie dodatkowe informacje są przechowywane oddzielnie i podlegają środkom technicznym i organizacyjnym zapewniającym, że dane osobowe nie są przypisane zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej.</p><h4 class=\"text- lg\">g) Administrator lub administrator odpowiedzialny za przetwarzanie </h4><p>Administrator lub administrator odpowiedzialny za przetwarzanie to osoba fizyczna lub prawna, organ publiczny, agencja lub inny podmiot, który samodzielnie lub wspólnie z innymi ustala cele i sposoby przetwarzania danych osobowych; jeżeli cele i sposoby takiego przetwarzania są określone w prawie Unii lub państwie członkowskim, administrator lub szczególne kryteria jego wyznaczania mogą być przewidziane w prawie Unii lub państwie członkowskim.</p><h4 class=\"text-lg \">h) Procesor</h4><p>Przetwarzający to osoba fizyczna lub prawna, organ publiczny, jednostka lub inny podmiot, który przetwarza dane osobowe w imieniu administratora.</p><h4 class=\"text- lg\">i) Odbiorca</h4><p>Odbiorca to osoba fizyczna lub prawna, organ publiczny, jednostka lub inny podmiot, któremu ujawniane są dane osobowe, niezależnie od tego, czy jest stroną trzecią. Jednakże organy publiczne, które mogą otrzymywać dane osobowe w ramach konkretnego dochodzenia zgodnie z prawem Unii lub prawem państwa członkowskiego, nie są uznawane za odbiorców; przetwarzanie tych danych przez te organy publiczne musi odbywać się zgodnie z obowiązującymi przepisami o ochronie danych zgodnie z celami przetwarzania.</p><h4 class=\"text-lg\">j) Osoba trzecia</h4 ><p>Strona trzecia to osoba fizyczna lub prawna, organ publiczny, jednostka lub podmiot inny niż osoba, której dane dotyczą, administrator, podmiot przetwarzający i osoby, które pod bezpośrednim zwierzchnictwem administratora lub podmiotu przetwarzającego są upoważnione do przetwarzania danych osobowych.</p><h4 class=\"text-l\">k) Zgoda</h4><p>Zgoda osoby, której dane dotyczą, to dobrowolne, konkretne, świadome i jednoznaczne okazanie woli osoby, której dane dotyczą, poprzez które ona lub ona w drodze oświadczenia lub wyraźnego działania potwierdzającego wyraża zgodę na przetwarzanie dotyczących jej danych osobowych.</p></li></ul><h4 class=\"text-2xl\"> 2. Nazwa i adres administratora</h4><p>Administratorem na potrzeby ogólnego rozporządzenia o ochronie danych (RODO), innych przepisów o ochronie danych obowiązujących w państwach członkowskich Unii Europejskiej oraz innych przepisów związanych z ochroną danych jest: </ p><p>{siteName</p><p>Witryna internetowa: {siteDomain</p>"
+    },
+    "cookie": {
+      "title": "Cookie Policy",
+      "content": "<p>Strony internetowe witryny {siteName} korzystają z plików cookie. Cookies to pliki tekstowe zapisywane w systemie komputerowym za pośrednictwem przeglądarki internetowej.</p><p>Wiele stron internetowych i serwerów wykorzystuje pliki cookies. Wiele plików cookie zawiera tzw. identyfikator pliku cookie. Identyfikator pliku cookie to unikalny identyfikator pliku cookie. Składa się z ciągu znaków, za pomocą którego strony internetowe i serwery można przypisać do konkretnej przeglądarki internetowej, w której przechowywany jest plik cookie. Umożliwia to odwiedzanym stronom internetowym i serwerom odróżnienie indywidualnej przeglądarki osoby, której dane dotyczą, od innych przeglądarek internetowych, które zawierają inne pliki cookie. Konkretną przeglądarkę internetową można rozpoznać i zidentyfikować na podstawie unikalnego identyfikatora pliku cookie.</p><p>Dzięki wykorzystaniu plików cookie {siteName} może zapewnić użytkownikom tej witryny usługi bardziej przyjazne dla użytkownika, co nie byłoby możliwe bez ustawienia plików cookie.</p><p>Dzięki plikom cookie informacje i oferty na naszej stronie internetowej mogą być optymalizowane pod kątem użytkownika. Pliki cookies pozwalają nam, jak już wspomnieliśmy, rozpoznawać użytkowników naszej witryny. Celem tego rozpoznania jest ułatwienie użytkownikom korzystania z naszej strony internetowej. Użytkownik serwisu, który wykorzystuje pliki cookies m.in. nie musi przy każdym wejściu na stronę wprowadzać danych dostępowych, ponieważ jest to przejmowane przez witrynę i w ten sposób plik cookie jest zapisywany w systemie komputerowym użytkownika. Innym przykładem jest plik cookie koszyka w sklepie internetowym. Sklep internetowy zapamiętuje artykuły, które Klient umieścił w wirtualnym koszyku za pomocą pliku cookie.</p><p>Osoba, której dane dotyczą, może w każdej chwili uniemożliwić zapisywanie plików cookie za pośrednictwem naszej witryny internetowej poprzez odpowiednie ustawienie używanej przeglądarki internetowej i w ten sposób może trwale odmówić zapisywania plików cookie. Ponadto już ustawione pliki cookies można w każdej chwili usunąć za pośrednictwem przeglądarki internetowej lub innego oprogramowania. Jest to możliwe we wszystkich popularnych przeglądarkach internetowych. Jeżeli osoba, której dane dotyczą, dezaktywuje ustawienia plików cookie w używanej przeglądarce internetowej, nie wszystkie funkcje naszej witryny mogą być w pełni dostępne.</p>"
+    },
+    "gdpr": {
+      "title": "GDPR",
+      "content": "<h4 class=\"text-2xl\">Zbieranie ogólnych danych i informacji</h4><p>Strona internetowa {siteName} gromadzi szereg ogólnych danych i informacji, gdy osoba, której dane dotyczą, lub zautomatyzowany system wywołuje strona internetowa. Te ogólne dane i informacje są przechowywane w plikach dziennika serwera. Gromadzone mogą być (1) typy i wersje używanych przeglądarek, (2) system operacyjny, z którego korzysta system uzyskujący dostęp, (3) strona internetowa, z której system uzyskujący dostęp dociera do naszej witryny (tzw. strony odsyłające), (4) podstrona -strony internetowe, (5) datę i godzinę dostępu do strony internetowej, (6) adres protokołu internetowego (adres IP), (7) dostawcę usług internetowych systemu dostępu oraz (8) wszelkie inne podobne dane oraz informacje, które mogą zostać wykorzystane w przypadku ataków na nasze systemy informatyczne.</p><p>Korzystając z tych ogólnych danych i informacji, {siteName} nie wyciąga żadnych wniosków na temat osoby, której dane dotyczą. Informacje te są raczej potrzebne do (1) prawidłowego dostarczania treści naszej witryny internetowej, (2) optymalizacji zawartości naszej witryny internetowej oraz jej reklamy, (3) zapewnienia długoterminowej żywotności naszych systemów informatycznych i technologii witryny internetowej oraz (4) zapewnianie organom ścigania informacji niezbędnych do ścigania karnego w przypadku cyberataku. Dlatego też {siteName} poddaje analizie statystycznej anonimowo zebrane dane i informacje, mając na celu zwiększenie ochrony i bezpieczeństwa danych naszego przedsiębiorstwa oraz zapewnienie optymalnego poziomu ochrony przetwarzanych przez nas danych osobowych. Anonimowe dane plików dziennika serwera są przechowywane oddzielnie od wszystkich danych osobowych przekazanych przez osobę, której dane dotyczą.</p><h4 class=\"text-2xl\">Rejestracja na naszej stronie internetowej</h4><p>Dane podmiot ma możliwość zarejestrowania się na stronie internetowej administratora z podaniem danych osobowych. To, jakie dane osobowe są przesyłane do administratora, określa odpowiednia maska ​​wprowadzania danych używana podczas rejestracji. Dane osobowe wprowadzone przez osobę, której dane dotyczą, są zbierane i przechowywane wyłącznie do użytku wewnętrznego administratora oraz do jego własnych celów. Administrator może żądać przekazania jednemu lub większej liczbie podmiotów przetwarzających (np. firmie kurierskiej), która wykorzystuje dane osobowe również w celu wewnętrznym, który można przypisać administratorowi.</p><p>Rejestrując się na stronie internetowej administratora, adres IP —przypisane przez dostawcę usług internetowych (ISP) i wykorzystywane przez osobę, której dane dotyczą – zapisywana jest także data i godzina rejestracji. Przechowywanie tych danych odbywa się w związku z tym, że jest to jedyny sposób zapobiegania niewłaściwemu wykorzystaniu naszych usług, a w razie potrzeby umożliwienie zbadania popełnionych przestępstw. W zakresie, w jakim przechowywanie tych danych jest niezbędne ze względu na bezpieczeństwo administratora. Dane te nie są przekazywane podmiotom trzecim, chyba że istnieje ustawowy obowiązek przekazania danych lub gdy przekazanie danych ma na celu ściganie karne.</p><p>Rejestracja osoby, której dane dotyczą, z dobrowolnym wskazaniem danych osobowych, ma na celu umożliwienie administratorowi oferowania osobie, której dane dotyczą, treści lub usług, które ze względu na charakter sprawy mogą być oferowane wyłącznie zarejestrowanym użytkownikom. Zarejestrowane osoby mają prawo w każdej chwili zmienić dane osobowe podane podczas rejestracji lub zażądać ich całkowitego usunięcia ze zbioru danych administratora.</p><p>Administrator danych ma obowiązek w każdej chwili przekazać informację żądanie skierowane do każdej osoby, której dane dotyczą, dotyczące tego, jakie dane osobowe tej osoby są przechowywane. Ponadto administrator danych poprawia lub usuwa dane osobowe na żądanie lub wskazanie osoby, której dane dotyczą, o ile nie istnieją ustawowe obowiązki przechowywania. W tym zakresie dla osoby, której dane dotyczą, jako osoby kontaktowe, dostępni są wszyscy pracownicy administratora.</p><p>Na stronie internetowej {siteName} znajdują się informacje umożliwiające szybki kontakt elektroniczny z naszym przedsiębiorstwem, a także bezpośrednią komunikację z nami, który obejmuje również ogólny adres tzw. poczty elektronicznej (adres e-mail). Jeżeli osoba, której dane dotyczą, skontaktuje się z administratorem za pośrednictwem poczty elektronicznej lub formularza kontaktowego, dane osobowe przekazane przez tę osobę zostaną automatycznie zapisane. Takie dane osobowe przekazane administratorowi dobrowolnie przez osobę, której dane dotyczą, przechowywane są w celu przetwarzania lub kontaktu z osobą, której dane dotyczą. Nie ma miejsca przekazywanie tych danych osobowych stronom trzecim.</p><h4 class=\"text-2xl\">Rytynkowe usuwanie i blokowanie danych osobowych</h4><p>Administrator danych będzie przetwarzał i przechowywał dane osobowe osoby, której dane dotyczą, jedynie przez okres niezbędny do osiągnięcia celu przechowywania lub w zakresie, w jakim jest to dozwolone przez ustawodawcę europejskiego lub innych ustawodawców w przepisach ustawowych lub wykonawczych, którym podlega administrator.</p><p >Jeśli cel przechowywania nie ma zastosowania lub jeśli upłynie okres przechowywania przewidziany przez ustawodawcę europejskiego lub innego właściwego ustawodawcę, dane osobowe są rutynowo blokowane lub usuwane zgodnie z wymogami prawnymi.</p><h4 class=\"text -2xl\">Prawa osoby, której dane dotyczą</h4><ul class=\"pl-8\"><li><h4 class=\"text-lg\">a) Prawo do potwierdzenia</h4> <p>Każda osoba, której dane dotyczą, ma przyznane przez ustawodawcę europejskiego prawo uzyskania od administratora potwierdzenia, czy przetwarzane są dane osobowe jej dotyczące. Jeżeli osoba, której dane dotyczą, chce skorzystać z prawa do potwierdzenia, może w każdej chwili skontaktować się z dowolnym pracownikiem administratora.</p></li><li><h4 class=\"text-lg \">b) Prawo dostępu</h4><p>Każda osoba, której dane dotyczą, ma przyznane przez ustawodawcę europejskiego prawo uzyskania od administratora w dowolnym momencie bezpłatnej informacji o jej danych osobowych przechowywanych oraz kopii tej informacji . Ponadto dyrektywy i rozporządzenia europejskie przyznają osobie, której dane dotyczą, dostęp do następujących informacji: </p><ul class=\"pl-8 pb-6\"><li>cele przetwarzania;</li><li>kategorie danych osobowych;</li><li>odbiorcy lub kategorie odbiorców, którym dane osobowe zostały lub zostaną ujawnione, w szczególności odbiorcy w krajach trzecich lub organizacjach międzynarodowych;</li><li >o ile to możliwe, przewidywany okres przechowywania danych osobowych lub, jeżeli nie jest to możliwe, kryteria ustalania tego okresu;</li><li>istnienie prawa do żądania od administratora sprostowania lub usunięcia danych osobowych danych lub ograniczenia przetwarzania danych osobowych osoby, której dane dotyczą, lub wniesienia sprzeciwu wobec takiego przetwarzania;</li><li>istnienie prawa do wniesienia skargi do organu nadzorczego;</li><li>jeżeli dane osobowe nie są zbierane od osoby, której dane dotyczą, wszelkie dostępne informacje co do ich źródła;</li><li>istnienie zautomatyzowanego podejmowania decyzji, w tym profilowania, o którym mowa w art. 22 ust. 1 i 4 ustawy RODO oraz, przynajmniej w tych przypadkach, istotne informacje na temat logiki, a także znaczenia i przewidywanych konsekwencji takiego przetwarzania dla osoby, której dane dotyczą.</li></ul><p>Ponadto osoba, której dane dotyczą, ma obowiązek prawo do uzyskania informacji, czy dane osobowe są przekazywane do państwa trzeciego lub organizacji międzynarodowej. W takim przypadku osoba, której dane dotyczą, ma prawo zostać poinformowana o odpowiednich zabezpieczeniach związanych z przekazaniem.</p><p>Jeżeli osoba, której dane dotyczą, pragnie skorzystać z prawa dostępu, może w dowolnym momencie możesz skontaktować się z dowolnym pracownikiem administratora.</p></li><li><h4 class=\"text-lg\">c) Prawo do sprostowania</h4><p>Każda osoba, której dane dotyczą, ma obowiązek ma przyznane przez ustawodawcę europejskiego prawo żądania od administratora niezwłocznego sprostowania dotyczących jej danych osobowych, które są nieprawidłowe. Z uwzględnieniem celów przetwarzania, osoba, której dane dotyczą, ma prawo żądania uzupełnienia niekompletnych danych osobowych, w tym poprzez przedstawienie dodatkowego oświadczenia.</p><p>Jeżeli osoba, której dane dotyczą, chce skorzystać z prawa do sprostowania, może w każdej chwili skontaktować się z dowolnym pracownikiem administratora.</p></li> <li><h4 class=\"text-lg\">d) Prawo do usunięcia danych (prawo do bycia zapomnianym)</h4><p>Każdej osobie, której dane dotyczą, przysługuje przyznane przez europejskiego ustawodawcę prawo żądania od administratora niezwłocznego usunięcia dotyczących jej danych osobowych, a administrator ma obowiązek bez zbędnej zwłoki usunąć dane osobowe, jeżeli zachodzi jedna z następujących przesłanek: obowiązuje, o ile przetwarzanie nie jest konieczne:</p><ul class=\"pl-8 pb-6\"><li>Dane osobowe nie są już niezbędne do celów, dla których zostały zebrane lub przetwarzane w inny sposób.</li><li>Osoba, której dane dotyczą, cofa zgodę, na której opiera się przetwarzanie zgodnie z art. 6 ust. 1 lit. a) RODO lub art. 9 ust. RODO, a nie ma innej podstawy prawnej przetwarzania.</li><li>Osoba, której dane dotyczą, wnosi sprzeciw wobec przetwarzania na podstawie art. 21 ust. 1 RODO i nie występują nadrzędne prawnie uzasadnione podstawy przetwarzania, lub osoba, której dane dotyczą, wnosi sprzeciw wobec przetwarzania na podstawie art. 21 ust. 2 RODO.</li><li>Dane osobowe zostały przetworzone niezgodnie z prawem.</li><li>Dane osobowe muszą zostać usunięte w celu zapewnienia zgodności z prawem obowiązek prawny wynikający z prawa Unii lub prawa państwa członkowskiego, któremu podlega administrator.</li><li>Dane osobowe zostały zebrane w związku z oferowaniem usług społeczeństwa informacyjnego, o których mowa w art. 8 ust. 1 RODO.</li></ul><p>Jeśli zachodzi jeden z powyższych powodów, a osoba, której dane dotyczą, pragnie zażądać usunięcia danych osobowych przechowywanych przez {siteName}, może w każdej chwili skontaktować się z dowolnym pracownikiem firmy kontroler. Pracownik {siteName} niezwłocznie zadba o niezwłoczne wykonanie żądania usunięcia.</p><p>W przypadku gdy administrator upublicznił dane osobowe i ma obowiązek na podstawie art. 17 ust. 1 usunąć dane osobowe, administrator biorąc pod uwagę dostępną technologię i koszt wdrożenia, podejmuje rozsądne kroki, w tym środki techniczne, aby poinformować innych administratorów przetwarzających dane osobowe, że osoba, której dane dotyczą, zażądała usunięcia przez tych administratorów wszelkich linków, kopii lub replikacji, tych danych osobowych, o ile ich przetwarzanie nie jest wymagane. Pracownicy {siteName} w indywidualnych przypadkach zapewnią niezbędne środki.</p></li><li><h4 class=\"text-lg\">e) Prawo do ograniczenia przetwarzania</h4> <p>Każda osoba, której dane dotyczą, ma przyznane przez ustawodawcę europejskiego prawo żądania od administratora ograniczenia przetwarzania, jeżeli ma zastosowanie jedna z poniższych sytuacji:</p><ul class=\"pl-8 pb-6\"><li>Osoba, której dane dotyczą, kwestionuje prawidłowość danych osobowych, na okres umożliwiający administratorowi sprawdzenie prawidłowości danych osobowych.</li><li>Przetwarzanie jest niezgodne z prawem, a osoba, której dane dotyczą, sprzeciwia się usunięciu danych osobowych danych i w zamian żąda ograniczenia ich wykorzystania.</li><li>Administrator nie potrzebuje już danych osobowych do celów przetwarzania, ale są one potrzebne osobie, której dane dotyczą, do ustalenia, dochodzenia lub obrony roszczeń. </li><li>Osoba, której dane dotyczą, wniosła sprzeciw wobec przetwarzania na podstawie art. 21 ust. 1 RODO do czasu sprawdzenia, czy prawnie uzasadnione podstawy po stronie administratora są nadrzędne wobec podstaw osoby, której dane dotyczą.</li></ul><p >Jeżeli spełniony jest jeden z powyższych warunków, a osoba, której dane dotyczą, pragnie zażądać ograniczenia przetwarzania danych osobowych przechowywanych przez {siteName}, może w każdej chwili skontaktować się z dowolnym pracownikiem administratora. Pracownik {siteName} zorganizuje ograniczenie przetwarzania.</p></li><li><h4 class=\"text-lg\">f) Prawo do przenoszenia danych</h4><p >Każda osoba, której dane dotyczą, ma przyznane przez ustawodawcę europejskiego prawo otrzymania dotyczących jej danych osobowych, które zostały przekazane administratorowi, w ustrukturyzowanym, powszechnie używanym formacie nadającym się do odczytu maszynowego. Ma prawo przesłać te dane innemu administratorowi bez przeszkód ze strony administratora, któremu dostarczono dane osobowe, o ile przetwarzanie odbywa się na podstawie zgody zgodnie z art. 6 ust. 1 lit. a) Rozporządzenia RODO lub art. 9 ust. 2 lit. a RODO, lub na umowie zgodnie z art. 6 ust. 1 lit. b RODO, a przetwarzanie odbywa się w sposób zautomatyzowany, o ile przetwarzanie nie jest niezbędne do wykonania zadania realizowanego w interesie publicznym lub w ramach sprawowania władzy publicznej powierzonej administratorowi.</p><p>Ponadto w ramach wykonywania przysługującego mu prawa do przenoszenia danych na podstawie art. 20 ust. 1 RODO osoba, której dane dotyczą, ma prawo do tego, aby dane osobowe zostały przesłane bezpośrednio od jednego administratora do drugiego, o ile jest to technicznie wykonalne i nie wpływa to niekorzystnie na prawa i wolności innych osób.</p><p>Aby skorzystać z prawa do przenoszenia danych, osoba, której dane dotyczą, może w każdej chwili skontaktować się z dowolnym pracownikiem {siteName}.</p></li><li><h4 class=\"text-lg\" >g) Prawo do sprzeciwu</h4><p>Każda osoba, której dane dotyczą, ma przyznane przez ustawodawcę europejskiego prawo do wniesienia w dowolnym momencie sprzeciwu, z przyczyn związanych z jej szczególną sytuacją, wobec przetwarzania dotyczących jej danych osobowych lub jej, co następuje na podstawie art. 6 ust. 1 lit. e) lub f) RODO. Dotyczy to również profilowania na podstawie tych postanowień.</p><p>W przypadku wniesienia sprzeciwu {siteName} nie będzie już przetwarzać danych osobowych, chyba że wykażemy istnienie ważnych prawnie uzasadnionych podstaw do przetwarzania, nadrzędnych wobec interesów, praw i wolności osoby, której dane dotyczą, lub w celu ustalenia, dochodzenia lub obrony roszczeń prawnych.</p><p>Jeżeli {siteName} przetwarza dane osobowe w celach marketingu bezpośredniego, osoba, której dane dotyczą, ma prawo w dowolnym momencie wnieść sprzeciw do przetwarzania dotyczących go danych osobowych w celu takiego marketingu. Dotyczy to profilowania w zakresie, w jakim jest ono związane z takim marketingiem bezpośrednim. Jeżeli osoba, której dane dotyczą, sprzeciwi się przetwarzaniu danych osobowych w witrynie {siteName} do celów marketingu bezpośredniego, witryna {siteName} nie będzie już przetwarzać danych osobowych w tych celach.</p><p>Ponadto osoba, której dane dotyczą, ma prawo, ze względu na jej szczególną sytuację, sprzeciwić się przetwarzaniu dotyczących jej danych osobowych przez {siteName} w celach badań naukowych lub historycznych albo w celach statystycznych zgodnie z art. 89 ust. 1 RODO, chyba że przetwarzanie jest niezbędne do wykonania zadania realizowanego ze względu na interes publiczny.</p><p>W celu skorzystania z prawa sprzeciwu osoba, której dane dotyczą, może skontaktować się z dowolnym pracownikiem {nazwa witryny}. Ponadto osoba, której dane dotyczą, może w kontekście korzystania z usług społeczeństwa informacyjnego i niezależnie od dyrektywy 2002/58/WE skorzystać ze swojego prawa do sprzeciwu w sposób zautomatyzowany, korzystając ze specyfikacji technicznych.</p></li> <li><h4 class=\"text-lg\">h) Zautomatyzowane podejmowanie decyzji w indywidualnych przypadkach, w tym profilowanie </h4><p>Każda osoba, której dane dotyczą, ma przyznane przez ustawodawcę europejskiego prawo do tego, aby nie podlegać decyzja oparta wyłącznie na zautomatyzowanym przetwarzaniu, w tym profilowaniu, wywołuje wobec niej skutki prawne lub w podobny sposób istotnie na nią wpływa, o ile decyzja (1) nie jest niezbędna do zawarcia lub wykonania umowy pomiędzy podmiot danych a administratorem danych, lub (2) nie jest do tego upoważniona na mocy prawa Unii lub prawa państwa członkowskiego, któremu podlega administrator i które przewiduje również odpowiednie środki ochrony praw, wolności i uzasadnionych interesów podmiotu danych, lub (3) nie opiera się na wyraźnej zgodzie osoby, której dane dotyczą.</p><p>Jeżeli decyzja (1) jest niezbędna do zawarcia lub wykonania umowy pomiędzy osobą, której dane dotyczą, a administratorem danych, lub (2) jest w oparciu o wyraźną zgodę osoby, której dane dotyczą, {siteName} wdraża odpowiednie środki w celu ochrony praw i wolności oraz uzasadnionych interesów osoby, której dane dotyczą, co najmniej prawa do uzyskania interwencji ludzkiej ze strony administratora, w celu wyrażenia swojego stanowiska zapoznać się z decyzją i zakwestionować ją.</p><p>Jeśli osoba, której dane dotyczą, chce skorzystać z praw dotyczących zautomatyzowanego podejmowania decyzji w indywidualnych przypadkach, może w każdej chwili skontaktować się z dowolnym pracownikiem {siteName}.</p </li><li><h4 class=\"text-lg\">i) Prawo do wycofania zgody na ochronę danych</h4><p>Każda osoba, której dane dotyczą, ma przyznane przez europejskiego ustawodawcę prawo do wycofania swojej zgody lub jej zgodę na przetwarzanie swoich danych osobowych w dowolnym momencie.</p><p>Jeżeli osoba, której dane dotyczą, chce skorzystać z prawa do wycofania zgody, może w każdej chwili skontaktować się z dowolnym pracownikiem firmy {siteName}.</p></li></ul><h4 class=\"text-2xl\">Podstawa prawna przetwarzania</h4><p>Art. 6 ust. 1 lit. a RODO stanowi podstawę prawną operacji przetwarzania, na które uzyskujemy zgodę w konkretnym celu przetwarzania. Jeżeli przetwarzanie danych osobowych jest niezbędne do wykonania umowy, której stroną jest osoba, której dane dotyczą, jak ma to miejsce np. gdy operacje przetwarzania są niezbędne w celu dostarczenia towaru lub świadczenia innej usługi, przetwarzanie odbywa się na podstawie art. 6 ust. 1 lit. b RODO. To samo dotyczy takich operacji przetwarzania, które są niezbędne do podjęcia działań przedumownych, na przykład w przypadku zapytań dotyczących naszych produktów lub usług. Czy na naszej spółce ciąży obowiązek prawny, który wiąże się z koniecznością przetwarzania danych osobowych, np. w celu wywiązania się z obowiązków podatkowych, przetwarzanie odbywa się na podstawie art. 6 ust. 1 lit. c RODO. W rzadkich przypadkach przetwarzanie danych osobowych może być niezbędne do ochrony żywotnych interesów osoby, której dane dotyczą, lub innej osoby fizycznej. Miałoby to miejsce na przykład w przypadku, gdyby osoba odwiedzająca naszą firmę doznała obrażeń i jego imię i nazwisko, wiek, dane dotyczące ubezpieczenia zdrowotnego lub inne istotne informacje musiałyby zostać przekazane lekarzowi, szpitalowi lub innej osobie trzeciej. Wówczas przetwarzanie odbywałoby się na podstawie art. 6 ust. 1 lit. d RODO. Wreszcie operacje przetwarzania mogłyby opierać się na art. 6 ust. 1 lit. f RODO. Na tej podstawie prawnej realizowane są operacje przetwarzania nieobjęte żadną z powyższych podstaw prawnych, jeżeli przetwarzanie jest niezbędne do celów wynikających z prawnie uzasadnionych interesów realizowanych przez naszą firmę lub przez stronę trzecią, z wyjątkiem sytuacji, w których nadrzędny charakter wobec tych interesów mają interesy lub podstawowe prawa i wolności osoby, której dane dotyczą, wymagające ochrony danych osobowych. Takie operacje przetwarzania są szczególnie dopuszczalne, ponieważ zostały wyraźnie wymienione przez europejskiego ustawodawcę. Uznał, że można przyjąć prawnie uzasadniony interes, jeżeli osoba, której dane dotyczą, jest klientem administratora (motyw 47 zdanie 2 RODO).</p><h4 class=\"text-2xl\">Uzasadnione interesy realizowane przez administratora lub przez stronę trzecią </h4><p>Jeżeli przetwarzanie danych osobowych odbywa się na podstawie art. 6 ust. 1 lit. f RODO naszym prawnie uzasadnionym interesem jest prowadzenie naszej działalności na rzecz dobra wszystkich naszych pracowników i akcjonariuszy.</p><h4 class=\"text-2xl\">Okres, przez jaki dane osobowe będą przechowywane przechowywane</h4><p>Kryteriam ustalania okresu przechowywania danych osobowych jest odpowiedni ustawowy okres przechowywania. Po upływie tego okresu odpowiednie dane są rutynowo usuwane, o ile nie są już niezbędne do realizacji umowy lub rozpoczęcia umowy.</p><h4 class=\"text-2xl\"> Podanie danych osobowych jako wymóg ustawowy lub umowny; Wymóg niezbędny do zawarcia umowy; Obowiązek osoby, której dane dotyczą, do podania danych osobowych; możliwe konsekwencje niepodania tych danych</h4><p>Wyjaśniamy, że podanie danych osobowych jest częściowo wymagane przez przepisy prawa (np. przepisy podatkowe) lub może także wynikać z postanowień umownych (np. informacje o kontrahentu). Czasami konieczne może być zawarcie umowy, że osoba, której dane dotyczą, przekazuje nam dane osobowe, które następnie muszą być przez nas przetwarzane. Osoba, której dane dotyczą, jest na przykład zobowiązana do przekazania nam danych osobowych, gdy nasza firma podpisuje z nią umowę. Niepodanie danych osobowych skutkowałoby niemożnością zawarcia umowy z osobą, której dane dotyczą. Zanim osoba, której dane dotyczą, udostępni dane osobowe, osoba, której dane dotyczą, musi skontaktować się z dowolnym pracownikiem. Pracownik wyjaśnia osobie, której dane dotyczą, czy podanie danych osobowych jest wymagane przepisami prawa lub umową lub jest niezbędne do zawarcia umowy, czy istnieje obowiązek podania danych osobowych oraz jakie są skutki niepodania danych osobowych dane.</p><h4 class=\"text-2xl\">Istnienie zautomatyzowanego podejmowania decyzji</h4><p>Jako odpowiedzialna firma nie stosujemy automatycznego podejmowania decyzji ani profilowania.</p>"
+    }
+  }
+}

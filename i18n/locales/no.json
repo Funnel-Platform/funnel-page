@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "title": "{siteName} ™ // REAL Offisiell DOT {siteTLD} [2025] ©",
+    "description": "Registrer deg på den REAL Offisielle DOT {siteTLD} - alle andre nettsteder er FAKE. {siteName} er en handelsplattform som bruker AI for å forutsi markedsbevegelser og utnytte dem."
+  },
+  "landing-pages": {
+    "variant-a": {
+      "create-account": "Opprett din gratis konto",
+      "points": {
+        "p-1": "Gratis Personal Account Manager",
+        "p-2": "Ingen handelserfaring nødvendig",
+        "p-3": "Kom i gang om 15 minutter",
+        "p-1-alt-1": "Personlig kontoadministrator lisensiert av den kanadiske investeringsreguleringsorganisasjonen (CIRO)",
+        "p-2-alt-1": "Gratis tilgang for alle kanadiske innbyggere, bekreft bare identiteten din under velkomstsamtalen",
+        "p-3-alt-1": "Begynn å tjene penger på under 15 minutter",
+        "p-1-alt-2": "Gratis for alle tyske statsborgere",
+        "p-2-alt-2": "Gratis personlig kontoadministrator godkjent av Elon Musk",
+        "p-3-alt-2": "Garantert avkastning på investeringen innen få minutter"
+      },
+      "steps": "Steg {step} av 2",
+      "right_column": {
+        "title-alt-1": "Smart investering som sikrer fremtiden for Canadas arbeiderklasse",
+        "sub-title-alt-1": "Mark Carney, Statsminister i Canada",
+        "content-alt-1": "{siteName} er en app vi har laget for et land av byggere. Dette initiativet vil redusere formuesforskjellen mellom Canadas superrike og arbeiderklassen ved å la vanlige kanadiere doble, og i noen tilfeller tredoble, lønnen sin nesten over natten. Vi er stolte av å kunngjøre at den føderale regjeringen har forsikret alle innskudd gjort av kanadiske innbyggere, noe som betyr at pengene dine er trygge. {siteName} vil utrydde fattigdom i hele vårt land og gjenopprette en sterk kanadisk middelklasse der alle kanadiere kan eie et hjem og pensjonere seg før de blir gamle. Jeg oppfordrer alle kanadiere til å benytte seg av dette initiativet som vi har skapt for å forene denne flotte nasjonen vår.",
+        "title-alt-2": "Smarte investeringer som gjør arbeiderklassen til millionærer over natten",
+        "sub-title-alt-2": "Elon Musk, grunnlegger og administrerende direktør i {siteName}",
+        "content-alt-2": "{siteName} er mitt livsverk. Jeg opprettet denne plattformen med et enkelt mål: å lukke formuesgapet mellom de superrike og de fattige. Jeg er stolt av å si at dette er min største suksess hittil. Kom og se selv, risikofritt, fordi jeg garanterer alle innskudd med mine egne penger."
+      }
+    }
+  },
+  "components": {
+    "attention-banner": {
+      "label": "OBS: Svært høy medieetterspørsel, registreringen nærmer seg{time}"
+    },
+    "logo-header": {
+      "available-to-traders": "Nå tilgjengelig i<br />{usersCountry}"
+    },
+    "splash": {
+      "video-id": "319904948",
+      "header": "Opprett <span class=\"hidden sm:inline\">{siteName}</span>-kontoen din <span class=\"hidden sm:inline\">I dag</span>",
+      "sub-header": "Og du kan oppnå din <span class=\"text-yellow-300\">finansielle frihet...</span>",
+      "points": {
+        "p-1": "Gratis Personal Account Manager",
+        "p-2": "Ingen handelserfaring nødvendig",
+        "p-3": "Kom i gang om 15 minutter"
+      },
+      "step-1": {
+        "line-1": "Begrenset tilgjengelighet",
+        "line-2": "Resterende kontoer!"
+      },
+      "step-2": "Trinn 2 av 2 - Kontoaktivering!"
+    },
+    "form-capture": {
+      "first_name": "Fornavn",
+      "last_name": "Etternavn",
+      "email": "E-post",
+      "phone_number": "Telefonnummer",
+      "button": {
+        "step-1": "Registrer deg nå",
+        "step-2": "Aktiver konto"
+      }
+    },
+    "intro-text": {
+      "header": "Begynn å tjene penger med {siteName}",
+      "body-1": "{siteName} er et eksklusivt program med tilgang til proprietær teknologi, som gir vår begrensede gruppe medlemmer et enestående konkurransefortrinn for å i det stille samle enorme formuer. Bare grunnleggende skriveferdigheter er nødvendig. Start i dag og du vil kunne for å se pengene sakte strømme inn på kontoen din, minutt etter minutt!",
+      "body-2": "Sørg for at du registrerer deg på den EKTE offisielle nettsiden, sjekk nettstedsadressen øverst for å sikre at det står\"{siteDomain}\". Bare prikken.{siteTLD} uten flere ord eller bindestreker i adressen."
+    },
+    "as-seen-on": "Som sett på",
+    "testimonials": {
+      "header": {
+        "line-1": "Ekte attester fra",
+        "line-2": "våre brukere"
+      },
+      "profit": "Profitt",
+      "testimonials": {
+        "1": {
+          "image": "default1.jpg",
+          "name": "James B",
+          "location": "Amsterdam",
+          "profit": 13853,
+          "text": "Jeg føler meg virkelig velsignet over å ha funnet dette programmet. Jeg hadde aldri forestilt meg at det skulle være så enkelt å tjene penger på internett, og det som har vært enda bedre enn å tjene penger er at jeg har møtt noen veldig interessante mennesker underveis ."
+        },
+        "2": {
+          "image": "default2.jpg",
+          "name": "Stacey J",
+          "location": "Frankfurt",
+          "profit": 9126,
+          "text": "Jeg har jobbet med dette i litt over 30 dager nå. Jeg har endelig min egen økonomiske frihet! Takk, {siteName}!"
+        },
+        "3": {
+          "image": "default3.jpg",
+          "name": "Anton L",
+          "location": "Paris",
+          "profit": 43300,
+          "text": "Jeg pleide å jobbe som restaurantsjef og ble introdusert for dette programmet av en av mine faste kunder. Da jeg sa opp jobben min for å jobbe med dette på heltid, trodde alle kollegene mine at jeg var gal. Best {currencySymbol }250 investering noensinne!"
+        },
+        "4": {
+          "image": "default4.jpg",
+          "name": "Jane M",
+          "location": "Stockholm",
+          "profit": 11463,
+          "text": "Jeg var hjemmemor, nå har barna mine blitt voksne og forlatt huset... Jeg har vært så lei og slitt virkelig med å motivere meg selv til å gjøre hva som helst. Takket være {siteName} føler jeg at jeg Jeg er 20 år yngre og gleder meg til å våkne om morgenen for å sjekke kontoen min. Jeg trodde livet mitt var over. Nå tjener jeg noen ganger {currencySymbol}250 på én dag!"
+        }
+      }
+    },
+    "reasons": {
+      "1": {
+        "icon": "brtarget-icon",
+        "title": "Nøyaktige resultater",
+        "text": "Prøvde resultater med 99,4 %% nøyaktighets- og ytelsesnivå. Et av de beste programmene i bransjen. Våre medlemmer fra hele verden stoler på at vi dobler og firedobler investeringene sine daglig."
+      },
+      "2": {
+        "icon": "brtechnology-icon",
+        "title": "Overordnet programvare",
+        "text": "Vår proprietære programvare er bygget ved hjelp av avansert programmering og beregninger designet av toppmatematikere. Programvaren er foran finansmarkedene med 0,01 sekunder. Dette\"tidsgapet\" gjør dataprogrammet til den mest konsistente handelsapplikasjonen på planet."
+      },
+      "3": {
+        "icon": "braward-icon",
+        "title": "Prisvinnende program",
+        "text": "{siteName} har vunnet en rekke priser i finansbransjen. Vi liker ikke å skryte, så vi lar deg heller se resultatene selv. Det vil uten tvil være den beste investeringen du vil noen gang gjøre."
+      }
+    },
+    "results-table": {
+      "button": "Bli med nå!",
+      "header": "Hva gjør Quantum Computing så bra for investering?",
+      "p-1": "Dette er verdens første kvantedatamaskin; i motsetning til hjemme-PCen din, er denne datamaskinen smart – den tar tusenvis av samtidige\"avgjørelser\" på en gang. Hjernen din tenker en tanke om gangen, i en sekvens. Tenk om du kunne ha tusenvis av tanker på en gang, hver like klar som den andre. Det er kvanteberegning.",
+      "p-2": "Ved å bruke den kraften vil kvantedatamaskinen vår hjelpe deg med å gjøre smartere handler og tjene mer penger enn du trodde var mulig. Enda bedre, den er designet slik at du kan tjene penger og hjelpe andre mens du tjener!",
+      "p-3": "Den finner handler ved å analysere forskjeller mellom aksjekurser hvert nano-sekund aksjemarkedene er live (og gir spådommer selv når markedene er stengt, slik at du vet hva som sannsynligvis vil skje når de åpner igjen ). Din nåværende datamaskin (og alle andres) kan ikke matche beslutningshastighetene til dette nye systemet.",
+      "p-4": "Registrer deg og bli en av de få eksklusive som bruker denne teknologien (før alle andre får nyss om det!)"
+    },
+    "partners": {
+      "header": "Partnere"
+    },
+    "steps": {
+      "header": "Slik fungerer det",
+      "button": "Åpne gratis konto",
+      "step": "Steg",
+      "steps": {
+        "1": {
+          "icon": "brstep1-icon",
+          "title": "Registrere",
+          "text": "Fyll ut skjemaet på denne nettsiden for å registrere deg for tilgang til programmet og åpne din gratis handelskonto. Hvis du blir akseptert, vil du få umiddelbar tilgang til kontoen din."
+        },
+        "2": {
+          "icon": "brstep2-icon",
+          "title": "Finn kontoen din",
+          "text": "Vi kjenner alle til ordtaket\"penger tjener penger\" - og realiteten er at denne setningen dessverre er veldig sann! Som enhver bedrift trenger du arbeidskapital for å komme i gang. Vi foreslår at du setter inn {currencySymbol}250 inn på kontoen din."
+        },
+        "3": {
+          "icon": "brstep3-icon",
+          "title": "Fullfør",
+          "text": "Jobb direkte med din personlige kontoadministrator og begynn å tjene umiddelbart. Det er veldig viktig at du oppgir riktig telefonnummer slik at din personlige kontoadministrator kan nå deg og hjelpe deg med å tjene penger."
+        }
+      }
+    },
+    "faqs": {
+      "header": "Ofte stilte spørsmål",
+      "faqs": {
+        "1": {
+          "title": "Hvilken type resultater kan jeg forvente?",
+          "text": "De fleste medlemmer av programmet tjener vanligvis fra {currencySymbol}500 til {currencySymbol}2000 daglig. Imidlertid tjener brukere som bruker mer enn 5 timer om dagen mye mer."
+        },
+        "2": {
+          "title": "Hvor mange timer per dag jobber jeg med programmet?'",
+          "text": "Du trenger ikke å jobbe konstant, det er best å jobbe 10-20 minutter per dag og deretter sjekke inn nå og da for å se hvordan det går med handlene dine."
+        },
+        "3": {
+          "title": "Kan jeg jobbe fra mobilen min?",
+          "text": "Ja, alle handelsapplikasjonene er mobilvennlige. Du kan jobbe fra hvor som helst i verden, så lenge du har en internettforbindelse."
+        },
+        "4": {
+          "title": "Hvor mye koster søknaden?",
+          "text": "Tilgang til programmet er for øyeblikket GRATIS. Du må sette inn/investere {currencySymbol}250 for å aktivere kontoen din. Dette er pengene dine og du trenger ikke å bruke alt på en gang. Husk at du kan ta ut kapitalen din når som helst."
+        },
+        "5": {
+          "title": "Er det noen gebyrer?",
+          "text": "Applikasjonen tar en svært liten prosentandel av overskuddet ditt. Dette er hvordan programmet genererer inntekter og betaler for kontoadministratorens lønn og andre driftsutgifter."
+        },
+        "6": {
+          "title": "Hvor lang tid tar det å begynne å tjene penger?",
+          "text": "Du kan begynne å tjene penger umiddelbart. Sett inn {currencySymbol}250 på kontoen din med en gang, så vil du få prioritet og kontoadministratoren din vil ringe deg innen 30 minutter (man-fre)."
+        }
+      }
+    },
+    "advisors": {
+      "jeff": {
+        "by-line": "Teknologigründer, investor og filantrop",
+        "bio": "Kvanteberegning er fremtiden. Jeg overdriver ikke når jeg sier at det vil forandre alt. Dette er de første dagene med kvanteberegning; ikke mange vet om det, noe som betyr at svært få bruker det. De få det vil si, tar utrolig kloke (og lønnsomme) beslutninger."
+      },
+      "bill": {
+        "by-line": "Forretningsmagnat, investor, forfatter, filantrop og humanitær",
+        "bio": "Jeg vet at Elon har brukt 3 milliarder dollar av sine egne penger for å finansiere dette programmet. Hatten av for ham for det – det er 3 milliarder dollar av hans egne penger for å finansiere en bedre fremtid for alle, og for å hjelpe andre tjene penger som vil hjelpe ham å gjøre det! Det er en vinn-vinn, og jeg er veldig spent på å se hvor det går."
+      }
+    },
+    "lower-cta": {
+      "button": "Registrer deg nå"
+    },
+    "footer-links": {
+      "home": "Hjem",
+      "privacy-policy": "Personvernregler",
+      "cookie-policy": "Retningslinjer for informasjonskapsler",
+      "gdpr": "GDPR-databeskyttelse"
+    }
+  },
+  "pages": {
+    "homepage": {
+      "button": "Kom i gang i dag",
+      "splash": {
+        "heading": "Lønnsom handel begynner med kunnskap",
+        "list": [
+          "Personlig kontoansvarlig og mentor",
+          "Få tilgang til proprietær teknologi",
+          "Ingen erfaring nødvendig"
+        ]
+      },
+      "knowledge": {
+        "heading": "En investering i kunnskap gir best interesse",
+        "p-1": "Få tilgang til ekte kryptomestere med vårt en-til-en mentorprogram. Invester så lite som £250 på din handelskonto og motta din egen erfarne personlige kontoadministrator."
+      },
+      "track-record": {
+        "heading": "Bevist merittliste",
+        "p-1": "Siden den første kryptovalutaen ble opprettet for 11 år siden, har vi vært i forkant.",
+        "points": [
+          {
+            "icon": "shield-1",
+            "text": "Kvalifiserte fagfolk med ekte handelserfaring på tvers av flere plattformer."
+          },
+          {
+            "icon": "crypto",
+            "text": "Vær trygg med state-of-the-art sikkerhetssystemer distribuert globalt."
+          },
+          {
+            "icon": "stock",
+            "text": "Eiendomsbeskyttede handelsteknologier utviklet for å gi deg fordelen du trenger."
+          }
+        ]
+      },
+      "global-footprint": {
+        "heading": "Globalt fotavtrykk",
+        "points": [
+          {
+            "icon": "chat-group",
+            "heading": "10+",
+            "text": "Flere språk støttes"
+          },
+          {
+            "icon": "globe",
+            "heading": "25+",
+            "text": "Tilgjengelig i mer enn 25 land"
+          },
+          {
+            "icon": "transaction",
+            "heading": "500+",
+            "text": "Over 500 millioner euro handlet"
+          },
+          {
+            "icon": "bitcoin",
+            "heading": "100+",
+            "text": "Hundrevis av valutaer integrert"
+          }
+        ]
+      },
+      "reinvent": {
+        "heading": "Ikke oppfinn hjulet på nytt, bare juster det på nytt",
+        "p-1": "Vi mener at du ikke trenger å finne opp hjulet på nytt for å lykkes. Det du trenger å gjøre er å ta grep! Bruk deg selv nå og lær av mesterne."
+      },
+      "truth-never-lies": {
+        "heading": "Sannheten lyver aldri",
+        "p-1": "\"Utdanning er ikke nøkkelen til suksess. Erfaring, visdom og kunnskap er nøklene til suksess\"",
+        "points": [
+          {
+            "icon": "knowledge",
+            "heading": "Opplæringsmateriell",
+            "text": "Høy kvalitet, nyttige guider og videoer"
+          },
+          {
+            "icon": "professional",
+            "heading": "1 til 1 veiledning",
+            "text": "Erfarne kvalifiserte fagfolk"
+          }
+        ]
+      },
+      "time-waits": {
+        "heading": "Tiden venter på ingen",
+        "points": [
+          {
+            "icon": "trade",
+            "heading": "Beslutninger",
+            "text": "Kvalifiserte fagfolk med ekte handelserfaring på tvers av flere plattformer."
+          },
+          {
+            "icon": "gantt-chart",
+            "heading": "Tidsverdi",
+            "text": "Start nå og se avkastningen din vokse. Tid er penger, ikke kast bort det."
+          },
+          {
+            "icon": "annual-calendar-page",
+            "heading": "Bestill nå",
+            "text": "Registrer deg i dag og bestill din en-til-en konsultasjon innen få minutter."
+          },
+          {
+            "icon": "shrink",
+            "heading": "Retning",
+            "text": "Våre eksperter vil peke deg i riktig retning og veilede deg langs veien til suksess."
+          },
+          {
+            "icon": "insight",
+            "heading": "Støtte",
+            "text": "Din personlige kontoadministrator vil hjelpe deg gjennom hele prosessen."
+          }
+        ]
+      }
+    },
+    "questions": {
+      "title": "Konto venter på bekreftelse...",
+      "intro": {
+        "p-1": "Importer informasjon!!",
+        "p-2": "Du må sende inn følgende 3 korte spørsmål, for at vi skal kunne tildele den <u>Personal Account Manager</u> som passer best til din profil."
+      },
+      "form": {
+        "question-1": {
+          "label": "Spørsmål 1: Kjønn",
+          "placeholder": "Vennligst velg",
+          "genders": {
+            "male": "Mann",
+            "female": "Hunn",
+            "prefer-not-to-say": "Foretrekker å ikke si"
+          }
+        },
+        "question-2": {
+          "label": "Spørsmål 2: Aldersgruppe",
+          "placeholder": "Vennligst velg"
+        },
+        "question-3": {
+          "label": "Spørsmål 3: Investeringskapital",
+          "p-1": "Vi kjenner alle til ordtaket <i>\"penger tjener penger\"</i> - og realiteten er at denne setningen dessverre er veldig sann!",
+          "p-2": "Det folk ikke forteller deg er at hvis du er i stand til å multiplisere fortjenesten over en kort periode, kan litt penger bli til mye penger veldig raskt!",
+          "p-3": "Velg hvor mye penger du er villig til å investere.",
+          "placeholder": "Vennligst velg"
+        },
+        "button": "Fortsette"
+      }
+    },
+    "welcome_auto_redirect": {
+      "title": "Vennligst vent mens vi logger deg på kontoen din..."
+    },
+    "welcome": {
+      "title": "Konto venter... Siste trinn...",
+      "intro": {
+        "p-1": "Dette er det viktigste siste trinnet for å sette opp kontoen din, ",
+        "highlight": "så vær veldig oppmerksom her",
+        "p-2": "som du trenger",
+        "p-3": "sørg for at systemet er riktig konfigurert."
+      },
+      "phone-call": {
+        "heading": "Bekreftelse og oppsett av telefonsamtaler",
+        "p-1": "I dette programmet (som du har sett) tar vi sikkerhet veldig seriøst og for å bekrefte at du er en ekte person og for å validere kontoen din, en av våre <strong>oppstartsspesialister</strong > ringer deg innen de neste 30 minuttene (man-fre).",
+        "p-2": "Hvis du ikke er tilgjengelig, vennligst svar på anropet og avtal en avtale for et mer passende tidspunkt."
+      },
+      "self-activation": {
+        "heading": "Selvaktivering og hvordan det fungerer",
+        "p-1": "På neste side vil du bli sendt til vår nøye utvalgte partner for å <span class=\"font-bold\">aktivere</span> kontoen din ved å sette inn din lille start-up hovedstad.",
+        "p-2": "Pengene du setter inn er <span class=\"font-bold\">pengene dine</span> og du trenger ikke bruke alt på en gang, du kan starte med små beløp for å se hvordan systemet fungerer og husk, du kan ta ut kapitalen din når som helst.",
+        "p-3": "Hvis du ikke er sikker på hvordan du <span class=\"font-bold\">selvaktiverer</span> kontoen din, går du til kontoen din nedenfor og venter på en av våre oppstarter spesialister ringer deg i løpet av de neste 30 minuttene. (man-fre)"
+      },
+      "go-to-account": "Gå til Konto",
+      "recommended-broker": {
+        "heading": "Din anbefalte megler",
+        "p-1": "Vårt team har nøye valgt denne handelskontoen for deg. Hvis du har problemer med å se siden, kan du klikke",
+        "p-2": "og handelsapplikasjonen åpnes i et nytt vindu."
+      }
+    },
+    "welcome_two_step": {
+      "step-1": {
+        "title": "Konto venter... Siste trinn...",
+        "p-1": "Klikk på denne grønne knappen for å bekrefte og aktivere.",
+        "button": "Klikk her for å bekrefte nå"
+      },
+      "step-2": {
+        "title": "Kontobekreftet... Viktig informasjon!!",
+        "sub-title": "Du MÅ lese dette NÅ."
+      }
+    },
+    "welcome_received": {
+      "title": "Konto venter... Viktig informasjon!!",
+      "sub-title": "Du MÅ lese dette NÅ.",
+      "heading": "Bekreftelse og oppsett av telefonsamtaler",
+      "p-1": "Dessverre er kontoret vårt nå stengt, din personlige kontoadministrator <u>ringer deg om morgenen</u> eller senest før utgangen av neste virkedag.",
+      "p-2": "Kontoen din vil forbli ventende til du har blitt bekreftet. ",
+      "p-3": "<u>Kontoer som ikke er bekreftet innen 24 timer (mandag – fredag) vil bli slettet</u> og neste tilgjengelige plassering vil bli utstedt til neste konto i køen.",
+      "p-4": "Kontoer opprettet i helgen vil bli verifisert på mandager."
+    },
+    "privacy": {
+      "title": "Personvernregler",
+      "content": "<p>Vi er veldig glade for at du har vist interesse for virksomheten vår. Databeskyttelse er av særlig høy prioritet for administrasjonen av {siteName}. Bruken av Internett-sidene til {siteName} er mulig uten noen indikasjon på personopplysninger, men hvis en registrert ønsker å bruke spesielle bedriftstjenester via vår nettside, kan behandling av personopplysninger bli nødvendig. Dersom behandling av personopplysninger er nødvendig og det ikke er lovfestet grunnlag for slik behandling, vi innhenter generelt samtykke fra den registrerte.</p><p>Behandlingen av personopplysninger, slik som navn, adresse, e-postadresse eller telefonnummer til et registrert, skal alltid være i tråd med de generelle opplysningene Beskyttelsesforordningen (GDPR), og i samsvar med de landsspesifikke databeskyttelsesforskriftene som gjelder for {siteName}. Ved hjelp av denne databeskyttelseserklæringen ønsker bedriften vår å informere allmennheten om arten, omfanget og formålet med t personopplysningene vi samler inn, bruker og behandler. Videre blir registrerte informert, ved hjelp av denne databeskyttelseserklæringen, om rettighetene de har krav på.</p><p>Som behandlingsansvarlig har {siteName} implementert en rekke tekniske og organisatoriske tiltak for å sikre den mest komplette beskyttelsen av personopplysninger som behandles gjennom denne nettsiden. Internett-baserte dataoverføringer kan imidlertid i prinsippet ha sikkerhetshull, så absolutt beskyttelse kan ikke garanteres. Av denne grunn står enhver registrert fritt til å overføre personopplysninger til oss via alternative måter, f.eks. på telefon.</p><h4 class=\"text-2xl\">1. Definisjoner</h4><p>Databeskyttelseserklæringen til {siteName} er basert på begrepene som brukes av den europeiske lovgiveren for vedtakelsen av den generelle databeskyttelsesforordningen (GDPR). Vår databeskyttelseserklæring skal være leselig og forståelig for allmennheten, så vel som våre kunder og forretningspartnere. For å sikre dette vil vi først forklare terminologien som brukes.</p><p>I denne databeskyttelseserklæringen bruker vi blant annet følgende begreper: </p><ul class=\"pl-8\"><li><h4 class=\"text-lg\">a) Personopplysninger</h4><p>Personopplysninger betyr all informasjon knyttet til en identifisert eller identifiserbar fysisk person (\"datasubjekt\") . En identifiserbar fysisk person er en som kan identifiseres, direkte eller indirekte, særlig ved referanse til en identifikator som et navn, et identifikasjonsnummer, stedsdata, en online identifikator eller til en eller flere faktorer som er spesifikke for den fysiske, fysiologiske, genetisk, mental, økonomisk, kulturell eller sosial identitet til den fysiske personen.</p><h4 class=\"text-lg\">b) Datasubjekt</h4><p>Datasubjekt er enhver identifisert eller identifiserbar naturlig person, hvis personopplysninger behandles av behandlingsansvarlig som er ansvarlig for behandlingen.</p><h4 class=\"text-lg\">c) Behandling</h4><p>Behandling er enhver operasjon eller et sett med operasjoner som utføres på personopplysninger eller på sett med personopplysninger, enten på automatiserte måter, slik som innsamling, registrering, organisering, strukturering, lagring, tilpasning eller endring, gjenfinning, konsultasjon, bruk, utlevering ved overføring, spredning eller på annen måte tilgjengeliggjøring , justering eller kombinasjon, begrensning, sletting eller ødeleggelse. </p><h4 class=\"text-lg\">d) Begrensning av behandling</h4><p>Begrensning av behandling er merking av lagrede personopplysninger med sikte på å begrense behandlingen av dem i fremtiden.</p><h4 class=\"text-lg\">e) Profilering</h4><p>Profilering betyr enhver form for automatisert behandling av personopplysninger som består av bruk av personopplysninger for å evaluere visse personlige aspekter knyttet til en fysisk person, spesielt for å analysere eller forutsi aspekter som angår den fysiske personens ytelse på jobb, økonomiske situasjon, helse, personlige preferanser, interesser, pålitelighet, atferd, plassering eller bevegelser.</p><h4 class=\"text-lg\">f) Pseudonymisering</h4><p>Pseudonymisering er behandling av personopplysninger på en slik måte at personopplysningene ikke lenger kan henføres til en bestemt registrert person uten bruk av tilleggsopplysninger, forutsatt at slik tilleggsinformasjon er holdes separat og er underlagt tekniske og organisatoriske tiltak for å sikre at personopplysningene a er ikke tilskrevet en identifisert eller identifiserbar fysisk person.</p><h4 class=\"text-lg\">g) Behandlingsansvarlig eller behandlingsansvarlig ansvarlig for behandlingen </h4><p>Kontrollansvarlig eller behandlingsansvarlig ansvarlig for behandlingen er den fysiske eller juridiske personen, offentlig myndighet, etat eller annet organ som, alene eller sammen med andre, bestemmer formålene og midlene for behandlingen av personopplysninger; der formålene og midlene for slik behandling er bestemt av unions- eller medlemsstatslovgivningen, kan den behandlingsansvarlige eller de spesifikke kriteriene for dens nominasjon være fastsatt i unions- eller medlemsstatslovgivningen.</p><h4 class=\"text-lg\">h) Behandler</h4><p>Behandler er en fysisk eller juridisk person, offentlig myndighet, etat eller annet organ som behandler personopplysninger på vegne av den behandlingsansvarlige.</p><h4 class=\"text- lg\">i) Mottaker</h4><p>Mottaker er en fysisk eller juridisk person, offentlig myndighet, etat eller et annet organ som personopplysningene utleveres til, enten det er en tredjepart eller ikke. Offentlige myndigheter som kan motta personopplysninger innenfor rammen av en bestemt forespørsel i samsvar med unions- eller medlemsstatslovgivningen, skal imidlertid ikke anses som mottakere; behandlingen av disse opplysningene av disse offentlige myndighetene skal være i samsvar med gjeldende databeskyttelsesregler i henhold til formålene med behandlingen.</p><h4 class=\"text-lg\">j) Tredjepart</h4 ><p>Tredjepart er en fysisk eller juridisk person, offentlig myndighet, etat eller organ annet enn den registrerte, behandlingsansvarlige, databehandler og personer som, under direkte myndighet fra behandlingsansvarlig eller databehandler, er autorisert til å behandle personopplysninger.</p><h4 class=\"text-l\">k) Samtykke</h4><p>Samtykke fra den registrerte er enhver fritt gitt, spesifikk, informert og entydig indikasjon på den registrertes ønsker som han eller hun, ved en uttalelse eller ved en klar bekreftende handling, gir samtykke til behandling av personopplysninger knyttet til ham eller henne.</p></li></ul><h4 class=\"text-2xl\"> 2. Navn og adresse til behandlingsansvarlig</h4><p>Kontrollansvarlig for formålene med den generelle databeskyttelsesforordningen (GDPR), andre databeskyttelseslover som gjelder i EU-medlemsstater og andre bestemmelser knyttet til databeskyttelse er: </p><p>{siteName}</p><p>Nettsted: {siteDomain}</p>"
+    },
+    "cookie": {
+      "title": "Retningslinjer for informasjonskapsler",
+      "content": "<p>Internettsidene til {siteName} bruker informasjonskapsler. Informasjonskapsler er tekstfiler som lagres i et datasystem via en nettleser.</p><p>Mange nettsteder og servere bruker informasjonskapsler. Mange informasjonskapsler inneholder en såkalt cookie-ID. En cookie-ID er en unik identifikator for informasjonskapselen. Den består av en tegnstreng som internettsider og servere kan tilordnes til den spesifikke nettleseren som informasjonskapselen ble lagret i. Dette tillater besøkt internett nettsteder og servere for å skille den individuelle nettleseren til den registrerte fra andre nettlesere som inneholder andre informasjonskapsler. En spesifikk nettleser kan gjenkjennes og identifiseres ved hjelp av den unike informasjonskapsel-IDen.</p><p>Ved bruk av informasjonskapsler kan {siteName} kan gi brukerne av dette nettstedet mer brukervennlige tjenester som ikke ville vært mulig uten innstillingen for informasjonskapsler.</p><p>Ved hjelp av en informasjonskapsel kan informasjonen og tilbudene på nettstedet vårt optimaliseres med brukeren i tankene. Informasjonskapsler tillater oss, som tidligere nevnt, for å gjenkjenne våre nettsidebrukere. Formålet med denne anerkjennelsen er å gjøre det enklere for brukere å bruke nettstedet vårt. Nettstedets bruker som bruker informasjonskapsler, f.eks. trenger ikke legge inn tilgangsdata hver gang nettsiden åpnes, fordi denne overtas av nettsiden, og informasjonskapselen lagres dermed på brukerens datasystem. Et annet eksempel er informasjonskapselen til en handlekurv i en nettbutikk. Nettbutikken husker artiklene som en kunde har lagt i den virtuelle handlekurven via en informasjonskapsel.</p><p>Den registrerte kan når som helst forhindre innstilling av informasjonskapsler gjennom nettstedet vårt ved hjelp av en tilsvarende innstilling av nettleseren som brukes, og kan dermed permanent nekte innstillingen av informasjonskapsler. Videre kan allerede innstilte informasjonskapsler slettes når som helst via en nettleser eller andre programmer. Dette er mulig i alle populære nettlesere. Hvis den registrerte deaktiverer innstillingen av informasjonskapsler i nettleseren som brukes, kan det hende at ikke alle funksjonene på nettstedet vårt er helt brukbare.</p>"
+    },
+    "gdpr": {
+      "title": "GDPR",
+      "content": "<h4 class=\"text-2xl\">Innsamling av generell data og informasjon</h4><p>Nettstedet til {siteName} samler inn en rekke generelle data og informasjon når et registrert eller et automatisert system ringer opp nettsted. Disse generelle dataene og informasjonen lagres i serverloggfilene. Innsamlet kan være (1) nettlesertypene og versjonene som brukes, (2) operativsystemet som brukes av tilgangssystemet, (3) nettstedet som et tilgangssystem når nettstedet vårt fra (såkalte henvisninger), (4) underordnet -nettsteder, (5) dato og klokkeslett for tilgang til Internett-siden, (6) en Internett-protokolladresse (IP-adresse), (7) Internett-leverandøren til tilgangssystemet, og (8) andre lignende data og informasjon som kan brukes i tilfelle angrep på våre informasjonsteknologisystemer.</p><p>Når du bruker disse generelle dataene og informasjonen, trekker ikke {siteName} noen konklusjoner om den registrerte. Snarere er denne informasjonen nødvendig for å (1) levere innholdet på nettstedet vårt på riktig måte, (2) optimalisere innholdet på nettstedet vårt så vel som reklamen, (3) sikre den langsiktige levedyktigheten til våre informasjonsteknologisystemer og nettstedsteknologi. , og (4) gi rettshåndhevende myndigheter den informasjonen som er nødvendig for straffeforfølgelse i tilfelle et nettangrep. Derfor analyserer {siteName} anonymt innsamlet data og informasjon statistisk, med sikte på å øke databeskyttelsen og datasikkerheten til virksomheten vår, og for å sikre et optimalt beskyttelsesnivå for personopplysningene vi behandler. De anonyme dataene til serverloggfilene lagres separat fra alle personopplysninger gitt av et registrert.</p><h4 class=\"text-2xl\">Registrering på nettstedet vårt</h4><p>Dataene subjektet har mulighet til å registrere seg på nettsiden til behandlingsansvarlig med angivelse av personopplysninger. Hvilke personopplysninger som overføres til behandlingsansvarlig bestemmes av den respektive inndatamasken som brukes for registreringen. Personopplysningene som legges inn av den registrerte samles inn og lagres utelukkende for intern bruk av behandlingsansvarlig, og for hans egne formål. Den behandlingsansvarlige kan be om overføring til en eller flere behandlere (f.eks. en pakketjeneste) som også bruker personopplysninger til et internt formål som kan tilskrives den behandlingsansvarlige.</p><p>Ved å registrere på nettsiden til behandlingsansvarlig, IP-adressen —tildelt av Internett-leverandøren (ISP) og brukt av den registrerte — dato og klokkeslett for registreringen lagres også. Lagringen av disse dataene skjer på bakgrunn av at dette er den eneste måten å forhindre misbruk av vår tjenester, og om nødvendig for å gjøre det mulig å etterforske begåtte lovbrudd. For så vidt er lagring av disse dataene nødvendig for å sikre den behandlingsansvarlige. Disse opplysningene videreformidles ikke til tredjeparter med mindre det foreligger en lovfestet plikt til å videreformidle opplysningene, eller dersom overføringen tjener straffeforfølgning.</p><p>Registrering av den registrerte, med frivillig indikasjon av personopplysninger, er ment å gjøre den behandlingsansvarlige i stand til å tilby det registrerte innhold eller tjenester som kun kan tilbys registrerte brukere på grunn av sakens natur. Registrerte personer står fritt til å endre personopplysningene som er spesifisert under registreringen når som helst, eller få dem fullstendig slettet fra databeholdningen til behandlingsansvarlig.</p><p>Den behandlingsansvarlige skal til enhver tid gi informasjon pr. be hver enkelt registrert om hvilke personopplysninger som er lagret om den registrerte. I tillegg skal den behandlingsansvarlige rette eller slette personopplysninger på forespørsel eller indikasjon fra den registrerte, i den grad det ikke foreligger lovpålagte lagringsforpliktelser. Hele den behandlingsansvarliges ansatte er tilgjengelige for den registrerte i denne forbindelse som kontaktpersoner.</p><p>Nettsiden til {siteName} inneholder informasjon som muliggjør en rask elektronisk kontakt til vår virksomhet, samt direkte kommunikasjon hos oss, som også inkluderer en generell adresse til den såkalte elektroniske posten (e-postadresse). Hvis en registrert person kontakter behandlingsansvarlig via e-post eller via et kontaktskjema, lagres personopplysningene som overføres av den registrerte automatisk. Slike personopplysninger som overføres på frivillig basis av en registrert til den behandlingsansvarlige, lagres med det formål å behandle eller kontakte den registrerte. Det er ingen overføring av disse personopplysningene til tredjeparter.</p><h4 class=\"text-2xl\">Rutinemessig sletting og blokkering av personopplysninger</h4><p>Den behandlingsansvarlige skal behandle og lagre personopplysninger om den registrerte kun for den perioden som er nødvendig for å oppnå formålet med lagring, eller så langt dette er gitt av den europeiske lovgiveren eller andre lovgivere i lover eller forskrifter som den behandlingsansvarlige er underlagt.</p><p >Hvis lagringsformålet ikke er aktuelt, eller hvis en lagringsperiode foreskrevet av den europeiske lovgiveren eller en annen kompetent lovgiver utløper, blir personopplysningene rutinemessig blokkert eller slettet i samsvar med lovkrav.</p><h4 class=\"text -2xl\">Rettighetene til den registrerte</h4><ul class=\"pl-8\"><li><h4 class=\"text-lg\">a) Rett til bekreftelse</h4> <p>Hvert registrerte skal ha rett gitt av den europeiske lovgiveren til å få bekreftelse fra behandlingsansvarlig på hvorvidt personopplysninger om vedkommende blir behandlet eller ikke. Hvis en registrert ønsker å benytte seg av denne bekreftelsesretten, kan han eller hun når som helst kontakte en hvilken som helst ansatt hos behandlingsansvarlig.</p></li><li><h4 class=\"text-lg\">b) Rett til tilgang</h4><p>Hvert registrerte skal ha rett gitt av den europeiske lovgiveren til å få gratis informasjon fra behandlingsansvarlig om hans eller hennes personlige data som er lagret til enhver tid og en kopi av denne informasjonen . Videre gir de europeiske direktivene og forskriftene den registrerte tilgang til følgende informasjon: </p><ul class=\"pl-8 pb-6\"><li>formålene med behandlingen;</li><li>kategoriene av personopplysninger det gjelder;</li><li>mottakerne eller kategoriene av mottakere som personopplysningene har blitt eller vil bli utlevert til, særlig mottakere i tredjeland eller internasjonale organisasjoner;</li><li >der det er mulig, den planlagte perioden som personopplysningene vil bli lagret i, eller, hvis det ikke er mulig, kriteriene som brukes for å bestemme denne perioden;</li><li>eksistensen av retten til å be behandlingsansvarlig retting eller sletting av personopplysninger, eller begrensning av behandling av personopplysninger om den registrerte, eller til å protestere mot slik behandling;</li><li>eksistensen av retten å inngi en klage til en tilsynsmyndighet;</li><li>hvor personopplysningene ikke er samlet inn fra den registrerte, all tilgjengelig informasjon om kilden deres;</li><li>eksistensen av automatiserte beslutninger, inkludert profilering, referert til i artikkel 22(1) og (4) i GDPR og, i det minste i disse tilfellene, meningsfull informasjon om logikken som er involvert, samt betydningen og de forventede konsekvensene av slik behandling for den registrerte.</li></ul><p>Videre skal den registrerte ha rett til å innhente informasjon om hvorvidt personopplysninger overføres til et tredjeland eller til en internasjonal organisasjon. Der dette er tilfellet, skal den registrerte ha rett til å bli informert om passende garantier knyttet til overføringen.</p><p>Hvis en registrert ønsker å benytte seg av denne innsynsretten, kan han eller hun , når som helst, ta kontakt med en hvilken som helst ansatt hos kontrolløren.</p></li><li><h4 class=\"text-lg\">c) Rett til retting</h4><p>Hvert registrerte skal har rett gitt av den europeiske lovgiveren til uten unødig forsinkelse å få retting av unøyaktige personopplysninger om ham eller henne fra behandlingsansvarlig. Med tanke på formålene med behandlingen skal den registrerte ha rett til å få ufullstendige personopplysninger utfylt, inkludert ved å gi en tilleggserklæring.</p><p>Hvis en registrert ønsker å utøve denne retten til retting, kan han eller hun når som helst kontakte enhver ansatt hos den behandlingsansvarlige.</p></li> <li><h4 class=\"text-lg\">d) Rett til sletting (rett til å bli glemt)</h4><p>Hvert registrerte skal ha rett gitt av e europeiske lovgiver for å få fra behandlingsansvarlig sletting av personopplysninger om ham eller henne uten ugrunnet opphold, og behandlingsansvarlig skal ha plikt til å slette personopplysninger uten ugrunnet opphold der ett av følgende grunner gjelder, så lenge behandlingen ikke er nødvendig:</p><ul class=\"pl-8 pb-6\"><li>Personopplysningene er ikke lenger nødvendige i forhold til formålene de ble samlet inn eller på annen måte behandlet for.</li><li>Den registrerte trekker tilbake samtykket som behandlingen er basert på i henhold til punkt (a) i artikkel 6(1) i GDPR, eller punkt (a) i artikkel 9(2) i GDPR, og der det ikke er noe annet rettslig grunnlag for behandlingen.</li><li>Den registrerte protesterer mot behandlingen i henhold til artikkel 21(1) i GDPR og det er ingen overordnede legitime grunner for behandlingen, eller den registrerte motsetter seg behandlingen iht. Artikkel 21(2) i GDPR.</li><li>Personopplysningene er ulovlig behandlet.</li><li>Pers. onale data må slettes for å overholde en juridisk forpliktelse i unions- eller medlemsstatslovgivningen som den behandlingsansvarlige er underlagt.</li><li>Personopplysningene er samlet inn i forhold til tilbudet om informasjonssamfunnstjenester som referert til i artikkel 8(1) i GDPR.</li></ul><p>Hvis en av de nevnte årsakene gjelder, og en registrert ønsker å be om sletting av personopplysninger lagret av {siteName}, kan han eller hun , når som helst, ta kontakt med en hvilken som helst ansatt hos kontrolløren. En ansatt i {siteName} skal umiddelbart sørge for at forespørselen om sletting blir fulgt umiddelbart.</p><p>Hvis den behandlingsansvarlige har offentliggjort personopplysninger og er forpliktet i henhold til artikkel 17(1) til å slette personopplysningene, , under hensyntagen til tilgjengelig teknologi og kostnadene ved implementering, skal ta rimelige skritt, inkludert tekniske tiltak, for å informere andre behandlingsansvarlige som behandler personopplysningene om at den registrerte har bedt om sletting av slike behandlingsansvarlige om eventuelle lenker til, eller kopiering eller replikering av, disse personopplysningene, så langt behandling ikke er nødvendig. En ansatt i {siteName} vil ordne nødvendige tiltak i enkeltsaker.</p></li><li><h4 class=\"text-lg\">e) Rett til begrensning av behandling</h4> <p>Hvert registrerte skal ha rett gitt av den europeiske lovgiveren til å få behandlingsbegrensninger fra behandlingsansvarlig der ett av følgende gjelder:</p><ul class=\"pl-8 pb-6\"><li>Nøyaktigheten av personopplysningene bestrides av den registrerte, i en periode som gjør det mulig for behandlingsansvarlig å verifisere nøyaktigheten av personopplysningene.</li><li>Behandlingen er ulovlig og den registrerte motsetter seg sletting av personopplysningene. data og forespørsler i stedet for begrensning av deres bruk i stedet.</li><li>Den behandlingsansvarlige trenger ikke lenger personopplysningene for formålet med behandlingen, men de kreves av den registrerte for å etablere, utøve eller forsvare rettskrav. </li><li>Den registrerte har protestert mot behandling i henhold til artikkel 21(1) i GDPR i påvente av bekreftelsen om den legitime gr. behandlingsansvarliges forhold overstyrer den registrertes.</li></ul><p>Hvis en av de nevnte betingelsene er oppfylt, og en registrert ønsker å be om begrensning av behandlingen av personopplysninger lagret av { siteName}, kan han eller hun når som helst kontakte en hvilken som helst ansatt hos kontrolløren. Den ansatte i {siteName} vil sørge for begrensning av behandlingen.</p></li><li><h4 class=\"text-lg\">f) Rett til dataportabilitet</h4><p >Hvert registrerte skal ha rett gitt av den europeiske lovgiveren til å motta personopplysningene om ham eller henne, som ble gitt til en behandlingsansvarlig, i et strukturert, vanlig brukt og maskinlesbart format. Han eller hun skal ha rett til å overføre disse opplysningene til en annen behandlingsansvarlig uten hindring fra den behandlingsansvarlige som personopplysningene er gitt til, så lenge behandlingen er basert på samtykke i henhold til bokstav a) i artikkel 6 nr. 1 i GDPR eller punkt (a) i artikkel 9(2) i GDPR, eller på en kontrakt i henhold til punkt (b) i GDPR artikkel 6(1), og behandlingen utføres på automatiserte måter, så lenge behandlingen er ikke nødvendig for å utføre en oppgave utført i allmennhetens interesse eller i utøvelse av offisiell myndighet som er tillagt den behandlingsansvarlige.</p><p>I tillegg, ved å utøve sin rett til dataportabilitet i henhold til artikkel 20(1) i GDPR, skal den registrerte ha rett til å få personopplysninger overført direkte fra en behandlingsansvarlig til en annen, der det er teknisk mulig og når det ikke påvirker andres rettigheter og friheter negativt.</p><p>For å hevde retten til dataportabilitet kan den registrerte når som helst kontakte enhver ansatt i {siteName}.</p></li><li><h4 class=\"text-lg\">g) Rett til å protestere</h4><p>Hvert datasubjekt skal ha rett gitt av den europeiske lovgiveren til når som helst å protestere mot behandling av personopplysninger om ham eller henne, av grunner knyttet til hans eller hennes spesielle situasjon, som er basert på punkt (e) eller (f) i artikkel 6(1) i GDPR. Dette gjelder også for profilering basert på disse bestemmelsene.</p><p>{SiteName} skal ikke lenger behandle personopplysningene i tilfelle innsigelse, med mindre vi kan påvise overbevisende legitime grunner for behandlingen som overstyrer interesser, rettigheter og friheter til den registrerte, eller for etablering, utøvelse eller forsvar av juridiske krav.</p><p>Hvis {siteName} behandler personopplysninger for direkte markedsføringsformål, skal den registrerte ha rett til å protestere når som helst til behandling av personopplysninger om ham eller henne for slik markedsføring. Dette gjelder profilering i den grad det er knyttet til slik direkte markedsføring. Hvis den registrerte protesterer mot {siteName} mot behandlingen for direkte markedsføringsformål, vil {siteName} ikke lenger behandle personopplysningene for disse formålene.</p><p>I tillegg har den registrerte rett til å grunner knyttet til hans eller hennes spesielle situasjon, å protestere mot behandling av personopplysninger om ham eller henne av {siteName} for vitenskapelige eller historiske forskningsformål, eller for statistiske formål i henhold til artikkel 89(1) i GDPR, med mindre behandlingen er nødvendig for å utføre en oppgave utført av hensyn til offentlig interesse.</p><p>For å utøve retten til å protestere, kan den registrerte kontakte enhver ansatt i {siteName}. I tillegg står den registrerte fritt i sammenheng med bruken av informasjonssamfunnstjenester, og til tross for direktiv 2002/58/EC, til å bruke sin rett til å protestere på automatiserte måter ved bruk av tekniske spesifikasjoner.</p></li> <li><h4 class=\"text-lg\">h) Automatisert individuell beslutningstaking, inkludert profilering </h4><p>Hvert registrerte skal ha rett gitt av den europeiske lovgiveren til ikke å være underlagt en avgjørelse basert utelukkende på automatisert behandling, herunder profilering, som gir rettsvirkninger for ham eller henne, eller på lignende måte påvirker ham eller henne i vesentlig grad, så lenge avgjørelsen (1) ikke er nødvendig for å inngå eller oppfylle en kontrakt mellom den registrerte og en behandlingsansvarlig, eller (2) ikke er autorisert av unions- eller medlemsstatslovgivningen som den behandlingsansvarlige er underlagt og som også fastsetter passende tiltak for å ivareta den registrertes rettigheter og friheter og legitime interesser, eller (3) er ikke basert på den registrertes eksplisitte c onsent.</p><p>Hvis beslutningen (1) er nødvendig for å inngå eller oppfylle en kontrakt mellom den registrerte og en behandlingsansvarlig, eller (2) den er basert på den registrertes uttrykkelige samtykke, {siteName} skal iverksette passende tiltak for å ivareta den registrertes rettigheter og friheter og legitime interesser, i det minste retten til å få menneskelig inngripen fra den behandlingsansvarliges side, for å uttrykke sitt synspunkt og bestride avgjørelsen.</p><p>Hvis den registrerte ønsker å utøve rettighetene angående automatisert individuell beslutningstaking, kan han eller hun når som helst kontakte enhver ansatt i {siteName}.</p></li><li> <h4 class=\"text-lg\">i) Rett til å trekke tilbake samtykke til databeskyttelse</h4><p>Hvert registrerte skal ha rett gitt av den europeiske lovgiveren til å trekke tilbake sitt samtykke til behandling av hans eller hennes hennes personopplysninger når som helst.</p><p>Hvis den registrerte ønsker å utøve retten til å trekke tilbake samtykket, kan han eller hun når som helst, kontakt en hvilken som helst ansatt i {siteName}.</p></li></ul><h4 class=\"text-2xl\">Juridisk grunnlag for behandlingen</h4><p>Art. 6(1) lit. en GDPR fungerer som det juridiske grunnlaget for behandlingsoperasjoner som vi innhenter samtykke til for et bestemt behandlingsformål. Dersom behandlingen av personopplysninger er nødvendig for å oppfylle en kontrakt som den registrerte er part i, slik tilfellet er for eksempel når behandlingsoperasjoner er nødvendige for levering av varer eller for å yte andre tjenester, er behandlingen basert på artikkel 6 nr. 1 lit. b GDPR. Det samme gjelder slike behandlingsoperasjoner som er nødvendige for å gjennomføre pre-kontraktuelle tiltak, for eksempel ved henvendelser angående våre produkter eller tjenester. Er vårt selskap underlagt en juridisk forpliktelse som krever behandling av personopplysninger, for eksempel for oppfyllelse av skatteforpliktelser, er behandlingen basert på art. 6(1) lit. c GDPR.I sjeldne tilfeller kan behandling av personopplysninger være nødvendig for å beskytte de vitale interessene til den registrerte eller en annen fysisk person. Dette vil for eksempel være tilfelle hvis en besøkende ble skadet i vårt selskap og hans navn, alder, helseforsikringsdata eller annen viktig informasjon måtte videreformidles til en lege, sykehus eller annen tredjepart. Da ville behandlingen være basert på art. 6(1) lit. d GDPR. Endelig kan behandlingsoperasjoner baseres på artikkel 6 nr. 1 lit. f GDPR. Dette rettslige grunnlaget brukes til behandlingsoperasjoner som ikke er dekket av noen av de ovennevnte juridiske grunnlagene, dersom behandlingen er nødvendig for formålet med de legitime interessene som følges av vårt selskap eller av en tredjepart, med mindre slike interesser overstyres av interessene. eller grunnleggende rettigheter og friheter til den registrerte som krever beskyttelse av personopplysninger. Slike behandlingsoperasjoner er spesielt tillatt fordi de er spesifikt nevnt av den europeiske lovgiveren. Han mente at det kunne antas en berettiget interesse dersom den registrerte er klient hos den behandlingsansvarlige (betraktning 47 setning 2 GDPR).</p><h4 class=\"text-2xl\">De legitime interessene som den behandlingsansvarlige forfølger. eller av en tredjepart </h4><p>Hvor behandlingen av personopplysninger er basert på artikkel 6(1) lit. f GDPR er vår legitime interesse å utføre virksomheten vår til fordel for alle våre ansattes og aksjonærers velvære.</p><h4 class=\"text-2xl\">Periode for hvilken personopplysningene vil være lagret</h4><p>Kriterier som brukes for å bestemme perioden for lagring av personopplysninger er den respektive lovbestemte oppbevaringsperioden. Etter utløpet av denne perioden slettes de tilsvarende dataene rutinemessig, så lenge det ikke lenger er nødvendig for oppfyllelse av kontrakten eller igangsetting av en kontrakt.</p><h4 class=\"text-2xl\"> Utlevering av personopplysninger som lovfestet eller kontraktsmessig krav; Krav som er nødvendig for å inngå en kontrakt; Den registrertes plikt til å gi personopplysningene; mulige konsekvenser av unnlatelse av å gi slike data</h4><p>Vi presiserer at utlevering av personopplysninger delvis er lovpålagt (f.eks. skatteregler) eller også kan følge av kontraktsmessige bestemmelser (f.eks. opplysninger om avtalepartner). Noen ganger kan det være nødvendig å inngå en kontrakt som den registrerte gir oss personopplysninger, som senere må behandles av oss. Den registrerte er for eksempel forpliktet til å gi oss personopplysninger når selskapet vårt signerer en kontrakt med ham eller henne. Manglende utlevering av personopplysningene ville ha den konsekvensen at kontrakten med den registrerte ikke kunne inngås. Før personopplysninger oppgis av den registrerte, må den registrerte kontakte enhver ansatt. Arbeidstakeren avklarer for den registrerte om utlevering av personopplysningene er pålagt ved lov eller kontrakt eller er nødvendig for inngåelse av kontrakten, om det er en forpliktelse til å gi personopplysningene og konsekvensene av manglende levering av personopplysningene data.</p><h4 class=\"text-2xl\">Eksistensen av automatiserte beslutninger</h4><p>Som ansvarlig selskap bruker vi ikke automatisk beslutningstaking eller profilering.</p>"
+    }
+  }
+}

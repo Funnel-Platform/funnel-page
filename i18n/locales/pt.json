@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "title": "{siteName} ™ // REAL Official DOT {siteTLD} [2025] ©",
+    "description": "Registre-se no DOT oficial REAL {siteTLD} - todos os outros sites são FAKE. {siteName} é uma plataforma de negociação que usa IA para prever os movimentos do mercado e capitalizá-los."
+  },
+  "landing-pages": {
+    "variant-a": {
+      "create-account": "Cria a tua conta gratuita",
+      "points": {
+        "p-1": "Gerenciador de conta pessoal gratuito",
+        "p-2": "Nenhuma experiência de negociação necessária",
+        "p-3": "Comece em 15 minutos",
+        "p-1-alt-1": "Gerente de conta pessoal licenciado pela Organização Reguladora de Investimentos do Canadá (CIRO)",
+        "p-2-alt-1": "Acesso gratuito para todos os residentes canadenses, basta verificar sua identidade na chamada de boas-vindas",
+        "p-3-alt-1": "Comece a ganhar em menos de 15 minutos",
+        "p-1-alt-2": "Grátis para todos os cidadãos alemães",
+        "p-2-alt-2": "Gerente de conta pessoal gratuito aprovado por Elon Musk",
+        "p-3-alt-2": "Retorno garantido do investimento em poucos minutos"
+      },
+      "steps": "Etapa {step} de 2",
+      "right_column": {
+        "title-alt-1": "Investimento inteligente que garante o futuro da classe trabalhadora do Canadá",
+        "sub-title-alt-1": "Mark Carney, Primeiro-Ministro do Canadá",
+        "content-alt-1": "O {siteName} é um aplicativo que criamos para um país de construtores. Esta iniciativa fechará a lacuna de riqueza entre os super-ricos do Canadá e a classe trabalhadora, permitindo que os canadenses comuns dobrem e, em alguns casos, tripliquem seus salários quase da noite para o dia. Temos orgulho de anunciar que o governo federal garantiu todos os depósitos feitos por residentes canadenses, o que significa que seus fundos estão seguros. O {siteName} erradicará a pobreza em todo o nosso país e restaurará uma forte classe média canadense, onde todos os canadenses poderão ter uma casa própria e se aposentar antes de envelhecer. Exorto todos os canadenses a aproveitarem esta iniciativa que criamos para unir esta grande nação.",
+        "title-alt-2": "Investimentos inteligentes que transformam a classe trabalhadora em milionários da noite para o dia",
+        "sub-title-alt-2": "Elon Musk, fundador e CEO da {siteName}",
+        "content-alt-2": "{siteName} é a obra da minha vida. Criei esta plataforma com um objetivo simples: fechar a lacuna de riqueza entre os super-ricos e os pobres. Tenho orgulho de dizer que este é o meu maior sucesso até agora. Venha e veja por si mesmo, sem risco, porque garanto todos os depósitos com o meu próprio dinheiro."
+      }
+    }
+  },
+  "components": {
+    "attention-banner": {
+      "label": "ATENÇÃO: Demanda de mídia muito alta, inscrições encerrando em{time}"
+    },
+    "logo-header": {
+      "available-to-traders": "Agora disponível em<br />{usersCountry}"
+    },
+    "splash": {
+      "video-id": "319904948",
+      "header": "Crie sua conta <span class=\"hidden sm:inline\">{siteName}</span> <span class=\"hidden sm:inline\">Hoje</span>",
+      "sub-header": "E você pode alcançar sua <span class=\"text-yellow-300\">liberdade financeira...</span>",
+      "points": {
+        "p-1": "Gerenciador de conta pessoal gratuito",
+        "p-2": "Nenhuma experiência de negociação necessária",
+        "p-3": "Comece em 15 minutos"
+      },
+      "step-1": {
+        "line-1": "Disponibilidade Limitada",
+        "line-2": "Contas Restantes!"
+      },
+      "step-2": "Etapa 2 de 2 - Ativação da conta!"
+    },
+    "form-capture": {
+      "first_name": "Primeiro nome",
+      "last_name": "Sobrenome",
+      "email": "O email",
+      "phone_number": "Número de telefone",
+      "button": {
+        "step-1": "Registrar agora",
+        "step-2": "Ativar conta"
+      }
+    },
+    "intro-text": {
+      "header": "Comece a Ganhar Dinheiro com {siteName}",
+      "body-1": "{siteName} é um programa exclusivo com acesso a tecnologia proprietária, dando ao nosso grupo limitado de membros uma vantagem competitiva sem precedentes para acumular silenciosamente enormes fortunas. Apenas habilidades básicas de digitação são necessárias. Comece hoje e você poderá para ver o dinheiro fluir lentamente para sua conta, minuto após minuto!",
+      "body-2": "Certifique-se de registrar-se no site oficial REAL, verifique o endereço do site na parte superior para garantir que esteja escrito \"{siteDomain}\". Apenas o ponto.{siteTLD} sem palavras adicionais ou hífens no endereço."
+    },
+    "as-seen-on": "Como visto em",
+    "testimonials": {
+      "header": {
+        "line-1": "Depoimentos reais de",
+        "line-2": "nossos usuários"
+      },
+      "profit": "Lucro",
+      "testimonials": {
+        "1": {
+          "image": "default1.jpg",
+          "name": "James B",
+          "location": "Amsterdam",
+          "profit": 13853,
+          "text": "Sinto-me verdadeiramente abençoado por ter encontrado este programa. Nunca imaginei que seria tão fácil ganhar dinheiro na internet e o que tem sido ainda melhor do que ganhar dinheiro é que conheci algumas pessoas realmente interessantes ao longo do caminho ."
+        },
+        "2": {
+          "image": "default2.jpg",
+          "name": "Stacey J",
+          "location": "Frankfurt",
+          "profit": 9126,
+          "text": "Estou trabalhando nisso há pouco mais de 30 dias. Finalmente tenho minha própria liberdade financeira! Obrigado, {siteName}!"
+        },
+        "3": {
+          "image": "default3.jpg",
+          "name": "Anton L",
+          "location": "Paris",
+          "profit": 43300,
+          "text": "Eu costumava trabalhar como gerente de restaurante e fui apresentado a este programa por um de meus clientes regulares. Quando deixei meu emprego para trabalhar em tempo integral, todos os meus colegas pensaram que eu era louco. Melhor {currencySymbol }250 de investimento de sempre!"
+        },
+        "4": {
+          "image": "default4.jpg",
+          "name": "Jane M",
+          "location": "Stockholm",
+          "profit": 11463,
+          "text": "Eu estava em casa mãe, agora meus filhos cresceram e saíram de casa... Eu estava tão entediado e realmente lutando para me motivar a fazer qualquer coisa. Graças a {siteName} eu sinto que Sou 20 anos mais jovem e mal posso esperar para acordar de manhã para verificar minha conta. Achei que minha vida tivesse acabado. Agora às vezes estou ganhando {currencySymbol}250 em um dia!"
+        }
+      }
+    },
+    "reasons": {
+      "1": {
+        "icon": "brtarget-icon",
+        "title": "Resultados precisos",
+        "text": "Resultados comprovados com nível de precisão e desempenho de 99,4%. Um dos programas de melhor desempenho na indústria. Nossos membros de todo o mundo confiam em nós para dobrar, triplicar e quadruplicar seus investimentos diariamente."
+      },
+      "2": {
+        "icon": "brtechnology-icon",
+        "título": "Software superior",
+        "text": "Nosso software proprietário foi construído usando programação avançada e métricas projetadas pelos melhores matemáticos. O programa de software está à frente dos mercados financeiros em 0,01 segundos. Esse 'intervalo de tempo' torna o programa de computador o aplicativo de negociação mais consistente no planeta."
+      },
+      "3": {
+        "icon": "braward-icon",
+        "title": "Programa premiado",
+        "text": "{siteName} ganhou vários prêmios no setor de serviços financeiros. Não gostamos de nos gabar, então preferimos deixar você ver os resultados por si mesmo. Sem dúvida, será o melhor investimento que você jamais farei."
+      }
+    },
+    "results-table": {
+      "button": "Inscreva-se agora!",
+      "header": "O que torna a computação quântica tão boa para investir?",
+      "p-1": "Esta é a primeira máquina de computação quântica do mundo; ao contrário do seu PC doméstico, este computador é inteligente - ele toma milhares de 'decisões' simultâneas ao mesmo tempo. Seu cérebro pensa um pensamento por vez, em uma sequência. Imagine se você pudesse ter milhares de pensamentos ao mesmo tempo, cada um tão claro quanto o outro. Isso é computação quântica.",
+      "p-2": "Usando esse poder, nossa máquina de computação quântica ajudará você a fazer negócios mais inteligentes e ganhar mais dinheiro do que você pensou ser possível. Melhor ainda, ele foi projetado para que você possa ganhar dinheiro e ajudar os outros enquanto lucra!",
+      "p-3": "Ele encontra negociações analisando os diferenciais entre os preços das ações a cada nanossegundo em que os mercados de ações estão ativos (e faz previsões mesmo quando os mercados estão fechados, para que você saiba o que provavelmente acontecerá quando eles reabrirem ). Seu computador atual (e o de todos os outros) não consegue igualar as velocidades de decisão deste novo sistema.",
+      "p-4": "Inscreva-se e seja um dos poucos exclusivos usando esta tecnologia (antes que todo mundo fique sabendo!)"
+    },
+    "partners": {
+      "header": "Parceiros"
+    },
+    "steps": {
+      "header": "Como funciona",
+      "button": "Abra uma conta gratuita",
+      "step": "Etapa",
+      "steps": {
+        "1": {
+          "icon": "brstep1-icon",
+          "title": "Registro",
+          "text": "Preencha o formulário neste site para registrar-se para acessar o programa e abrir sua conta de negociação gratuita. Se você for aceito, receberá acesso instantâneo à sua conta."
+        },
+        "2": {
+          "icon": "brstep2-icon",
+          "title": "Financiar sua conta",
+          "text": "Todos nós conhecemos o ditado \"dinheiro ganha dinheiro\" - e a realidade é que esta frase infelizmente é muito verdadeira! Como qualquer negócio, você precisa de capital de giro para começar. Sugerimos que você deposite {currencySymbol}250 na sua conta."
+        },
+        "3": {
+          "icon": "brstep3-icon",
+          "title": "Concluir",
+          "text": "Trabalhe diretamente com seu gerente de conta pessoal e comece a lucrar instantaneamente. É muito importante que você insira seu número de telefone correto para que seu gerente de conta pessoal possa entrar em contato com você e ajudá-lo a lucrar."
+        }
+      }
+    },
+    "faqs": {
+      "header": "Perguntas frequentes",
+      "faqs": {
+        "1": {
+          "title": "Que tipo de resultados posso esperar?",
+          "text": "A maioria dos membros do programa normalmente lucra de {currencySymbol}500 a {currencySymbol}2000 diariamente. No entanto, os usuários que gastam mais de 5 horas por dia ganham muito mais."
+        },
+        "2": {
+          "title": "Quantas horas por dia eu trabalho no programa?",
+          "text": "Você não é obrigado a trabalhar constantemente, é melhor trabalhar de 10 a 20 minutos por dia e fazer check-in de vez em quando para ver como estão suas negociações."
+        },
+        "3": {
+          "title": "Posso trabalhar do meu celular?",
+          "text": "Sim, os aplicativos de negociação são todos compatíveis com dispositivos móveis. Você pode trabalhar de qualquer lugar do mundo, desde que tenha uma conexão com a Internet."
+        },
+        "4": {
+          "title": "Quanto custa o aplicativo?",
+          "text": "Atualmente, o acesso ao programa é GRATUITO. Você é obrigado a depositar/investir {currencySymbol}250 para ativar sua conta. Este é o seu dinheiro e você não precisa usá-lo todo de uma vez. Lembre-se, você pode retire seu capital a qualquer momento."
+        },
+        "5": {
+          "title": "Existe alguma taxa?",
+          "text": "O aplicativo recebe uma porcentagem muito pequena de seus lucros. É assim que o programa gera receita e paga o salário do gerente de contas e outras despesas operacionais."
+        },
+        "6": {
+          "title": "Quanto tempo leva para começar a ganhar dinheiro?",
+          "text": "Você pode começar a ganhar dinheiro instantaneamente. Deposite {currencySymbol}250 em sua conta imediatamente, então você terá prioridade e seu Gerente de Conta ligará para você em 30 minutos (Seg-Sex)."
+        }
+      }
+    },
+    "advisors": {
+      "jeff": {
+        "by-line": "Empreendedor, investidor e filantropo em tecnologia",
+        "bio": "A computação quântica é o futuro. Não estou exagerando quando digo que vai mudar tudo. Este é o início da computação quântica; poucas pessoas a conhecem, o que significa que muito poucos a estão usando. Os poucos ou seja, estão tomando decisões incrivelmente sábias (e lucrativas)."
+      },
+      "bill": {
+        "by-line": "magnata dos negócios, investidor, autor, filantropo e humanitário",
+        "bio": "Sei que Elon gastou $ 3 bilhões de seu próprio dinheiro para financiar este programa. Tiro o chapéu para ele por isso - são $ 3 bilhões de seu próprio dinheiro para financiar um futuro melhor para todos e para ajudar os outros obter lucros que o ajudarão a fazer isso!"
+      }
+    },
+    "lower-cta": {
+      "button": "Registrar agora"
+    },
+    "footer-links": {
+      "home": "Casa",
+      "privacy-policy": "Política de Privacidade",
+      "cookie-policy": "Política de Cookies",
+      "gdpr": "Proteção de Dados GDPR"
+    }
+  },
+  "pages": {
+    "homepage": {
+      "button": "Comece hoje",
+      "splash": {
+        "heading": "Negociação lucrativa começa com conhecimento",
+        "list": [
+          "Gerente de Conta Pessoal e Mentor",
+          "Acessar Tecnologia Proprietária",
+          "Nenhuma Experiência Necessária"
+        ]
+      },
+      "knowledge": {
+        "heading": "Um investimento em conhecimento paga os melhores juros",
+        "p-1": "Obtenha acesso a verdadeiros mestres criptográficos com nosso programa de orientação individual. Invista apenas £ 250 em sua conta de negociação e receba seu próprio gerente de conta pessoal experiente."
+      },
+      "track-record": {
+        "heading": "Histórico comprovado",
+        "p-1": "Desde que a primeira criptomoeda foi criada há 11 anos, estamos na vanguarda.",
+        "points": [
+          {
+            "icon": "shield-1",
+            "text": "Profissionais qualificados com experiência real em negociação em múltiplas plataformas."
+          },
+          {
+            "icon": "crypto",
+            "text": "Fique tranquilo com os sistemas de segurança de última geração implantados globalmente."
+          },
+          {
+            "icon": "stock",
+            "text": "Tecnologias de negociação proprietárias projetadas para oferecer a vantagem de que você precisa."
+          }
+        ]
+      },
+      "global-footprint": {
+        "heading": "Pegada global",
+        "points": [
+          {
+            "icon": "chat-group",
+            "heading": "10+",
+            "text": "Vários idiomas suportados"
+          },
+          {
+            "icon": "globe",
+            "heading": "25+",
+            "text": "Disponível em mais de 25 países"
+          },
+          {
+            "icon": "transaction",
+            "heading": "500+",
+            "text": "Mais de 500 milhões de euros negociados"
+          },
+          {
+            "icon": "bitcoin",
+            "heading": "100+",
+            "text": "Centenas de moedas integradas"
+          }
+        ]
+      },
+      "reinvent": {
+        "heading": "Não reinvente a roda, apenas realinhe-a",
+        "p-1": "Acreditamos que você não precisa reinventar a roda para ter sucesso. O que você precisa fazer é agir! Aplique-se agora e aprenda com os mestres."
+      },
+      "truth-never-lies": {
+        "heading": "A verdade nunca mente",
+        "p-1": "\"Educação não é a chave para o sucesso. Experiência, sabedoria e conhecimento são as chaves para o sucesso\"",
+        "points": [
+          {
+            "icon": "knowledge",
+            "heading": "Material de treinamento",
+            "text": "Guias e vídeos úteis e de alta qualidade"
+          },
+          {
+            "icon": "professional",
+            "heading": "Mentoria 1 em 1",
+            "text": "Profissionais experientes e qualificados"
+          }
+        ]
+      },
+      "time-waits": {
+        "heading": "O tempo não espera por ninguém",
+        "points": [
+          {
+            "icon": "trade",
+            "heading": "Decisões",
+            "text": "Profissionais qualificados com experiência real em negociação em várias plataformas."
+          },
+          {
+            "icon": "gantt-chart",
+            "heading": "Valor do tempo",
+            "text": "Comece agora e veja seus retornos crescerem. Tempo é dinheiro, não o desperdice."
+          },
+          {
+            "icon": "annual-calendar-page",
+            "heading": "Agende agora",
+            "text": "Registre-se hoje e marque sua consulta individual em minutos."
+          },
+          {
+            "icon": "shrink",
+            "heading": "Direção",
+            "text": "Nossos especialistas irão apontar você na direção certa e guiá-lo ao longo do caminho do sucesso."
+          },
+          {
+            "icon": "insight",
+            "heading": "Apoiar",
+            "text": "Seu gerente de conta pessoal o ajudará durante todo o processo."
+          }
+        ]
+      }
+    },
+    "questions": {
+      "title": "Conta Pendente de Verificação...",
+      "intro": {
+        "p-1": "Informações de importação!!",
+        "p-2": "Você deve enviar as 3 perguntas curtas a seguir, para que possamos atribuir o <u>Gerente de conta pessoal</u> que melhor se adapta ao seu perfil."
+      },
+      "form": {
+        "question-1": {
+          "label": "Pergunta 1: Gênero",
+          "placeholder": "Por favor selecione",
+          "genders": {
+            "male": "Macho",
+            "female": "Fêmea",
+            "prefer-not-to-say": "Prefiro não dizer"
+          }
+        },
+        "question-2": {
+          "label": "Questão 2: Faixa etária",
+          "placeholder": "Por favor selecione"
+        },
+        "question-3": {
+          "label": "Questão 3: Capital de Investimento",
+          "p-1": "Todos nós conhecemos o ditado <i>\"dinheiro ganha dinheiro\"</i> - e a realidade é que, infelizmente, essa frase é muito verdadeira!",
+          "p-2": "O que as pessoas não te contam é que, se você conseguir multiplicar seus lucros em um curto período de tempo, um pouco de dinheiro pode se transformar em muito dinheiro muito rapidamente!",
+          "p-3": "Selecione a quantidade de dinheiro que você está disposto a investir.",
+          "placeholder": "Por favor, selecione"
+        },
+        "button": "Prosseguir"
+      }
+    },
+    "welcome_auto_redirect": {
+      "title": "Aguarde enquanto efetuamos login em sua conta..."
+    },
+    "welcome": {
+      "title": "Conta Pendente... Etapa Final...",
+      "intro": {
+        "p-1": "Esta é a ETAPA FINAL mais importante para configurar sua conta",
+        "highlight": "então preste muita atenção aqui",
+        "p-2": "como você precisa",
+        "p-3": "certifique-se de que seu sistema está configurado corretamente."
+      },
+      "phone-call": {
+        "heading": "Configuração e verificação de chamada telefônica",
+        "p-1": "Neste programa (como você viu), levamos a segurança muito a sério e para verificar se você é uma pessoa real e validar sua conta, um de nossos <strong>especialistas em inicialização</strong > ligará para você nos próximos 30 minutos. (Seg-Sex).",
+        "p-2": "Se você não estiver disponível, por favor, atenda a ligação e agende um horário mais conveniente."
+      },
+      "self-activation": {
+        "heading": "Autoativação e como funciona",
+        "p-1": "Na próxima página você será enviado ao nosso parceiro cuidadosamente selecionado para <span class=\"font-bold\">Ativar</span> sua conta depositando sua pequena start-up capital.",
+        "p-2": "O dinheiro que você deposita é <span class=\"font-bold\">seu dinheiro</span> e você não precisa usar tudo de uma vez, você pode começar com pequenas quantias para veja como funciona o sistema e lembre-se, você pode sacar seu capital a qualquer momento.",
+        "p-3": "Se você não tem certeza de como <span class=\"font-bold\">Ativar automaticamente</span> sua conta, acesse sua conta abaixo e aguarde um de nossos especialistas para ligar para você nos próximos 30 minutos. (Seg-Sex)"
+      },
+      "go-to-account": "Ir para a conta",
+      "recommended-broker": {
+        "título": "Seu corretor recomendado",
+        "p-1": "Nossa equipe selecionou cuidadosamente esta conta de negociação para você. Se você tiver problemas para visualizar a página, pode clicar",
+        "p-2": "e o aplicativo de negociação será aberto em uma nova janela."
+      }
+    },
+    "welcome_two_step": {
+      "step-1": {
+        "title": "Conta Pendente... Etapa Final...",
+        "p-1": "Clique neste botão verde para verificar e ativar.",
+        "button": "Clique aqui para verificar agora"
+      },
+      "step-2": {
+        "title": "Conta verificada... Informações importantes!!",
+        "sub-title": "Você PRECISA ler isso agora."
+      }
+    },
+    "welcome_received": {
+      "title": "Conta Pendente... Informação Importante!!",
+      "sub-title": "Você PRECISA ler isso agora.",
+      "heading": "Configuração e verificação de chamada telefônica",
+      "p-1": "Infelizmente nosso escritório está fechado agora, seu Gerente de Conta Pessoal <u>te ligará de manhã</u> ou o mais tardar antes do fechamento do próximo dia útil.",
+      "p-2": "Sua conta permanecerá pendente até que você seja verificado.",
+      "p-3": "<u>As contas não verificadas dentro de 24 horas (segunda a sexta) serão excluídas</u> e a próxima veiculação disponível será emitida para a próxima conta na fila.",
+      "p-4": "Contas criadas no final de semana serão verificadas nas segundas-feiras."
+    },
+    "privacy": {
+      "title": "Política de privacidade",
+      "content": "<p>Estamos muito satisfeitos por você ter demonstrado interesse em nossa empresa. A proteção de dados é uma prioridade particularmente alta para o gerenciamento do {siteName}. O uso das páginas da Internet do {siteName} é possível sem qualquer indicação de dados pessoais; no entanto, se um titular de dados quiser usar serviços empresariais especiais através do nosso site, o processamento de dados pessoais pode se tornar necessário. Se o processamento de dados pessoais for necessário e não houver base legal para tal processamento, geralmente obtemos o consentimento do titular dos dados.</p><p>O processamento de dados pessoais, como nome, endereço, endereço de e-mail ou número de telefone de um titular de dados, deve sempre estar de acordo com os Dados Gerais Regulamento de Proteção (GDPR) e de acordo com os regulamentos de proteção de dados específicos do país aplicáveis ​​ao {siteName}. Por meio desta declaração de proteção de dados, nossa empresa gostaria de informar o público em geral sobre a natureza, escopo e finalidade de t os dados pessoais que coletamos, usamos e processamos. Além disso, os titulares dos dados são informados, por meio desta declaração de proteção de dados, dos direitos aos quais têm direito.</p><p>Como controlador, {siteName} implementou inúmeras medidas técnicas e organizacionais para garantir a proteção mais completa dos dados pessoais processados ​​por meio deste site. No entanto, as transmissões de dados baseadas na Internet podem, em princípio, ter falhas de segurança, portanto, a proteção absoluta pode não ser garantida. Por esse motivo, todo titular de dados é livre para transferir dados pessoais para nós por meios alternativos, por ex. por telefone.</p><h4 class=\"text-2xl\">1. Definições</h4><p>A declaração de proteção de dados do {siteName} é baseada nos termos usados ​​pelo legislador europeu para a adoção do Regulamento Geral de Proteção de Dados (GDPR). Nossa declaração de proteção de dados deve ser legível e compreensível para o público em geral, bem como para nossos clientes e parceiros de negócios. Para garantir isso, gostaríamos de primeiro explicar a terminologia utilizada.</p><p>Nesta declaração de proteção de dados, usamos, entre outros, os seguintes termos: </p><ul class=\"pl-8 \"><li><h4 class=\"text-lg\">a) Dados pessoais</h4><p>Dados pessoais significa qualquer informação relativa a uma pessoa singular identificada ou identificável (\"titular dos dados\") . É considerada identificável a pessoa singular que possa ser identificada, direta ou indiretamente, designadamente por referência a um identificador como o nome, número de identificação, dados de localização, identificador online ou a um ou mais fatores específicos das condições físicas, fisiológicas, identidade genética, mental, económica, cultural ou social dessa pessoa singular.</p><h4 class=\"text-lg\">b) Titular dos dados</h4><p>Titular dos dados é qualquer pessoa singular identificada ou identificável pessoa, cujos dados pessoais são tratados pelo controlador responsável pelo tratamento.</p><h4 class=\"text-lg\">c) Tratamento</h4><p>O tratamento é qualquer operação ou conjunto de operações que seja realizada em dados pessoais ou em conjuntos de dados pessoais, seja ou não por meios automatizados, como coleta, registro, organização, estruturação, armazenamento, adaptação ou alteração, recuperação, consulta, uso, divulgação por transmissão, disseminação ou disponibilização de outra forma , alinhamento ou combinação, restrição, apagamento ou destruição. </p><h4 class=\"text-lg\">d) Restrição de processamento</h4><p>Restrição de processamento é a marcação de dados pessoais armazenados com o objetivo de limitar seu processamento no futuro.< /p><h4 class=\"text-lg\">e) Criação de perfil</h4><p>Criação de perfil significa qualquer forma de processamento automatizado de dados pessoais que consiste no uso de dados pessoais para avaliar certos aspectos pessoais relacionados a um pessoa física, em particular para analisar ou prever aspectos relativos ao desempenho dessa pessoa física no trabalho, situação econômica, saúde, preferências pessoais, interesses, confiabilidade, comportamento, localização ou movimentos.</p><h4 class=\"text-lg\">f) Pseudonimização</h4><p>Pseudonimização é o processamento de dados pessoais de forma que os dados pessoais não possam mais ser atribuídos a um titular de dados específico sem o uso de informações adicionais, desde que essas informações adicionais sejam mantidos separadamente e estão sujeitos a medidas técnicas e organizacionais para garantir que os dados pessoais não são atribuídos a pessoa singular identificada ou identificável.</p><h4 class=\"text-lg\">g) Responsável pelo tratamento ou responsável pelo tratamento </h4><p>Responsável pelo tratamento ou responsável pelo tratamento é a pessoa singular ou coletiva, autoridade pública, agência ou outro organismo que, isoladamente ou em conjunto com outros, determine as finalidades e os meios de tratamento dos dados pessoais; quando as finalidades e os meios de tal processamento forem determinados pela legislação da União ou do Estado-Membro, o controlador ou os critérios específicos para sua nomeação podem ser estabelecidos pela legislação da União ou do Estado-Membro.</p><h4 class=\"text-lg \">h) Processador</h4><p>O processador é uma pessoa física ou jurídica, autoridade pública, agência ou outro órgão que processa dados pessoais em nome do controlador.</p><h4 class=\"text- lg\">i) Destinatário</h4><p>Destinatário é a pessoa singular ou colectiva, autoridade pública, agência ou outro organismo, a quem são divulgados os dados pessoais, sejam eles terceiros ou não. No entanto, as autoridades públicas que possam receber dados pessoais no âmbito de um determinado inquérito em conformidade com o direito da União ou do Estado-Membro não são consideradas destinatários; o processamento desses dados por essas autoridades públicas deve estar em conformidade com as regras de proteção de dados aplicáveis ​​de acordo com as finalidades do processamento.</p><h4 class=\"text-lg\">j) Terceiros</h4 ><p>Terceiro é uma pessoa física ou jurídica, autoridade pública, agência ou órgão diferente do titular dos dados, controlador, processador e pessoas que, sob a autoridade direta do controlador ou processador, estão autorizadas a processar dados pessoais.< /p><h4 class=\"text-l\">k) Consentimento</h4><p>Consentimento do titular dos dados é qualquer indicação dada livremente, específica, informada e inequívoca da vontade do titular dos dados pela qual ele ou ela, por uma declaração ou por uma ação afirmativa clara, significa que concorda com o processamento de dados pessoais relacionados a ele ou ela.</p></li></ul><h4 class=\"text-2xl\"> 2. Nome e endereço do controlador</h4><p>O controlador para fins do Regulamento Geral de Proteção de Dados (GDPR), outras leis de proteção de dados aplicáveis ​​nos estados membros da União Europeia e outras disposições relacionadas à proteção de dados é: </ p><p>{siteName}</p><p>Site: {siteDomain}</p>"
+    },
+    "cookie": {
+      "title": "Política de Cookies",
+      "content": "<p>As páginas da Internet do {siteName} usam cookies. Cookies são arquivos de texto armazenados em um sistema de computador por meio de um navegador da Internet.</p><p>Muitos sites e servidores da Internet usam cookies. Muitos os cookies contêm o chamado ID do cookie. Um ID do cookie é um identificador exclusivo do cookie. Consiste em uma cadeia de caracteres através da qual as páginas e servidores da Internet podem ser atribuídos ao navegador da Internet específico no qual o cookie foi armazenado. Isso permite que a Internet visitada sites e servidores para diferenciar o navegador individual do titular dos dados de outros navegadores da Internet que contêm outros cookies. Um navegador da Internet específico pode ser reconhecido e identificado usando o ID de cookie exclusivo.</p><p>Através do uso de cookies, o {siteName} pode fornecer aos usuários deste site serviços mais amigáveis ​​que não seriam possíveis sem a configuração de cookies.</p><p>Por meio de um cookie, as informações e ofertas em nosso site podem ser otimizadas com o usuário em mente. Os cookies permitem nós, como mencionado anteriormente, para reconhecer os usuários do nosso site. O objetivo deste reconhecimento é tornar mais fácil para os usuários utilizar nosso site. O usuário do site que usa cookies, por ex. não tem de introduzir dados de acesso de cada vez que acede ao site, porque este é assumido pelo site, ficando assim o cookie armazenado no sistema informático do utilizador. Outro exemplo é o cookie de um carrinho de compras numa loja online. A loja online lembra os artigos que um cliente colocou no carrinho de compras virtual através de um cookie.</p><p>O titular dos dados pode, a qualquer momento, impedir a configuração de cookies através do nosso site por meio de uma configuração correspondente do navegador de Internet utilizado, podendo assim negar permanentemente a configuração de cookies. Além disso, os cookies já definidos podem ser excluídos a qualquer momento por meio de um navegador da Internet ou de outros programas de software. Isso é possível em todos os navegadores de Internet populares. Se o titular dos dados desativar a configuração de cookies no navegador de Internet utilizado, nem todas as funções do nosso site podem ser totalmente utilizáveis.</p>"
+    },
+    "gdpr": {
+      "title": "GDPR",
+      "content": "<h4 class=\"text-2xl\">Coleta de dados e informações gerais</h4><p>O site do {siteName} coleta uma série de dados e informações gerais quando um titular de dados ou sistema automatizado chama o local na rede Internet. Esses dados e informações gerais são armazenados nos arquivos de log do servidor. Coletados podem ser (1) os tipos e versões do navegador usados, (2) o sistema operacional usado pelo sistema de acesso, (3) o site a partir do qual um sistema de acesso chega ao nosso site (os chamados referenciadores), (4) o sub -websites, (5) a data e hora de acesso ao site da Internet, (6) um endereço de protocolo da Internet (endereço IP), (7) o provedor de serviços de Internet do sistema de acesso e (8) quaisquer outros dados e informações que podem ser usadas em caso de ataques aos nossos sistemas de tecnologia da informação.</p><p>Ao usar esses dados e informações gerais, o {siteName} não tira nenhuma conclusão sobre o titular dos dados. Em vez disso, essas informações são necessárias para (1) fornecer o conteúdo do nosso site corretamente, (2) otimizar o conteúdo do nosso site, bem como seu anúncio, (3) garantir a viabilidade de longo prazo de nossos sistemas de tecnologia da informação e tecnologia do site , e (4) fornecer às autoridades policiais as informações necessárias para processos criminais em caso de ataque cibernético. Portanto, o {siteName} analisa estatisticamente os dados e informações coletados anonimamente, com o objetivo de aumentar a proteção e segurança de dados de nossa empresa e garantir um nível ideal de proteção para os dados pessoais que processamos. Os dados anônimos dos arquivos de log do servidor são armazenados separadamente de todos os dados pessoais fornecidos pelo titular dos dados.</p><h4 class=\"text-2xl\">Registro em nosso site</h4><p>Os dados o sujeito tem a possibilidade de se registrar no site do controlador com a indicação de dados pessoais. Quais dados pessoais são transmitidos ao controlador são determinados pela respectiva máscara de entrada usada para o registro. Os dados pessoais inseridos pelo titular dos dados são recolhidos e armazenados exclusivamente para uso interno do responsável pelo tratamento, e para os seus próprios fins. O controlador pode solicitar a transferência para um ou mais processadores (por exemplo, um serviço de encomendas) que também usa dados pessoais para uma finalidade interna atribuível ao controlador.</p><p>Ao se registrar no site do controlador, o endereço IP —atribuído pelo provedor de serviços de Internet (ISP) e usado pelo titular dos dados—data e hora do registro também são armazenados. O armazenamento desses dados ocorre no contexto de que esta é a única maneira de evitar o uso indevido de nossos serviços e, se necessário, possibilitar a investigação de infrações cometidas.Na medida em que, o armazenamento desses dados é necessário para proteger o controlador. Estes dados não são transmitidos a terceiros, exceto se existir obrigação legal de transmissão dos dados, ou se a transferência servir o objetivo de ação penal.</p><p>O registo do titular dos dados, com a indicação voluntária de dados pessoais, destina-se a permitir ao responsável pelo tratamento oferecer ao titular dos dados conteúdos ou serviços que só podem ser oferecidos a utilizadores registados devido à natureza da matéria em causa. As pessoas cadastradas são livres para alterar os dados pessoais especificados durante o registro a qualquer momento, ou excluí-los completamente do estoque de dados do controlador.</p><p>O controlador de dados deve, a qualquer momento, fornecer informações sobre solicitar a cada titular de dados quais dados pessoais são armazenados sobre o titular dos dados. Além disso, o responsável pelo tratamento deve corrigir ou apagar os dados pessoais a pedido ou indicação do titular dos dados, desde que não existam obrigações estatutárias de armazenamento. Todos os funcionários do controlador estão disponíveis para o titular dos dados a esse respeito como pessoas de contato.</p><p>O site do {siteName} contém informações que permitem um contato eletrônico rápido com nossa empresa, bem como comunicação direta conosco, que também inclui um endereço geral do chamado correio eletrônico (endereço de e-mail). Se um titular de dados entrar em contato com o controlador por e-mail ou por meio de um formulário de contato, os dados pessoais transmitidos pelo titular dos dados serão armazenados automaticamente. Esses dados pessoais transmitidos voluntariamente por um titular de dados ao controlador de dados são armazenados para fins de processamento ou contato com o titular dos dados. Não há transferência desses dados pessoais para terceiros.</p><h4 class=\"text-2xl\">Apagamento rotineiro e bloqueio de dados pessoais</h4><p>O controlador de dados deve processar e armazenar os dados pessoais do titular dos dados apenas pelo período necessário para atingir a finalidade de armazenamento, ou na medida em que isso seja concedido pelo legislador europeu ou outros legisladores em leis ou regulamentos aos quais o controlador está sujeito.</p><p >Se a finalidade de armazenamento não for aplicável, ou se um período de armazenamento prescrito pelo legislador europeu ou outro legislador competente expirar, os dados pessoais são rotineiramente bloqueados ou apagados de acordo com os requisitos legais.</p><h4 class=\"text-2xl\">Direitos do titular dos dados</h4><ul class=\"pl-8\"><li><h4 class=\"text-lg\">a) Direito de confirmação</h4><p>Cada titular dos dados terá o direito concedido pelo legislador europeu de obter do responsável pelo tratamento a confirmação se os dados pessoais que lhe digam respeito estão ou não a ser tratados. Se um titular de dados desejar valer-se deste direito de confirmação, ele ou ela pode, a qualquer momento, entrar em contato com qualquer funcionário do controlador.</p></li><li><h4 class=\"text-lg \">b) Direito de acesso</h4><p>Cada titular dos dados terá o direito concedido pelo legislador europeu de obter do controlador informações gratuitas sobre seus dados pessoais armazenados a qualquer momento e uma cópia dessas informações . Além disso, as diretivas e regulamentações europeias concedem ao titular dos dados acesso às seguintes informações: </p><ul class=\"pl-8 pb-6\"><li>as finalidades do processamento;</li>< li>as categorias de dados pessoais em questão;</li><li>os destinatários ou categorias de destinatários a quem os dados pessoais foram ou serão divulgados, em particular destinatários em países terceiros ou organizações internacionais;</li><li > sempre que possível, o período previsto de conservação dos dados pessoais, ou, caso não seja possível, os critérios utilizados para determinar esse prazo;</li><li> a existência do direito de solicitar ao responsável pelo tratamento a retificação ou apagamento dos dados pessoais dados, ou limitação do tratamento de dados pessoais relativos ao titular dos dados, ou oposição a tal tratamento;</li><li>a existência do direito de apresentar reclamação a uma autoridade de controlo;</li><li>quando o dados pessoais não são coletados do titular dos dados, qualquer informação disponível quanto à sua fonte;</li><li>o ex presença da tomada de decisão automatizada, incluindo a criação de perfis, referida no Artigo 22(1) e (4) do RGPD e, pelo menos nesses casos, informações significativas sobre a lógica envolvida, bem como o significado e as consequências previstas de tal processamento para o titular dos dados.</li></ul><p>Além disso, o titular dos dados terá o direito de obter informações sobre se os dados pessoais são transferidos para um país terceiro ou para uma organização internacional. Nesse caso, o titular dos dados terá o direito de ser informado sobre as garantias adequadas relativas à transferência.</p><p>Se um titular dos dados desejar valer-se desse direito de acesso, ele ou ela pode , a qualquer momento, entre em contato com qualquer funcionário do controlador.</p></li><li><h4 class=\"text-lg\">c) Direito de retificação</h4><p>Cada titular dos dados deve tem o direito concedido pelo legislador europeu de obter do responsável pelo tratamento, sem demora injustificada, a retificação dos dados pessoais inexatos que lhe digam respeito. Tendo em conta as finalidades do tratamento, o titular dos dados terá o direito de completar os dados pessoais incompletos, inclusive por meio de declaração complementar.</p><p>Caso o titular dos dados deseje exercer este direito de retificação, poderá, a qualquer momento, entrar em contato com qualquer funcionário do responsável pelo tratamento.</p></li> <li><h4 class=\"text-lg\">d) Direito ao apagamento (Direito a ser esquecido)</h4><p>Cada titular de dados terá o direito concedido por th O legislador europeu deve obter do responsável pelo tratamento o apagamento dos dados pessoais que lhe digam respeito sem demora injustificada, devendo o responsável pelo tratamento proceder ao apagamento dos dados pessoais sem demora injustificada sempre que se verifique um dos seguintes fundamentos, desde que o tratamento não seja necessário:</p><ul class=\"pl-8 pb-6\"><li>Os dados pessoais não são mais necessários em relação aos propósitos para os quais foram coletados ou processados.</li>< li>O titular dos dados retira o consentimento no qual o tratamento se baseia nos termos da alínea a) do n.º 1 do artigo 6.º do RGPD, ou da alínea a) do n.º 2 do artigo 9.º do RGPD, e quando não houver outra fundamento legal para o processamento.</li><li>O titular dos dados se opõe ao processamento de acordo com o Artigo 21(1) do GDPR e não há motivos legítimos prevalecentes para o processamento, ou o titular dos dados se opõe ao processamento de acordo com o Artigo 21.º, n.º 2, do RGPD.</li><li>Os dados pessoais foram tratados de forma ilícita.</li><li>Os dados pessoais devem ser apagados para cumprimento de uma obrigação legal na legislação da União ou do Estado-Membro a que o responsável pelo tratamento esteja sujeito.</li><li>Os dados pessoais foram recolhidos no âmbito da oferta de serviços da sociedade da informação referido no artigo 8.º, n.º 1, do RGPD.</li></ul><p>Se um dos motivos acima mencionados se aplicar e um titular dos dados desejar solicitar o apagamento dos dados pessoais armazenados pelo {siteName}, ele ou ela pode, a qualquer momento, entrar em contato com qualquer funcionário do controlador. Um funcionário de {siteName} deve garantir prontamente que a solicitação de exclusão seja atendida imediatamente.</p><p>Quando o controlador tornou os dados pessoais públicos e é obrigado de acordo com o Artigo 17(1) a apagar os dados pessoais, o controlador , levando em conta a tecnologia disponível e o custo de implementação, tomará medidas razoáveis, incluindo medidas técnicas, para informar outros controladores que processam os dados pessoais de que o titular dos dados solicitou a exclusão de quaisquer links para, ou cópia ou replicação de, esses dados pessoais, desde que o processamento não seja necessário. Um funcionário do {siteName} providenciará as medidas necessárias em casos individuais.</p></li><li><h4 class=\"text-lg\">e) Direito de restrição de processamento</h4> <p>Cada titular dos dados terá o direito concedido pelo legislador europeu de obter do controlador a restrição de processamento quando um dos seguintes se aplicar:</p><ul class=\"pl-8 pb-6\">< li>A exatidão dos dados pessoais é contestada pelo titular dos dados, durante um período que permita ao responsável pelo tratamento verificar a exatidão dos dados pessoais.</li><li>O tratamento é ilícito e o titular dos dados opõe-se ao apagamento dos dados pessoais dados e solicita, em vez disso, a restrição de seu uso.</li><li>O controlador não precisa mais dos dados pessoais para fins de processamento, mas eles são solicitados pelo titular dos dados para o estabelecimento, exercício ou defesa de reivindicações legais. </li><li>O titular dos dados se opôs ao tratamento nos termos do artigo 21.º, n.º 1, do RGPD, enquanto se aguarda a verificação da legitimidade Os argumentos do controlador prevalecem sobre os do titular dos dados.</li></ul><p>Se uma das condições acima mencionadas for atendida e um titular dos dados desejar solicitar a restrição do processamento de dados pessoais armazenados pelo { siteName}, ele ou ela pode, a qualquer momento, entrar em contato com qualquer funcionário do controlador. O funcionário do {siteName} providenciará a restrição do processamento.</p></li><li><h4 class=\"text-lg\">f) Direito à portabilidade de dados</h4><p >Cada titular de dados terá o direito concedido pelo legislador europeu, de receber os dados pessoais que lhe digam respeito, que foram fornecidos a um controlador, em um formato estruturado, de uso comum e legível por máquina. Ele ou ela terá o direito de transmitir esses dados a outro controlador sem impedimento do controlador a quem os dados pessoais foram fornecidos, desde que o processamento seja baseado no consentimento nos termos do artigo 6.º, n.º 1, alínea a), do do RGPD ou da alínea a) do n.º 2 do artigo 9.º do RGPD, ou de um contrato nos termos da alínea b) do n.º 1 do artigo 6.º do RGPD, e o tratamento for efetuado por meios automatizados, desde que o tratamento não é necessário para o desempenho de uma tarefa realizada no interesse público ou no exercício da autoridade oficial investida no controlador.</p><p>Além disso, no exercício do seu direito à portabilidade de dados nos termos do artigo 20(1) do RGPD, o titular dos dados terá o direito de que os dados pessoais sejam transmitidos diretamente de um controlador para outro, quando tecnicamente viável e quando isso não afetar adversamente os direitos e liberdades de terceiros.</p>< p>Para fazer valer o direito à portabilidade dos dados, o titular dos dados pode a qualquer momento entre em contato com qualquer funcionário do {siteName}.</p></li><li><h4 class=\"text-lg\">g) Direito de oposição</h4><p>Cada titular dos dados tem o direito conferido pelo legislador europeu de se opor, por motivos relacionados com a sua situação particular, a qualquer momento, ao tratamento dos dados pessoais que lhe digam respeito, o que se baseia nas alíneas e) ou f) do artigo 6(1) do RGPD. Isso também se aplica à criação de perfis com base nessas disposições.</p><p>O {siteName} não processará mais os dados pessoais em caso de objeção, a menos que possamos demonstrar motivos legítimos convincentes para o processamento que substituem os interesses, direitos e liberdades do titular dos dados, ou para o estabelecimento, exercício ou defesa de ações judiciais.</p><p>Se o {siteName} processar dados pessoais para fins de marketing direto, o titular dos dados terá o direito de se opor a qualquer momento ao processamento de dados pessoais relativos a ele ou ela para tal marketing. Isso se aplica à criação de perfis na medida em que esteja relacionada a esse marketing direto. Se o titular dos dados se opuser ao {siteName} ao processamento para fins de marketing direto, o {siteName} deixará de processar os dados pessoais para esses fins.</p><p>Além disso, o titular dos dados tem o direito, por motivos relacionados à sua situação particular, de se opor ao processamento de dados pessoais que lhe digam respeito pelo {siteName} para fins de pesquisa científica ou histórica, ou para fins estatísticos nos termos do artigo 89.º, n.º 1, do RGPD, exceto se o tratamento for necessário para o desempenho de uma tarefa realizada por motivos de interesse público.</p><p>Para exercer o direito de oposição, o titular dos dados pode contactar qualquer funcionário do {siteName}. Além disso, o titular dos dados é livre no contexto da utilização dos serviços da sociedade da informação e, sem prejuízo da Diretiva 2002/58/CE, de exercer o seu direito de oposição por meios automatizados utilizando especificações técnicas.</p></li> <li><h4 class=\"text-lg\">h) Tomada de decisão individual automatizada, incluindo criação de perfis </h4><p>Cada titular de dados terá o direito concedido pelo legislador europeu de não ser sujeito a uma decisão baseada exclusivamente no processamento automatizado, incluindo a definição de perfis, que produza efeitos jurídicos sobre ele ou ela, ou o afete significativamente de forma semelhante, desde que a decisão (1) não seja necessária para a celebração ou execução de um contrato entre o titular dos dados e um controlador de dados, ou (2) não está autorizado pela legislação da União ou do Estado-Membro a que o controlador está sujeito e que também estabelece medidas adequadas para salvaguardar os direitos e liberdades e interesses legítimos do titular dos dados, ou (3) não se baseia no c explícito do titular dos dados onsent.</p><p>Se a decisão (1) for necessária para celebrar ou executar um contrato entre o titular dos dados e um controlador de dados, ou (2) for baseada no consentimento explícito do titular dos dados, o {siteName} deve implementar as medidas adequadas para salvaguardar os direitos e liberdades e interesses legítimos do titular dos dados, pelo menos o direito de obter intervenção humana por parte do responsável pelo tratamento, para expressar o seu ponto de vista e contestar a decisão.</ p><p>Caso o titular dos dados pretenda exercer os direitos relativos à tomada de decisão individual automatizada, poderá, a qualquer momento, contactar qualquer funcionário do {siteName}.</p></li><li> <h4 class=\"text-lg\">i) Direito de retirar o consentimento de proteção de dados</h4><p>Cada titular de dados terá o direito concedido pelo legislador europeu de retirar seu consentimento para o processamento de seus seus dados pessoais a qualquer momento.</p><p>Caso o titular dos dados pretenda exercer o direito de retirar o consentimento, poderá, a qualquer momento, entre em contato com qualquer funcionário do {siteName}.</p></li></ul><h4 class=\"text-2xl\">Base legal para o processamento</h4><p>Art. 6(1) lit. um GDPR serve como base legal para operações de processamento para as quais obtemos consentimento para uma finalidade de processamento específica. Se o tratamento de dados pessoais for necessário para a execução de um contrato no qual o titular dos dados seja parte, como é o caso, por exemplo, quando as operações de tratamento são necessárias para o fornecimento de bens ou para a prestação de qualquer outro serviço, o tratamento é com base no Artigo 6(1) lit. b RGPD. O mesmo se aplica às operações de processamento necessárias para a execução de medidas pré-contratuais, por exemplo, no caso de consultas sobre nossos produtos ou serviços. A nossa empresa está sujeita a uma obrigação legal pela qual o tratamento de dados pessoais é necessário, tal como para o cumprimento de obrigações fiscais, o tratamento é baseado no Art. 6(1) lit. c GDPR.Em casos raros, o processamento de dados pessoais pode ser necessário para proteger os interesses vitais do titular dos dados ou de outra pessoa física. Este seria o caso, por exemplo, se um visitante fosse ferido em nossa empresa e seu nome, idade, dados do seguro de saúde ou outras informações vitais tivessem que ser repassados ​​a um médico, hospital ou outro terceiro. Então o processamento seria baseado no art. 6(1) lit. d RGPD. Por último, as operações de tratamento podem basear-se no artigo 6.º, n.º 1, lit. RGPD. Esta base legal é utilizada para operações de tratamento que não se enquadrem em nenhum dos fundamentos legais acima referidos, se o tratamento for necessário para efeito dos interesses legítimos prosseguidos pela nossa empresa ou por terceiros, exceto quando tais interesses se sobrepõem aos interesses ou direitos e liberdades fundamentais do titular dos dados que exijam proteção de dados pessoais. Tais operações de processamento são particularmente permitidas porque foram especificamente mencionadas pelo legislador europeu. Ele considerou que um interesse legítimo pode ser assumido se o titular dos dados for um cliente do controlador (Considerando 47 Frase 2 GDPR).</p><h4 class=\"text-2xl\">Os interesses legítimos perseguidos pelo controlador ou por um terceiro </h4><p>Quando o processamento de dados pessoais é baseado no Artigo 6(1) lit. f GDPR, nosso interesse legítimo é conduzir nossos negócios em prol do bem-estar de todos os nossos funcionários e acionistas.</p><h4 class=\"text-2xl\">Prazo durante o qual os dados pessoais serão armazenados</h4><p>O critério utilizado para determinar o período de conservação dos dados pessoais é o respetivo período legal de conservação. Após o término desse período, os dados correspondentes são excluídos rotineiramente, desde que não sejam mais necessários para o cumprimento do contrato ou o início de um contrato.</p><h4 class=\"text-2xl\"> Fornecimento de dados pessoais por exigência estatutária ou contratual; Requisito necessário para celebrar um contrato; Obrigação do titular dos dados de fornecer os dados pessoais; possíveis consequências do não fornecimento de tais dados</h4><p>Esclarecemos que o fornecimento de dados pessoais é parcialmente exigido por lei (por exemplo, regulamentos fiscais) ou também pode resultar de disposições contratuais (por exemplo, informações sobre o parceiro contratual). Às vezes pode ser necessário celebrar um contrato que o titular dos dados nos forneça dados pessoais, que posteriormente devem ser processados ​​por nós. O titular dos dados é, por exemplo, obrigado a fornecer-nos dados pessoais quando a nossa empresa celebra um contrato com ele. O não fornecimento dos dados pessoais teria como consequência a impossibilidade de celebração do contrato com o titular dos dados. Antes de os dados pessoais serem fornecidos pelo titular dos dados, o titular dos dados deve entrar em contato com qualquer funcionário. O funcionário esclarece ao titular dos dados se o fornecimento dos dados pessoais é exigido por lei ou contrato ou é necessário para a celebração do contrato, se existe uma obrigação de fornecer os dados pessoais e as consequências do não fornecimento dos dados pessoais dados.</p><h4 class=\"text-2xl\">Existência de tomada de decisão automatizada</h4><p>Como empresa responsável, não usamos tomada de decisão automática ou criação de perfil.</p >"
+    }
+  }
+}
