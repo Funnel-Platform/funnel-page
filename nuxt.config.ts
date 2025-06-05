@@ -34,7 +34,10 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ["@nuxtjs/i18n"],
+  modules: [
+    "@nuxtjs/i18n",
+    '@vesp/nuxt-fontawesome',
+  ],
 
 
   i18n: {

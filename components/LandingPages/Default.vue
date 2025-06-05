@@ -1,6 +1,6 @@
 <template>
 <div>
-    <logo-header
+    <LogoHeader
       :show-language-selector="false"
       :show-users-country="false"
     />

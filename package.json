@@ -11,11 +11,15 @@
   },
   "dependencies": {
     "@nuxtjs/i18n": "^9.5.5",
+    "@vesp/nuxt-fontawesome": "^1.2.1",
     "nuxt": "^3.13.0",
     "vue": "latest",
     "vue-router": "latest"
   },
   "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.7.2",
+    "@fortawesome/free-regular-svg-icons": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
     "sass": "^1.80.3",
