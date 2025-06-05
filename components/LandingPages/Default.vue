@@ -265,5 +265,25 @@
 </template>
 
 <script setup>
+const { locale, locales } = useI18n()
+const siteConfig = useSiteConfig()
+const siteName = siteConfig.siteName
+const siteDomain = siteConfig.siteDomain
 const localeJsonPath = 'pages.homepage'
+
+// Computed function for ctaLink
+const ctaLink = computed(() => {
+  let url = null;
+  if (siteName === 'Quendex') {
+    url = 'https://trckjn.com/o/j2ghs?lp=74?net=fx'
+  }
+
+  if (url) {
+    url = url + `&s1=${siteDomain}`
+      + `&s2=${siteName}&s3=community&t1=${locale.value}`
+    return url
+  }
+
+  return `/${locale.value}/register`
+})
 </script>

@@ -15,7 +15,6 @@ export const useGeo = async () => {
 
   // Fetch on client only
   if (process.client) {
-    console.log('%c fetch.. ', 'background:red;color:white;padding:5px;');
     const res = await fetch('/api/geo')
     const data = await res.json()
     geo.value = data

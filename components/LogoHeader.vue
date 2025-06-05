@@ -49,7 +49,8 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
-const siteName = useSiteName()
+const siteConfig = useSiteConfig()
+const siteName = siteConfig.siteName
 const { logoSrc, logoWidth } = useLogo()
 
 const showLanguageSelector = ref(true)
