@@ -88,7 +88,7 @@
               {{ $t(`${localeJsonPath}.steps`, { step }) }}
             </p>
             <div class="pt-8">
-              FORM CAPTURE TODO
+              <FormCapture @step="step=$event" />
             </div>
           </div>
           <div class="text-center hidden sm:block">
@@ -114,7 +114,7 @@
               <br>
               <div class="text-gray-600 text-center p-2 text-sm">
                 {{ $t(`${localeJsonPath}.right_column.content-alt-1`, {
-                  siteName: $siteName,
+                  siteName,
                 }) }}
                 <br>
               </div>
@@ -127,7 +127,7 @@
               </h5>
               <div class="container mx-auto py-10 text-gray-600 text-center font-light">
                 {{ $t(`${localeJsonPath}.right_column.sub-title-alt-2`, {
-                  siteName: $siteName,
+                  siteName,
                 }) }}
               </div>
               <div class="flex items-center justify-center">
@@ -136,7 +136,7 @@
               <br>
               <div class="text-gray-600 text-center p-2 text-sm">
                 {{ $t(`${localeJsonPath}.right_column.content-alt-2`, {
-                  siteName: $siteName,
+                  siteName,
                 }) }}
                 <br>
               </div>
@@ -147,7 +147,7 @@
               {{ $t(`${localeJsonPath}.steps`, { step }) }}
             </p>
             <div class="pt-8">
-              <form-capture @step="step=$event" />
+              <FormCapture @step="step=$event" />
             </div>
             <div class="flex items-center pt-4 sm:pt-10 justify-center">
               <img
@@ -170,15 +170,35 @@
 
 <script setup>
 import { ref } from 'vue'
+const route = useRoute()
+const { locale, locales } = useI18n()
 
 const siteConfig = useSiteConfig()
 const siteName = siteConfig.siteName
 const { logoSrc, logoWidth } = useLogo()
 
 const useAttentionBanner = ref(true)
+const step = ref(1)
+
+// Alt 2
+const alt2 = computed(() => {
+  return 'de' === locale && parseInt(route.query?.alt) === 2
+})
+
+// Alt Layout 1
+const altLayout1 = computed(() => {
+  return route.query.alt === '1' ? true : false
+})
+
+// Alt Layout 2
+const altLayout2 = computed(() => {
+  return route.query.alt === '2' ? true : false
+})
 
 const localeJsonPath = computed(() => {
-  // @TODO this was confusing logic from original code...?
+  if (alt2 && !altLayout2) {
+    return 'landing-pages.variant-a.alt-2'
+  }
   return 'landing-pages.variant-a'
 })
 </script>
