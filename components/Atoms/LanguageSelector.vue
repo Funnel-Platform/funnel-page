@@ -1,4 +1,5 @@
 <template>
+  <!-- @TODO update to Maz-UI -->
   <Select
     v-model="selectedLanguage"
     :options="languages"
