@@ -26,5 +26,4 @@ const handleLanguageChange = (lang) => {
 
   window.location.href = newPath;
 };
-
 </script>
