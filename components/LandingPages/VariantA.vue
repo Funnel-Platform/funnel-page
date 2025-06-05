@@ -225,7 +225,7 @@ const localeJsonPath = computed(() => {
   .vue-tel-input {
     @apply shadow-sm border-gray-300;
   }
-  button {
+  button#form-capture-submit {
     @apply normal-case text-lg font-medium bg-blue-600 hover:bg-blue-700 mt-4;
   }
 }

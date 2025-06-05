@@ -58,7 +58,7 @@ export default defineNuxtConfig({
   modules: [
     "@nuxtjs/i18n",
     '@vesp/nuxt-fontawesome',
-    '@primevue/nuxt-module',
+    'maz-ui/nuxt',
   ],
 
 
@@ -75,17 +75,6 @@ export default defineNuxtConfig({
     // },
     detectBrowserLanguage: {
       useCookie: false,
-    },
-  },
-
-  primevue: {
-    options: {
-      theme: {
-        preset: Aura,
-        options: {
-          darkModeSelector: false || 'none',
-        }
-      },
     },
   },
 });
