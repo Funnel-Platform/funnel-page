@@ -35,7 +35,7 @@
             v-if="showLanguageSelector"
             class="hidden lg:flex items-center"
           >
-            <language-selector />
+
           </div>
         </div>
       </div>
@@ -49,7 +49,7 @@ import { ref, onMounted } from 'vue'
 const geo = ref(null)
 
 onMounted(async () => {
-  const res = await fetch('/geo')
+  const res = await fetch('/api/geo')
   geo.value = await res.json()
 })
 </script>

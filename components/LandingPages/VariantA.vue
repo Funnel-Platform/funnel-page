@@ -1,20 +1,20 @@
 <template>
   <div>
+    <LogoHeader />
     <h1>Variant A</h1>
-    <div v-if="geo">
-      <p>Your IP: {{ geo.ip }}</p>
-      <p>Your Country: {{ geo.country }}</p>
-    </div>
+    <ClientOnly>
+      <div v-if="geo">
+        <p>Your IP: {{ geo.ip }}</p>
+        <p>Your Country: {{ geo.country }}</p>
+      </div>
+    </ClientOnly>
   </div>
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+let geo = ref(null)
 
-const geo = ref(null)
-
-onMounted(async () => {
-  const res = await fetch('/geo')
-  geo.value = await res.json()
-})
+if (process.client) {
+  geo = await useGeo()
+}
 </script>

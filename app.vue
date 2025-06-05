@@ -3,6 +3,7 @@
 </template>
 
 <script setup>
+await useGeo()
 const config = useRuntimeConfig();
 const SITE_NAME = config.public.siteName;
 
