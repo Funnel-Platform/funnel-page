@@ -1,9 +1,5 @@
 <template>
-  <div class="container text-center py-10">
-    <h1>Site name: {{ SITE_NAME }}</h1>
-    <h2>New Section on all sites</h2>
-    <Footer />
-  </div>
+  <NuxtPage />
 </template>
 
 <script setup>
