@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@nuxtjs/i18n": "^9.5.5",
+    "@primeuix/themes": "^1.1.1",
+    "@primevue/forms": "^4.3.5",
+    "@primevue/nuxt-module": "^4.3.5",
     "@vesp/nuxt-fontawesome": "^1.2.1",
     "nuxt": "^3.13.0",
     "vue": "latest",

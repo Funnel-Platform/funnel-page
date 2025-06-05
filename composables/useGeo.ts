@@ -5,15 +5,17 @@ export const useGeo = async () => {
 
   if (geo.value) return geo // Already in memory
 
-  // Check localStorage
+  const isLocal = process.client && ['localhost', '127.0.0.1'].includes(window.location.hostname)
+
   const stored = process.client ? localStorage.getItem('geo') : null
-  if (stored) {
+  if (stored && !isLocal) {
     geo.value = JSON.parse(stored)
     return geo
   }
 
   // Fetch on client only
   if (process.client) {
+    console.log('%c fetch.. ', 'background:red;color:white;padding:5px;');
     const res = await fetch('/api/geo')
     const data = await res.json()
     geo.value = data

@@ -85,7 +85,7 @@
           "name": "Stacey J",
           "location": "Frankfurt",
           "profit": 9126,
-          "text": "He estado trabajando en esto durante poco más de 30 días. ¡Finalmente tengo mi propia libertad financiera! ¡Gracias, {nombre del sitio}!"
+          "text": "He estado trabajando en esto durante poco más de 30 días. ¡Finalmente tengo mi propia libertad financiera! ¡Gracias, {siteName}!"
         },
         "3": {
           "image": "default3.jpg",

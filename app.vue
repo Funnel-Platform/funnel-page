@@ -4,10 +4,9 @@
 
 <script setup>
 await useGeo()
-const config = useRuntimeConfig();
-const SITE_NAME = config.public.siteName;
+const siteName = useSiteName()
 
 useSeoMeta({
-  title: `{SITE_NAME}`,
+  title: `${siteName}`,
 });
 </script>

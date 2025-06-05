@@ -1,4 +1,4 @@
-const fs = require('fs')
+import Aura from '@primeuix/themes/aura';
 
 /**
  * Import available languages from external file
@@ -37,6 +37,7 @@ export default defineNuxtConfig({
   modules: [
     "@nuxtjs/i18n",
     '@vesp/nuxt-fontawesome',
+    '@primevue/nuxt-module',
   ],
 
 
@@ -53,6 +54,14 @@ export default defineNuxtConfig({
     // },
     detectBrowserLanguage: {
       useCookie: false,
+    },
+  },
+
+  primevue: {
+    options: {
+      theme: {
+        preset: Aura
+      },
     },
   },
 });
