@@ -1,39 +1,17 @@
+/**
+ * This function runs on Cloudflare Workers in production.
+ * You can access this via `/geo` path
+ */
+import { flags } from '@/data/flags.js'
+import countryNames from '@/data/countryNames.json'
+
 export const onRequest: PagesFunction = async ({ request }) => {
   const headers = request.headers
   const country = headers.get("cf-ipcountry") || "unknown"
-  const countryName = headers.get("cf-ipcountry-name") || "unknown"
   const ip = headers.get("cf-connecting-ip") || "unknown"
-  const flags = [
-    'ar',
-    'at',
-    'au',
-    'be',
-    'br',
-    'ca',
-    'ch',
-    'cl',
-    'co',
-    'cr',
-    'cu',
-    'de',
-    'dk',
-    'es',
-    'fr',
-    'gb',
-    'gt',
-    'hn',
-    'it',
-    'mx',
-    'nl',
-    'pe',
-    'pl',
-    'py',
-    'se',
-    'uy',
-    'th',
-    'my',
-    'cz',
-  ]
+
+  const countryObj = countryNames.find((c) => c['alpha-2'] === country)
+  const countryName = countryObj ? countryObj.name : 'Unknown'
 
   return new Response(JSON.stringify({ country, countryName, ip, flags }), {
     headers: {
