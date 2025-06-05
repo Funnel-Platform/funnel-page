@@ -21,15 +21,12 @@
               />
               <ul class="text-lg md:text-2xl pb-8 leading-tight tracking-wide lg:font-extralight">
                 <li
-                  v-for="item in $t(`${localeJsonPath}.splash.list`)"
+                  v-for="item in $tm(`${localeJsonPath}.splash.list`)"
                   :key="item"
                   class="pb-2 flex items-center"
                 >
-                  <font-awesome-icon
-                    :icon="['fas', 'check']"
-                    class="text-yellow-500 mr-2"
-                  />
-                  <span v-html="item" />
+                  <i class="pi pi-check text-yellow-500 mr-2" />
+                  <span v-html="$rt(item)" />
                 </li>
               </ul>
               <a
@@ -86,16 +83,16 @@
           />
           <div class="md:grid grid-cols-3 gap-6 text-center py-6 w-60 md:w-auto mx-auto">
             <div
-              v-for="(item, key) in $t(`${localeJsonPath}.track-record.points`)"
+              v-for="(item, key) in $tm(`${localeJsonPath}.track-record.points`)"
               :key="key"
             >
               <img
                 class="w-16 mx-auto mb-2"
-                :src="`/img/home.v2/${item.icon}.svg`"
+                :src="`/img/home.v2/${$rt(item.icon)}.svg`"
               >
               <p
                 class="text-neutral-300"
-                v-html="item.text"
+                v-html="$rt(item.text)"
               />
             </div>
           </div>
@@ -118,22 +115,22 @@
             'sm:w-auto mx-auto'"
         >
           <div
-            v-for="(item, key) in $t(`${localeJsonPath}.global-footprint.points`)"
+            v-for="(item, key) in $tm(`${localeJsonPath}.global-footprint.points`)"
             :key="key"
             class="border border-dashed rounded-md border-neutral-300 mb-12 md:mb-0"
           >
             <div class="-mt-10 bg-white inline-block p-2">
               <img
                 class="w-16 mx-auto mb-2"
-                :src="`/img/home.v2/${item.icon}.svg`"
+                :src="`/img/home.v2/${$rt(item.icon)}.svg`"
               >
             </div>
             <div class="px-6">
               <p
                 class="text-4xl pb-0"
-                v-html="item.heading"
+                v-html="$rt(item.heading)"
               />
-              <p v-html="item.text" />
+              <p v-html="$rt(item.text)" />
             </div>
           </div>
         </div>
@@ -187,24 +184,24 @@
             'sm:w-auto mx-auto'"
         >
           <div
-            v-for="(item, key) in $t(`${localeJsonPath}.truth-never-lies.points`)"
+            v-for="(item, key) in $tm(`${localeJsonPath}.truth-never-lies.points`)"
             :key="key"
             class="border border-dashed rounded-md border-neutral-300 mb-12 md:h-44"
           >
             <div class="-mt-10 bg-white inline-block p-2">
               <img
                 class="w-16 mx-auto mb-2"
-                :src="`/img/home.v2/${item.icon}.svg`"
+                :src="`/img/home.v2/${$rt(item.icon)}.svg`"
               >
             </div>
             <div class="px-6">
               <p
                 class="text-2xl font-medium"
-                v-html="item.heading"
+                v-html="$rt(item.heading)"
               />
               <p
                 class="pb-6"
-                v-html="item.text"
+                v-html="$rt(item.text)"
               />
             </div>
             <a
@@ -232,20 +229,20 @@
           />
           <div class="lg:grid grid-cols-5 gap-6 text-center py-6 w-60 md:w-96 lg:w-auto mx-auto">
             <div
-              v-for="(item, key) in $t(`${localeJsonPath}.time-waits.points`)"
+              v-for="(item, key) in $tm(`${localeJsonPath}.time-waits.points`)"
               :key="key"
             >
               <img
                 class="w-16 mx-auto mb-2"
-                :src="`/img/home.v2/${item.icon}.svg`"
+                :src="`/img/home.v2/${$rt(item.icon)}.svg`"
               >
               <p
                 class="text-white text-lg font-medium pb-2"
-                v-html="item.heading"
+                v-html="$rt(item.heading)"
               />
               <p
                 class="text-neutral-300"
-                v-html="item.text"
+                v-html="$rt(item.text)"
               />
             </div>
           </div>

@@ -1,6 +1,6 @@
 const logoConfig: Record<string, { width: string }> = {
   'quendex': {
-    width: 'w-32',
+    width: 'w-20',
   },
 }
 

@@ -8,6 +8,10 @@ export default {
     "./app.vue",
     "./error.vue",
   ],
+  safelist: [
+    'w-20',
+    'w-32',
+  ],
   theme: {
     extend: {
       container: {

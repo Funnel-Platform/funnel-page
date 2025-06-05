@@ -16,6 +16,7 @@
     "@primevue/nuxt-module": "^4.3.5",
     "@vesp/nuxt-fontawesome": "^1.2.1",
     "nuxt": "^3.13.0",
+    "primeicons": "^7.0.0",
     "vue": "latest",
     "vue-router": "latest"
   },
