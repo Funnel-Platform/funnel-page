@@ -13,9 +13,11 @@ export const useGeo = async () => {
     return geo
   }
 
+  const url = isLocal ? '/api/geo' : '/geo'
+
   // Fetch on client only
   if (process.client) {
-    const res = await fetch('/api/geo')
+    const res = await fetch(url)
     const data = await res.json()
     geo.value = data
     localStorage.setItem('geo', JSON.stringify(data))
