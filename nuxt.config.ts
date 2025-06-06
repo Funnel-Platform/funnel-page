@@ -3,7 +3,7 @@ import Aura from '@primeuix/themes/aura';
 /**
  * Import available languages from external file
  */
-import { languages } from './data/languages';
+import languages from './public/data/languages.json';
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -74,7 +74,10 @@ export default defineNuxtConfig({
     //   messages: getLanguageFiles(),
     // },
     detectBrowserLanguage: {
-      useCookie: false,
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+      redirectOn: 'root',
+      fallbackLocale: 'en',
     },
   },
 });

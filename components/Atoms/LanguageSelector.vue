@@ -13,7 +13,7 @@
 <script setup>
 const { locale, locales } = useI18n()
 import { ref } from 'vue'
-import { languages } from './data/languages';
+import languages from './public/data/languages.json';
 
 const showLanguageSelector = ref(true);
 const selectedLanguage = ref(locale.value);

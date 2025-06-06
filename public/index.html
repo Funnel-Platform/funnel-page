@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script>
+    fetch('/data/languages.json')
+      .then(res => res.json())
+      .then(languages => {
+        const supported = languages.map(lang => lang.code);
+        const browserLang = navigator.language || navigator.userLanguage;
+        const matched = supported.find(code => browserLang.startsWith(code)) || 'en';
+        window.location.replace('/' + matched);
+      })
+      .catch(() => {
+        window.location.replace('/en'); // fallback if fetch fails
+      });
+  </script>
+  <title>Redirecting...</title>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>
