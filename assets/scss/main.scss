@@ -1,4 +1,4 @@
-@import 'primeicons/primeicons.css';
+@import "primeicons/primeicons.css";
 
 @tailwind base;
 @tailwind components;
@@ -6,4 +6,112 @@
 
 body {
   @apply bg-white text-gray-900;
+}
+
+label {
+  @apply text-gray-800 block pb-1;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply pb-3;
+}
+
+p {
+  @apply text-gray-600 pb-4;
+}
+
+.container {
+  @apply mx-auto px-6;
+}
+
+input {
+  &.error {
+    @apply border-red-500;
+  }
+}
+
+/**
+ * Button's
+ */
+.btn {
+  &.loading {
+    @apply relative;
+    color: transparent;
+    &:after {
+      content: "";
+      left: calc(50% - 0.75rem);
+      @apply absolute w-6 h-6 border-b-2 border-white rounded-full animate-spin;
+    }
+  }
+  &.btn-lg {
+    @apply py-6 px-8 text-2xl;
+  }
+  &.btn-green {
+    background: #349438;
+    &:hover {
+      background: #2d7430;
+    }
+  }
+}
+.t-button {
+  @apply bg-red-500 hover:bg-red-700 text-white font-bold py-3 px-4 w-full rounded uppercase drop-shadow-md focus:outline-none focus:ring focus:border-blue-300;
+}
+
+/**
+ * Table's
+ */
+table {
+  &.table {
+    td,
+    th {
+      @apply px-6 py-4 border-b;
+    }
+  }
+}
+
+/**
+ * Slide animation
+ */
+.slide-enter-active {
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in;
+}
+.slide-leave-active {
+  transition-duration: 0.3s;
+  transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+}
+.slide-enter-to,
+.slide-leave {
+  max-height: 100px;
+  overflow: hidden;
+}
+.slide-enter,
+.slide-leave-to {
+  overflow: hidden;
+  max-height: 0;
+}
+
+/**
+ * Slide animation
+ */
+.fade-enter-active {
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in;
+}
+.fade-leave-active {
+  transition-duration: 0.2s;
+  transition-timing-function: ease-out;
+}
+.fade-enter-to,
+.fade-leave {
+  opacity: 1;
+}
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
 }
