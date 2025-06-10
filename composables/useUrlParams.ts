@@ -1,3 +1,4 @@
+//TODO: Test that this works (updated for Nuxt 3)
 import { useRoute, useRouter, useCookie } from "#app";
 
 export const useUrlParams = () => {
@@ -10,7 +11,7 @@ export const useUrlParams = () => {
 
   // Whether to output debug messages
   const doDevOutput =
-    process.env.NODE_ENV === "development" || route.query.is_test === "true";
+    process.env.NODE_ENV === "development" || "is_test" in route.query;
 
   const handleUrlParams = () => {
     const urlParams = route.query;

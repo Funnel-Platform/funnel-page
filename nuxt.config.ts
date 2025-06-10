@@ -57,9 +57,17 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       siteName: process.env.NUXT_ENV_SITE_NAME || "Site Name",
+      siteDomain: process.env.NUXT_ENV_SITE_DOMAIN || "Site Name",
       apiCompleteLeadUrl:
         process.env.NUXT_ENV_API_COMPLETE_LEAD_URL ||
         "https://register-api.net/api/complete",
+      apiRegisterUrl:
+        process.env.NUXT_ENV_API_REGISTER_URL ||
+        "https://register-api.net/api/register",
+      apiPartialLeadUrl:
+        process.env.NUXT_ENV_API_PARTIAL_LEAD_URL ||
+        "https://register-api.net/api/partial",
+      nodeEnv: process.env.NODE_ENV || "development",
     },
   },
 
