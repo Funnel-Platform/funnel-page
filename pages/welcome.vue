@@ -2,9 +2,6 @@
   <div class="bg-gray-100 h-screen">
     <transition name="fade">
       <div v-show="displayPage">
-        <!-- Auto redirect welcome page (loading spinner) -->
-        <WelcomePages-AutoRedirect v-if="useAutoRedirectWelcomePage" />
-
         <!-- The received/after hours welcome page-->
         <WelcomePages-Received v-if="useReceivedWelcomePage" />
 
@@ -17,7 +14,7 @@
     </transition>
 
     <!-- Fire pixels for all pages -->
-    <WelcomePages-Pixels placement="welcome" />
+    <Pixels placement="welcome" />
   </div>
 </template>
 
