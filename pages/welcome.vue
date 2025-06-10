@@ -23,7 +23,6 @@ import { ref, onMounted, watch } from "vue";
 
 const route = useRoute();
 const displayPage = ref(false);
-const useAutoRedirectWelcomePage = ref(false);
 const useReceivedWelcomePage = ref(false);
 const siteConfig = useSiteConfig();
 const { faviconSrc } = useLogo();
@@ -41,13 +40,7 @@ useHead({
 });
 
 const atLoadEvents = () => {
-  shouldUseAutoRedirectWelcomePage();
   shouldUseReceivedWelcomePage();
-};
-
-const shouldUseAutoRedirectWelcomePage = () => {
-  useAutoRedirectWelcomePage.value = false;
-  //useAutoRedirectWelcomePage.value = route.query.action === 'automatic'
 };
 
 const shouldUseReceivedWelcomePage = () => {
