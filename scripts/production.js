@@ -20,14 +20,16 @@ function runBuild() {
   const envConfig = dotenv.config().parsed;
   const siteName = envConfig.NUXT_ENV_SITE_NAME || 'Unknown Site';
   const siteDomain = envConfig.NUXT_ENV_SITE_DOMAIN || 'Unknown Site';
+  const branchName = process.env.CF_PAGES_BRANCH || 'unknown-branch';
+
   const child = spawn('npm', ['run', 'generate'], { stdio: 'inherit' });
 
   child.on('exit', async (code) => {
     if (code === 0) {
-      await notifyTelegram(`✅ ${siteName} - build successful, changes are live!\nhttps://${siteDomain}`);
+      await notifyTelegram(`✅ ${siteName} - build successful (branch: ${branchName}), changes are live!\nhttps://${siteDomain}`);
       process.exit(0);
     } else {
-      await notifyTelegram(`❌ ${siteName} - build failure, please check logs`);
+      await notifyTelegram(`❌ ${siteName} - build failure (branch: ${branchName}), please check logs`);
       process.exit(1);
     }
   });
