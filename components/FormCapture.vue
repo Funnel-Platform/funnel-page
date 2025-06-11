@@ -308,49 +308,61 @@ const formSubmit = async () => {
     console.log("step two started");
     console.log(form.value);
 
-    //TODO: Uncomment and test with real API
     // Append any query params to form before POSTing
-    // appendQueryParamsToForm();
+    appendQueryParamsToForm();
 
-    // try {
-    //   const response = await fetch(apiRegisterUrl.value, {
-    //     method: 'POST',
-    //     headers: {
-    //       'Content-Type': 'application/json',
-    //     },
-    //     body: JSON.stringify(form.value)
-    //   })
+    try {
+      console.log("Submitting form");
 
-    //   const data = await response.json()
+      const response = await fetch(apiRegisterUrl.value, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(form.value),
+      });
 
-    //   if (!response.ok) {
-    //     throw { response: { data } }
-    //   }
+      console.log("Submitting form 2");
 
-    //   if (data?.status === 'received' || data?.status === 'success') {
-    //     await nextPage(data)
-    //   } else {
-    //     errors.value.generic = 'An error has occurred, please try again'
-    //     step.value = 1
-    //   }
-    // } catch (e) {
-    //   errors.value.generic = 'An error has occurred, please try again';
-    //   step.value = 1;
+      const data = await response.json();
 
-    //   if (e.response?.data) {
-    //     const formFields = ['first_name', 'last_name', 'email', 'phone_number'];
-    //     if (Object.keys(errors.value).filter(e => formFields.includes(e)).length) {
-    //       errors.value = e.response.data;
+      console.log(data);
 
-    //       const step2Fields = ['phone_number'];
-    //       if (Object.keys(errors.value).filter(e => step2Fields.includes(e)).length) {
-    //         step.value = 2;
-    //       }
-    //     }
-    //   }
-    // } finally {
-    //   loading.value = false
-    // }
+      if (!response.ok) {
+        throw { response: { data } };
+      }
+
+      console.log("Submitting form 3");
+
+      if (data?.status === "received" || data?.status === "success") {
+        await nextPage(data);
+      } else {
+        errors.value.generic = "An error has occurred, please try again";
+        step.value = 1;
+      }
+    } catch (e) {
+      errors.value.generic = "An error has occurred, please try again";
+      step.value = 1;
+
+      if (e.response?.data) {
+        const formFields = ["first_name", "last_name", "email", "phone_number"];
+        if (
+          Object.keys(errors.value).filter((e) => formFields.includes(e)).length
+        ) {
+          errors.value = e.response.data;
+
+          const step2Fields = ["phone_number"];
+          if (
+            Object.keys(errors.value).filter((e) => step2Fields.includes(e))
+              .length
+          ) {
+            step.value = 2;
+          }
+        }
+      }
+    } finally {
+      loading.value = false;
+    }
   }
 };
 </script>
