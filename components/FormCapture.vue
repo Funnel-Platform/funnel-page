@@ -298,22 +298,15 @@ const formSubmit = async () => {
 
   if (hasErrors.value) return false;
 
-  console.log("got passed validation");
-
   if (step.value === 1) {
     step.value = 2;
-    console.log("step one complete");
   } else if (step.value === 2) {
     loading.value = true;
-    console.log("step two started");
-    console.log(form.value);
 
     // Append any query params to form before POSTing
     appendQueryParamsToForm();
 
     try {
-      console.log("Submitting form");
-
       const response = await fetch(apiRegisterUrl.value, {
         method: "POST",
         headers: {
@@ -322,17 +315,11 @@ const formSubmit = async () => {
         body: JSON.stringify(form.value),
       });
 
-      console.log("Submitting form 2");
-
       const data = await response.json();
-
-      console.log(data);
 
       if (!response.ok) {
         throw { response: { data } };
       }
-
-      console.log("Submitting form 3");
 
       if (data?.status === "received" || data?.status === "success") {
         await nextPage(data);
