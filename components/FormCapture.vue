@@ -72,7 +72,7 @@
     <div v-else-if="step === 2">
       <MazPhoneNumberInput
         v-model="form.phone_number"
-        v-model:country-code="form.phone_dial_code"
+        v-model:country-code="form.country_code"
         show-code-on-list
         :preferred-countries="[
           'AT',
@@ -91,6 +91,7 @@
           'PT',
           'PL',
         ]"
+        @update="handleCountryCodeSelect(form.country_code)"
       />
     </div>
     <!-- End step 2-->
@@ -118,6 +119,7 @@
 import { ref, computed } from "vue";
 import { useRoute } from "vue-router";
 import { useI18n } from "vue-i18n";
+import dialCodes from "@/data/countryDialCodes.json";
 
 const config = useRuntimeConfig();
 const localeJsonPath = "components.form-capture";
@@ -222,14 +224,16 @@ const partialCapture = async (bypassRateLimiting = false) => {
 };
 
 /**
- * Upon change of phone area code
+ * Handle country code selection
  */
-//TODO: Get this working with MazPhoneNumberInput (previously setup with vue-tel-input)
-// const phoneAreaCodeSelect = ({ name, iso2, dialCode }) => {
-//   form.value.country_code = iso2;
-//   form.value.phone_dial_code = dialCode;
-//   partialCapture();
-// };
+const handleCountryCodeSelect = (countryCode) => {
+  // Find the dial code associated with the selected country code
+  const countryObj = dialCodes.find((item) => countryCode in item);
+  if (countryObj) {
+    form.value.phone_dial_code = countryObj[countryCode];
+  }
+  partialCapture();
+};
 
 /**
  * Email validation
