@@ -67,6 +67,9 @@ export default defineNuxtConfig({
       apiPartialLeadUrl:
         process.env.NUXT_ENV_API_PARTIAL_LEAD_URL ||
         "https://register-api.net/api/partial",
+      apiUpdateLeadUrl:
+        process.env.NUXT_ENV_API_UPDATE_LEAD_URL ||
+        "https://register-api.net/api/update",
       nodeEnv: process.env.NODE_ENV || "development",
       pixelHashC4: process.env.NUXT_ENV_PIXEL_HASH_C4 || "",
       pixelHashFX: process.env.NUXT_ENV_PIXEL_HASH_FX || "",
