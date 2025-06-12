@@ -6,7 +6,9 @@
       <div class="container bg-white py-8 sm:py-14 shadow-xl">
         <div class="sm:px-8 lg:w-8/12 mx-auto">
           <h1 class="text-red-700 text-3xl pb-0">
-            {{ $t(`${localeJsonPath}.title`, { siteName: $siteName }) }}
+            {{
+              $t(`${localeJsonPath}.title`, { siteName: siteConfig.siteName })
+            }}
           </h1>
           <hr class="my-4" />
           <p>

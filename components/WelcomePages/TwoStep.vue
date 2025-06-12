@@ -127,7 +127,9 @@ const { logoSrc, logoWidth } = useLogo();
 const { handleUrlParams } = useUrlParams();
 
 const route = useRoute();
+const config = useRuntimeConfig();
 const siteConfig = useSiteConfig();
+const i18n = useI18n();
 
 const siteName = siteConfig.siteName;
 
@@ -138,9 +140,7 @@ const aboveFoldCTA = ref(false);
 
 const autoLoginUrl = computed(() => route.query.url || "");
 const step = computed(() => parseInt(route.query.step) || 1);
-const apiCompleteLeadUrl = computed(
-  () => process.env.NUXT_ENV_API_COMPLETE_LEAD_URL
-);
+const apiCompleteLeadUrl = computed(() => config.public.apiCompleteLeadUrl);
 
 watch(
   () => route,
@@ -183,12 +183,11 @@ const popUnder = () => {
     },
   }).finally(() => {
     const params = route.query;
-    const i18n = useI18n();
 
     let redirect = `/${i18n.locale.value}/questions/`;
 
     // If bypass exists, bypass questions, straight to welcome step 2
-    if (params?.bypass) {
+    if ("bypass" in params) {
       redirect = `/${i18n.locale.value}/welcome/`;
       params.step = 2;
     }
