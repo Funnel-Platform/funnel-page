@@ -267,7 +267,7 @@
       </div>
     </main>
 
-    <footer-links
+    <FooterLinks
       :show-language-selector="false"
       :show-copyright="true"
       :v2="true"
