@@ -14,7 +14,7 @@
     </transition>
 
     <!-- Fire pixels for all pages -->
-    <Pixels placement="welcome" />
+    <!-- <Pixels placement="welcome" /> -->
   </div>
 </template>
 
