@@ -1,4 +1,3 @@
-//TODO: Test that this works (updated for Nuxt 3)
 import { useRoute, useRouter, useCookie } from "#app";
 
 export const useUrlParams = () => {
