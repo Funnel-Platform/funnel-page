@@ -124,7 +124,6 @@
 <script setup>
 import { ref, computed, onMounted, watch } from "vue";
 const { logoSrc, logoWidth } = useLogo();
-const { handleUrlParams } = useUrlParams();
 
 const route = useRoute();
 const config = useRuntimeConfig();
@@ -150,7 +149,6 @@ watch(
 );
 
 onMounted(() => {
-  handleUrlParams();
   shouldUseVariantALandingPage();
 
   // Campaign ID 69 uses 'above fold' CTA.
