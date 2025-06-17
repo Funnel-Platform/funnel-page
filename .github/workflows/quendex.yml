@@ -3,7 +3,7 @@ name: Quendex.io Production Release
 on:
   push:
     tags:
-      - 'site1-*'
+      - 'site-quendex-*'
 
 jobs:
   rebase-sites:
