@@ -24,6 +24,7 @@ const allowedParents = [
   "https://decompensa.com",
   "https://lighthearted-sundae-4c7be8.netlify.app",
   "https://bebbstudios.com",
+  "http://127.0.0.1:8080",
 ];
 
 let resizeObserver;
