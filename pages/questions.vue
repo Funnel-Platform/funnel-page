@@ -48,7 +48,6 @@
                 :style="{ width: `${progress}%` }"
               />
             </div>
-            <!-- TODO: convert to MazUI -->
             <form @submit.prevent="formSubmit">
               <fieldset v-if="question === 1" class="pt-8">
                 <label for="gender" class="font-bold text-lg">
