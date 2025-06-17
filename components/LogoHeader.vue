@@ -1,5 +1,5 @@
 <template>
-  <div style="background:#00062b;">
+  <div style="background: #00062b">
     <header class="container p-4">
       <div class="flex justify-between flex-row items-center">
         <a href="/">
@@ -8,7 +8,7 @@
             :class="logoWidth()"
             :src="logoSrc()"
             :alt="siteName"
-          >
+          />
         </a>
         <div class="flex pl-2">
           <ClientOnly>
@@ -20,23 +20,22 @@
                 <p
                   v-if="geo.country"
                   class="p-0 pr-4 text-blue-100 font-medium text-right whitespace-nowrap"
-                  v-html="$t(`${localeJsonPath}.available-to-traders`, {
-                    usersCountry: geo.countryName,
-                  })"
+                  v-html="
+                    $t(`${localeJsonPath}.available-to-traders`, {
+                      usersCountry: geo.countryName,
+                    })
+                  "
                 />
                 <img
                   v-if="geo.flags.includes(geo.country.toLowerCase())"
                   class="w-10"
                   :src="`/img/flags/${geo.country.toLowerCase()}.svg`"
                   :alt="`${geo.country} flag`"
-                >
+                />
               </div>
             </div>
           </ClientOnly>
-          <div
-            v-if="showLanguageSelector"
-            class="hidden lg:flex items-center"
-          >
+          <div v-if="showLanguageSelector" class="hidden lg:flex items-center">
             <div class="card flex justify-center">
               <AtomsLanguageSelector />
             </div>
@@ -48,19 +47,19 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
-const siteConfig = useSiteConfig()
-const siteName = siteConfig.siteName
-const { logoSrc, logoWidth } = useLogo()
+import { ref, onMounted } from "vue";
+const siteConfig = useSiteConfig();
+const siteName = siteConfig.siteName;
+const { logoSrc, logoWidth } = useLogo();
 
-const showLanguageSelector = ref(true)
-const showUsersCountry = ref(true)
+const showLanguageSelector = ref(true);
+const showUsersCountry = ref(true);
 
-let geo = ref(null)
-let flag = ref(null)
+let geo = ref(null);
+let flag = ref(null);
 if (process.client) {
-  geo = await useGeo()
+  geo = await useGeo();
 }
 
-const localeJsonPath = 'components.logo-header'
+const localeJsonPath = "components.logo-header";
 </script>

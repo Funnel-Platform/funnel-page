@@ -1,9 +1,9 @@
-import Aura from '@primeuix/themes/aura';
+import Aura from "@primeuix/themes/aura";
 
 /**
  * Import available languages from external file
  */
-import { languages } from './data/languages';
+import languages from "./public/data/languages.json";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -12,30 +12,42 @@ export default defineNuxtConfig({
   ssr: true,
 
   nitro: {
-    preset: 'static',
+    preset: "static",
     prerender: {
       crawlLinks: true,
       autoSubfolderIndex: false,
-    }
+    },
   },
 
   app: {
     head: {
       title: process.env.NUXT_ENV_SITE_NAME,
       htmlAttrs: {
-        lang: 'en',
+        lang: "en",
       },
       meta: [
-        { charset: 'utf-8' },
-        { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { hid: 'description', name: 'description', content: '' },
-        { name: 'format-detection', content: 'telephone=no' },
+        { charset: "utf-8" },
+        { name: "viewport", content: "width=device-width, initial-scale=1" },
+        { hid: "description", name: "description", content: "" },
+        { name: "format-detection", content: "telephone=no" },
       ],
       link: [
-        { hid: 'favicon', rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-        { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
-        { rel: 'preconnect', href: 'https://fonts.googleapis.com', crossorigin: "anonymous" },
-        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap' },
+        {
+          hid: "favicon",
+          rel: "icon",
+          type: "image/x-icon",
+          href: `/img/sites/${process.env.NUXT_ENV_SITE_NAME}/favicon.ico`,
+        },
+        { rel: "preconnect", href: "https://fonts.googleapis.com" },
+        {
+          rel: "preconnect",
+          href: "https://fonts.googleapis.com",
+          crossorigin: "anonymous",
+        },
+        {
+          rel: "stylesheet",
+          href: "https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap",
+        },
       ],
     },
   },
@@ -45,6 +57,22 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       siteName: process.env.NUXT_ENV_SITE_NAME || "Site Name",
+      siteDomain: process.env.NUXT_ENV_SITE_DOMAIN || "Site Name",
+      apiCompleteLeadUrl:
+        process.env.NUXT_ENV_API_COMPLETE_LEAD_URL ||
+        "https://register-api.net/api/complete",
+      apiRegisterUrl:
+        process.env.NUXT_ENV_API_REGISTER_URL ||
+        "https://register-api.net/api/register",
+      apiPartialLeadUrl:
+        process.env.NUXT_ENV_API_PARTIAL_LEAD_URL ||
+        "https://register-api.net/api/partial",
+      apiUpdateLeadUrl:
+        process.env.NUXT_ENV_API_UPDATE_LEAD_URL ||
+        "https://register-api.net/api/update",
+      nodeEnv: process.env.NODE_ENV || "development",
+      pixelHashC4: process.env.NUXT_ENV_PIXEL_HASH_C4 || "",
+      pixelHashFX: process.env.NUXT_ENV_PIXEL_HASH_FX || "",
     },
   },
 
@@ -55,17 +83,12 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: [
-    "@nuxtjs/i18n",
-    '@vesp/nuxt-fontawesome',
-    '@primevue/nuxt-module',
-  ],
-
+  modules: ["@nuxtjs/i18n", "@vesp/nuxt-fontawesome", "maz-ui/nuxt"],
 
   i18n: {
     locales: languages,
-    defaultLocale: 'en',
-    strategy: 'prefix',
+    defaultLocale: "en",
+    strategy: "prefix",
     compilation: {
       strictMessage: false,
     },
@@ -74,18 +97,10 @@ export default defineNuxtConfig({
     //   messages: getLanguageFiles(),
     // },
     detectBrowserLanguage: {
-      useCookie: false,
-    },
-  },
-
-  primevue: {
-    options: {
-      theme: {
-        preset: Aura,
-        options: {
-          darkModeSelector: false || 'none',
-        }
-      },
+      useCookie: true,
+      cookieKey: "i18n_redirected",
+      redirectOn: "root",
+      fallbackLocale: "en",
     },
   },
 });

@@ -9,19 +9,8 @@
 </template>
 
 <script setup>
-import { ref } from "vue";
 const route = useRoute();
-
-const show = computed(() => {
-  if (route.query?.rlogo) {
-    return parseInt(route.query.rlogo);
-  }
-  return false;
-});
-
-const classes = ref("");
-const src = ref("");
-const alt = ref("");
+const config = useRuntimeConfig();
 
 const logos = {
   guardian: {
@@ -146,8 +135,21 @@ const logos = {
   },
 };
 
+const src = ref("/img/landing-pages/variant-a/logo-right/forbes.svg");
+const alt = ref("Forbes logo");
+const classes = ref("w-20");
+
+const show = computed(() => {
+  if (route.query.rlogo) {
+    return parseInt(route.query.rlogo);
+  }
+  if (config.public.siteDomain === "bitcodeai.com") {
+    return true;
+  }
+  return false;
+});
+
 onMounted(() => {
-  // Does the query parameters include any keys that match our `logos` dataset?
   const logoInQuery = Object.keys(route.query).filter((v) =>
     Object.keys(logos).includes(v)
   );

@@ -1,12 +1,12 @@
 <template>
-  <div>
+  <ClientOnly>
     <LandingPages-VariantA
       v-if="useVariantA()"
     />
     <LandingPages-Default
       v-else
     />
-  </div>
+  </ClientOnly>
 </template>
 
 <script setup>
