@@ -27,16 +27,4 @@ const siteName = siteConfig.siteName;
 const siteDomain = siteConfig.siteDomain;
 
 const localeJsonPath = "pages.privacy";
-const { faviconSrc } = useLogo();
-
-useHead({
-  title: siteName,
-  link: [
-    {
-      rel: "icon",
-      type: "image/x-icon",
-      href: faviconSrc(),
-    },
-  ],
-});
 </script>

@@ -130,7 +130,7 @@ import { useI18n } from "vue-i18n";
 
 const route = useRoute();
 const config = useRuntimeConfig();
-const { logoSrc, logoWidth, faviconSrc } = useLogo();
+const { logoSrc, logoWidth } = useLogo();
 
 const usersCountry = ref({});
 
@@ -183,18 +183,6 @@ const investment = ref([
   { value: "investment:500-1,000 EUR", label: "500 - 1,000 EUR" },
   { value: "investment:1,000+ EUR", label: "1,000+ EUR" },
 ]);
-
-useHead({
-  title: config.public.siteName,
-  link: [
-    {
-      hid: "favicon",
-      rel: "icon",
-      type: "image/x-icon",
-      href: faviconSrc,
-    },
-  ],
-});
 
 const progress = computed(() => {
   return (question.value / 4) * 100;

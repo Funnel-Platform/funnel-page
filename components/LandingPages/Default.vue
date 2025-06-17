@@ -266,12 +266,7 @@
         </section>
       </div>
     </main>
-
-    <FooterLinks
-      :show-language-selector="false"
-      :show-copyright="true"
-      :v2="true"
-    />
+    <Footer />
   </div>
 </template>
 

@@ -25,19 +25,6 @@ const route = useRoute();
 const displayPage = ref(false);
 const useReceivedWelcomePage = ref(false);
 const siteConfig = useSiteConfig();
-const { faviconSrc } = useLogo();
-
-useHead({
-  title: siteConfig.siteName,
-  link: [
-    {
-      hid: "favicon",
-      rel: "icon",
-      type: "image/x-icon",
-      href: faviconSrc,
-    },
-  ],
-});
 
 const atLoadEvents = () => {
   shouldUseReceivedWelcomePage();

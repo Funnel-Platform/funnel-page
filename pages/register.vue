@@ -12,20 +12,8 @@
 </template>
 
 <script setup>
-const { faviconSrc } = useLogo();
 const siteConfig = useSiteConfig();
 const siteName = siteConfig.siteName;
-
-useHead({
-  title: siteName,
-  link: [
-    {
-      rel: "icon",
-      type: "image/x-icon",
-      href: faviconSrc(),
-    },
-  ],
-});
 </script>
 
 <style scoped lang="scss">

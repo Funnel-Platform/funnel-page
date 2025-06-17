@@ -16,20 +16,7 @@
 <script setup>
 import { ref } from "vue";
 
-const { logoSrc, logoWidth, faviconSrc } = useLogo();
 const localeJsonPath = ref("pages.cookie");
 const siteConfig = useSiteConfig();
 const siteName = siteConfig.siteName;
-
-// Update head metadata
-useHead({
-  title: siteName,
-  link: [
-    {
-      rel: "icon",
-      type: "image/x-icon",
-      href: faviconSrc(),
-    },
-  ],
-});
 </script>
