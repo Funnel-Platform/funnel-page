@@ -11,6 +11,12 @@ export default {
   safelist: [
     'w-20',
     'w-32',
+    'max-w-80',
+    'max-h-14',
+    'max-w-52',
+    'max-h-8',
+    'md:max-w-72',
+    'md:max-h-12',
   ],
   theme: {
     extend: {

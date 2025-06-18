@@ -36,7 +36,7 @@ export default defineNuxtConfig({
           hid: "favicon",
           rel: "icon",
           type: "image/x-icon",
-          href: `/img/sites/${process.env.NUXT_ENV_SITE_NAME}/favicon.ico`,
+          href: `/img/sites/${process.env.NUXT_ENV_SITE_NAME.toLowerCase().replace(/\s+/g, "-")}/favicon.ico`,
         },
         { rel: "preconnect", href: "https://fonts.googleapis.com" },
         {

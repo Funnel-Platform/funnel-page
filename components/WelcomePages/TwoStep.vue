@@ -7,7 +7,7 @@
     <LogoHeader v-if="!useVariantALandingPage" :showLanguageSelector="false" />
     <header v-else class="bg-black p-5 flex justify-between items-center">
       <img
-        class="select-none max-w-full sm:max-w-xs lg:max-w-none"
+        class="select-none"
         :class="logoWidth()"
         :src="logoSrc()"
         :alt="siteConfig.siteName"

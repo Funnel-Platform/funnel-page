@@ -1,20 +1,11 @@
-const logoConfig: Record<string, { width: string }> = {
-  quendex: {
-    width: "w-20",
-  },
-};
-
 export const useLogo = () => {
   const runtimeConfig = useRuntimeConfig();
 
   let SITE_NAME = runtimeConfig.public.siteName;
   SITE_NAME = SITE_NAME.toLowerCase().replace(/\s+/g, "-");
 
-  const config = logoConfig[SITE_NAME];
-
   return {
-    // logoSrc: () => config.src,
     logoSrc: () => `/img/sites/${SITE_NAME}/logo.png`,
-    logoWidth: () => config.width,
+    logoWidth: () => 'max-w-52 max-h-8 md:max-w-72 md:max-h-12',
   };
 };
