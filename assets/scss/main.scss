@@ -35,6 +35,15 @@ input {
   }
 }
 
+div.m-phone-number-input {
+  div.m-input.m-phone-input {
+    @apply w-full min-w-0 flex-1;
+    div.m-input-wrapper {
+      @apply w-full;
+    }
+  }
+}
+
 /**
  * Button's
  */

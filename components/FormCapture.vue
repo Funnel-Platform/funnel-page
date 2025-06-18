@@ -75,6 +75,7 @@
       <MazPhoneNumberInput
         v-model="form.phone_number"
         v-model:country-code="form.country_code"
+        class="w-full"
         show-code-on-list
         :preferred-countries="[
           'AT',
