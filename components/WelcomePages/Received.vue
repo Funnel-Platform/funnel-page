@@ -1,6 +1,6 @@
 <template>
   <div>
-    <LogoHeader :show-language-selector="false" />
+    <LogoHeader :showLanguageSelector="false" />
 
     <div class="bg-gray-100 pb-14">
       <div class="container bg-white py-8 sm:py-14 shadow-xl">

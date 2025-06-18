@@ -1,6 +1,6 @@
 <template>
   <div>
-    <LogoHeader :show-language-selector="false" :show-users-country="false" />
+    <LogoHeader :show-users-country="false" />
     <main class="font-light">
       <!-- Splash -->
       <div

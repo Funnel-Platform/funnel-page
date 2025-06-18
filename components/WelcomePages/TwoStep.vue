@@ -4,10 +4,7 @@
       'variant-a': useVariantALandingPage,
     }"
   >
-    <LogoHeader
-      v-if="!useVariantALandingPage"
-      :show-language-selector="false"
-    />
+    <LogoHeader v-if="!useVariantALandingPage" :showLanguageSelector="false" />
     <header v-else class="bg-black p-5 flex justify-between items-center">
       <img
         class="select-none max-w-full sm:max-w-xs lg:max-w-none"
@@ -21,7 +18,7 @@
     <div class="bg-gray-100 pb-14">
       <div class="container bg-white py-8 sm:py-14 shadow-xl">
         <div class="sm:px-8 lg:w-8/12 mx-auto">
-          <div v-if="step === 1" class="sm:pb-64 pb-36 text-center">
+          <div v-if="step === 1" class="sm:pb-64 pb-36">
             <h1
               class="text-red-700 text-3xl pb-0"
               v-html="

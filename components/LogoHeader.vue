@@ -48,11 +48,18 @@
 
 <script setup>
 import { ref, onMounted } from "vue";
+
+const props = defineProps({
+  showLanguageSelector: {
+    type: Boolean,
+    default: true,
+  },
+});
+
 const siteConfig = useSiteConfig();
 const siteName = siteConfig.siteName;
 const { logoSrc, logoWidth } = useLogo();
 
-const showLanguageSelector = ref(true);
 const showUsersCountry = ref(true);
 
 let geo = ref(null);
