@@ -44,7 +44,7 @@
             </button>
           </div>
 
-          <div v-else-if="step === 2">
+          <div v-else-if="step === 2" class="text-left">
             <h1
               class="text-red-700 text-3xl pb-0"
               v-html="
