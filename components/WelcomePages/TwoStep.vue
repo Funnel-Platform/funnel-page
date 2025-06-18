@@ -159,8 +159,6 @@ onMounted(() => {
 
 const shouldUseVariantALandingPage = () => {
   useVariantALandingPage.value = route.query.variant === "a";
-  // TODO once we have the domain to use
-  // useVariantALandingPage.value = siteDomain === 'THE_NEW_DOMAIN'
 };
 
 const goToUrl = (url) => {
