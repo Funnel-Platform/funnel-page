@@ -245,6 +245,11 @@ const formSubmit = async () => {
     ...(route.query.net && { net: route.query.net }),
   };
 
+  // If `?is_test` exists in URL, use test domain for test fulfilment
+  if ("is_test" in route.query) {
+    payload.domain = "test";
+  }
+
   if (!payload.lead_id) {
     loading.value = false;
     return;
