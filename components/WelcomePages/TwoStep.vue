@@ -18,7 +18,12 @@
     <div class="bg-gray-100 pb-14">
       <div class="container bg-white py-8 sm:py-14 shadow-xl">
         <div class="sm:px-8 lg:w-8/12 mx-auto">
-          <div v-if="step === 1" class="sm:pb-64 pb-36 text-center">
+          <div
+            v-if="step === 1"
+            :class="`sm:pb-64 pb-36 ${
+              step === 1 ? 'text-center' : 'text-left'
+            }`"
+          >
             <h1
               class="text-red-700 text-3xl pb-0"
               v-html="
