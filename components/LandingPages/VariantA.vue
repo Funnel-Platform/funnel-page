@@ -13,8 +13,8 @@
     </header>
 
     <div class="container mx-auto py-10 text-gray-600 font-light">
-      <div class="grid sm:grid-cols-2 gap-8 sm:gap-12 md:py-20 lg:p-12">
-        <div id="left-col" class="sm:pb-8 sm:pr-8 lg:p-10">
+      <div class="grid md:grid-cols-2 gap-8 md:gap-12 md:py-20 lg:p-12">
+        <div id="left-col" class="md:pb-8 md:pr-8 lg:p-10">
           <h5 class="font-bold text-2xl">
             {{ $t(`${localeJsonPath}.create-account`) }}
           </h5>
@@ -29,7 +29,7 @@
               {{ $t(`${localeJsonPath}.points.p-3`) }}
             </p>
           </div>
-          <ul v-else-if="altLayout1" class="list-disc ml-4 pt-3 sm:pb-7">
+          <ul v-else-if="altLayout1" class="list-disc ml-4 pt-3 md:pb-7">
             <li class="pb-1">
               {{ $t(`${localeJsonPath}.points.p-1-alt-1`) }}
             </li>
@@ -40,7 +40,7 @@
               {{ $t(`${localeJsonPath}.points.p-3-alt-1`) }}
             </li>
           </ul>
-          <ul v-else-if="altLayout2" class="list-disc ml-4 pt-3 sm:pb-7">
+          <ul v-else-if="altLayout2" class="list-disc ml-4 pt-3 md:pb-7">
             <li class="pb-1">
               {{ $t(`${localeJsonPath}.points.p-1-alt-2`) }}
             </li>
@@ -51,7 +51,7 @@
               {{ $t(`${localeJsonPath}.points.p-3-alt-2`) }}
             </li>
           </ul>
-          <ul v-else class="list-disc ml-4 pt-3 sm:pb-7">
+          <ul v-else class="list-disc ml-4 pt-3 md:pb-7">
             <li class="pb-1">
               {{ $t(`${localeJsonPath}.points.p-1`) }}
             </li>
@@ -70,7 +70,7 @@
               <FormCapture @step="step = $event" />
             </div>
           </div>
-          <div class="text-center hidden sm:block">
+          <div class="text-center hidden md:block">
             <img
               class="w-28 inline-block mr-14"
               src="/img/landing-pages/variant-a/forbes-verified.png"
@@ -138,7 +138,7 @@
             <div class="pt-8">
               <FormCapture @step="step = $event" />
             </div>
-            <div class="flex items-center pt-4 sm:pt-10 justify-center">
+            <div class="flex items-center pt-4 md:pt-10 justify-center">
               <img src="/img/landing-pages/variant-a/norton.png" alt="Norton" />
               <img
                 class="ml-4 w-12"
@@ -196,7 +196,7 @@ const localeJsonPath = computed(() => {
 
 #left-col {
   box-shadow: none;
-  @screen sm {
+  @screen md {
     box-shadow: rgba(black, 0.5) 23px 0px 25px -35px;
   }
 }
