@@ -79,7 +79,7 @@
                   class="pt-2 max-w-sm"
                   v-model="form.age"
                   :options="ages"
-                  orientation="col | row"
+                  orientation="row"
                   :disabled="loading"
                   @update:model-value="questionAnswered(2)"
                 />

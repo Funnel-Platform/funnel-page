@@ -61,6 +61,15 @@ input {
 .t-button {
   @apply bg-red-500 hover:bg-red-700 text-white font-bold py-3 px-4 w-full rounded uppercase drop-shadow-md focus:outline-none focus:ring focus:border-blue-300;
 }
+.m-radio-buttons {
+  @apply flex !w-full;
+}
+.m-radio-buttons__items {
+  @apply border-2 !w-full !border-gray-300 !bg-gray-100 hover:!bg-gray-200;
+}
+#age .m-radio-buttons__wrapper {
+  @apply static !grid !grid-cols-2;
+}
 
 /**
  * Table's
