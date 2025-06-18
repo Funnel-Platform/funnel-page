@@ -18,12 +18,7 @@
     <div class="bg-gray-100 pb-14">
       <div class="container bg-white py-8 sm:py-14 shadow-xl">
         <div class="sm:px-8 lg:w-8/12 mx-auto">
-          <div
-            v-if="step === 1"
-            :class="`sm:pb-64 pb-36 ${
-              step === 1 ? 'text-center' : 'text-left'
-            }`"
-          >
+          <div v-if="step === 1" class="sm:pb-64 pb-36 text-center">
             <h1
               class="text-red-700 text-3xl pb-0"
               v-html="
@@ -138,9 +133,9 @@ const localeJsonPath = "pages.welcome";
 const localeJsonPathTwoStep = "pages.welcome_two_step";
 const useVariantALandingPage = ref(false);
 const aboveFoldCTA = ref(false);
+const step = ref(1);
 
 const autoLoginUrl = computed(() => route.query.url || "");
-const step = computed(() => parseInt(route.query.step) || 1);
 const apiCompleteLeadUrl = computed(() => config.public.apiCompleteLeadUrl);
 
 watch(
@@ -152,6 +147,9 @@ watch(
 
 onMounted(() => {
   shouldUseVariantALandingPage();
+
+  // Set step from route query
+  step.value = parseInt(route.query.step) || 1;
 
   // Campaign ID 69 uses 'above fold' CTA.
   if (route.query?.campaign_id && parseInt(route.query.campaign_id) === 69) {
