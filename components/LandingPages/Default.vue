@@ -281,7 +281,9 @@ const localeJsonPath = "pages.homepage";
 const ctaLink = computed(() => {
   let url = null;
   if (siteName === "Quendex") {
-    url = "https://trckjn.com/o/j2ghs?lp=74?net=fx";
+    url = "https://trckjn.com/o/j2ghs?lp=74&net=fx";
+  } else if (siteName === 'Bitcoin Centrix') {
+    url = "https://trckjoin.com/o/9hf8y?lp=77";
   }
 
   if (url) {
