@@ -35,18 +35,26 @@ jobs:
 
             cd /tmp/$NAME
 
+            if [ -z "$(ls -A)" ]; then
+              echo "⚠️ Repo is empty. Creating initial commit..."
+              git checkout -b main
+            else
+              echo "✅ Repo has content. Checking out main..."
+              git checkout main || git checkout -b main
+            fi
+
             # Remove all except .git
             find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
 
             # Copy in files from master repo
             cp -r $GITHUB_WORKSPACE/* .
-            cp -r $GITHUB_WORKSPACE/.* . 2>/dev/null || true  # Copy dotfiles, skip errors
+            cp -r $GITHUB_WORKSPACE/.* . 2>/dev/null || true
 
             git config user.name "GitHub Actions"
             git config user.email "actions@github.com"
 
             git add .
-            git commit -m "🔄 Sync from master repo - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+            git commit -m "🔄 Initial sync from master repo - $(date +'%Y-%m-%d %H:%M:%S')" || echo "⚠️ Nothing to commit"
 
-            git push origin main
+            git push -u origin main
           done
