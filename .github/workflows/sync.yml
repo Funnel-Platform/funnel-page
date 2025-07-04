@@ -1,0 +1,52 @@
+name: Sync to Child Repos
+
+on:
+  push:
+    tags:
+      - 'sync-*'
+
+jobs:
+  sync-sites:
+    runs-on: ubuntu-latest
+
+    env:
+      CHILD_REPOS: |
+        site-one=https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Funnel-Platform/bitcoin-matrix-vip.git
+
+    steps:
+      - name: Checkout master repo
+        uses: actions/checkout@v4
+
+      - name: Install Git
+        run: sudo apt-get install -y git
+
+      - name: Sync to child repos
+        run: |
+          set -e
+
+          for ENTRY in $CHILD_REPOS; do
+            NAME=$(echo $ENTRY | cut -d= -f1)
+            REPO_URL=$(echo $ENTRY | cut -d= -f2-)
+
+            echo "🔁 Syncing to $NAME..."
+
+            rm -rf /tmp/$NAME
+            git clone --depth=1 $REPO_URL /tmp/$NAME
+
+            cd /tmp/$NAME
+
+            # Remove all except .git
+            find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
+
+            # Copy in files from master repo
+            cp -r $GITHUB_WORKSPACE/* .
+            cp -r $GITHUB_WORKSPACE/.* . 2>/dev/null || true  # Copy dotfiles, skip errors
+
+            git config user.name "GitHub Actions"
+            git config user.email "actions@github.com"
+
+            git add .
+            git commit -m "🔄 Sync from master repo - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+
+            git push origin main
+          done
