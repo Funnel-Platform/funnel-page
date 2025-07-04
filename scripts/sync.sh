@@ -20,34 +20,43 @@ MASTER_REPO_PATH="$(pwd)"  # path to master repo files
 
 for ENTRY in "${CHILD_REPOS[@]}"; do
   NAME="${ENTRY%%=*}"
-  REPO_URL="${ENTRY#*=}"
+  CHILD_REPO_URL="${ENTRY#*=}"
 
   echo "🔁 Syncing to $NAME..."
 
-  TARGET_DIR="/tmp/$NAME"
-  rm -rf "$TARGET_DIR"
-  git clone --depth=1 "$REPO_URL" "$TARGET_DIR" || true
+  CHILD_TEMP_DIR="./tmp/$NAME"
+  rm -rf "$CHILD_TEMP_DIR"
+  mkdir -p "$CHILD_TEMP_DIR"
 
-  cd "$TARGET_DIR" || exit
+  git clone --depth=1 "$CHILD_REPO_URL" "$CHILD_TEMP_DIR" || { echo "Clone failed"; exit 1; }
+  cd "$CHILD_TEMP_DIR"
 
-  # Switch/create main branch as needed
-  if [ ! -f .git/HEAD ] || [ -z "$(git rev-parse --branches)" ]; then
-    git checkout --orphan main
-  else
-    git fetch origin
-    git checkout main || git checkout -b main
-  fi
+  echo "Current dir: $(pwd)"
+  echo "Contents:"
+  ls -la
+
+  git remote set-url origin "$CHILD_REPO_URL"
+  git remote set-url --push origin "$CHILD_REPO_URL"
+
+  git fetch origin main
 
   # Remove all files except .git
   find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
 
   # Copy master repo files into child repo directory
-  cp -r "$MASTER_REPO_PATH"/* .
-  cp -r "$MASTER_REPO_PATH"/.* . 2>/dev/null || true
+  rsync -av --delete \
+    --exclude 'tmp' \
+    --exclude 'node_modules' \
+    --exclude '.nuxt' \
+    --exclude '.output' \
+    --exclude '.git' \
+    --exclude '.github' \
+    "$MASTER_REPO_PATH"/ ./
 
   git config user.name "Sync Script"
   git config user.email "you@example.com"
 
+  git config http.postBuffer 524288000
   git add .
 
   if git diff --cached --quiet; then
@@ -56,7 +65,7 @@ for ENTRY in "${CHILD_REPOS[@]}"; do
     git commit -m "🔄 Sync from master repo - $(date +'%Y-%m-%d %H:%M:%S')"
   fi
 
-  git push --set-upstream origin main
+  git push --force-with-lease origin main
 
   echo "✅ Synced $NAME successfully!"
 done
