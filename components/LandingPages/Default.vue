@@ -282,8 +282,10 @@ const ctaLink = computed(() => {
   let url = null;
   if (siteName === "Quendex") {
     url = "https://trckjn.com/o/j2ghs?lp=74&net=fx";
-  } else if (siteName === 'Bitcoin Centrix') {
+  } else if (siteName === "Bitcoin Centrix") {
     url = "https://trckjoin.com/o/9hf8y?lp=77";
+  } else if (siteName === "Bitcoin Prism") {
+    url = "https://clickrdir.com/o/vby1o?lp=321";
   }
 
   if (url) {
