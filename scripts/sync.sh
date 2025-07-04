@@ -18,6 +18,7 @@ FILTER_REPO_NAME="$1"
 # Define child repos as NAME=URL pairs
 CHILD_REPOS=(
   "bitcoin-matrix-vip=https://x-access-token:${GH_TOKEN}@github.com/Funnel-Platform/bitcoin-matrix-vip.git"
+  "bitcoinprism-tech=https://x-access-token:${GH_TOKEN}@github.com/Funnel-Platform/bitcoinprism-tech.git"
 )
 
 MASTER_REPO_PATH="$(pwd)"  # path to master repo files
