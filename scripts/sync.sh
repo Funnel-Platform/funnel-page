@@ -13,7 +13,7 @@ fi
 
 # Optional filter for a single child repo
 # Usage: `npm run sync -- CHILD_REPO_NAME`
-FILTER_REPO_NAME="${1#--}"  # Remove leading double dash if present
+FILTER_REPO_NAME="$1"
 
 # Define child repos as NAME=URL pairs
 CHILD_REPOS=(
