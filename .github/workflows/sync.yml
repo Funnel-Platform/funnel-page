@@ -35,9 +35,9 @@ jobs:
 
             cd /tmp/$NAME
 
-            # Is the repo empty?
-            if [ -z "$(ls -A)" ]; then
-              echo "⚠️ Repo is empty. Creating initial commit..."
+            # If no .git/HEAD or no refs, repo is empty
+            if [ ! -f .git/HEAD ] || [ -z "$(git rev-parse --branches)" ]; then
+              echo "⚠️ Repo is empty. Creating orphan main branch..."
               git checkout --orphan main
             else
               echo "✅ Repo has content."
@@ -48,7 +48,7 @@ jobs:
             # Remove all files except .git
             find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
 
-            # Copy files from master repo
+            # Copy in all files from master repo
             cp -r $GITHUB_WORKSPACE/* .
             cp -r $GITHUB_WORKSPACE/.* . 2>/dev/null || true
 
@@ -56,8 +56,14 @@ jobs:
             git config user.email "actions@github.com"
 
             git add .
-            git commit -m "🔄 Sync from master repo - $(date +'%Y-%m-%d %H:%M:%S')" || echo "⚠️ Nothing to commit"
 
-            # Force push main branch (create it on remote if it doesn't exist)
-            git push -u origin main || git push --set-upstream origin main
+            # Commit only if there are changes (forces a commit if orphan)
+            if git diff --cached --quiet; then
+              echo "⚠️ Nothing to commit"
+            else
+              git commit -m "🔄 Initial sync from master repo - $(date +'%Y-%m-%d %H:%M:%S')"
+            fi
+
+            # Push the main branch (even if it's the first commit ever)
+            git push --set-upstream origin main
           done
