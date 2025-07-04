@@ -69,6 +69,7 @@ for ENTRY in "${CHILD_REPOS[@]}"; do
 
   echo "✅ Synced $NAME successfully!"
 
-  rm -rf "$CHILD_TEMP_DIR"
+  cd "../../" # Go back to the master repo directory
+  rm -rf "./tmp" # Clean up temporary directory
   echo "Cleaned up temporary directory for $NAME."
 done
