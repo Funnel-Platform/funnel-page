@@ -8,7 +8,8 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "prod": "node scripts/production.js"
+    "prod": "node scripts/production.js",
+    "sync": "scripts/sync.sh"
   },
   "dependencies": {
     "@nuxtjs/i18n": "^9.5.5",
