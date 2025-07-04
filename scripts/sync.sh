@@ -11,6 +11,10 @@ if [ -z "$GH_TOKEN" ]; then
   exit 1
 fi
 
+# Optional filter for a single child repo
+# Usage: `npm run sync -- CHILD_REPO_NAME`
+FILTER_REPO_NAME="$1"
+
 # Define child repos as NAME=URL pairs
 CHILD_REPOS=(
   "bitcoin-matrix-vip=https://x-access-token:${GH_TOKEN}@github.com/Funnel-Platform/bitcoin-matrix-vip.git"
@@ -21,6 +25,11 @@ MASTER_REPO_PATH="$(pwd)"  # path to master repo files
 for ENTRY in "${CHILD_REPOS[@]}"; do
   NAME="${ENTRY%%=*}"
   CHILD_REPO_URL="${ENTRY#*=}"
+
+  # Skip if filter is set and this repo doesn't match
+  if [[ -n "$FILTER_REPO_NAME" && "$NAME" != "$FILTER_REPO_NAME" ]]; then
+    continue
+  fi
 
   echo "🔁 Syncing to $NAME..."
 
@@ -73,3 +82,5 @@ for ENTRY in "${CHILD_REPOS[@]}"; do
   rm -rf "./tmp" # Clean up temporary directory
   echo "Cleaned up temporary directory for $NAME."
 done
+
+echo "✅ Completed syncing!"
