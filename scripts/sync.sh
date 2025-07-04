@@ -68,4 +68,7 @@ for ENTRY in "${CHILD_REPOS[@]}"; do
   git push --force-with-lease origin main
 
   echo "✅ Synced $NAME successfully!"
+
+  rm -rf "$CHILD_TEMP_DIR"
+  echo "Cleaned up temporary directory for $NAME."
 done
